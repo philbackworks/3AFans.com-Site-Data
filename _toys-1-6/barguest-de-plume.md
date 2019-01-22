@@ -22,9 +22,10 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Nom Deplume
+  -  Nom De Plume
   -  Marquis De Plume
   -  Sombre De Plume
+  -  Nom De Plume Final Fight  
 article_contributors: [Phil Back, foreignparticle]
 toy_pics:
   -  barguest-de-plume-01-6.jpg

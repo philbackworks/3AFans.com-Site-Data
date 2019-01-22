@@ -3,7 +3,7 @@ toy_id: blind-cowboy
 toy_name: Blind Cowboy
 permalink: /toys-1-6/blind-cowboy.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Male
 layout: layout-toy-detail
 categories: [onesixth, superset]
