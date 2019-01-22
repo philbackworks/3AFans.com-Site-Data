@@ -31,8 +31,9 @@ variants:
 you_might_also_like:
   - Ankou Johan
   - Ankou Asclepius
-  
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, luciferbeck]
+toy_pics:
+  -  ankou-newandria-police-01-6.jpg
 backstory:
 ---
 The adventure Kartel is recruiting!

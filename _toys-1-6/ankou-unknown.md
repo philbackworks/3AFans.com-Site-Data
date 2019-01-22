@@ -31,7 +31,9 @@ variants:
 you_might_also_like:
   - Ankou Johan
   - Ankou Asclepius
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
+toy_pics:
+  -  ankou-unknown-01-6.jpg
 backstory:
 ---
 The adventure Kartel is recruiting!

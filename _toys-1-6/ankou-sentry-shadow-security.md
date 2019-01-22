@@ -31,11 +31,13 @@ variants:
 you_might_also_like:
   - Ankou Johan
   - Ankou Asclepius
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
+toy_pics:
+  -  ankou-sentry-shadow-security-01-6.jpg
 backstory:
 ---
 The adventure Kartel is recruiting!
 
-Ankou Sentry, or Ankou (pronounced: on-koo) as it's commonly referred to, was first released as a blind box. The series featured Shadow Security, Police, N.L.C.S and two secret chase Ankou. These figures come fully painted, but dressed in weathered boiler suits and utility belts featuring several pouches. 
+Ankou Sentry, or Ankou (pronounced: on-koo) as it's commonly referred to, was first released as a blind box. The series featured Shadow Security, Police, N.L.C.S (Non-Living Containment Squad) and two secret chase Ankou. These figures come fully painted, but dressed in weathered boiler suits and utility belts featuring several pouches. 
 
 Ankou like to squish the Zomb with their "clippy claws, that are very clippy", according to 3A.
