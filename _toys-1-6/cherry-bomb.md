@@ -26,15 +26,10 @@ you_might_also_like:
   -  Tommy Mission EMO
   -  Little Shadow 
   -  Red Night JC  
-article_contributors: [Phil Back, luciferbeck]
+article_contributors: [Phil Back, luciferbeck, frutiger_]
 toy_pics:
   -  cherry-bomb-01-6.jpg
   -  cherry-bomb-02-6.jpg 
-  -  cherry-bomb-03-6.jpg
-  -  cherry-bomb-04-6.jpg
-  -  cherry-bomb-05-6.jpg
-  -  cherry-bomb-07-6.jpg  
-  -  cherry-bomb-08-6.jpg 
 backstory:
 ---
 [need some info!]
