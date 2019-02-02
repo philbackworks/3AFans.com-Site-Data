@@ -27,7 +27,9 @@ you_might_also_like:
   -  Nabler Guys
   -  Tommy Mission
   -  Little Shadow  
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, absolutemono]
+toy_pics:
+  -  king-coal-black-ashtrolad-01-6-by-absolutemono.jpg
 backstory:
 ---
 King Coal is a 16" black Ashtrolad with white eyes.
@@ -36,4 +38,4 @@ Ten years of searching, searching for a way to escape the Underverse, Ashtrolad 
 
 His search for his robotic sister starts 2019, and what is Bambalad up to? Friend or foe?
 
-Source: Official ThreeA promo poster, Ashtrolad Wave 2, December 2018 
+Source: Official ThreeA promo poster, Ashtrolad Wave 2, December 2018

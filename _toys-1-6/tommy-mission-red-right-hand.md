@@ -26,7 +26,7 @@ variants:
 you_might_also_like:
   - Zombot
   - Little Shadow
-  - Zomb MD
+  - Zomb MD Dr Shitvago
 article_contributors: [Phil Back]
 backstory:
 ---

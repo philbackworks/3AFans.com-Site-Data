@@ -3,7 +3,7 @@ toy_id: pure-lady-sham
 toy_name: Pure Lady Sham
 permalink: /toys-1-6/pure-lady-sham.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: [onesixth]

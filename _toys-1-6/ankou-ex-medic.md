@@ -23,7 +23,7 @@ points_of_articulation: 30
 variants: 
   -  Ankou EX Shadow Security
   -  Ankou EX Fat Drown
-  -  Ankou EX Laurent
+  -  Ankou EX Laurent Special Forces Commander NLCS
 you_might_also_like:
   -  Ankou Johan
   -  Ankou Asclepius

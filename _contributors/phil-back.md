@@ -9,7 +9,7 @@ links:
   youtube:
   pinterest: https://www.pinterest.com/philback/art-of-ashley-wood-and-3a/
   web: http://www.philbackart.com
-role: Site Admin
+role: Site Admin/Site Owner
 pic: bio-phil-back.jpg
 ---
 Hey! I'm based in Indiana and I've always loved toys. I discovered 3A at San Diego Comic Con many years ago and I started off my collecting with a <a href="/toys-1-12/daywatch-heavy-bramble-idw/">Daywatch Bramble</a> (Action Portable), then the Dead Astronaut Gangsta (1:6) figure really pushed me over the edge. I haven't looked back since. 

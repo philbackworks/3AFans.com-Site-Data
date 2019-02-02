@@ -3,7 +3,7 @@ toy_id: ghost-horse
 toy_name: Ghost Horse
 permalink: /toys-1-6/ghost-horse.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Horse
 layout: layout-toy-detail
 categories: [onesixth, superset]

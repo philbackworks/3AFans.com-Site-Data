@@ -22,13 +22,15 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Nom DePlume
+  -  Nom De Plume
   -  Sombre De Plume
   -  Blanc de Plume
+  -  Nom De Plume Final Fight  
 article_contributors: [Phil Back, Andhika Rahmaditya]
 toy_pics:
   -  marquis-de-plume-01-6.jpg
   -  marquis-de-plume-02-6.jpg
+  -  marquis-de-plume-03-6.jpg
 backstory:
 ---
 

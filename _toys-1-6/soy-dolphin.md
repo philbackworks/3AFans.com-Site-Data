@@ -26,8 +26,9 @@ you_might_also_like:
   -  Cherry Bomb
   -  Peppermint Grove Robot Krieger
   -  Peppermint Grove   
-  -  Zomb MD
-article_contributors: [Phil Back]
+  -  Zomb MD Dr Shitvago
+article_contributors: [Phil Back, frutiger_]
 toy_pics:
+  -  soy-dolphin-black-dolphin-01-6-by-FRUTIGER_.jpg
 backstory:
 ---

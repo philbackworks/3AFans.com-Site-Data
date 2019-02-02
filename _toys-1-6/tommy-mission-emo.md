@@ -25,9 +25,10 @@ variants:
   -  Dirty Tracky Tommy Mission
 you_might_also_like:
   -  Little Shadow
-  -  Zomb MD
-article_contributors: [Phil Back, foreignparticle]
+  -  Zomb MD Dr Shitvago
+article_contributors: [Phil Back, foreignparticle, Andhika Rahmaditya]
 toy_pics:
+  -  tommy-mission-emo-04-6-by-dk_kuro.jpg
   -  tommy-mission-emo-01-6.jpg
 backstory:
 ---

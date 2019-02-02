@@ -1,7 +1,7 @@
 ---
 layout: layout-contributor
 name: frutiger_
-country: 
+country: Singapore
 links:
   instagram: https://www.instagram.com/frutiger_
   facebook:

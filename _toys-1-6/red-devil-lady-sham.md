@@ -3,7 +3,7 @@ toy_id: red-devil-lady-sham
 toy_name: Red Devil Lady Sham
 permalink: /toys-1-6/red-devil-lady-sham.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: [onesixth]
@@ -26,8 +26,9 @@ variants:
 you_might_also_like:
   -  Blind Cowboy
   -  Ghost Horse
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, luciferbeck]
 toy_pics:
+  -  red-devil-lady-sham-01-6.jpg
 backstory:
 ---
 3AA Exclusive - Limited set with Mr. Bridger (sock devil hand puppet who talks to Lady Sham!)

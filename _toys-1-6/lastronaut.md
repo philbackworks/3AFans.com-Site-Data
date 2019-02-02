@@ -3,7 +3,7 @@ toy_id: lastronaut
 toy_name: Lastronaut
 permalink: /toys-1-6/lastronaut.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: [onesixth]
@@ -25,9 +25,10 @@ you_might_also_like:
   -  Fighting JC
   -  Little Shadow
   -  Pale AF JC
-article_contributors: [Phil Back, wang2nobody]
+article_contributors: [Phil Back, wang2nobody, Andhika Rahmaditya]
 toy_pics:
   -  lastronaut-01-6.jpg
+  -  lastronaut-06-6-by-dk_kuro.jpg
 backstory:
 ---
 [more info soon!]

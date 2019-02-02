@@ -34,7 +34,6 @@ variants:
 you_might_also_like:
   -  Nom de Plume
   -  EVOL Rothchild
-  -  Marquis De Plume   
 article_contributors: [Phil Back]
 toy_pics: 
 backstory: Caesar was created by Rothchild as his personal bodyguards, after he survived the failed attempt on his life by the Dirty Deed Squad of 12 Berties, sent from Earth.

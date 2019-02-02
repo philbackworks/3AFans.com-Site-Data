@@ -27,8 +27,9 @@ you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission
   -  Little Shadow   
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
 toy_pics:
+  -  shadow-tommy-01-6.jpg
 backstory:
 ---
 "Red Atonement JC" or "Red Night JC" features the "New Pissed Off Head Sculpt", has fabric bandages, fake leather boots and comes with a "newly sculpted zombie head". This figure was available via a 'timed sale premade edition'.

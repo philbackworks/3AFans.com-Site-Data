@@ -4,7 +4,7 @@ toy_name: Ankou EX Shadow Security
 permalink: /toys-1-6/ankou-ex-shadow-security.html
 world: Adventure Kartel
 world_abr: AK
-character_base: Ankou
+character_base: Ankou EX
 layout: layout-toy-detail
 categories: [AK, onesixth, ankou]
 release_date: 5/18/2011
@@ -28,7 +28,9 @@ you_might_also_like:
   -  Ankou Newandria Police
   -  Ankou Junglevet
   -  Ankou NLCS
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, luciferbeck]
+toy_pics: 
+  -  ankou-ex-shadow-security-01-6-by-luciferbeck.jpg
 backstory:
 ---
 From the Official ThreeA promotional materials:

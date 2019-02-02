@@ -21,17 +21,19 @@ designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
 variants: 
-  -  Ankou Sentry Shadow Security
-  -  Newandria Police Ankou
-  -  Ankou Asclepius
-  -  Ankou UNKNOWN
-  -  Ankou N.L.C.S. Commander
-  -  Ankou Junglevet
-  -  Johnson Ankou
+  # -  Newandria Police Ankou
+  # -  Ankou Asclepius
+  # -  Ankou N.L.C.S. Commander
+  # -  Johnson Ankou
 you_might_also_like:
   -  Ankou Johan
-  -  Ankou Asclepius
-article_contributors: [Phil Back]
+  # -  Ankou Asclepius
+  -  Ankou Junglevet
+  -  Ankou UNKNOWN
+  -  Ankou Sentry Shadow Security
+article_contributors: [Phil Back, frutiger_]
+toy_pics: 
+  -  ankou-sentry-shadow-security-01-6.jpg
 backstory:
 ---
 The adventure Kartel is recruiting!

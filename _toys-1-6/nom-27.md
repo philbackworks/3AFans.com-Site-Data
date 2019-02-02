@@ -22,15 +22,15 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Nom DePlume
+  -  Nom De Plume
   -  Marquis De Plume
   -  Blanc de Plume
+  -  Nom De Plume Final Fight  
   -  Sombre De Plume  
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, luciferbeck]
 toy_pics:
   -  nom-27-01-6.jpg
+  -  nom-27-02-6.jpg
 backstory:
 ---
-
-
 [need more info]

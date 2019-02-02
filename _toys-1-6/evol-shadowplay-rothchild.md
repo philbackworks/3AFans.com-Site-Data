@@ -24,7 +24,9 @@ variants:
   -  EVOL Rothchild
   -  EVOL Battlechild Rothchild
 you_might_also_like:
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
+toy_pics:
+  -  evol-shadowplay-rothchild-darwin_01_6_by_FRUTIGER_.jpg
 backstory:
 ---
 World War Robot: EVOL ... This blacked-out version of Rothchild features a wicked cybernetic arm, eyepatch and shoulder holster. He's wearing a clean white shirt with tie and black pants.

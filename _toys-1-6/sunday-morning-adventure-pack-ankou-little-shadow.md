@@ -24,7 +24,7 @@ variants:
 you_might_also_like:
   -  Red Night JC
   -  Golden Dolphin
-  -  Zomb MD
+  -  Zomb MD Dr Shitvago
   -  Sunday Morning Adventure Pack Ankou Johan
 article_contributors: [Phil Back]
 toy_pics: 

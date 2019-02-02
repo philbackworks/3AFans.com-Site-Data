@@ -26,8 +26,9 @@ you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
   -  Blood Nails Tommy Mission  
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
 toy_pics: 
+  -  shadow-mode-little-shadow-01-6.jpg
 backstory:
 ---
 

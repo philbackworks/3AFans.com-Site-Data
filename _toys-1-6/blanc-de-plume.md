@@ -22,7 +22,7 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  - Marquis de Plume
+  - Evol Marquis De Plume
   - Darwin Rothchild
 article_contributors: [Phil Back]
 toy_pics:

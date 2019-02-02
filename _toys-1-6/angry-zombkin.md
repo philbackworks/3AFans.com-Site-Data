@@ -26,9 +26,9 @@ variants:
 you_might_also_like:
   -  Hot-Foot
   -  Angry Zombkin
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, foreignparticle]
 toy_pics:
-  # -  ankou-johan-01-6.jpg
+  -  angry-zombkin-01-6-by-foreignparticle.jpg
 backstory:
 tags: Halloween
 ---

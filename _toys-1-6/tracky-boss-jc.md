@@ -33,9 +33,10 @@ you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
   -  Little Shadow   
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, frutiger_]
 toy_pics:
   -  tracky-jc-01-6.jpg
+  -  tracky-jc-02-6.jpg
 backstory:
 ---
 

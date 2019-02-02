@@ -3,7 +3,7 @@ toy_id: darklas
 toy_name: Darklas
 permalink: /toys-1-6/darklas.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: [onesixth]

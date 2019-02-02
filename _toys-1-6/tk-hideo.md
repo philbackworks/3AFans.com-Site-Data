@@ -3,7 +3,7 @@ toy_id: tk-hideo
 toy_name: TK Hideo
 permalink: /toys-1-6/tk-hideo.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: [onesixth]

@@ -28,9 +28,10 @@ you_might_also_like:
   -  Red Night JC  
   -  Little Shadow
   -  Merde Mission
-article_contributors: [Phil Back, 3a_boltman]
+article_contributors: [Phil Back, 3a_boltman, absolutemono]
 toy_pics: 
   -  penumbra-01-6.jpg
+  -  penumbra-01-6-by-absolutemono.jpg
 backstory:
 ---
 

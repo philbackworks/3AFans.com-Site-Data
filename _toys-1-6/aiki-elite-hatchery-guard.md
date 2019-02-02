@@ -28,9 +28,13 @@ you_might_also_like:
   -  Interloper Heavy IH001
   -  TK Ronin Moon
   -  TK Kenshiro Negro
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, 3a_boltman]
 toy_pics:
-  -  aiki-elite-hatchery-guard-01-6.jpg
+  -  aiki-elite-hatchery-guard-01-6-by-3a_boltman.jpg
+  -  aiki-elite-hatchery-guard-02-6-by-3a_boltman.jpg
+  -  aiki-elite-hatchery-guard-03-6-by-3a_boltman.jpg
+  -  aiki-elite-hatchery-guard-04-6-by-3a_boltman.jpg
+  -  aiki-elite-hatchery-guard-06-6.jpg
 backstory:
 ---
 Exclusive at Beijing Gathering Event in China. Single Invitation only gift (wow!)

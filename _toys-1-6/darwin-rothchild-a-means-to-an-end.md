@@ -27,9 +27,10 @@ variants:
   -  Darwin Rothchild Here is the Young Man Edition
 you_might_also_like: 
   -  Caesar RIP 001
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, toy_spot]
 toy_pics: 
   -  darwin-rothchild-a-means-to-an-end-01-6.jpg
+  -  darwin-rothchild-a-means-to-an-end-02-6.jpg
 backstory:
 ---
 [need some more info!]

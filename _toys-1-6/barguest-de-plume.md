@@ -22,9 +22,10 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Nom Deplume
-  -  Marquis De Plume
   -  Sombre De Plume
+  -  06 Blanc Hunter Nom
+  -  EVOL Marquis De Plume Plus Prey Box Set
+  -  NOM 27 The First Disciple
 article_contributors: [Phil Back, foreignparticle]
 toy_pics:
   -  barguest-de-plume-01-6.jpg

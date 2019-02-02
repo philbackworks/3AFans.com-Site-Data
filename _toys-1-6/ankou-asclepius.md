@@ -14,6 +14,7 @@ size: 12 inches tall
 comes_with: Googly eye, clipper claws, boiler suie, pouches
 edition_qty: unknown
 exclusive: yes
+chase: yes
 secret_drop: no
 sold_where: bambaland.com
 packaging_type: box
@@ -36,7 +37,10 @@ you_might_also_like:
   -  Ankou Johan LSBBG
   -  Cold Dick
 article_contributors: [Phil Back]
+toy_pics:
+  -  ankou-asclepius-medic-chase-figure-01-6.jpg
 backstory:
+flagged: yes # need better photo from a fan
 ---
 Chase figure!
 

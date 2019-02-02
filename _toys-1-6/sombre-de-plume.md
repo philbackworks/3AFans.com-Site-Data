@@ -22,10 +22,10 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Nom Deplume
+  -  Nom De Plume
+  -  Nom De Plume Final Fight
   -  Blanc De Plume
-  -  Marquis De Plume
-  -  Red Night JC
+  -  Evol Marquis De Plume
   -  Darwin Rothchild A Means to an End
 article_contributors: [Phil Back, wang2nobody]
 toy_pics:

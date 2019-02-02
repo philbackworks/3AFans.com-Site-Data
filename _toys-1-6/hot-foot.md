@@ -8,7 +8,7 @@ character_base: Hot-Foot
 layout: layout-toy-detail
 categories: [AK, onesixth]
 release_date: 10/31/2013
-release_price: $145 USD
+release_price: $125 USD
 scale: one sixth
 size: 12 inches tall
 comes_with: Illustrated Poster by Ashley Wood
@@ -22,19 +22,9 @@ makers: unknown
 points_of_articulation: 30
 variants:
 you_might_also_like:
-  -  10 Finger Robot Gang 1
-  -  10 Finger Robot Gang 2
-  -  10 Finger Robot Gang 3
-  -  10 Finger Robot Gang 4
-  -  10 Finger Robot Gang 5
-  -  10 Finger Robot Gang 6
-  -  10 Finger Robot Gang 7
-  -  10 Finger Robot Gang 8
-  -  10 Finger Robot Gang 9
-  -  10 Finger Robot Gang 10
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
 toy_pics:
-  # -  ankou-johan-01-6.jpg
+  -  hotfoot-01-6.jpg
 backstory:
 tags: Halloween
 ---

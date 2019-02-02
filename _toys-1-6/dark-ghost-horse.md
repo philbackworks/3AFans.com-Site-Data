@@ -3,7 +3,7 @@ toy_id: dark-ghost-horse
 toy_name: Dark Ghost Horse
 permalink: /toys-1-6/dark-ghost-horse.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Horse
 layout: layout-toy-detail
 categories: [onesixth, superset]

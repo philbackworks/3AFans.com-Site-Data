@@ -26,7 +26,7 @@ you_might_also_like:
   -  Peppermint Grove Robot Krieger
   -  Shadow Mode Little Shadow
   -  Sombre De Plume
-  -  Marquis De Plume
+  -  Evol Marquis De Plume
   -  Dark Shit Got Real JC
 article_contributors: [Phil Back, foreignparticle]
 toy_pics:

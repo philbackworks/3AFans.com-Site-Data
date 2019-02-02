@@ -28,9 +28,10 @@ variants:
   - Ankou UNKNOWN
   - Ankou NLCS Commander
   - Johnson Ankou
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, lumpyheadstudios]
 toy_pics:
   -  ankou-junglevet-01-6.jpg
+  -  ankou-junglevet_02_6_by_lumpyheadstudios.jpg
 backstory:  
 ---
 The adventure Kartel is recruiting!

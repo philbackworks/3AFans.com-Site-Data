@@ -26,9 +26,10 @@ variants:
 you_might_also_like:
   -  Blind Cowboy
   -  Ghost Horse
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, luciferbeck]
 toy_pics:
   -  shit-mood-lady-sham-01-6.jpg
+  -  shit-mood-lady-sham-02-6.jpg
 backstory:
 ---
 The title of this figure sums up her expression perfectly! This exclusive figure was offered at HK ReVenture (HKRV) - The 3A art and toy event in Hong Kong, held April 27th to May 4th, 2012. 

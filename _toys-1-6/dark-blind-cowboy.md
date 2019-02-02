@@ -3,7 +3,7 @@ toy_id: dark-blind-cowboy
 toy_name: Dark Blind Cowboy
 permalink: /toys-1-6/dark-blind-cowboy.html
 world: Popbot
-world_abr: PB
+world_abr: POP
 character_base: Male
 layout: layout-toy-detail
 categories: [onesixth, superset]
@@ -25,8 +25,9 @@ you_might_also_like:
   -  Tracky Boss JC
   -  Tommy Mission EMO
   -  Ankou NLCS
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
 toy_pics:
+  -  dark-blind-cowboy-01-6.jpg
 backstory:
 ---
 

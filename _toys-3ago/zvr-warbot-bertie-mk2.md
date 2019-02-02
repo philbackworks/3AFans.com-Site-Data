@@ -25,7 +25,6 @@ variants:
 you_might_also_like:   
 article_contributors: [Phil Back]
 toy_pics:
-  -  zvr-warbot-bertie-mk2-01-3ago.jpg
 backstory:
 ---
 SDCC 2015 Exclusive

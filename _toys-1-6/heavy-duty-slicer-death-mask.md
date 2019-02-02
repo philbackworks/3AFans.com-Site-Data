@@ -28,9 +28,11 @@ you_might_also_like:
   -  TK Ronin Moon
   -  TK Kenshiro Negro
   -  TK Hideo  
-article_contributors: [Phil Back, 3a_boltman]
+article_contributors: [Phil Back, 3a_boltman, hwang_21]
 toy_pics:
   -  heavy-duty-death-mask-01-6.jpg
+  -  heavy-duty-slicer-deathmask-by-hwang_21-02-6.jpg
+  -  heavy-duty-slicer-deathmask-by-hwang_21-03-6.jpg
 backstory:
 ---
  Epic photo by the amazing <a href="/contributors/3a_boltman/">3a_boltman.</a>
