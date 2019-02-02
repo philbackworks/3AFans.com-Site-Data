@@ -26,9 +26,8 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-  -  dresden-lady-lollistick-gravedancer-mortis-mobile-infantry_01_6_by_FRUTIGER_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

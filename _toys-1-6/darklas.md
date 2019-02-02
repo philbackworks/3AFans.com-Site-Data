@@ -26,9 +26,10 @@ you_might_also_like:
   -  Little Shadow
   -  Pale AF JC
   -  Lastronaut
-article_contributors: [Phil Back, 3a_boltman]
+article_contributors: [Phil Back, 3a_boltman, Andhika Rahmaditya]
 toy_pics:
   -  darklas-01-6.jpg
+  -  darklas-02-6.jpg
 backstory:
 ---
 [more info soon!]
