@@ -4,7 +4,7 @@ toy_id: blitzwing
 toy_name: Blitzwing
 permalink: /toys-1-6/blitzwing.html
 world: Transformers Bumblebee
-world_abr: TRANS
+world_abr: TR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, dai88cc]
 toy_pics: 
+  -  blitzwing-transformer-01-6-by-dai88cc.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

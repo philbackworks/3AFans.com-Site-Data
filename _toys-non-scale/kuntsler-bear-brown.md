@@ -5,7 +5,7 @@ toy_name: Kuntsler Bear Brown
 permalink: /toys-1-6/kuntsler-bear-brown.html
 world: GALA Milk
 world_abr: 
-character_base: 
+character_base: Bear
 layout: layout-toy-detail
 categories: 
 release_date: 4/14/2016

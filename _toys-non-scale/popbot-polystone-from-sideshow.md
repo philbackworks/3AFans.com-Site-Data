@@ -14,7 +14,7 @@ size: 15 inches tall, 6 lbs
 comes_with: n/a
 edition_qty: 100
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: sideshowtoy.com in association with IDW
 packaging_type: box
 designer: Ashley Wood

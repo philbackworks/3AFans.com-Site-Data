@@ -5,7 +5,7 @@ toy_name: Kuntsler Blank Bear
 permalink: /toys-1-non-scale/kuntsler-blank-bear.html
 world: GALA Milk
 world_abr: GALA
-character_base: 
+character_base: Bear
 layout: layout-toy-detail
 categories: 
 release_date: 4/15/2016
@@ -28,7 +28,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, absolutemono]
 toy_pics: 
-  -  kuntsler-blank-bear-02-non-scale-by-absolutemono.jpg
+  -  kuntsler-blank-bear-01-6-by-absolutemono.jpg
   -  kuntsler-blank-bear-01-non-scale-by-3a_boltman.jpg
 backstory: 
 sale_type: 

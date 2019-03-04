@@ -5,7 +5,7 @@ toy_name: Kuntsler Bear White Edition
 permalink: /toys-1-6/kuntsler-bear-white-edition.html
 world: WO7174
 world_abr: 
-character_base: 
+character_base: Bear
 layout: layout-toy-detail
 categories: 
 release_date: 9/19/2015

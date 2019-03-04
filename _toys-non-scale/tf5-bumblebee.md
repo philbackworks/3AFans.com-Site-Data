@@ -4,7 +4,7 @@ toy_id: tf5-bumblebee
 toy_name: TF5 Bumblebee
 permalink: /toys-non-scale/tf5-bumblebee.html
 world: Transformers The Last Knight
-world_abr: TRAN
+world_abr: TR
 character_base: 
 layout: layout-toy-detail
 categories: 

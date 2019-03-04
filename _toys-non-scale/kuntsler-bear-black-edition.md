@@ -4,8 +4,8 @@ toy_id: kuntsler-bear-black-edition
 toy_name: Kuntsler Bear Black Edition
 permalink: /toys-1-6/kuntsler-bear-black-edition.html
 world: WO7174
-world_abr: 
-character_base: 
+world_abr: WO7174
+character_base: Bear
 layout: layout-toy-detail
 categories: 
 release_date: 9/19/2015
@@ -26,8 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  kuntsler-bear-black-edition-usventure-01-6-by-philback.jpg
+  -  kuntsler-black-bear-01-6-by-frutiger_.jpg
+  -  kuntsler-bear-black-01-6-by-frutiger_.jpg
 backstory: $100 USD. Japan Venture 2015 Exclusive
 sale_type: 
 event_exclusive: 

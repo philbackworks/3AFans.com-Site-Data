@@ -4,7 +4,7 @@ toy_id: bumblebee
 toy_name: Bumblebee
 permalink: /toys-1-6/bumblebee.html
 world: Transformers Bumblebee
-world_abr: TRAN
+world_abr: TR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -28,6 +28,9 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+  -  bumblebee-01-6-by-phil-back.jpg
+  -  bumblebee-02-6-by-phil-back.jpg
+  -  bumblebee-03-6-by-phil-back.jpg
 backstory: Second Batch
 sale_type: 
 event_exclusive: 

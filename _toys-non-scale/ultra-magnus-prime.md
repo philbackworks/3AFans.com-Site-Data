@@ -4,7 +4,7 @@ toy_id: ultra-magnus-prime
 toy_name: Ultra Magnus Prime
 permalink: /toys-non-scale/ultra-magnus-prime.html
 world: Transformers Generation One
-world_abr: TRAN
+world_abr: TR
 character_base: 
 layout: layout-toy-detail
 categories: 
