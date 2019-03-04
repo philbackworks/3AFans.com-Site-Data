@@ -28,9 +28,11 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+  -  custard-the-satanic-labrador-01-1-to-1-by-philback.jpg
 backstory: LTD. Shipping extra
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+At the USVenture event at Sparks Gallery in San Diego, CA (during San Diego Comic Con, 2017) - ThreeA had at least three 1:1 scale Custards on display. Not sure if they were for sale or if they were the same as the releases listed here, on this site. 

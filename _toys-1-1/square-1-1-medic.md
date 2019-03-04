@@ -14,7 +14,7 @@ size: unknown
 comes_with: unknown
 edition_qty: 18
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: unknown
 designer: Ashley Wood

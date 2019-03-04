@@ -5,9 +5,10 @@ toy_name: Audrey Slips with Butterknife - Severed Foot Audrey
 permalink: /toys-1-1/audrey-slips-with-butterknife-severed-foot-audrey.html
 world: AW Collection
 world_abr: 
-character_base: 
+character_base: Foot
 layout: layout-toy-detail
 categories: 
+tags: [black shoe, female]
 release_date: 5/17/2012
 release_price: $110 
 scale: one-to-one
@@ -26,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  Audrey-Slips-on-Butterknife-01-01-by-frutiger_.jpg
 backstory: Blindbox LTD
 sale_type: 
 event_exclusive: 
