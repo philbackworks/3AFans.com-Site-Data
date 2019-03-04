@@ -13,7 +13,7 @@ release_price: $350
 scale: one third
 size: 24 inches tall
 comes_with: 
-edition_qty: 
+edition_qty: Limited
 chase: 
 exclusive: 3AA
 secret_drop: 
@@ -26,11 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, apple_tamer]
 toy_pics: 
+  -  lonely-warrior-tq-24-inch-damn-deep-black-hole-01-6-by-apple_tamer-batedbunnytoys.jpg
 backstory: 3AA Exclusive
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"She wanted to say it, she wanted to hear it." - ThreeA

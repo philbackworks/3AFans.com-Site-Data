@@ -14,7 +14,7 @@ size: 24 inches tall
 comes_with: handcuffs, metal chain, thingy (?), 4 extra hands (2 closed grip, 2 open)
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: SDCC
 packaging_type: box
 designer: T.P. Louise, Ashley Wood
