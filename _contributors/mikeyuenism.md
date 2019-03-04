@@ -1,16 +1,15 @@
 ---
 layout: layout-contributor
-name: sjcui
+name: mikeyuenism
 country: 
 links:
-  instagram: https://www.instagram.com/sjcui
+  instagram: https://www.instagram.com/mikeyuenism
   facebook:
   twitter: 
   youtube:
   pinterest: 
   web: 
 role: Photo contributor
-pic: bio-sjcui.jpg  
+pic: bio_mikeyuenism.jpg
 ---
 Bio coming soon!
-
