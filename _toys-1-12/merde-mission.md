@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: merde-mission
 toy_name: Merde Mission
-permalink: /toys-1-6/merde-mission.html
+permalink: /toys-1-12/merde-mission.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
@@ -33,8 +33,7 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---
+"If I was French, I would be called Shit. I'm OK with that. - Merde Mission"
+
+"Merde was a Major, classic adventure soldier, fighting in obscure skirmishes in the Himalayas against Nazi Yeti, to hunting war ghost criminals throughout Africa etc etc!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa40" target="_blank">Q and A #40</a> 

@@ -1,20 +1,20 @@
 ---
 toy_id: fighting-jc-boxset
 toy_name: Fighting JC Boxset
-permalink: /toys-1-6/fighting-jc-boxset.html
+permalink: /toys-1-12/fighting-jc-boxset.html
 world: Adventure Kartel
 world_abr: AK
 character_base: JC
 layout: layout-toy-detail
-categories: [JC, onesixth]
+categories: [JC]
 release_date: 2012
 release_price: $180 USD
-scale: one sixth
+scale: one twelve
 size: 6 inches tall
 comes_with: 4-pack of JC figures + FREE Shadow Tommy Mission figure
 edition_qty: unknown
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood

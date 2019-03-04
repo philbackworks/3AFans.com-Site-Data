@@ -2,16 +2,16 @@
 layout: layout-toy-detail 
 toy_id: action-portable-black-bamba
 toy_name: Action Portable Black Bamba
-permalink: /toys-1-6/action-portable-black-bamba.html
+permalink: /toys-1-12/action-portable-black-bamba.html
 world: BambaBoss
-world_abr: 
-character_base: 
+world_abr:
+character_base: Bamba Boss
 layout: layout-toy-detail
 categories: 
 release_date: 9/24/2011
 release_price: $25 
-scale: one sixth
-size: 12 inches
+scale: one twelve
+size: 
 comes_with: 
 edition_qty: 
 chase: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

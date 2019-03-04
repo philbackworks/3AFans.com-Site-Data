@@ -9,12 +9,12 @@ layout: layout-toy-detail
 categories: [2000AD, onesixth]
 release_date: 
 release_price: $65
-scale: One Twelve
+scale: one twelve
 size: 12 inches tall
 comes_with: four extra hands
 edition_qty: n/a
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com, retailers
 packaging_type: carded
 designer: Ashley Wood

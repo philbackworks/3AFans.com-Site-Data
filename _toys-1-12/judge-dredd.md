@@ -9,12 +9,12 @@ layout: layout-toy-detail
 categories: [2000AD, onetwelve]
 release_date: 
 release_price: $65
-scale: One Twelve
+scale: one twelve
 size: 6.5 inches tall
 comes_with: unknown
 edition_qty: n/a
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com, retailers
 packaging_type: 13" card
 designer: Ashley Wood

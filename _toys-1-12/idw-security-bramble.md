@@ -14,7 +14,7 @@ size: 7" tall
 comes_with: 6" long rotating gatling gun
 edition_qty: 100
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: unknown
 packaging_type: Box
 designer: Ashley Wood

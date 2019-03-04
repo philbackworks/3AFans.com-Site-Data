@@ -14,7 +14,7 @@ size:
 comes_with:
 edition_qty: n/a
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: 
 packaging_type: Box
 designer: Ashley Wood

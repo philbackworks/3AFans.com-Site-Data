@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [tomorrow king, action portable, deathmask]
 release_date: 5/29/2016
 release_price: $0 
 scale: one twelve

@@ -1,14 +1,14 @@
 ---
 layout: layout-toy-detail 
-toy_id: bertie-mk2-singles
-toy_name: Bertie MK2 Singles
-permalink: /toys-1-6/bertie-mk2-singles.html
-world: WWRp
-world_abr: 
+toy_id: bertie-mk2-emgy
+toy_name: Bertie MK2 EMGY
+permalink: /toys-1-6/bertie-mk2-emgy.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
-release_date: 11/20/2009
+release_date: 5/2010
 release_price: $50 
 scale: one twelve
 size: 6 inches
@@ -26,9 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Gar, quietstorm__]
 toy_pics: 
-backstory: Many variations, including Retailer Exclusives
+  -  wwrp-bertie-emgy-nyc_01_12_by_quietstorm-dot__.jpg
+  -  wwrp-bertie-emgy-nyc_02_12_by_quietstorm-dot__.jpg
+  -  wwrp-bertie-emgy-nyc_03_12_by_quietstorm-dot__.jpg
+backstory: limited edition gifted by threeA to some retailers
 sale_type: 
 event_exclusive: 
 event_details: 

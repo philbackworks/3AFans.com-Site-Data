@@ -2,9 +2,9 @@
 layout: layout-toy-detail 
 toy_id: fantome-de-plume
 toy_name: Fantome de Plume
-permalink: /toys-1-6/fantome-de-plume.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/fantome-de-plume.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 

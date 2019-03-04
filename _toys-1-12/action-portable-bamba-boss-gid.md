@@ -4,10 +4,11 @@ toy_id: action-portable-bamba-boss-gid
 toy_name: Action Portable Bamba Boss GID
 permalink: /toys-1-6/action-portable-bamba-boss-gid.html
 world: BambaBoss
-world_abr: 
+world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [glow in the dark]
 release_date: 6/13/2011
 release_price: $25 
 scale: one twelve
@@ -26,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
+  -  bambaboss-action-portable-gid-01-12-by-lumpyheadstudios.jpg
 backstory: $11 S/H
 sale_type: 
 event_exclusive: 

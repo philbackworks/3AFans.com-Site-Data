@@ -4,7 +4,7 @@ toy_id: action-portable-bamba-boss-jea
 toy_name: Action Portable Bamba Boss JEA
 permalink: /toys-1-6/action-portable-bamba-boss-jea.html
 world: BambaBoss
-world_abr: BAMB
+world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 

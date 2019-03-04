@@ -4,7 +4,7 @@ toy_id: action-portable-bamba-boss-diy
 toy_name: Action Portable Bamba Boss DIY
 permalink: /toys-1-6/action-portable-bamba-boss-diy.html
 world: BambaBoss
-world_abr: BAMB
+world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 

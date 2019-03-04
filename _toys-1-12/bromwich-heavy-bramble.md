@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: bromwich-heavy-bramble
 toy_name: Bromwich Heavy Bramble
 permalink: /toys-1-6/bromwich-heavy-bramble.html
-world: WWRp
-world_abr: 
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
+  -  bramble-bromwich_01_6_by_foreignparticle.jpg
 backstory: 15 S-and-H. Resident Sale
 sale_type: 
 event_exclusive: 

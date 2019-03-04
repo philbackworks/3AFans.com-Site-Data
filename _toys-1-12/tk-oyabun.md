@@ -1,26 +1,27 @@
 ---
 layout: layout-toy-detail 
-toy_id: shadow-merde
-toy_name: Shadow Merde
-permalink: /toys-1-6/shadow-merde.html
-world: AP Adventure Kartel
+toy_id: tk-oyabun
+toy_name: TK Oyabun
+permalink: /toys-1-6/tk-oyabun.html
+world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
-release_date: 6/29/2016
-release_price: ~$65
+tags: [tomorrow king]
+release_date: 1/15/2011
+release_price: $150 
 scale: one twelve
 size: 6 inches
 comes_with: 
 edition_qty: 
 chase: 
-exclusive: RETAIL
+exclusive: 
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: Blister card
-product_code_/_link: N/A
+packaging_type: 
+product_code_/_link: 20113A
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,7 +29,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: Retailer Exclusive
+backstory: 2011 3AA membership bonus figure
 sale_type: 
 event_exclusive: 
 event_details: 

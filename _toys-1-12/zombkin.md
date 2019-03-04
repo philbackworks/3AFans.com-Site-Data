@@ -6,15 +6,15 @@ world: Adventure Kartel
 world_abr: AK
 character_base: Zombkin
 layout: layout-toy-detail
-categories: [AK, onesixth]
+categories: [AK]
 release_date: 
 release_price:
-scale: One Twelve
+scale: one twelve
 size:
 comes_with: four extra hands
 edition_qty: n/a
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com, retailers
 packaging_type:
 designer: Ashley Wood

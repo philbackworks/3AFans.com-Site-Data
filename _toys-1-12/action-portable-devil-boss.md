@@ -2,16 +2,16 @@
 layout: layout-toy-detail 
 toy_id: action-portable-devil-boss
 toy_name: Action Portable Devil Bamba
-permalink: /toys-1-6/action-portable-devil-boss.html
+permalink: /toys-1-12/action-portable-devil-boss.html
 world: BambaBoss
-world_abr: BAMB
+world_abr:
 character_base: Bambaboss
 layout: layout-toy-detail
 categories: 
 release_date: 9/24/2011
 release_price: $25 
-scale: one sixth
-size: 12 inches
+scale: one twelve
+size: 
 comes_with: 
 edition_qty: 
 chase: 

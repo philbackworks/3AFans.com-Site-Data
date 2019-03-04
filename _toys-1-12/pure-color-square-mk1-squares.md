@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: pure-color-square-mk1-squares
-toy_name: WWRp Pure Color Square MK1 Squares
+toy_name: Pure Color Square MK1 Squares
 permalink: /toys-1-6/pure-color-square-mk1-squares.html
 world: World War Robot
 world_abr: WWRp
@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 release_date: 4/7/13
 release_price: 
-scale: 
+scale: one twelve
 size: 
 comes_with: 
 edition_qty: 
