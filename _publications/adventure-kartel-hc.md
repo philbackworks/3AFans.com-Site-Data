@@ -16,7 +16,7 @@ release_price:
 size: 11" x 17"
 edition_qty:
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: 
 packaging_type: --
 designer: 

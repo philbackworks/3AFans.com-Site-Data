@@ -16,7 +16,7 @@ release_price:
 size: 12" x 12"
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: n/a
 packaging_type: --
 designer: Ashley Wood

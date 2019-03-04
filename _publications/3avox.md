@@ -16,7 +16,7 @@ release_price: Free
 size: n/a
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: n/a
 packaging_type: --
 designer: Ashley Wood and team
