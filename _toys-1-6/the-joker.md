@@ -5,9 +5,10 @@ toy_name: The Joker
 permalink: /toys-1-6/the-joker.html
 world: DC Comics
 world_abr: DC
-character_base: 
+character_base: Male
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 10/4/2017
 release_price: $240 
 scale: one sixth

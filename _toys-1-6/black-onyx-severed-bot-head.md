@@ -5,7 +5,7 @@ toy_name: Black Onyx Severed Bot Head
 permalink: /toys-1-6/black-onyx-severed-bot-head.html
 world: Adventure Kartel
 world_abr: AK
-character_base: 
+character_base: Skull
 layout: layout-toy-detail
 categories: 
 release_date: 5/29/2017
@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  black-onyx-severed-bot-head-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

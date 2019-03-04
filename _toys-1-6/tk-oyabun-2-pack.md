@@ -4,8 +4,8 @@ toy_id: tk-oyabun-2-pack
 toy_name: TK Oyabun 2 Pack
 permalink: /toys-1-6/tk-oyabun-2-pack.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 3/23/2009

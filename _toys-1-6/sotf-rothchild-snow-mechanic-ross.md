@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: sotf-rothchild-snow-mechanic-ross
 toy_name: SOTF Rothchild Snow Mechanic Ross
 permalink: /toys-1-6/sotf-rothchild-snow-mechanic-ross.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

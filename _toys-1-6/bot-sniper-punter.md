@@ -26,9 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
 toy_pics: 
   -  punter-bot-sniper-01-6-by-foreignparticle.jpg
+  -  bot-sniper-punter-01-6-by-frutiger_.jpg
 backstory: BBICN Exclusive, price does not include S/H
 sale_type: 
 event_exclusive: 

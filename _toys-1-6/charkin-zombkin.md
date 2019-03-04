@@ -4,7 +4,7 @@ toy_id: charkin-zombkin
 toy_name: Charkin Zombkin
 permalink: /toys-1-6/charkin-zombkin.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

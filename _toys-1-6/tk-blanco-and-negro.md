@@ -4,8 +4,8 @@ toy_id: tk-blanco-and-negro
 toy_name: TK Blanco and Negro
 permalink: /toys-1-6/tk-blanco-and-negro.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/3/2008

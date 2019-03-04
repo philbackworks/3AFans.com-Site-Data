@@ -4,7 +4,7 @@ toy_id: dragos-eraphis
 toy_name: Dragos Eraphis
 permalink: /toys-1-6/dragos-eraphis.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

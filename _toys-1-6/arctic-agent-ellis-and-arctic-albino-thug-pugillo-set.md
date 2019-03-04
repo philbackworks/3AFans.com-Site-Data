@@ -5,7 +5,7 @@ toy_name: Arctic Agent Ellis and Arctic Albino Thug Pugillo Set
 permalink: /toys-1-6/arctic-agent-ellis-and-arctic-albino-thug-pugillo-set.html
 world: EVENFALL
 world_abr: EF
-character_base: 
+character_base: THUG
 layout: layout-toy-detail
 categories: 
 release_date: 10/21/2016
@@ -13,6 +13,7 @@ release_price: $480
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: BAMB

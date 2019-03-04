@@ -4,8 +4,8 @@ toy_id: diy-tk-hand-painted-by-ashley-wood
 toy_name: DIY TK (Hand Painted by Ashley Wood)
 permalink: /toys-1-6/diy-tk-hand-painted-by-ashley-wood.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 4/8/2013

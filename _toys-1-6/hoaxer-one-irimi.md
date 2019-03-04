@@ -4,8 +4,8 @@ toy_id: hoaxer-one-irimi
 toy_name: Hoaxer One Irimi
 permalink: /toys-1-6/hoaxer-one-irimi.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: Female
 layout: layout-toy-detail
 categories: 
 release_date: 10/24/2014
@@ -26,10 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, pcww88]
 toy_pics: 
   -  hoaxer-01-6-by-foreignparticle.jpg
   -  hoaxer-one-irimi-01-6-by-FRUTIGER_.jpg
+  -  hoaxer-one-irimi-01-6-by-pcww88-patrick-wong.jpg
 backstory: Surprise LTD Drop
 sale_type: 
 event_exclusive: 

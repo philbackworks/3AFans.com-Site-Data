@@ -5,7 +5,7 @@ toy_name: RONIN TK SNOWBLIND
 permalink: /toys-1-6/ronin-tk-snowblind.html
 world: Popbot
 world_abr: POP
-character_base: Male
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/18/13

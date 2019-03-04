@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: deimos-liberator-dropcloth
 toy_name: Deimos Liberator Dropcloth
 permalink: /toys-1-6/deimos-liberator-dropcloth.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

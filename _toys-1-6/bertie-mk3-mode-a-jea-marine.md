@@ -5,9 +5,10 @@ toy_name: Bertie MK3 Mode A JEA Marine
 permalink: /toys-1-6/bertie-mk3-mode-a-jea-marine.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
+tags: [mode a, mk3, robot]
 release_date: 11/26/2010
 release_price: $250 
 scale: one sixth
@@ -26,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  WWR-BERTIE-mk3-mode-a-jea-marine-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

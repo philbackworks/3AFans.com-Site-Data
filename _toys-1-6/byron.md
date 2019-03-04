@@ -7,14 +7,15 @@ world_abr: UNHATCHED
 character_base: 
 layout: layout-toy-detail
 categories: [AK, onesixth]
+tags: [rumor]
 release_date: 
 release_price: 
-scale: one sixth
+scale: NONE YET!
 size: 
 comes_with: 
 edition_qty: 
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: 
 packaging_type: 
 designer: Ashley Wood

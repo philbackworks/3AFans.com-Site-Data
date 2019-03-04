@@ -4,8 +4,8 @@ toy_id: tq-reinforcements
 toy_name: Tomorrow Queen Reinforcements
 permalink: /toys-1-6/tq-reinforcements.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 5/7/2012

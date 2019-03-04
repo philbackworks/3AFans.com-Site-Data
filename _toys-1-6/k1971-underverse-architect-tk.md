@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code_/_link: RTT01K
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -29,7 +29,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
   -  k1971-tk-underverse-architect-01-6-by-dk_kuro.jpg
-backstory: 
+backstory: Market update - last seen sold on ebay (MIB) for $219.50 + $30.50 s/h! [5 bids] ~ 2/25/2019
 sale_type: 
 event_exclusive: 
 event_details: 

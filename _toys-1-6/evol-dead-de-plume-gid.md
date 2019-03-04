@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: evol-dead-de-plume-gid
 toy_name: EVOL Dead de Plume GID
 permalink: /toys-1-6/evol-dead-de-plume-gid.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

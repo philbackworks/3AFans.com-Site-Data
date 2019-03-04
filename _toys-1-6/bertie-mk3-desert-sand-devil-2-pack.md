@@ -13,6 +13,7 @@ release_price: $500
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 

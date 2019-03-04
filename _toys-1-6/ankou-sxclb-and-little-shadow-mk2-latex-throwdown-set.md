@@ -4,8 +4,8 @@ toy_id: ankou-sxclb-and-little-shadow-mk2-latex-throwdown-set
 toy_name: Ankou SXCLB and Little Shadow MK2 Latex Throwdown Set
 permalink: /toys-1-6/ankou-sxclb-and-little-shadow-mk2-latex-throwdown-set.html
 world: Adventure Kartel
-world_abr: 
-character_base: 
+world_abr: AK
+character_base: Ankou EX
 layout: layout-toy-detail
 categories: 
 release_date: 5/18/2011
@@ -13,6 +13,7 @@ release_price: $240
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 

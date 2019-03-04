@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: jungle-ranger-grunt-plus-square-2-private-degas
 toy_name: Jungle Ranger Grunt + Square-2 Private Degas
 permalink: /toys-1-6/jungle-ranger-grunt-plus-square-2-private-degas.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

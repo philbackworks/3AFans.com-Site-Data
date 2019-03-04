@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with:
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: Taipei Toy Show
 packaging_type:
 designer: Ashley Wood

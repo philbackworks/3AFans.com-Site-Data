@@ -4,8 +4,8 @@ toy_id: tomorrow-king-shogun-tsuki
 toy_name: Tomorrow King Shogun Tsuki
 permalink: /toys-1-6/tomorrow-king-shogun-tsuki.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/20/2012

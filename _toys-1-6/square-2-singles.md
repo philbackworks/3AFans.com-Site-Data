@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: square-2-singles
 toy_name: Square-2 singles
 permalink: /toys-1-6/square-2-singles.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

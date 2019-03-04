@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: peter-parker-spider-man-stealth-edition
-toy_name: Peter Parker / Spider-Man Stealth Edition
+toy_name: Peter Parker Spider Man Stealth Edition
 permalink: /toys-1-6/peter-parker-spider-man-stealth-edition.html
 world: Marvel
 world_abr: MAR
-character_base: 
+character_base: Spider-man
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 7/28/2016
 release_price: $350 
 scale: one sixth
@@ -25,6 +26,7 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Peter Parker Spider Man Classic Edition
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman]
 toy_pics: 

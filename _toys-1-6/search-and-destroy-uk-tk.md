@@ -4,8 +4,8 @@ toy_id: search-and-destroy-uk-tk
 toy_name: Search & Destroy UK TK
 permalink: /toys-1-6/search-and-destroy-uk-tk.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2014.04.12
@@ -26,10 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, xxbarachielxx]
 toy_pics: 
   -  uk-tk-01-6.jpg
   -  search-and-destroy-tk-02-6-by-foreignparticle.jpg
+  -  search-and-destroy-uk-tk-01-6-by-xxbarachielxx.jpg
 backstory: Surprise Drop
 sale_type: 
 event_exclusive: 

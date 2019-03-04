@@ -4,8 +4,8 @@ toy_id: totem-thug-pugillo-hazard-op
 toy_name: TOTEM Thug Pugillo Hazard Op
 permalink: /toys-1-6/totem-thug-pugillo-hazard-op.html
 world: EVENFALL
-world_abr: 
-character_base: 
+world_abr: EV
+character_base: THUG
 layout: layout-toy-detail
 categories: 
 release_date: 11/25/2016

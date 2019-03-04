@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: slim-red-dropcloth
 toy_name: Slim Red Dropcloth
 permalink: /toys-1-6/slim-red-dropcloth.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

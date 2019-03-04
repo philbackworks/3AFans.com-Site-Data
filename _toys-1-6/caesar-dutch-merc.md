@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: caesar-dutch-merc
 toy_name: Caesar DUTCH MERC
 permalink: /toys-1-6/caesar-dutch-merc.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

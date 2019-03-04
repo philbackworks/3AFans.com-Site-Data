@@ -4,8 +4,8 @@ toy_id: the-removalists-zomb-two-pack
 toy_name: The Removalists Zomb Two Pack
 permalink: /toys-1-6/the-removalists-zomb-two-pack.html
 world: Adventure Kartel
-world_abr: 
-character_base: 
+world_abr: AK
+character_base: Zomb
 layout: layout-toy-detail
 categories: 
 release_date: 12/7/2012

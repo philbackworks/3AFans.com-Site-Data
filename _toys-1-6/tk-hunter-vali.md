@@ -5,13 +5,13 @@ toy_name: TK Hunter Vali
 permalink: /toys-1-6/tk-hunter-vali.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: Hunter
 layout: layout-toy-detail
 categories: 
 release_date: 5/29/2016
 release_price: $588 
 scale: one sixth
-size: 12 inches
+size: 24 inches
 comes_with: 
 edition_qty: 
 chase: 
@@ -25,10 +25,12 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  TK Hunter MK6 Death Mask Hack
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, xxbarachielxx]
 toy_pics: 
   -  tk-hunter-vali-huge-robot-01-6-by-FRUTIGER_.jpg
+  -  tk-hunter-01-6-by-xxbarachielxx.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

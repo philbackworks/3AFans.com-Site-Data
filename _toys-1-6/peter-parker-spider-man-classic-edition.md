@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: peter-parker-spider-man-classic-edition
-toy_name: Peter Parker / Spider-Man Classic Edition
+toy_name: Peter Parker Spider-Man Classic Edition
 permalink: /toys-1-6/peter-parker-spider-man-classic-edition.html
 world: Marvel
-world_abr: 
-character_base: 
+world_abr: MAR
+character_base: Spider-man
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 7/29/2016
 release_price: ~$350
 scale: one sixth
@@ -25,16 +26,22 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Peter Parker Spider Man Stealth Edition
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  Doctor Doom Classic Edition
+  -  Black Widow
+  -  Night Mission Captain America
+  -  Ultron Classic Edition
+  -  Steel Detective Batman
+article_contributors: [Phil Back, Don Slater, MW Wutasi, sjcui]
 toy_pics: 
+  -  spider-man-classic-01-6-by-sjcui.jpg
+  -  spider-man-classic-02-6-by-sjcui.jpg
+  -  spider-man-classic-03-6-by-sjcui.jpg
+  -  spider-man-classic-04-6-by-sjcui.jpg
 backstory: Retailer Exclusive
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

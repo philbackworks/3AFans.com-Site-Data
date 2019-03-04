@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: christmas-square-mk1-set-meow-and-hard-30
 toy_name: Christmas Square MK1 Set (Meow & Hard 30)
 permalink: /toys-1-6/christmas-square-mk1-set-meow-and-hard-30.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

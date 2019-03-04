@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Folded poster with comic on the back, extra GID hand
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood

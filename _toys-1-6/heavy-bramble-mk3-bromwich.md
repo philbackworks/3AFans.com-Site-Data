@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: heavy-bramble-mk3-bromwich
 toy_name: Heavy Bramble MK3 Bromwich
 permalink: /toys-1-6/heavy-bramble-mk3-bromwich.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

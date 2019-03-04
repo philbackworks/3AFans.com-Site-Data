@@ -4,7 +4,7 @@ toy_id: cherry-shadow-and-sanakhte-bodyguard-zombot-2-pack
 toy_name: Cherry Shadow and Sanakhte Bodyguard Zombot 2 Pack
 permalink: /toys-1-6/cherry-shadow-and-sanakhte-bodyguard-zombot-2-pack.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

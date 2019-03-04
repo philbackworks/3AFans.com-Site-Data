@@ -14,7 +14,7 @@ size: 14 inches tall
 comes_with: Kitty! (10 color variants)
 edition_qty: limited edition
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: sideshowtoy.com in association with IDW
 packaging_type: box
 designer: Ashley Wood

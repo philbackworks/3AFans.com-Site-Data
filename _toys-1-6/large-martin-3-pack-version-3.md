@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: large-martin-3-pack-version-3
 toy_name: Large Martin 3 Pack version 3
 permalink: /toys-1-6/large-martin-3-pack-version-3.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

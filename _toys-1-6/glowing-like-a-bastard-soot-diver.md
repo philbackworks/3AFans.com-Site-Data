@@ -4,7 +4,7 @@ toy_id: glowing-like-a-bastard-soot-diver
 toy_name: Glowing Like a Bastard Soot Diver
 permalink: /toys-1-6/glowing-like-a-bastard-soot-diver.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

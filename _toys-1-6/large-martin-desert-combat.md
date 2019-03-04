@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: large-martin-desert-combat
 toy_name: Large Martin Desert Combat
 permalink: /toys-1-6/large-martin-desert-combat.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

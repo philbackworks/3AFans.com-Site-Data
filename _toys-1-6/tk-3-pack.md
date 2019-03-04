@@ -4,8 +4,8 @@ toy_id: tk-3-pack
 toy_name: TK 3 Pack
 permalink: /toys-1-6/tk-3-pack.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/3/2008

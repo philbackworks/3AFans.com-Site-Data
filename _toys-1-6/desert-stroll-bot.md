@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: desert-stroll-bot
 toy_name: Desert Stroll Bot
 permalink: /toys-1-6/desert-stroll-bot.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

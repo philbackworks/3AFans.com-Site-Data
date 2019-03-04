@@ -5,7 +5,7 @@ toy_name: Underverse Adventure Set
 permalink: /toys-1-6/underverse-adventure-set.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 5/27/2010

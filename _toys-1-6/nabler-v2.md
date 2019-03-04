@@ -4,7 +4,7 @@ toy_id: nabler-v2
 toy_name: Nabler V.2
 permalink: /toys-1-6/nabler-v2.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

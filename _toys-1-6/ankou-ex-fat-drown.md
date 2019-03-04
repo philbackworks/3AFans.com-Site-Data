@@ -14,7 +14,7 @@ size: 14.5 inches tall
 comes_with: unknown
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: single blind box, exclusive 3-pack at bambaland.com
 designer: Ashley Wood
@@ -28,7 +28,10 @@ you_might_also_like:
   -  Ankou Johan
   -  Ankou Asclepius
   -  Ankou Police
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, sjcui]
+toy_pics:
+  -  fat-drown-01-6-by-sjcui.jpg
+  -  fat-drown-02-6-by-sjcui.jpg
 backstory:
 ---
 Originally offered as a preorder for September 2011.

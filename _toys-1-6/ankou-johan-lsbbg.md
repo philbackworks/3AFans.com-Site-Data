@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Device B (banana)
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: Carded
 designer: Ashley Wood

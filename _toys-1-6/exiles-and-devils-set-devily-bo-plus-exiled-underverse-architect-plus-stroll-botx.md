@@ -4,7 +4,7 @@ toy_id: exiles-and-devils-set-devily-bo-plus-exiled-underverse-architect-plus-st
 toy_name: Exiles and Devils set (Devily Bo + Exiled Underverse Architect + Stroll Botx)
 permalink: /toys-1-6/exiles-and-devils-set-devily-bo-plus-exiled-underverse-architect-plus-stroll-botx.html
 world: World of Meta-Popbot
-world_abr: 
+world_abr: MPOP
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -26,11 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, absolutemono]
 toy_pics: 
   -  exiles-and-devils-set-01-6-by-foreignparticle.jpg
   -  exiles-and-devils-set-02-6-by-foreignparticle.jpg
   -  exiles-and-devils-set_01_6_by_FRUTIGER_.jpg
+  -  exiles-and-devils-set-01-6-by-absolutemono.jpg
+  -  exiles-and-devils-set-02-6-by-absolutemono.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

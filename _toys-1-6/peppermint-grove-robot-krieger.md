@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Available as a 2-piece set, "Death of Black Onyx" which includes a large robot skull
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood

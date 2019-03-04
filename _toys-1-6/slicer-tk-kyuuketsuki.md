@@ -5,7 +5,7 @@ toy_name: Slicer TK Kyuuketsuki
 permalink: /toys-1-6/slicer-tk-kyuuketsuki.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 9/10/2010
@@ -26,8 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, xxbarachielxx]
 toy_pics: 
+  -  slicer-tk-kyuuketsuki-01-6-by-xxbarachielxx.jpg
+  -  slicer-tk-kyuuketsuki-02-6-by-xxbarachielxx.jpg
+  -  slicer-tk-kyuuketsuki-03-6-by-xxbarachielxx.jpg
 backstory:
 sale_type: 
 event_exclusive: 

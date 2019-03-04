@@ -7,6 +7,7 @@ world_abr: WWR
 character_base: Caesar
 layout: layout-toy-detail
 categories: [onesixth, robot, caesar]
+tags: [white, black, bodyguard, rothchild]
 release_date: 2012
 release_price: $230 USD
 scale: one sixth
@@ -14,7 +15,7 @@ size: 16.5 inches tall
 comes_with: The first 3A WWR story booklet
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -23,19 +24,21 @@ points_of_articulation:
 variants: 
   -  Caesar RIP 002
   -  Caesar Surgeon G
-  -  Caesar EMGY NYC TRG
+  -  Caesar EMGY
   -  Caesar PRU Support
-  -  Casesar Gravedigger
-  -  Casesar DBG
+  -  Caesar Gravedigger
+  -  Caesar DBG
   -  Caesar JEA GSC
   -  Caesar 666th CLINT E
   -  Caesar Dutch Merc
   -  Caesar Deep Com
 you_might_also_like:
-  -  Nom de Plume
+  -  Caesar RIP 002
+  -  Caesar RIP 003
   -  EVOL Rothchild
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, frutiger_]
 toy_pics: 
+  -  RIP-001-caesar-01-6_by_frutiger_.jpg
 backstory: Caesar was created by Rothchild as his personal bodyguards, after he survived the failed attempt on his life by the Dirty Deed Squad of 12 Berties, sent from Earth.
 ---
 

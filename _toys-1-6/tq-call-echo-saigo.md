@@ -4,8 +4,8 @@ toy_id: tq-call-echo-saigo
 toy_name: TQ Call Echo - Saigo
 permalink: /toys-1-6/tq-call-echo-saigo.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 2/17/2015

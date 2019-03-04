@@ -4,8 +4,8 @@ toy_id: tqs-ayako
 toy_name: Tomorrow Queens Ayako
 permalink: /toys-1-6/tqs-ayako.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 11/6/2009

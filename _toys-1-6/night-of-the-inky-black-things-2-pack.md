@@ -4,7 +4,7 @@ toy_id: night-of-the-inky-black-things-2-pack
 toy_name: Night of the Inky Black Things 2 Pack
 permalink: /toys-1-6/night-of-the-inky-black-things-2-pack.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

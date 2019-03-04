@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: nom-4th
 toy_name: N.O.M 4th
 permalink: /toys-1-6/nom-4th.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

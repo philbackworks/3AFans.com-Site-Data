@@ -4,8 +4,8 @@ toy_id: vanilla-pod-tq
 toy_name: Vanilla Pod Tomorrow Queen
 permalink: /toys-1-6/vanilla-pod-tq.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 4/20/2011

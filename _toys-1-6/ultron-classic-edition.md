@@ -8,6 +8,7 @@ world_abr: MAR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 5/7/2015
 release_price: $220 
 scale: one sixth

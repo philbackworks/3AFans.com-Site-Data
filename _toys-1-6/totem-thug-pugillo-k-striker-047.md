@@ -5,7 +5,7 @@ toy_name: TOTEM Thug Pugillo K Striker 047
 permalink: /toys-1-6/totem-thug-pugillo-k-striker-047.html
 world: EVENFALL
 world_abr: EV
-character_base: 
+character_base: THUG
 layout: layout-toy-detail
 categories: 
 release_date: 11/25/2016

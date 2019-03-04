@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: desert-attack-large-martin-robbie
 toy_name: Desert Attack Large Martin Robbie
 permalink: /toys-1-6/desert-attack-large-martin-robbie.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

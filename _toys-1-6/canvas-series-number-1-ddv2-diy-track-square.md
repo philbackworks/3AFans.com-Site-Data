@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [square, tracky, led, diy, skull, black]
 release_date: 4/5/2018
 release_price: $110 
 scale: one sixth
@@ -26,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
+  -  canvas-series-1_ddv2-diy-track-square_01_6_by_lumpyheadstudios.jpg
 backstory: LTD Pre-made on Bambaland and 2018 Shanghai Toy Show
 sale_type: 
 event_exclusive: 

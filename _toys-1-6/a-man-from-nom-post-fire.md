@@ -5,7 +5,7 @@ toy_name: A Man From NOM Post Fire
 permalink: /toys-1-6/a-man-from-nom-post-fire.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: NOM
 layout: layout-toy-detail
 categories: 
 release_date: 11/6/2009

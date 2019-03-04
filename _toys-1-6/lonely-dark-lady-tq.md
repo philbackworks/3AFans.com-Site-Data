@@ -5,7 +5,7 @@ toy_name: Lonely Dark Lady TQ
 permalink: /toys-1-6/lonely-dark-lady-tq.html
 world: GALA Milk
 world_abr: 
-character_base: 
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 10/30/2015

@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: showa-tk-trooper-v2-pepper-mint-trooper
 toy_name: Showa TK Trooper V2 - Pepper Mint Trooper
 permalink: /toys-1-6/showa-tk-trooper-v2-pepper-mint-trooper.html
-world: Star Wars Alternate
+world: SW Alt
 world_abr: SWA
-character_base: Showa
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2/28/2018

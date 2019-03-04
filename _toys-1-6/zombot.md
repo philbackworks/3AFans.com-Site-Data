@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: hatchet
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: SDCC 2015
 packaging_type: box, sold with a t-shirt at San Diego Comic Con 2015
 designer: Ashley Wood

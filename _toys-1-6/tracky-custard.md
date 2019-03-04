@@ -4,8 +4,8 @@ toy_id: tracky-custard
 toy_name: Tracky Custard
 permalink: /toys-1-6/tracky-custard.html
 world: Adventure Kartel
-world_abr: 
-character_base: 
+world_abr: AK
+character_base: Dog
 layout: layout-toy-detail
 categories: 
 release_date: 3/21/2013

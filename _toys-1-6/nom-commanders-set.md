@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: nom-commanders-set
 toy_name: NOM Commanders Set
 permalink: /toys-1-6/nom-commanders-set.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

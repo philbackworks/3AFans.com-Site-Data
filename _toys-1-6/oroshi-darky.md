@@ -5,7 +5,7 @@ toy_name: Oroshi Darky
 permalink: /toys-1-6/oroshi-darky.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 3/28/2013
@@ -26,8 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, xxbarachielxx]
 toy_pics: 
+  -  oroshi-darky-tk-01-6-by-xxbarachielxx.jpg
+  -  oroshi-darky-tk-02-6-by-xxbarachielxx.jpg
 backstory: Chase Figure from TKLUB One Oroshi
 sale_type: 
 event_exclusive: 

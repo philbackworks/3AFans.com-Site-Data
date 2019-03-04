@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: iron-panda-large-martin
 toy_name: Iron Panda Large Martin
 permalink: /toys-1-6/iron-panda-large-martin.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

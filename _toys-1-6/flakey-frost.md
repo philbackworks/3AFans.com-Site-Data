@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: 
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: BBICN in Guangzhou 2012, plus some retailers
 packaging_type: box
 designer: Ashley Wood

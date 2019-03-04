@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: commando-uncle-5-dropcloth
 toy_name: Commando Uncle 5 Dropcloth
 permalink: /toys-1-6/commando-uncle-5-dropcloth.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

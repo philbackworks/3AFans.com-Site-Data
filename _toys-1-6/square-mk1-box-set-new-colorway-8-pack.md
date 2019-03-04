@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: square-mk1-box-set-new-colorway-8-pack
 toy_name: Square MK1 Box Set (New Colorway 8 Pack)
 permalink: /toys-1-6/square-mk1-box-set-new-colorway-8-pack.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

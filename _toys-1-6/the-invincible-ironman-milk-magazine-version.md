@@ -4,10 +4,11 @@ toy_id: the-invincible-ironman-milk-magazine-version
 toy_name: The Invincible Ironman Milk Magazine Version
 permalink: /toys-1-6/the-invincible-ironman-milk-magazine-version.html
 world: Marvel
-world_abr: 
-character_base: 
+world_abr: MAR
+character_base: Ironman
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 6/5/2014
 release_price: HKD 1,888 
 scale: one sixth

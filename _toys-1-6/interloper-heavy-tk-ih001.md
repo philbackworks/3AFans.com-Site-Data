@@ -4,8 +4,8 @@ toy_id: interloper-heavy-tk-ih001
 toy_name: Interloper Heavy TK IH001
 permalink: /toys-1-6/interloper-heavy-tk-ih001.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 7/21/2014

@@ -5,7 +5,7 @@ toy_name: Lonely Star Warrior TK - Pure Warrior (DIY)
 permalink: /toys-1-6/lonely-star-warrior-tk-pure-warrior-diy.html
 world: Star Wars Alternate
 world_abr: SWA
-character_base: Star Warrior
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 4/30/2015

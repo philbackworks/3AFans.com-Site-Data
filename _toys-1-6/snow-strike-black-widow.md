@@ -8,6 +8,7 @@ world_abr: MAR
 character_base: Female
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 10/7/2017
 release_price: $160 
 scale: one sixth

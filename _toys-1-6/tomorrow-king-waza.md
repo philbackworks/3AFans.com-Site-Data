@@ -4,8 +4,8 @@ toy_id: tomorrow-king-waza
 toy_name: Tomorrow King Waza
 permalink: /toys-1-6/tomorrow-king-waza.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 1/10/2013

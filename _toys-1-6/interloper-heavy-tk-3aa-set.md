@@ -4,8 +4,8 @@ toy_id: interloper-heavy-tk-3aa-set
 toy_name: Interloper Heavy TK 3AA Set
 permalink: /toys-1-6/interloper-heavy-tk-3aa-set.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 7/21/2014

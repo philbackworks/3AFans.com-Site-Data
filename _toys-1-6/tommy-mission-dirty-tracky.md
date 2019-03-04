@@ -4,8 +4,8 @@ toy_id: tommy-mission-dirty-tracky
 toy_name: Tommy Mission Dirty Tracky
 permalink: /toys-1-6/tommy-mission-dirty-tracky.html
 world: Adventure Kartel
-world_abr: 
-character_base: 
+world_abr: AK
+character_base: Male
 layout: layout-toy-detail
 categories: 
 release_date: 12/31/2009

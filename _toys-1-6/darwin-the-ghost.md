@@ -6,7 +6,8 @@ world: World War Robot
 world_abr: WWR
 character_base: Rothchild
 layout: layout-toy-detail
-categories: [onesixth, EVOL, 3AAexclusive, GID]
+categories: [onesixth, EVOL, 3AAexclusive]
+tags: [darwin rothchild, glow in the dark, gid, EVOL]
 release_date: 5/12/2014
 release_price: $135 USD
 scale: one sixth
@@ -27,8 +28,9 @@ variants:
   -  Darwin Rothchild Father and Son Two Pack
 you_might_also_like: 
   -  Caesar RIP 001
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, gundamben831]
 toy_pics: 
+  -  darwin-the-ghost-01-6-by-gundamben831.jpg
 backstory:
 ---
 From the official ThreeA promotional materials, sketch art:

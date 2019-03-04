@@ -23,8 +23,9 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, foreignparticle]
 toy_pics: 
+  -  emma-the-bitch-01-6-by-foreignparticle.jpg
 backstory: 
 sale_type: BAMBALAND - LIMITED, SURPRISE
 event_exclusive: no

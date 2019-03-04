@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: jdf-square-iphone-5-case
 toy_name: JDF Square iPhone 5 Case
 permalink: /toys-1-6/jdf-square-iphone-5-case.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

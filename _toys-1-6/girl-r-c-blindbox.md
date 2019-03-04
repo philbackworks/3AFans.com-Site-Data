@@ -4,7 +4,7 @@ toy_id: girl-r-c-blindbox
 toy_name: Girl R/C (Blindbox)
 permalink: /toys-1-6/girl-r-c-blindbox.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

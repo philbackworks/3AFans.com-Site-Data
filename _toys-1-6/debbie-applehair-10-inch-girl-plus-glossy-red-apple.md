@@ -26,9 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, mikeyuensim]
 toy_pics: 
   -  debbie-applehair-with-glossy-red-apple-01-6.jpg
+  -  debbie-applehair-red-hed-01-6-by-mikeyuenism.jpg
+  -  debbie-applehair-red-hed-02-6-by-mikeyuenism.jpg
+  -  debbie-applehair-red-hed-03-6-by-mikeyuenism.jpg
+  -  debbie-applehair-red-hed-poster.jpg
 backstory: Surprise LTD Drop
 sale_type: 
 event_exclusive: 

@@ -4,8 +4,8 @@ toy_id: ronin-tk-snowblind-plus-bomb
 toy_name: Ronin TK Snowblind + Bomb
 permalink: /toys-1-6/ronin-tk-snowblind-plus-bomb.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/18/2013

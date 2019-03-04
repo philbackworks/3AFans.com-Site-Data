@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [red, white, 2-pack, two way]
 release_date: 7/14/2011
 release_price: $125 
 scale: one sixth
@@ -26,8 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
+  -  DOC-GRUNT-02-6-by-foreignparticle.jpg
+  -  DOC-GRUNT-01-6-by-foreignparticle.jpg
 backstory:
 sale_type: 
 event_exclusive: 

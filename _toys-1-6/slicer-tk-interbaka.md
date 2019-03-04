@@ -4,8 +4,8 @@ toy_id: slicer-tk-interbaka
 toy_name: Slicer TK Interbaka
 permalink: /toys-1-6/slicer-tk-interbaka.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 9/10/2010
@@ -26,8 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
-toy_pics: 
+article_contributors: [Phil Back, Don Slater, MW Wutasi, xxbarachielxx]
+toy_pics:
+  -  slicer-tk-interbaka-01-6-by-xxbarachielxx.jpg 
+  -  slicer-tk-interbaka-02-6-by-xxbarachielxx.jpg
+  -  slicer-tk-interbaka-03-6-by-xxbarachielxx.jpg
+  -  slicer-tk-interbaka-chase-04-6-by-xxbarachielxx.jpg
 backstory: Chase figure from TK Baka
 sale_type: 
 event_exclusive: 

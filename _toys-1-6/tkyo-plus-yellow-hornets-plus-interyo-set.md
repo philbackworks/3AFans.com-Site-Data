@@ -4,8 +4,8 @@ toy_id: tkyo-plus-yellow-hornets-plus-interyo-set
 toy_name: TKYO + Yellow Hornets + InterYO Set
 permalink: /toys-1-6/tkyo-plus-yellow-hornets-plus-interyo-set.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/17/2012

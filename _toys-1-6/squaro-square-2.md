@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: squaro-square-2
 toy_name: Squaro Square-2
 permalink: /toys-1-6/squaro-square-2.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

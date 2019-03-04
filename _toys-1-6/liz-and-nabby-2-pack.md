@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Rare random jean jacket, lots of handcuffs
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: 
 designer: Ashley Wood and Siuyin
@@ -31,8 +31,8 @@ toy_pics:
 backstory:
 tags: 2 Pack, Halloween
 ---
-3AA Halooween Exclusive from bambaland.com
-
+3AA Halloween Exclusive from bambaland.com
+ 
 From the official ThreeA promotional materials: 
 
 "This Halloween Liz is dreaming off her own nabler guy!"

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: caesar-surgeon-g
 toy_name: Caesar SURGEON G
 permalink: /toys-1-6/caesar-surgeon-g.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

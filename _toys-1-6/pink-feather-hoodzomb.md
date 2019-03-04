@@ -4,7 +4,7 @@ toy_id: pink-feather-hoodzomb
 toy_name: Pink Feather HoodZomb
 permalink: /toys-1-6/pink-feather-hoodzomb.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

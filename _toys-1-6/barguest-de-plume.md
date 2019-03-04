@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Cloth face shroud
 edition_qty: unknown
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: bambaland
 packaging_type: box
 designer: Ashley Wood

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: bertie-mk3-deep-powder-2-pack
 toy_name: Bertie MK3 Deep Powder 2 Pack
 permalink: /toys-1-6/bertie-mk3-deep-powder-2-pack.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -13,6 +13,7 @@ release_price: $500
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 

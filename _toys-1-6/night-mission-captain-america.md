@@ -25,7 +25,13 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Captain America
 you_might_also_like: 
+  -  Peter Parker Spider-Man Classic Edition
+  -  Doctor Doom Classic Edition
+  -  Black Widow
+  -  Ultron Classic Edition
+  -  Steel Detective Batman
 article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono]
 toy_pics: 
   -  night-mission-captain-america-01-6-by-absolutemono.jpg

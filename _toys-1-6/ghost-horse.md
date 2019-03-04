@@ -14,7 +14,7 @@ size:
 comes_with: 
 edition_qty: 
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -26,9 +26,8 @@ you_might_also_like:
   -  Tracky Boss JC
   -  Tommy Mission EMO
   -  Ankou NLCS
-article_contributors: [Phil Back, 3a_boltman]
+article_contributors: [Phil Back]
 toy_pics:
-  -  ghost-horse-01-6.jpg
 backstory:
 ---
 The Ghost Horse, "Ghost" was offered as part of the Super Set. It's made of resin and has fabric wraps around each leg, the neck, head and tail. Comes with a saddle and holsters.

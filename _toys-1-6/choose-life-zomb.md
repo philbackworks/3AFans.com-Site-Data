@@ -4,7 +4,7 @@ toy_id: choose-life-zomb
 toy_name: Choose Life Zomb
 permalink: /toys-1-6/choose-life-zomb.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -4,7 +4,7 @@ toy_id: lucky-8-panda-mercs-soot-panda-inky-handsome-wu
 toy_name: Lucky 8 Panda Mercs - Soot Panda (Inky Handsome Wu)
 permalink: /toys-1-6/lucky-8-panda-mercs-soot-panda-inky-handsome-wu.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

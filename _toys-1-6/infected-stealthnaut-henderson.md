@@ -4,7 +4,7 @@ toy_id: infected-stealthnaut-henderson
 toy_name: Infected Stealthnaut Henderson
 permalink: /toys-1-6/infected-stealthnaut-henderson.html
 world: EVENFALL
-world_abr: 
+world_abr: EV
 character_base: 
 layout: layout-toy-detail
 categories: 

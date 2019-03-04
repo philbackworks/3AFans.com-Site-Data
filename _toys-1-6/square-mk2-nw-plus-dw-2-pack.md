@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: square-mk2-nw-plus-dw-2-pack
 toy_name: Square MK2 NW + DW 2 Pack
 permalink: /toys-1-6/square-mk2-nw-plus-dw-2-pack.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

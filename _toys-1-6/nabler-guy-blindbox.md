@@ -4,7 +4,7 @@ toy_id: nabler-guy-blindbox
 toy_name: Nabler Guy (Blindbox)
 permalink: /toys-1-6/nabler-guy-blindbox.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

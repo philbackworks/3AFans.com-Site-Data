@@ -5,7 +5,7 @@ toy_name: Tracey the XXXMas Tomorrow Queen
 permalink: /toys-1-6/tracey-the-xxxmas-tq.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 11/18/2010

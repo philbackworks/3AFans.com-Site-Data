@@ -5,7 +5,7 @@ toy_name: Bramble MK2 Nightwatch Black Guard
 permalink: /toys-1-6/bramble-mk2-nightwatch-black-guard.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 release_date: 1/30/2009
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

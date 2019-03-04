@@ -4,7 +4,7 @@ toy_id: boiler-zomb-3-pack
 toy_name: Boiler Zomb 3 Pack
 permalink: /toys-1-6/boiler-zomb-3-pack.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -13,6 +13,7 @@ release_price: $240
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 

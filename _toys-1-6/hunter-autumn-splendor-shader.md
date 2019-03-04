@@ -4,15 +4,15 @@ toy_id: hunter-autumn-splendor-shader
 toy_name: Hunter (Autumn Splendor Shader)
 permalink: /toys-1-6/hunter-autumn-splendor-shader.html
 world: Destiny
-world_abr: 
+world_abr: DEST
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 7/21/2016
 release_price: ~$190
 scale: one sixth
-size: 12 inches
-comes_with: 
+size: 12.2 inches
+comes_with: Ghost accessory, cloth cloak, weapons
 edition_qty: 
 chase: 
 exclusive: RETAIL
@@ -23,7 +23,7 @@ packaging_type:
 product_code_/_link: N/A
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: 27
 variants: 
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
@@ -33,8 +33,13 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+Three colorways were released: Retail edition (Autumn Splendor Shader - blue and orange with red cloak), BungieStore.com edition (Goldspiral Shader - gray and teal), and Bambaland.com edition (Chatterwhite shader, white and gray).
+<ul>
+<li>Ghost - Quest Shell</li>
+<li>Primary Weapon - Imago Loop Hand Cannon</li>
+<li>Special Weapon - LDR-5001 Sniper Rifle</li>
+<li>Heavy Weapon - Tomorrow’s Answer Heavy Rocket Launcher</li>
+<li>2 Pairs of Interchangeable Hands</li>
+<li>Cloak of Taniks Cloak</li>
+</ul>

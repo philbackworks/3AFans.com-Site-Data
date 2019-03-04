@@ -23,8 +23,9 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, frutiger_]
 toy_pics: 
+  -  haroldfs-jea-marine-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

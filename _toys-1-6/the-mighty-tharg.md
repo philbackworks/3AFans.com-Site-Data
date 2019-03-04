@@ -4,7 +4,7 @@ toy_id: the-mighty-tharg
 toy_name: The Mighty Tharg
 permalink: /toys-1-6/the-mighty-tharg.html
 world: 2000 AD
-world_abr: 
+world_abr: 2K
 character_base: 
 layout: layout-toy-detail
 categories: 

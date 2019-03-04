@@ -4,7 +4,7 @@ toy_id: zombacle-severed-head
 toy_name: Zombacle Severed Head
 permalink: /toys-1-6/zombacle-severed-head.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

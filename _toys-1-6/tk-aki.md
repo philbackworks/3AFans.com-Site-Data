@@ -4,8 +4,8 @@ toy_id: tk-aki
 toy_name: TK Aki
 permalink: /toys-1-6/tk-aki.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2/24/2009

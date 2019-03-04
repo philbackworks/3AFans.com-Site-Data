@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: showa-tk-trooper-v2-diy-happy-tk
 toy_name: Showa TK Trooper V2 - DIY Happy TK
 permalink: /toys-1-6/showa-tk-trooper-v2-diy-happy-tk.html
-world: Star Wars Alternate
+world: SW Alt
 world_abr: SWA
-character_base: Showa
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/16/2016

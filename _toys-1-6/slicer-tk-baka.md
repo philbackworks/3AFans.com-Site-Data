@@ -1,11 +1,11 @@
 ---
 layout: layout-toy-detail 
 toy_id: slicer-tk-baka
-toy_name: Slicer TKBaka
+toy_name: Slicer TK Baka
 permalink: /toys-1-6/slicer-tk-baka.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 9/10/2010
@@ -26,8 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
+  -  tk-baka-slicer-01-6-by-foreignparticle.jpg
+  -  tk-baka-slicer-02-6-by-foreignparticle.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

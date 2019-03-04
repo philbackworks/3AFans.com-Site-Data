@@ -15,7 +15,7 @@ comes_with: Googly eye, clipper claws, boiler suie, pouches
 edition_qty: unknown
 exclusive: yes
 chase: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood

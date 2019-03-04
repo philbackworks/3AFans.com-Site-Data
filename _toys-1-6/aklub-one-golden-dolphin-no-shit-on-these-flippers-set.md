@@ -8,11 +8,13 @@ world_abr: AK
 character_base: Male
 layout: layout-toy-detail
 categories: 
+tags: [aklub]
 release_date: 7/24/2013
 release_price: $200 
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 
@@ -35,3 +37,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

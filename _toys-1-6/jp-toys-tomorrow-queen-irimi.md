@@ -5,7 +5,7 @@ toy_name: JP TOYS Exclusive Popbot Tomorrow Queen Irimi
 permalink: /toys-1-6/jp-toys-tomorrow-queen-irimi.html
 world: Popbot
 world_abr: POP
-character_base: Female
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 1/10/13

@@ -4,8 +4,8 @@ toy_id: chinese-new-year-tq
 toy_name: Chinese New Year Tomorrow Queen
 permalink: /toys-1-6/chinese-new-year-tq.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 1/29/2010

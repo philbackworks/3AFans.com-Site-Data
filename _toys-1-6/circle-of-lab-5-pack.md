@@ -4,7 +4,7 @@ toy_id: circle-of-lab-5-pack
 toy_name: Circle of LAB 5 Pack
 permalink: /toys-1-6/circle-of-lab-5-pack.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

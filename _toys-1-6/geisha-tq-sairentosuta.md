@@ -5,7 +5,7 @@ toy_name: Geisha TQ Sairentosuta
 permalink: /toys-1-6/geisha-tq-sairentosuta.html
 world: Popbot
 world_abr: POP
-character_base: Female
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 3/3/2017

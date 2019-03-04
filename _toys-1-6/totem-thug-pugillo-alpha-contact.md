@@ -4,8 +4,8 @@ toy_id: totem-thug-pugillo-alpha-contact
 toy_name: T.O.T.E.M Thug Pugillo Alpha Contact
 permalink: /toys-1-6/totem-thug-pugillo-alpha-contact.html
 world: EVENFALL
-world_abr: 
-character_base: 
+world_abr: EV
+character_base: THUG
 layout: layout-toy-detail
 categories: 
 release_date: 11/25/2016

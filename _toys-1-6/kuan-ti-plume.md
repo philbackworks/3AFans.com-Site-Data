@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: 
 edition_qty: 100
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: Beijing Gathering (China)
 packaging_type: box
 designer: Ashley Wood

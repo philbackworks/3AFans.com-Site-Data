@@ -4,7 +4,7 @@ toy_id: little-shadow-v2
 toy_name: Little Shadow V2
 permalink: /toys-1-6/little-shadow-v2.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -33,8 +33,5 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+"Shadow don’t play!" - Ashley Wood

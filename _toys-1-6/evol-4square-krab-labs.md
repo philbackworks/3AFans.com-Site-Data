@@ -26,6 +26,8 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  EVOL 4Square Panda Corp
+  -  EVOL 4Square Rothchild Mechanics
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
   -  evol-4square-krab-labs_01_6_by_lumpyheadstudios.jpg

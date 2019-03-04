@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: sotf-civic-defence-rothchild-mk2-bertie
 toy_name: SOTF Civic Defence Rothchild MK2 Bertie
 permalink: /toys-1-6/sotf-civic-defence-rothchild-mk2-bertie.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

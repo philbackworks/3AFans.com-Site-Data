@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: f3actory-nom-de-plume
 toy_name: F3ACTORY NOM de Plume
 permalink: /toys-1-6/f3actory-nom-de-plume.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

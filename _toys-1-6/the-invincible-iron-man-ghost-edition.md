@@ -5,9 +5,10 @@ toy_name: The Invincible Iron Man Ghost Edition
 permalink: /toys-1-6/the-invincible-iron-man-ghost-edition.html
 world: Marvel
 world_abr: MAR
-character_base: 
+character_base: Ironman
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 4/18/2015
 release_price: $220 
 scale: one sixth

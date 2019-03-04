@@ -5,7 +5,7 @@ toy_name: Ro-Jaws
 permalink: /toys-1-6/ro-jaws.html
 world: 2000 AD
 world_abr: 2K
-character_base: 
+character_base: Robot
 layout: layout-toy-detail
 categories: 
 release_date: 3/22/2012
@@ -28,6 +28,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+  -  ro-jaws-3000ad-01-6-by-phil-back.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -5,7 +5,7 @@ toy_name: AK Ankou EX Thruxton Industrial Army Hire
 permalink: /toys-1-6/ak-ankou-ex-thruxton-industrial-army-hire.html
 world: Adventure Kartel
 world_abr: AK
-character_base: Ankou
+character_base: Ankou EX
 layout: layout-toy-detail
 categories: 
 release_date: 9/22/2012
@@ -26,15 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, dai88cc]
 toy_pics: 
+  -  ak-ankou-ex-thruxton-industrial-army-hire-clean-01-6-by-dai88cc.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-  enabled: true
-  collection: toys-1-6
-  sort_field: 'toy_name'
 ---

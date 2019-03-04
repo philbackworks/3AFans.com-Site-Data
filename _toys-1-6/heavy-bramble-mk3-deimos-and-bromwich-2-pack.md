@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: heavy-bramble-mk3-deimos-and-bromwich-2-pack
 toy_name: Heavy Bramble MK3 Deimos & Bromwich 2 Pack
 permalink: /toys-1-6/heavy-bramble-mk3-deimos-and-bromwich-2-pack.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

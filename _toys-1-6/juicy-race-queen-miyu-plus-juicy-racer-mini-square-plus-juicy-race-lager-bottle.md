@@ -4,16 +4,17 @@ toy_id: juicy-race-queen-miyu-plus-juicy-racer-mini-square-plus-juicy-race-lager
 toy_name: Juicy Race Queen Miyu + Juicy Racer Mini Square + Juicy Race Lager Bottle
 permalink: /toys-1-6/juicy-race-queen-miyu-plus-juicy-racer-mini-square-plus-juicy-race-lager-bottle.html
 world: The Adventures of Isobelle Pascha
-world_abr: 
+world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [2-pack, multiple figures, two pack, white, black, red, logoporn, bottle]
 release_date: 3/31/2014
 release_price: $150 
 scale: one sixth
 size: 12 inches
 comes_with: 
-edition_qty: 
+edition_qty: Limited
 chase: 
 exclusive: 3AA
 secret_drop: 
@@ -26,15 +27,15 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
-backstory: LTD Sale
+  -  juicy-race-queen-miyu-plus-juicy-racer-mini-square-02-6-by-frutiger_.jpg
+  -  juicy-race-queen-miyu-plus-juicy-racer-mini-square-01-6-by-frutiger_.jpg
+  -  juicy-racer-mini-square-01-6-by-frutiger_.jpg
+backstory: LTD Sale; white hair Miyu chase figure
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+The set comes with a mini square, in this case a white one.

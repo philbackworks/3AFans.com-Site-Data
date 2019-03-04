@@ -1,10 +1,10 @@
 ---
 layout: layout-toy-detail 
 toy_id: ascended-the-white-cowboy-plus-devil-robot-head
-toy_name: Ascended the White Cowboy + Devil Robot Head
+toy_name: Ascended the White Cowboy plus Devil Robot Head
 permalink: /toys-1-6/ascended-the-white-cowboy-plus-devil-robot-head.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

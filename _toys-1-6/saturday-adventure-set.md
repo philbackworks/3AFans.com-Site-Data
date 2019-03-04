@@ -4,7 +4,7 @@ toy_id: saturday-adventure-set
 toy_name: Saturday Adventure set
 permalink: /toys-1-6/saturday-adventure-set.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

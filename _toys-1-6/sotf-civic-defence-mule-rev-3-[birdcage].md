@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: sotf-civic-defence-mule-rev-3-[birdcage]
 toy_name: SOTF Civic Defence Mule Rev 3 [BIRDCAGE]
 permalink: /toys-1-6/sotf-civic-defence-mule-rev-3-[birdcage].html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

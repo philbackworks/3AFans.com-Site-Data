@@ -4,7 +4,7 @@ toy_id: johan-lsbbg-pink-love-machine
 toy_name: Johan LSBBG - Pink Love Machine
 permalink: /toys-1-6/johan-lsbbg-pink-love-machine.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

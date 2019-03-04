@@ -38,3 +38,4 @@ pagination:
   collection: toys-1-6
   sort_field: 'toy_name'
 ---
+"Mumbs are strong and fast, they mince the Zomb." - Ashley Wood

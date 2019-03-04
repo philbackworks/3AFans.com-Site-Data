@@ -4,7 +4,7 @@ toy_id: ghost-head-zombkin-aka-milky-charkin
 toy_name: Ghost Head Zombkin (AKA Milky Charkin)
 permalink: /toys-1-6/ghost-head-zombkin-aka-milky-charkin.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

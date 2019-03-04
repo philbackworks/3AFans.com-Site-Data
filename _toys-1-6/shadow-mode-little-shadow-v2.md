@@ -4,7 +4,7 @@ toy_id: shadow-mode-little-shadow-v2
 toy_name: Shadow Mode Little Shadow V2
 permalink: /toys-1-6/shadow-mode-little-shadow-v2.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

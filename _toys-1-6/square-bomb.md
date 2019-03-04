@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: square-bomb
 toy_name: Square Bomb
 permalink: /toys-1-6/square-bomb.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

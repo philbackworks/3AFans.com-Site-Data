@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: let's-grow-old-together-square-2-pack-in-blister-card-plus-wwr-book
 toy_name: Let's Grow Old Together Square 2 Pack in Blister Card + WWR Book
 permalink: /toys-1-6/let's-grow-old-together-square-2-pack-in-blister-card-plus-wwr-book.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: unknown
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -26,10 +26,9 @@ you_might_also_like:
   -  Little Shadow
   -  Pale AF JC
   -  Lastronaut
-article_contributors: [Phil Back, 3a_boltman, Andhika Rahmaditya]
+article_contributors: [Phil Back, 3a_boltman]
 toy_pics:
   -  darklas-01-6.jpg
-  -  darklas-02-6.jpg
 backstory:
 ---
 [more info soon!]

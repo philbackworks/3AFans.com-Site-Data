@@ -4,7 +4,7 @@ toy_id: nabler-guy-diy
 toy_name: Nabler Guy DIY
 permalink: /toys-1-6/nabler-guy-diy.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: sand-devil-666th-grunt-private-fuchs
 toy_name: Sand Devil 666th Grunt Private Fuchs
 permalink: /toys-1-6/sand-devil-666th-grunt-private-fuchs.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

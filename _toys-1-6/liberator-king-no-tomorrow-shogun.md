@@ -5,7 +5,7 @@ toy_name: Liberator King No Tomorrow Shogun
 permalink: /toys-1-6/liberator-king-no-tomorrow-shogun.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 9/27/2015

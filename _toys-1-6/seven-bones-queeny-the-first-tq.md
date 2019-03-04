@@ -4,8 +4,8 @@ toy_id: seven-bones-queeny-the-first-tq
 toy_name: Seven Bones Queeny the First TQ
 permalink: /toys-1-6/seven-bones-queeny-the-first-tq.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 1/30/2012
@@ -26,13 +26,15 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, frutiger_, pcww88]
 toy_pics: 
   -  queenie-the-first-tq-01-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-02-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-03-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-04-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-05-6-by-keguang-kho.jpg
+  -  queeny-tq-01-6-by-frutiger_.jpg
+  -  queeny-01-6-by-pcww88-patrick-wong.jpg
 backstory: Includes poster
 sale_type: 
 event_exclusive: 

@@ -4,7 +4,7 @@ toy_id: shit-weather-bleak-mission-plus-hooded-custard
 toy_name: Shit Weather Bleak Mission + Hooded Custard
 permalink: /toys-1-6/shit-weather-bleak-mission-plus-hooded-custard.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

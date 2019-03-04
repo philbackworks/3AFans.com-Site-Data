@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: slaughterhouse-6-dropcloth
 toy_name: Slaughterhouse 6 Dropcloth
 permalink: /toys-1-6/slaughterhouse-6-dropcloth.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: Dropcloth
 layout: layout-toy-detail
 categories: 

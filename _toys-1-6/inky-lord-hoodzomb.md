@@ -4,7 +4,7 @@ toy_id: inky-lord-hoodzomb
 toy_name: Inky Lord HoodZomb
 permalink: /toys-1-6/inky-lord-hoodzomb.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

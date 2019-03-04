@@ -14,7 +14,7 @@ size: 12 inches
 comes_with:
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood

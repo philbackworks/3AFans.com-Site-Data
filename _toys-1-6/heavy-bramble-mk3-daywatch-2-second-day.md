@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: heavy-bramble-mk3-daywatch-2-second-day
 toy_name: Heavy Bramble MK3 Daywatch .2 Second Day
 permalink: /toys-1-6/heavy-bramble-mk3-daywatch-2-second-day.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

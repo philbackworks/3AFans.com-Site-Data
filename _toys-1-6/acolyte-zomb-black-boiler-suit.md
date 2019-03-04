@@ -28,8 +28,9 @@ variants:
   -  Acolyte Zomb Yellow Boiler Suit
   -  Acolyte Zomb Orange Boiler Suit
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
+  -  acolyte-zomb-black-01-6-by-dk_kuro.jpg
 backstory: 3 versions - Orange, black or yellow, boiler suit
 sale_type: 
 event_exclusive: 

@@ -4,8 +4,8 @@ toy_id: tkyo
 toy_name: TKYO
 permalink: /toys-1-6/tkyo.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/17/2012

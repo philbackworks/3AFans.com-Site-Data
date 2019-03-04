@@ -14,7 +14,7 @@ size: 14.5 inches tall
 comes_with: unknown
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: 
 designer: Ashley Wood
@@ -24,11 +24,13 @@ variants:
   -  Ankou EX Shadow Security
   -  Ankou EX Fat Drown
   -  Ankou EX Laurent Special Forces Commander NLCS
+article_contributors: [Phil Back, dai88cc]  
+toy_pics:
+  -  ankou-ex-medic-01-6-by-dai88cc.jpg
 you_might_also_like:
   -  Ankou Johan
   -  Ankou Asclepius
   -  Ankou Police
-article_contributors: [Phil Back]
 backstory:
 tags: medic
 ---

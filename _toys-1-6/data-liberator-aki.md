@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Sword and sheath
 edition_qty: 150
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -27,9 +27,10 @@ you_might_also_like:
   -  TK Ronin Moon
   -  Interloper Heavy IH001
   -  TK Kenshiro Negro
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, hwang_21]
 toy_pics:
   -  data-liberator-aki-01-6.jpg
+  -  data-liberator-aki-tk-05-6-by-hwang_21.jpg
 backstory:
 ---
 Available as a 2-pack with <a href="/toys-1-6/data-liberator-kiba.html">Data Liberator Kiba</a>, from 2009, the second year of ThreeA's existence.

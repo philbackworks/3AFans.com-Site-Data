@@ -4,7 +4,7 @@ toy_id: whitey-balls-kitty
 toy_name: Whitey Balls Kitty
 permalink: /toys-1-6/whitey-balls-kitty.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -4,8 +4,8 @@ toy_id: 2-hand-popbot
 toy_name: 2 Hand Popbot
 permalink: /toys-1-6/2-hand-popbot.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: Popbot
 layout: layout-toy-detail
 categories: 
 release_date: 1/27/2011

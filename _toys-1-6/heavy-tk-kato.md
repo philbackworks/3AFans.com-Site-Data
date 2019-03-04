@@ -4,8 +4,8 @@ toy_id: heavy-tk-kato
 toy_name: Heavy TK Kato
 permalink: /toys-1-6/heavy-tk-kato.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/1/2009
@@ -26,8 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21, xxbarachielxx]
 toy_pics: 
+  -  heavy-tk-kato-01-6-by-hwang_21.jpg
+  -  heavy-tk-kato-02-6-by-hwang_21.jpg
+  -  heavy-tk-kato-02-6-by-xxbarachielxx.jpg
+  -  heavy-tk-kato-01-6-by-xxbarachielxx.jpg
 backstory: Includes a poster
 sale_type: 
 event_exclusive: 

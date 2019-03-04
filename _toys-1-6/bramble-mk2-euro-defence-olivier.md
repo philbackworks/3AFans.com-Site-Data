@@ -5,7 +5,7 @@ toy_name: Bramble MK2 Euro Defence (Olivier)
 permalink: /toys-1-6/bramble-mk2-euro-defence-olivier.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 release_date: 1/30/2009
@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
 toy_pics: 
+  -  bramble-mk2-euro-defence-olivier-01-6-by-pcww88-patrick-wong.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

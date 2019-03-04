@@ -4,8 +4,8 @@ toy_id: tommy-mission-polaroids-of-gray-sepia-stains-cluster-fucker
 toy_name: Tommy Mission (Polaroids of Gray, Sepia Stains, Cluster Fucker)
 permalink: /toys-1-6/tommy-mission-polaroids-of-gray-sepia-stains-cluster-fucker.html
 world: Adventure Kartel
-world_abr: 
-character_base: 
+world_abr: AK
+character_base: Male
 layout: layout-toy-detail
 categories: 
 release_date: 12/31/2009

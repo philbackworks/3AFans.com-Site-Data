@@ -4,10 +4,11 @@ toy_id: dr3ad-reflex-brnz-master-tk
 toy_name: DR3AD REFLEX BRNZ Master TK
 permalink: /toys-1-6/dr3ad-reflex-brnz-master-tk.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [deathmask, death mask]
 release_date: 8/31/2017
 release_price: $180 
 scale: one sixth

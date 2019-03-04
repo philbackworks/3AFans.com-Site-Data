@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: rothchild-new-dawn-fades-edition
 toy_name: Rothchild New Dawn Fades Edition
 permalink: /toys-1-6/rothchild-new-dawn-fades-edition.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

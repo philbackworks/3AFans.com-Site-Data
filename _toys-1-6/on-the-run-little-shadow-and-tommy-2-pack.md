@@ -4,7 +4,7 @@ toy_id: on-the-run-little-shadow-and-tommy-2-pack
 toy_name: On The Run Little Shadow and Tommy 2 Pack
 permalink: /toys-1-6/on-the-run-little-shadow-and-tommy-2-pack.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -4,8 +4,8 @@ toy_id: tk-kiba
 toy_name: TK Kiba
 permalink: /toys-1-6/tk-kiba.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2/24/2009

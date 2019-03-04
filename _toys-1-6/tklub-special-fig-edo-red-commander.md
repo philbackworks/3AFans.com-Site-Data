@@ -5,7 +5,7 @@ toy_name: 3AA exclusive TKLUB Special Fig EDO Red Commander
 permalink: /toys-1-6/tklub-special-fig-edo-red-commander.html
 world: 
 world_abr: POP
-character_base: Male
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 7/10/13

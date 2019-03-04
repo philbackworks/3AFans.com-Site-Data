@@ -26,8 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  AKLUB Three Dead Easy Corp Zomb Soldiers Set
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  dead-easy-corp-potato-commander-01-6-by-frutiger_.jpg
 backstory: LTD drop
 sale_type: 
 event_exclusive: 

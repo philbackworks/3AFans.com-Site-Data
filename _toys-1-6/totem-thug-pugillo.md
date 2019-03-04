@@ -4,8 +4,8 @@ toy_id: totem-thug-pugillo
 toy_name: TOTEM Thug Pugillo
 permalink: /toys-1-6/totem-thug-pugillo.html
 world: EVENFALL
-world_abr: 
-character_base: 
+world_abr: EV
+character_base: THUG
 layout: layout-toy-detail
 categories: 
 release_date: 4/2/2015

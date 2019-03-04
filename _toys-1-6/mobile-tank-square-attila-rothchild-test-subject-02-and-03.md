@@ -26,11 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, quietstorm__]
 toy_pics: 
-  -  mobile-tank-square-atiila-rothchild-test-subject-01-and-03_01_6_by-3a_boltman.jpg
-  -  mobile-tank-square-atiila-rothchild-test-subject-02-and-03_01_6_by-3a_boltman.jpg
-  -  mobile-tank-square-atiila-rothchild-test-subject-03-and-03_01_6_by-3a_boltman.jpg
+  -  mobile-tank-square-atila-rothchild-test-subject-02-and-03_01_6_by-3a_boltman.jpg
+  -  mobile-tank-square-atila-rothchild-test-subject-02-and-03_02_6_by-3a_boltman.jpg
+  -  mobile-tank-square-atila-rothchild-test-subject-02-and-03_03_6_by-3a_boltman.jpg
+  -  mobile-tank-square-rothchild-test-subject-2-and-3_01_6_by_quietstorm-dot__.jpg
+  -  mobile-tank-square-rothchild-test-subject-2-and-3_02_6_by_quietstorm-dot__.jpg
 backstory: 2017 3AA membership bonus figure
 sale_type: 
 event_exclusive: 

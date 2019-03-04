@@ -4,7 +4,7 @@ toy_id: dead-equine-super-set
 toy_name: Dead Equine Super Set
 permalink: /toys-1-6/dead-equine-super-set.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

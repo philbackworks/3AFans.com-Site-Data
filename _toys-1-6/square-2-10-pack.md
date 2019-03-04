@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: square-2-10-pack
 toy_name: Square-2 10 pack
 permalink: /toys-1-6/square-2-10-pack.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

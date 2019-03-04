@@ -4,8 +4,8 @@ toy_id: the-two-black-and-white-oya-tk-set
 toy_name: The Two Black and White Oya TK Set
 permalink: /toys-1-6/the-two-black-and-white-oya-tk-set.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/15/2011

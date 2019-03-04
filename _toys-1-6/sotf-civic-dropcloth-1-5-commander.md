@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: sotf-civic-dropcloth-1-5-commander
 toy_name: SOTF Civic Dropcloth 1.5 Commander
 permalink: /toys-1-6/sotf-civic-dropcloth-1-5-commander.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

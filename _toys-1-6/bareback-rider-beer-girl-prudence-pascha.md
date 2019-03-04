@@ -4,8 +4,8 @@ toy_id: bareback-rider-beer-girl-prudence-pascha
 toy_name: Bareback Rider Beer Girl Prudence Pascha
 permalink: /toys-1-6/bareback-rider-beer-girl-prudence-pascha.html
 world: The World of Isobelle Pascha
-world_abr: 
-character_base: 
+world_abr: IP
+character_base: Female
 layout: layout-toy-detail
 categories: 
 release_date: 9/26/2014

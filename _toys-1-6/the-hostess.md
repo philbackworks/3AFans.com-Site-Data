@@ -4,17 +4,18 @@ toy_name: The Hostess
 permalink: /toys-1-6/the-hostess.html
 world: UNHATCHED
 world_abr: UNHATCHED
-character_base: 
+character_base: Female
 layout: layout-toy-detail
 categories: [AK, onesixth]
+tags: [rumor]
 release_date: 
 release_price: 
-scale: one sixth
+scale: None yet!
 size: 
 comes_with: 
 edition_qty: 
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: 
 packaging_type: 
 designer: Ashley Wood
@@ -30,7 +31,7 @@ article_contributors: [Phil Back]
 toy_pics:
 backstory:
 ---
-This character is not a toy… yet!
+This character is not a toy.
 
 According to a Q&A session with Ash posted on worldofthreea.com 1/12/2014."
 

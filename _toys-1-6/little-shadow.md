@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: 
 edition_qty: unknown, premade
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -33,4 +33,4 @@ toy_pics:
   -  little-shadow-03-6.jpg
 backstory:
 ---
-[need some info!]
+"Shadow don’t play!" - Ashley Wood

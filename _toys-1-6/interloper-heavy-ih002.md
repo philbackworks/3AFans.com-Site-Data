@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: RPG rocket launcher with heavy gear
 edition_qty: limited sale
 exclusive: 
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood

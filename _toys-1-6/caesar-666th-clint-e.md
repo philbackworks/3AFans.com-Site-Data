@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: caesar-666th-clint-e
 toy_name: Caesar 666th CLINT E
 permalink: /toys-1-6/caesar-666th-clint-e.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

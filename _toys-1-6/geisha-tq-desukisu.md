@@ -5,7 +5,7 @@ toy_name: Geisha TQ Desukisu
 permalink: /toys-1-6/geisha-tq-desukisu.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 3/3/2017
@@ -26,11 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, lumpyheadstudios, apple_tamer]
 toy_pics: 
   -  geisha-tq-desukisu-01-6.jpg
+  -  geisha-tq-desukisu_01_6_by_lumpyheadstudios.jpg
   -  geisha-tq-desukisu_02_6_by_lumpyheadstudios.jpg
-  -  geisha-tq-desukisu_03_6_by_lumpyheadstudios.jpg
+  -  geisha-tq-desukisu-01-6-by-apple_tamer-batedbunnytoys.jpg
+  -  geisha-tq-desukisu-02-6-by-apple_tamer-batedbunnytoys.jpg
 backstory: 3AA Exclusive
 sale_type: 
 event_exclusive: 

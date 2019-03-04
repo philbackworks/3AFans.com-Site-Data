@@ -4,8 +4,8 @@ toy_id: bo-tq-slippery-attack-plan-pre-made
 toy_name: Bo TQ - Slippery Attack Plan (Pre-made)
 permalink: /toys-1-6/bo-tq-slippery-attack-plan-pre-made.html
 world: World of Meta-Popbot
-world_abr: WMP
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 4/28/2015

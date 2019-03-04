@@ -4,7 +4,7 @@ toy_id: nefarious-10-finger-robot-gang
 toy_name: Nefarious 10 Finger Robot Gang
 permalink: /toys-1-6/nefarious-10-finger-robot-gang.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Mini Caesar (GID) and a WWR
 edition_qty: unknown
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box, set with Caesar 1.5 Beagle
 designer: Ashley Wood

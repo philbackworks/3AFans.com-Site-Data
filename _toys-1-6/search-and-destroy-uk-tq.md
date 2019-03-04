@@ -5,7 +5,7 @@ toy_name: Search & Destroy UK TQ
 permalink: /toys-1-6/search-and-destroy-uk-tq.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 2014.04.12

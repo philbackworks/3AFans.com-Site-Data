@@ -8,6 +8,7 @@ world_abr: DC
 character_base: Batman
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 12/31/2015
 release_price: $240 
 scale: one sixth

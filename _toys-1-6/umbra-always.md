@@ -4,10 +4,10 @@ toy_id: umbra-always
 toy_name: Umbra Always
 permalink: /toys-1-6/umbra-always.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
-categories: 
+categories: Female
 release_date: 2/13/2015
 release_price: $100 
 scale: one sixth

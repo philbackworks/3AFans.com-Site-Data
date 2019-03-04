@@ -8,6 +8,7 @@ world_abr: AK
 character_base: Female
 layout: layout-toy-detail
 categories: 
+tags: [robot hand, green hair, beige]
 release_date: 12/3/13
 release_price: $100 USD
 scale: one sixth
@@ -23,8 +24,9 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, absolutemono]
 toy_pics: 
+  -  peppermint-grove-01-6-by-absolutemono.jpg
 backstory: 
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

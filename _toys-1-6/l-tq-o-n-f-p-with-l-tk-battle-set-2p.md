@@ -4,7 +4,7 @@ toy_id: l-tq-o-n-f-p-with-l-tk-battle-set-2p
 toy_name: L TQ O N F P with L TK Battle Set 2P
 permalink: /toys-1-6/l-tq-o-n-f-p-with-l-tk-battle-set-2p.html
 world: GALA Milk
-world_abr: 
+world_abr: TK
 character_base: 
 layout: layout-toy-detail
 categories: 

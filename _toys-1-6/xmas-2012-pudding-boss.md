@@ -5,7 +5,7 @@ toy_name: XMAS 2012 Pudding Boss
 permalink: /toys-1-6/xmas-2012-pudding-boss.html
 world: BambaBoss
 world_abr: 
-character_base: 
+character_base: Bambaboss
 layout: layout-toy-detail
 categories: 
 release_date: 12/17/2012

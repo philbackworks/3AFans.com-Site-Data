@@ -5,7 +5,7 @@ toy_name: Underverse Ranger TK Dai Ni Sutoraiki
 permalink: /toys-1-6/underverse-ranger-tk-dai-ni-sutoraiki.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2/17/2015
@@ -26,8 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
+  -  underverse-ranger-dai-ni-sutoraiki_01_6_by_lumpyheadstudios.jpg
+  -  underverse-ranger-dai-ni-sutoraiki_02_6_by_lumpyheadstudios.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

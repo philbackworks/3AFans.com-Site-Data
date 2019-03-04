@@ -14,7 +14,7 @@ size: 14.5 inches tall
 comes_with: unknown
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: single blind box, exclusive 3-pack at bambaland.com
 designer: Ashley Wood

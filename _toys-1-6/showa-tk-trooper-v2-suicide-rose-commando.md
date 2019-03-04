@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: showa-tk-trooper-v2-suicide-rose-commando
 toy_name: Showa TK Trooper V2 - Suicide Rose Commando
 permalink: /toys-1-6/showa-tk-trooper-v2-suicide-rose-commando.html
-world: Star Wars Alternate
-world_abr: 
-character_base: 
+world: SW Alt
+world_abr: SWA
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/16/2016
@@ -26,10 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, quietstorm__]
 toy_pics: 
   -  SHOWA-TK-TROOPER-V2-SUICIDE-ROSE-COMMANDO-stormtrooper_01_6_by_lumpyheadstudios.jpg
   -  SHOWA-TK-TROOPER-V2-SUICIDE-ROSE-COMMANDO-stormtrooper_02_6_by_lumpyheadstudios.jpg
+  -  showa-trooper-suicide-rose_01_6_by_quietstorm-dot__.jpg
 backstory: Rose Gold Armor
 sale_type: 
 event_exclusive: 

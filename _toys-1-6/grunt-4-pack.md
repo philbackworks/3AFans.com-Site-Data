@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: grunt-4-pack
 toy_name: Grunt 4-pack
 permalink: /toys-1-6/grunt-4-pack.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

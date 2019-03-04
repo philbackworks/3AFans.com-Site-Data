@@ -5,7 +5,7 @@ toy_name: Lizbeth TQ
 permalink: /toys-1-6/lizbeth-tq.html
 world: The Adventures of Isobelle Pascha
 world_abr: IP
-character_base: 
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 10/5/2013

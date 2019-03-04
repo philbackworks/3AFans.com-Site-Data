@@ -4,7 +4,7 @@ toy_id: taweret-nurse-zomb
 toy_name: Taweret Nurse Zomb
 permalink: /toys-1-6/taweret-nurse-zomb.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

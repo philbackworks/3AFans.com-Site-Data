@@ -8,26 +8,30 @@ world_abr: IP
 character_base: Female
 layout: layout-toy-detail
 categories: 
-release_date: 10/10/13
-release_price: $125 USD
+tags: [super hero, red cape, white hair]
+release_date: 10/10/2013
+release_price: $125 
 scale: one sixth
-size: 
+size: 12 inches
 comes_with: 
 edition_qty: 
-exclusive: 
+chase: 
+exclusive: NYCC
 secret_drop: 
 sold_where: 
+bamba_points: 
 packaging_type: 
+product_code_/_link: N/A
 designer: Ashley Wood
 makers: 
-points_of_articulation: 30
+points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: 
-sale_type: EVENT EXCLUSIVE
-event_exclusive: yes
-event_details: NEW YORK
-source_doc: 3A2013a.xls
+backstory: 2013 NYCC Exclusive, raffled event
+sale_type: 
+event_exclusive: 
+event_details: 
+source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---

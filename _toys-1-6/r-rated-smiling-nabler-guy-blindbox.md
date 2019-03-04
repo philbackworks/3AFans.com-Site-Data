@@ -4,7 +4,7 @@ toy_id: r-rated-smiling-nabler-guy-blindbox
 toy_name: R Rated Smiling Nabler Guy Blindbox
 permalink: /toys-1-6/r-rated-smiling-nabler-guy-blindbox.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

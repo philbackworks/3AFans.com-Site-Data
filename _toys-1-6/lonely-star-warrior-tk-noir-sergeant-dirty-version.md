@@ -5,7 +5,7 @@ toy_name: Lonely Star Warrior TK Noir Sergeant - Dirty Version
 permalink: /toys-1-6/lonely-star-warrior-tk-noir-sergeant-dirty-version.html
 world: Star Wars Alternate
 world_abr: SWA
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 4/28/2015

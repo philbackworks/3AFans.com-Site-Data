@@ -4,7 +4,7 @@ toy_id: yellow-hornets
 toy_name: Yellow Hornets
 permalink: /toys-1-6/yellow-hornets.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

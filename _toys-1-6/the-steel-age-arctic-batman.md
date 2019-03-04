@@ -4,10 +4,11 @@ toy_id: the-steel-age-arctic-batman
 toy_name: The Steel Age Arctic Batman
 permalink: /toys-1-6/the-steel-age-arctic-batman.html
 world: DC Comics
-world_abr: 
-character_base: 
+world_abr: DC
+character_base: Batman
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 2/10/2017
 release_price: $240 
 scale: one sixth

@@ -4,7 +4,7 @@ toy_id: diy-severed-bot-head
 toy_name: DIY Severed Bot Head
 permalink: /toys-1-6/diy-severed-bot-head.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

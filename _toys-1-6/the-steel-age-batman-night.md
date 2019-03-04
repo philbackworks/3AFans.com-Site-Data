@@ -4,10 +4,11 @@ toy_id: the-steel-age-batman-night
 toy_name: The Steel Age Batman (Night)
 permalink: /toys-1-6/the-steel-age-batman-night.html
 world: DC Comics
-world_abr: 
-character_base: 
+world_abr: DC
+character_base: Batman
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 1/5/2016
 release_price: ~$220
 scale: one sixth

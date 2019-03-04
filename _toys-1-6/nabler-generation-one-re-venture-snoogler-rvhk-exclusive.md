@@ -1,10 +1,10 @@
 ---
 layout: layout-toy-detail 
 toy_id: nabler-generation-one-re-venture-snoogler-rvhk-exclusive
-toy_name: Nabler Generation One Re-Venture Snoogler (RVHK Exclusive)
+toy_name: Nabler Generation One Re Venture Snoogler RVHK Exclusive
 permalink: /toys-1-6/nabler-generation-one-re-venture-snoogler-rvhk-exclusive.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

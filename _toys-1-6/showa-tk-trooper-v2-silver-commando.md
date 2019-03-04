@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: showa-tk-trooper-v2-silver-commando
 toy_name: Showa TK Trooper V2 - Silver Commando
 permalink: /toys-1-6/showa-tk-trooper-v2-silver-commando.html
-world: Star Wars Alternate
-world_abr: 
-character_base: 
+world: SW Alt
+world_abr: SWA
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/16/2016

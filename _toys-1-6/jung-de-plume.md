@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
 categories: 
+tags: [NOM, N.o.m, camo, helmet]
 release_date: 2/12/2010
 release_price: $150 
 scale: one sixth
@@ -26,9 +27,10 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
 toy_pics: 
   -  jung-de-plume_01_6_by_foreignparticle.jpg
+  -  nom-Jung-Deplume-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

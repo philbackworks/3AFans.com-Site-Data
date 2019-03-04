@@ -5,9 +5,10 @@ toy_name: The Invincible Iron Man Classic
 permalink: /toys-1-6/the-invincible-iron-man-classic.html
 world: Marvel
 world_abr: MAR
-character_base: Iron Man
+character_base: Ironman
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 2/13/2014
 release_price: $220 
 scale: one sixth

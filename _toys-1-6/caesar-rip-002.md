@@ -3,11 +3,12 @@ layout: layout-toy-detail
 toy_id: caesar-rip-002
 toy_name: Caesar R.I.P 002
 permalink: /toys-1-6/caesar-rip-002.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [white, black, bodyguard, rothchild]
 release_date: 9/14/2011
 release_price: $230 
 scale: one sixth
@@ -26,6 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Caesar RIP 001
+  -  Caesar RIP 002
+  -  Caesar RIP 003
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
 backstory: Black Rothchild Internal Police Caesar
@@ -33,8 +37,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

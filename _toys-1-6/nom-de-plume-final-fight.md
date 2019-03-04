@@ -1,39 +1,46 @@
 ---
+layout: layout-toy-detail 
 toy_id: nom-de-plume-final-fight
-toy_name: Nom De Plume Final Fight
+toy_name: NOM de Plume Final Fight
 permalink: /toys-1-6/nom-de-plume-final-fight.html
 world: World War Robot
 world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
-categories: [WWR, onesixth, F3actory]
-release_date: 2018
-release_price: $180 USD
+categories: 
+release_date: 10/5/2017
+release_price: $180 
 scale: one sixth
-size: 12 inches tall
+size: 12 inches
 comes_with: Gas tank and tube, pistol
-edition_qty: unknown
-exclusive: yes
-secret_drop: no
+edition_qty: 
+chase: 
+exclusive: 
+secret_drop: 
 sold_where: bambaland.com
+bamba_points: 
 packaging_type: box (Classic Sticker Boxed Pack)
+product_code_/_link: 10THNOM
 designer: Ashley Wood
-makers: unknown
+makers: 
 points_of_articulation: 30
 variants: 
-  -  Nom de Plume Final Fight
-you_might_also_like:
+you_might_also_like: 
   -  Sombre De Plume
   -  06 Blanc Hunter Nom
   -  EVOL Marquis De Plume Plus Prey Box Set
   -  Barguest De Plume
-article_contributors: [Phil Back, wang2nobody]
-toy_pics:
+article_contributors: [Phil Back, Don Slater, MW Wutasi, wang2nobody]
+toy_pics: 
   -  nom-de-plume-final-fight-01-6.jpg
-backstory:
+backstory: Surprise Drop
+sale_type: 
+event_exclusive: 
+event_details: 
+source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-From the official ThreeA promo materials:
+ From the official ThreeA promo materials:
 
 "Ten years in the field, a mission with no end. Fight for the future where a balance exists and all aspects of humanity, body, spirit and mind sit in equal.
 
-Fight 'til you can't, a constant final fight"
+Fight 'til you can't, a constant final fight" 

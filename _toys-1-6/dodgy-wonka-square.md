@@ -5,7 +5,7 @@ toy_name: Dodgy Wonka Square
 permalink: /toys-1-6/dodgy-wonka-square.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Square
 layout: layout-toy-detail
 categories: 
 release_date: 3/31/2014
@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
+  -  dodgy-wonka-square-01-6-by-foreignparticle.jpg
 backstory: Surprise LTD Drop
 sale_type: 
 event_exclusive: 

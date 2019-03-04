@@ -4,7 +4,7 @@ toy_id: cherry-bomb-v2
 toy_name: Cherry Bomb V2
 permalink: /toys-1-6/cherry-bomb-v2.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: deep-powder-bramble-mk2-r1
 toy_name: Deep Powder Bramble MK2 R1
 permalink: /toys-1-6/deep-powder-bramble-mk2-r1.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

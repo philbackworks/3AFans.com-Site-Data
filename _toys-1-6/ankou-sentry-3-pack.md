@@ -12,9 +12,10 @@ release_price: $220 USD
 scale: one sixth
 size: 12 inches tall
 comes_with: double-sided poster comic
+multipack: yes
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: Exclusive 3-pack at bambaland.com
 designer: Ashley Wood

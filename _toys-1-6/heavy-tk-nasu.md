@@ -4,8 +4,8 @@ toy_id: heavy-tk-nasu
 toy_name: Heavy TK Nasu
 permalink: /toys-1-6/heavy-tk-nasu.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/1/2009

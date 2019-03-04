@@ -4,7 +4,7 @@ toy_id: zvr-zomb-idw-publishing-sdcc-2012-exclusive
 toy_name: ZvR Zomb (IDW Publishing SDCC 2012 Exclusive)
 permalink: /toys-1-6/zvr-zomb-idw-publishing-sdcc-2012-exclusive.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

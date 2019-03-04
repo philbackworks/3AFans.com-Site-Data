@@ -5,7 +5,7 @@ toy_name: 6th TK - Tsuitachi No Ato (Orange Hair + Green Shirt)
 permalink: /toys-1-6/6th-tk-tsuitachi-no-ato-orange-hair-plus-green-shirt.html
 world: Popbot
 world_abr: POP
-character_base: Male
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/9/2014

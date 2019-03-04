@@ -4,10 +4,11 @@ toy_id: princess-tq
 toy_name: Princess Tomorrow Queen
 permalink: /toys-1-6/princess-tq.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
+tags: [black hair, black dress, white stripe, swords]
 release_date: 4/20/2011
 release_price: $80 
 scale: one sixth
@@ -26,15 +27,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, mikeyuenism]
 toy_pics: 
+  -  princess-tomorrow-queen-01-6-by-mikeyuenism.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

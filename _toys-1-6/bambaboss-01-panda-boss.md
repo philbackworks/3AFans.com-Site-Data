@@ -4,10 +4,11 @@ toy_id: bambaboss-01-panda-boss
 toy_name: Bambaboss 01 Panda Boss
 permalink: /toys-1-6/bambaboss-01-panda-boss.html
 world: BambaBoss
-world_abr: BAMB
+world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [bambaboss]
 release_date: 9/17/2012
 release_price: $140 
 scale: one sixth
@@ -26,6 +27,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Bambaboss 3AA
+  -  Bambaboss 2nd Birthday Boss
+  -  Bambaboss 3rd Birthday 3oss
+  -  Bambaboss 6th Year
+  -  Bambaboss Ghostbamba GID
+  -  Bambaboss Jeaboss
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
   -  bambaboss-01-panda-boss_01_6_by_lumpyheadstudios.jpg

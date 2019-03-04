@@ -5,7 +5,7 @@ toy_name: 6th TK - Mae No Ni (Black Hair + Red Shirt)
 permalink: /toys-1-6/6th-tk-mae-no-ni-black-hair-plus-red-shirt.html
 world: Popbot
 world_abr: POP
-character_base: Male
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/9/2014

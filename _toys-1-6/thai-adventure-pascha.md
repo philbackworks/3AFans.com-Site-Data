@@ -4,8 +4,8 @@ toy_id: thai-adventure-pascha
 toy_name: Thai Adventure Pascha
 permalink: /toys-1-6/thai-adventure-pascha.html
 world: The Adventures of Isobelle Pascha
-world_abr: 
-character_base: 
+world_abr: IP
+character_base: Female
 layout: layout-toy-detail
 categories: 
 release_date: 5/1/2014

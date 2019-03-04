@@ -1,7 +1,7 @@
 ---
 toy_id: foot-cutter-cowbot
 toy_name: Foot Cutter Cowbot
-permalink: /toys-1-6/shadow-tommy.html
+permalink: /toys-1-6/foot-cutter-cowboy.html
 world: Isobella Pascha
 world_abr: IP
 character_base: cyborg
@@ -12,7 +12,7 @@ release_price: $140 USD
 scale: one sixth
 size: 12 inches tall
 comes_with: Poncho, pistol, lots of severed feet
-edition_qty: limited, rare
+edition_qty: Limited, rare
 exclusive: yes
 secret_drop: yes
 sold_where: bambaland.com

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: supreme-nom
 toy_name: Supreme NOM
 permalink: /toys-1-6/supreme-nom.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -40,3 +40,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"...in the NOM world all women are supreme, as they represent a good balance, to become the supreme is based on genetic lineage and training, the first NOM mother was known to have existed in the 19th century, their path and mission is long and steeped in history!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Q and A #39</a> 

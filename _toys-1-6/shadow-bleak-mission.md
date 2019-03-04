@@ -4,7 +4,7 @@ toy_id: shadow-bleak-mission
 toy_name: Shadow Bleak Mission
 permalink: /toys-1-6/shadow-bleak-mission.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

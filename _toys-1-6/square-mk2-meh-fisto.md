@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: square-mk2-meh-fisto
 toy_name: Square MK2 Meh-Fisto
 permalink: /toys-1-6/square-mk2-meh-fisto.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

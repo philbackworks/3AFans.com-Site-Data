@@ -4,7 +4,7 @@ toy_id: medic-zomb
 toy_name: Medic Zomb
 permalink: /toys-1-6/medic-zomb.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

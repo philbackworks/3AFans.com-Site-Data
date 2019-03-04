@@ -14,7 +14,7 @@ size:
 comes_with: 
 edition_qty: 
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -26,8 +26,13 @@ you_might_also_like:
   -  Blind Cowboy
   -  Ghost Horse
   -  Dark Blind Cowboy
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, Keguang Kho]
 toy_pics:
+  -  dark-ghost-horse_01_6_by_KEGUANG-KHO.jpg
+  -  dark-ghost-horse_02_6_by_KEGUANG-KHO.jpg
+  -  dark-ghost-horse_03_6_by_KEGUANG-KHO.jpg
+  -  dark-ghost-horse_04_6_by_KEGUANG-KHO.jpg
+  -  dark-ghost-horse_05_6_by_KEGUANG-KHO.jpg
 backstory:
 ---
 The Ghost Horse, "Ghost" was offered as part of the Super Set. It's made of resin and has fabric wraps around each leg, the neck, head and tail. Comes with a saddle, holsters and pouches.

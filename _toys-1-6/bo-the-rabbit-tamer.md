@@ -3,7 +3,7 @@ toy_id: bo-the-rabbit-tamer
 toy_name: Bo the Rabbit Tamer
 permalink: /toys-1-6/bo-the-rabbit-tamer.html
 world: Meta Popbot
-world_abr: MPB
+world_abr: POP
 character_base: female
 layout: layout-toy-detail
 categories: [onesixth]
@@ -14,7 +14,7 @@ size:
 comes_with: sword, fur-lined hooded jacket
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: 
 packaging_type: 
 designer: Ashley Wood

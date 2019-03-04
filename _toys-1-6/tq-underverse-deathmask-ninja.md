@@ -4,8 +4,8 @@ toy_id: tq-underverse-deathmask-ninja
 toy_name: TQ Underverse Deathmask Ninja
 permalink: /toys-1-6/tq-underverse-deathmask-ninja.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 8/28/2015

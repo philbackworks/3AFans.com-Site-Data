@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Multi-tubed mask, trenchcoat, grenades, pistol
 edition_qty: 100
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: Beijing Gathering (China)
 packaging_type: Cylindrical tube (3AA Membership 2016)
 designer: Ashley Wood

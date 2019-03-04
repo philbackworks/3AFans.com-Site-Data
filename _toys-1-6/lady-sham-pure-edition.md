@@ -5,7 +5,7 @@ toy_name: Lady Sham Pure Edition
 permalink: /toys-1-6/lady-sham-pure-edition.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: Female
 layout: layout-toy-detail
 categories: 
 release_date: 6/6/2012

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: jea-dropcloth-and-square-thaddeus-and-didymous
 toy_name: JEA Dropcloth and Square Thaddeus and Didymous
 permalink: /toys-1-6/jea-dropcloth-and-square-thaddeus-and-didymous.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -26,15 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
 toy_pics: 
+  -  jea-dropcloth-didymous-and-square-thaddeus-01-6-by-pcww88-patrick-wong.jpg
 backstory: Bambaland Exclusive
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

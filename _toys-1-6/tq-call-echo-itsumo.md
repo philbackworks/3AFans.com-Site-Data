@@ -5,7 +5,7 @@ toy_name: TQ Call Echo - Itsumo
 permalink: /toys-1-6/tq-call-echo-itsumo.html
 world: Popbot
 world_abr: POP
-character_base: Female
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 2/17/2015

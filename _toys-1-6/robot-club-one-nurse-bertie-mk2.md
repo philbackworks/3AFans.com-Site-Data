@@ -5,7 +5,7 @@ toy_name: ROBOT CLUB One - Nurse Bertie MK2
 permalink: /toys-1-6/robot-club-one-nurse-bertie-mk2.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 release_date: 5/31/2017
@@ -28,13 +28,10 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+  -  robot-club-one-nurse-bertie-mk2-sdcc-01-6-by-philback.jpg
 backstory: 1st of 3 ROBOT CLUB releases towards free Desert Stroll Bot
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

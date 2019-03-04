@@ -4,8 +4,8 @@ toy_id: totem-agent-hood
 toy_name: Totem Agent Hood
 permalink: /toys-1-6/totem-agent-hood.html
 world: EVENFALL
-world_abr: EVEN
-character_base: 
+world_abr: EV
+character_base: Male
 layout: layout-toy-detail
 categories: 
 release_date: 10/21/2016

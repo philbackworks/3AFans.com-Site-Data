@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: bertie-mk3-daywatch-mode-a
 toy_name: Bertie MK3 Daywatch Mode A
 permalink: /toys-1-6/bertie-mk3-daywatch-mode-a.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

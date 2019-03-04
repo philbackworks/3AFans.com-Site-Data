@@ -4,7 +4,7 @@ toy_id: ghost-horse-and-blind-cowboy-super-set
 toy_name: Ghost Horse & Blind Cowboy Super Set
 permalink: /toys-1-6/ghost-horse-and-blind-cowboy-super-set.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -4,8 +4,8 @@ toy_id: tk-single-blind-box
 toy_name: TK Single Blind Box
 permalink: /toys-1-6/tk-single-blind-box.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/3/2008

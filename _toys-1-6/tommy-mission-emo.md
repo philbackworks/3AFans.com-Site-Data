@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: unknown
 edition_qty: unknown
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: unknown
 packaging_type: box
 designer: Ashley Wood

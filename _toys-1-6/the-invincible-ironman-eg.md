@@ -4,10 +4,11 @@ toy_id: the-invincible-ironman-eg
 toy_name: The Invincible Ironman EG
 permalink: /toys-1-6/the-invincible-ironman-eg.html
 world: Marvel
-world_abr: 
-character_base: 
+world_abr: MAR
+character_base: Ironman
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 7/23/2014
 release_price: $220 
 scale: one sixth

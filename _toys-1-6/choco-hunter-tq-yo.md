@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Furry pink 2-piece bunny suit, classic Junko head
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: 
 designer: Ashley Wood

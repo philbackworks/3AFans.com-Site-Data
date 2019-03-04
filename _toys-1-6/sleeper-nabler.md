@@ -4,7 +4,7 @@ toy_id: sleeper-nabler
 toy_name: Sleeper Nabler
 permalink: /toys-1-6/sleeper-nabler.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

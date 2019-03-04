@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: heavy-bramble-mk3-cydonia-western-defence
 toy_name: Heavy Bramble MK3 Cydonia Western Defence
 permalink: /toys-1-6/heavy-bramble-mk3-cydonia-western-defence.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

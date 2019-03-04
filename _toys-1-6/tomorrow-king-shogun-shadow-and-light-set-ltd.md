@@ -4,8 +4,8 @@ toy_id: tomorrow-king-shogun-shadow-and-light-set-ltd
 toy_name: Tomorrow King Shogun Shadow and Light Set LTD
 permalink: /toys-1-6/tomorrow-king-shogun-shadow-and-light-set-ltd.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/20/2012

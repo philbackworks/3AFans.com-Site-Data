@@ -4,7 +4,7 @@ toy_id: nise-black-edition
 toy_name: Nise Black Edition
 permalink: /toys-1-6/nise-black-edition.html
 world: Syoupee
-world_abr: 
+world_abr: SYOU
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -21,7 +21,7 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code_/_link: 0000000000000NISEBLACK
-designer: Ashley Wood
+designer: Syoupee, Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
@@ -33,8 +33,5 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+Ball Jointed Doll

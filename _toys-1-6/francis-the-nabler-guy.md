@@ -2,7 +2,7 @@
 toy_id: francis-the-nabler-guy
 toy_name: Francis the Nabler Guy
 permalink: /toys-1-6/francis-the-nabler-guy.html
-world: Popbot
+world: Popbot Discordent
 world_abr: POP
 character_base: Nabler
 layout: layout-toy-detail
@@ -12,11 +12,12 @@ release_price: $150 USD
 scale: one sixth
 size: 12 inches tall
 comes_with: baseball bat, assorted heads with different mouth expressions and gas tube x3, R-Rated package with poster, Bot JJ (d*ck)
-edition_qty: unknown, premade
+edition_qty: Limited premade
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: unknown
 packaging_type: 
+product_code_/_link: FNG1
 designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
@@ -25,11 +26,13 @@ variants:
 you_might_also_like:
   -  Nabler Guys
   -  Ankou Junglevet
-article_contributors: [Phil Back, hwang_21]
+article_contributors: [Phil Back, hwang_21, Andhika Rahmaditya]
 toy_pics:
   -  francis-the-nabler-guy-01-6.jpg
   -  francis-the-nabler-guy-02-6.jpg
-backstory:
+  -  marlon-the-nabler-guy-black-01-6-by-dk_kuro.jpg
+  -  marlon-the-nabler-guy-black-02-6-by-dk_kuro.jpg
+backstory: 
 tags: POPBOT DISCORDENT
 ---
 3AA Exclusive from bambaland.com

@@ -4,8 +4,8 @@ toy_id: tq-munich-ntq
 toy_name: Tomorrow Queen Munich NTQ
 permalink: /toys-1-6/tq-munich-ntq.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 12/29/2012

@@ -4,7 +4,7 @@ toy_id: ascended-exiles-and-devils-set
 toy_name: Ascended Exiles and Devils set
 permalink: /toys-1-6/ascended-exiles-and-devils-set.html
 world: World of Meta-Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -13,6 +13,7 @@ release_price: $360
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 

@@ -4,7 +4,7 @@ toy_id: ms-shadow-slickerice-shadow-mode
 toy_name: Ms Shadow Slickerice (Shadow Mode)
 permalink: /toys-1-6/ms-shadow-slickerice-shadow-mode.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

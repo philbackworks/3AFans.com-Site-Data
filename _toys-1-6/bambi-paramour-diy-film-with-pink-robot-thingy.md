@@ -4,8 +4,8 @@ toy_id: bambi-paramour-diy-film-with-pink-robot-thingy
 toy_name: Bambi Paramour DIY Film (with Pink Robot Thingy)
 permalink: /toys-1-6/bambi-paramour-diy-film-with-pink-robot-thingy.html
 world: The World of Isobelle Pascha
-world_abr: 
-character_base: 
+world_abr: IP
+character_base: Female
 layout: layout-toy-detail
 categories: 
 release_date: 3/30/2017

@@ -4,8 +4,8 @@ toy_id: bo-tq-the-rabbit-tamer-pre-made
 toy_name: Bo TQ - The Rabbit Tamer (Pre-made)
 permalink: /toys-1-6/bo-tq-the-rabbit-tamer-pre-made.html
 world: World of Meta-Popbot
-world_abr: WWR
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 4/28/2015
@@ -30,7 +30,7 @@ you_might_also_like:
   -  Mr 71 and Eddy
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: LTD Pre-made
+backstory: LTD Pre-made. Market update - last seen sold on ebay (MIB) for $366.11 + $29.10 s/h! [34 bids!] ~ 2/25/2019
 sale_type: 
 event_exclusive: 
 event_details: 

@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: kid-sarge-10-pack
 toy_name: Kid Sarge 10 Pack
 permalink: /toys-1-6/kid-sarge-10-pack.html
-world: WWR
-world_abr: 
-character_base: 
+world: World War Robot
+world_abr: WWR
+character_base: Square
 layout: layout-toy-detail
 categories: 
 release_date: 6/9/2011
@@ -26,15 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
-backstory: 8 coloways + DIY and Kid Sarge
+  -  kid-sarge-square-from-hk-reventure-10-pack_01_6_by_foreignparticle.jpg
+backstory: 8 colorways + DIY and Kid Sarge
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+The 10-pack set included 8 colorways + DIY and Kid Sarge. Available at the Hong Kong ReVenture, 2011.

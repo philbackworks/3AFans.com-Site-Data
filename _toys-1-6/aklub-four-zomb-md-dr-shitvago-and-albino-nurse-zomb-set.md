@@ -4,10 +4,11 @@ toy_id: aklub-four-zomb-md-dr-shitvago-and-albino-nurse-zomb-set
 toy_name: AKLUB Four Zomb MD Dr Shitvago and Albino Nurse Zomb Set
 permalink: /toys-1-6/aklub-four-zomb-md-dr-shitvago-plus-albino-nurse-zomb-set.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [aklub]
 release_date: 8/8/2014
 release_price: $260 
 scale: one sixth
@@ -26,8 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, foreignparticle]
 toy_pics: 
+  -  zomb-md-dr-shitvago-and-zomb-albino-nurse_01_6_by_foreignparticle.jpg
+  -  aklub-4-zomb-md-and-dr-shitvago-and-albino-nurse_01_6_by_FRUTIGER_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

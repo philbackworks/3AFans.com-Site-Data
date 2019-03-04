@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: double-sided poster comic
 edition_qty: limited
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: 2-pack, THE ANKOU + ZOMB TWOWAY PACK
 designer: Ashley Wood

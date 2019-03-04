@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono]
 toy_pics: 
+  -  zef-shadow-landi-01-6-by-absolutemono.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: evol-4square-panda-corp
 toy_name: EVOL 4Square Panda Corp
 permalink: /toys-1-6/evol-4square-panda-corp.html
-world: WWR
-world_abr: 
-character_base: 
+world: World War Robot
+world_abr: WWR
+character_base: 4Square
 layout: layout-toy-detail
 categories: 
 release_date: 7/9/2014
@@ -26,15 +26,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  EVOL 4Square Krab Labs
+  -  EVOL 4Square Rothchild Mechanics
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
 toy_pics: 
+  -  evol-4square-panda-corp-01-6-by-pcww88-patrick-wong.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

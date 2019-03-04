@@ -4,8 +4,8 @@ toy_id: heavy-tk-soh
 toy_name: Heavy TK Soh
 permalink: /toys-1-6/heavy-tk-soh.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 11/25/2009

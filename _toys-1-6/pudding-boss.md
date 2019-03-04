@@ -4,8 +4,8 @@ toy_id: pudding-boss
 toy_name: Pudding Boss
 permalink: /toys-1-6/pudding-boss.html
 world: BambaBoss
-world_abr: 
-character_base: 
+world_abr:
+character_base: Bambaboss
 layout: layout-toy-detail
 categories: 
 release_date: 12/15/2009
@@ -33,8 +33,5 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+"Pudding Boss has a custard like secretion over his head, to which a passer by remarked, damn that shit make you look like a Pudding!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa40" target="_blank">Q and A #40</a> 

@@ -5,7 +5,7 @@ toy_name: Liberator Deathmask Fuu and Chu 2Pack
 permalink: /toys-1-6/liberator deathmask-fuu-and-chu-2pack.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/18/2015

@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
-toy_id: atrocity-exihibition-2-pack
-toy_name: Atrocity Exihibition 2 Pack
-permalink: /toys-1-6/atrocity-exihibition-2-pack.html
+toy_id: atrocity-exhibition-2-pack
+toy_name: Atrocity Exhibition 2 Pack
+permalink: /toys-1-6/atrocity-exhibition-2-pack.html
 world: Adventure Kartel
 world_abr: AK
 character_base: 
@@ -13,11 +13,12 @@ release_price: $150
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: ~50
 chase: 
-exclusive: 
+exclusive: yes
 secret_drop: 
-sold_where: 
+sold_where: bambaland.com
 bamba_points: 
 packaging_type: 
 product_code_/_link: 2XBKIMSETFA

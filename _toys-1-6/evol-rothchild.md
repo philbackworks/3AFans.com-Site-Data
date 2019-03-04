@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: Mini Caesar (red)
 edition_qty: unknown
 exclusive:
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -25,6 +25,8 @@ variants:
   -  EVOL Battlechild Rothchild
 you_might_also_like:
 article_contributors: [Phil Back]
+toy_pics:
+  -  evol-darwin-rothchild-01-6-by-foreignparticle.jpg
 backstory:
 ---
 World War Robot: EVOL ... This version of Rothchild features a wicked cybernetic arm, eyepatch and shoulder holster.

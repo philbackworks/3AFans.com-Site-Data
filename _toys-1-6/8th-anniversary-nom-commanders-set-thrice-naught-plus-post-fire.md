@@ -5,7 +5,7 @@ toy_name: 8th Anniversary NOM Commanders Set - Thrice Naught + Post Fire
 permalink: /toys-1-6/8th-anniversary-nom-commanders-set-thrice-naught-plus-post-fire.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: NOM
 layout: layout-toy-detail
 categories: 
 release_date: 6/25/2016
@@ -13,6 +13,7 @@ release_price: $280
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 

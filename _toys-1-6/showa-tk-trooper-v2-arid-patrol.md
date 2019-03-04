@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: showa-tk-trooper-v2-arid-patrol
 toy_name: Showa TK Trooper V2 - Arid Patrol
 permalink: /toys-1-6/showa-tk-trooper-v2-arid-patrol.html
-world: Star Wars Alternate
+world: SW Alt
 world_abr: 
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/16/2016

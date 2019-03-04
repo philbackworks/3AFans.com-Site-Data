@@ -4,7 +4,7 @@ toy_id: shit-got-real-dark-jc
 toy_name: Shit Got Real Dark JC
 permalink: /toys-1-6/shit-got-real-dark-jc.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

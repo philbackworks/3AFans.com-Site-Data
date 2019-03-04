@@ -4,8 +4,8 @@ toy_id: the-diys
 toy_name: The DIYS
 permalink: /toys-1-6/the-diys.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 10/25/2012

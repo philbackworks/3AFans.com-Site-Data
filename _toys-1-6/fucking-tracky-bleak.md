@@ -4,7 +4,7 @@ toy_id: fucking-tracky-bleak
 toy_name: Fucking Tracky Bleak
 permalink: /toys-1-6/fucking-tracky-bleak.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

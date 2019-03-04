@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: mighty-squares
 toy_name: Mighty Squares
 permalink: /toys-1-6/mighty-squares.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -35,3 +35,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"Mighty was the largest of all Squares!" - Ashley Wood

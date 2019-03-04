@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: peaceday-dropcloth
 toy_name: Peaceday Dropcloth
 permalink: /toys-1-6/peaceday-dropcloth.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -4,7 +4,7 @@ toy_id: robot-finger-gang-faux-retailer-box
 toy_name: Robot Finger Gang Faux Retailer Box
 permalink: /toys-1-6/robot-finger-gang-faux-retailer-box.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

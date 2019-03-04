@@ -14,7 +14,7 @@ size: 12 inches tall
 comes_with: 
 edition_qty: unknown
 exclusive: no
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: two-pack box with Shadow Tommy
 designer: Ashley Wood

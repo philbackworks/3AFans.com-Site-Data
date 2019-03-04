@@ -4,8 +4,8 @@ toy_id: interloper-oya
 toy_name: Interloper Oya
 permalink: /toys-1-6/interloper-oya.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 3/11/2011

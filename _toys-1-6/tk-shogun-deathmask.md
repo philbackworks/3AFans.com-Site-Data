@@ -4,8 +4,8 @@ toy_id: tomorrow-king-shogun-deathmask
 toy_name: Tomorrow King Shogun Deathmask
 permalink: /toys-1-6/tomorrow-king-shogun-deathmask.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 9/19/2015

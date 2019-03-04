@@ -4,8 +4,8 @@ toy_id: tk-aki-and-kiba-lan-club-set
 toy_name: TK Aki & Kiba Lan Club Set
 permalink: /toys-1-6/tk-aki-and-kiba-lan-club-set.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2/24/2009

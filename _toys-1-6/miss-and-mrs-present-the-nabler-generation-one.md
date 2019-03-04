@@ -4,7 +4,7 @@ toy_id: miss-and-mrs-present-the-nabler-generation-one
 toy_name: Miss and Mrs present The Nabler Generation One
 permalink: /toys-1-6/miss-and-mrs-present-the-nabler-generation-one.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

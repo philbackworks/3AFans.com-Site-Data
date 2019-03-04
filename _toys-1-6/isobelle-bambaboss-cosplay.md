@@ -4,7 +4,7 @@ toy_id: isobelle-bambaboss-cosplay
 toy_name: Isobelle Bambaboss Cosplay
 permalink: /toys-1-6/isobelle-bambaboss-cosplay.html
 world: The World of Isobelle Pascha
-world_abr: 
+world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -28,13 +28,10 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+  -  isobelle-bambaboss-cosplay-01-6-by-phil-back.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

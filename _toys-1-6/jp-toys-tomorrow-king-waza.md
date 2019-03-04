@@ -5,7 +5,7 @@ toy_name: JP TOYS Exclusive Popbot Tomorrow King Waza
 permalink: /toys-1-6/jp-toys-tomorrow-king-waza.html
 world: Popbot
 world_abr: POP
-character_base: Male
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 1/10/13

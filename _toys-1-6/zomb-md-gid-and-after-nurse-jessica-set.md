@@ -4,7 +4,7 @@ toy_id: zomb-md-gid-and-after-nurse-jessica-set
 toy_name: Zomb MD GID and After Nurse Jessica Set
 permalink: /toys-1-6/zomb-md-gid-plus-after-nurse-jessica-set.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

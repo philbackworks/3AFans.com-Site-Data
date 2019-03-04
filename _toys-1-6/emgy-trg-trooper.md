@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: emgy-trg-trooper
 toy_name: EMGY TRG Trooper
 permalink: /toys-1-6/emgy-trg-trooper.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -26,8 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, quietstorm__]
 toy_pics: 
+  -  emgy-trg-trooper_01_6_by_quietstorm-dot__.jpg
+  -  emgy-trg-trooper_02_6_by_quietstorm-dot__.jpg
   -  emgy-grunt-01-6-by-foreignparticle.jpg
 backstory: 
 sale_type: 

@@ -4,8 +4,8 @@ toy_id: hatchery-guard-tomorrow-king
 toy_name: Hatchery Guard Tomorrow King
 permalink: /toys-1-6/hatchery-guard-tomorrow-king.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 6/25/2010

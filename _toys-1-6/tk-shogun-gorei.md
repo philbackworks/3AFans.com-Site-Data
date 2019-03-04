@@ -4,8 +4,8 @@ toy_id: tomorrow-king-shogun-gorei
 toy_name: Tomorrow King Shogun Gorei
 permalink: /toys-1-6/tomorrow-king-shogun-gorei.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/20/2012
@@ -29,6 +29,8 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
   -  tk-shogun-gorei-01-6.jpg
+  -  tk-shogun-gorei-03-6-by-dk_kuro.jpg
+  -  tk-shogun-gorei-02-6-by-dk_kuro.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

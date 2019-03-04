@@ -13,6 +13,7 @@ release_price: $200
 scale: one sixth
 size: 12 inches
 comes_with: Blind Nabler head
+multipack: yes
 edition_qty: Limited
 chase: 
 exclusive: 
@@ -38,3 +39,5 @@ event_details:
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
 Miss + Mrs
+
+"Girl Neptune is one of "The Seven". (Sham, Lass, Misty Slush, MS and MRS), who "can do just about anything". They represent a circle around Lasstranaut, who sits in the middle." - <a href="https://www.worldofthreea.com/threea-production-blog/qa41" target="_blank">ThreeA Q and A, Ashley Wood</a>

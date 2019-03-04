@@ -4,8 +4,8 @@ toy_id: classic-tq
 toy_name: Classic TQ
 permalink: /toys-1-6/classic-tq.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 1/22/2016

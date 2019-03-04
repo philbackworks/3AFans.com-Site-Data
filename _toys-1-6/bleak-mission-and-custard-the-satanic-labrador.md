@@ -4,7 +4,7 @@ toy_id: bleak-mission-and-custard-the-satanic-labrador
 toy_name: Bleak Mission and Custard the Satanic Labrador
 permalink: /toys-1-6/bleak-mission-and-custard-the-satanic-labrador.html
 world: Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -13,6 +13,7 @@ release_price: $85
 scale: one sixth
 size: 12 inches
 comes_with: 
+multipack: yes
 edition_qty: 
 chase: 
 exclusive: 

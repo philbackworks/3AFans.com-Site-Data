@@ -8,6 +8,7 @@ world_abr: MAR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [licensed]
 release_date: 10/31/2014
 release_price: $220 
 scale: one sixth
@@ -25,7 +26,14 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Doctor Doom Classic Edition
+  -  Doctor Doom Ghost Edition
 you_might_also_like: 
+  -  Peter Parker Spider-Man Stealth Edition
+  -  Black Widow
+  -  Night Mission Captain America
+  -  Ultron Classic Edition
+  -  Steel Detective Batman
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
 toy_pics: 
   -  doctor-doom-stealth-edition-01-6.jpg

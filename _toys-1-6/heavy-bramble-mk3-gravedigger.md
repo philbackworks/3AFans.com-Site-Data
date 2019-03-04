@@ -3,15 +3,15 @@ layout: layout-toy-detail
 toy_id: heavy-bramble-mk3-gravedigger
 toy_name: Heavy Bramble MK3 Gravedigger
 permalink: /toys-1-6/heavy-bramble-mk3-gravedigger.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 8/12/2010
 release_price: $280 
 scale: one sixth
-size: 12 inches
+size: big!
 comes_with: 
 edition_qty: 
 chase: 
@@ -26,15 +26,16 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
-backstory: 
+  -  bramble-gravedigger-01-6-by-frutiger_.jpg
+  -  heavy-bramble-grave-digger-03-6-by-phil-back.jpg
+  -  heavy-bramble-grave-digger-02-6-by-phil-back.jpg
+  -  heavy-bramble-grave-digger-01-6-by-phil-back.jpg
+  -  heavy-bramble-grave-digger-04-6-by-phil-back.jpg
+backstory: Need clarification on v2.5 vs v3?
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

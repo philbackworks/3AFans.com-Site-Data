@@ -5,7 +5,7 @@ toy_name: BP Girl 001 Mallory
 permalink: /toys-1-6/bp-girl-001-mallory.html
 world: Bandage + Purrs
 world_abr: 
-character_base: 
+character_base: Female
 layout: layout-toy-detail
 categories: 
 release_date: 7/22/2014
@@ -19,7 +19,7 @@ exclusive:
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Bag and card
 product_code_/_link: 00000000BPG1
 designer: Ashley Wood
 makers: 
@@ -33,8 +33,5 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+BP = Bandage + Purrs

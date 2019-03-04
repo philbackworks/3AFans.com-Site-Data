@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: evol-marquis-de-plume-plus-prey-box-set
 toy_name: EVOL Marquis de Plume plus Prey Box Set
 permalink: /toys-1-6/evol-marquis-de-plume-plus-prey-box-set.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

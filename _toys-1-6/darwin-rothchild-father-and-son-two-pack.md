@@ -7,6 +7,7 @@ world_abr: WWR
 character_base: Rothchild
 layout: layout-toy-detail
 categories: [onesixth, EVOL, 3AAexclusive]
+tags: [red, caesar, young rothchild, mini bertie, shield, r.i.p, rip, 003, 2-pack, two pack, multiple figures, 3aa exclusive]
 release_date: 11/24/2014
 release_price: 
 scale: one sixth
@@ -14,7 +15,7 @@ size: 12 inches tall
 comes_with: Caesar 003 (Red) - Badass!
 edition_qty: unknown
 exclusive: yes
-secret_drop: no
+secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
@@ -27,8 +28,10 @@ variants:
   -  Darwin Rothchild Funeral Party Edition
 you_might_also_like: 
   -  Caesar RIP 001
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, foreignparticle, frutiger_]
 toy_pics: 
+  -  darwin-rothchild-father-and-son-two-pack-red-caesar-01-6-by-foreignparticle.jpg
+  -  RIP-003-caesar-01-6-by-frutiger_.jpg
 backstory:
 ---
 3AA Exclusive Edition

@@ -5,7 +5,7 @@ toy_name: Tomorrow Andy
 permalink: /toys-1-6/tomorrow-andy.html
 world: Popbot
 world_abr: POP
-character_base: Andy
+character_base: Male
 layout: layout-toy-detail
 categories: 
 release_date: 12/22/2015

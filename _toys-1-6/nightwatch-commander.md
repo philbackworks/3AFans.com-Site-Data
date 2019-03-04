@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: nightwatch-commander
 toy_name: Nightwatch Commander
 permalink: /toys-1-6/nightwatch-commander.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

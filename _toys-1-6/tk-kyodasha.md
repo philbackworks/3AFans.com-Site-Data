@@ -4,8 +4,8 @@ toy_id: tk-kyodasha
 toy_name: TK Kyodasha
 permalink: /toys-1-6/tk-kyodasha.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 5/1/2014

@@ -5,7 +5,7 @@ toy_name: Yesterday Princess (RVHK Exclusive)
 permalink: /toys-1-6/yesterday-princess-rvhk-exclusive.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 4/10/2012
@@ -31,6 +31,7 @@ toy_pics:
   -  yesterday-princess-rvhk-exclusive-yellow-hair-02-6-by-3a_boltman.jpg
   -  yesterday-princess-rvhk-exclusive-yellow-hair-03-6-by-3a_boltman.jpg
   -  RVHK-YESTERDAY-PRINCESS-01-6-by-foreignparticle.jpg
+  -  rvhk-yesterday-princess-01-6-by-philback.jpg
 backstory: $10 S/H. Blind box. First sold as part of RVHK Exclusive set B - Bambaland allotment sold on 2012.05.07
 sale_type: 
 event_exclusive: 

@@ -32,11 +32,12 @@ you_might_also_like:
   -  Nom De Plume Final Fight  
   -  Sombre De Plume  
   -  Barguest De Plume
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, luciferbeck]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, luciferbeck, quietstorm__]
 toy_pics: 
   -  nom-27-01-6.jpg
   -  nom-27-02-6.jpg
   -  nom-27-the-first-disciple_01_6_by_foreignparticle.jpg
+  -  nom-27_01_6_by_quietstorm-dot__.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

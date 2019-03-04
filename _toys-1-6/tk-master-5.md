@@ -5,9 +5,10 @@ toy_name: TK Master 5
 permalink: /toys-1-6/tk-master-5.html
 world: Popbot
 world_abr: POP
-character_base: Master 5
+character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [orange hair, robotic arm]
 release_date: 6/29/2016
 release_price: $180 
 scale: one sixth
@@ -26,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono, 3a_boltman]
 toy_pics: 
   -  tk-master-5-orange-hair-robot-arm-01-6-by-absolutemono.jpg
+  -  master-5-tk-robot-arm-orange-hair-01-6-by-3a_boltman.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: caesar-diy-ltd
 toy_name: Caesar DIY LTD
 permalink: /toys-1-6/caesar-diy-ltd.html
-world: WWR
-world_abr: 
+world: World War Robot
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 

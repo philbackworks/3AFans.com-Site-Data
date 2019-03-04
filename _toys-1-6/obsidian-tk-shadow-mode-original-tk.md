@@ -4,8 +4,8 @@ toy_id: obsidian-tk-shadow-mode-original-tk
 toy_name: Obsidian TK (Shadow Mode Original TK)
 permalink: /toys-1-6/obsidian-tk-shadow-mode-original-tk.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 11/27/2014

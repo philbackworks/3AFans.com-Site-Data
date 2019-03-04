@@ -4,7 +4,7 @@ toy_id: zaku
 toy_name: Zaku
 permalink: /toys-1-6/zaku.html
 world: Bandai
-world_abr: 
+world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -26,15 +26,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, pcww88]
 toy_pics: 
+  -  zaku-02-non-scale-by-frutiger_.jpg
+  -  zaku-01-non-scale-by-frutiger_.jpg
+  -  zaku-01-6-by-pcww88-patrick-wong.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

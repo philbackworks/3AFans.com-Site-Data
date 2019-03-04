@@ -4,8 +4,8 @@ toy_id: tk-undernaut-kozo-origin-hunter
 toy_name: TK Undernaut Kozo (Origin Hunter)
 permalink: /toys-1-6/tk-undernaut-kozo-origin-hunter.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2/9/2014
@@ -35,3 +35,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Kozo wears an breathing mask when traversing the Underverse, where there is no oxygen.

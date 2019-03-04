@@ -4,8 +4,8 @@ toy_id: search-and-destroy-shadow-tq
 toy_name: Search & Destroy Shadow TQ
 permalink: /toys-1-6/search-and-destroy-shadow-tq.html
 world: Popbot
-world_abr: 
-character_base: 
+world_abr: POP
+character_base: TQ
 layout: layout-toy-detail
 categories: 
 release_date: 2014.04.12

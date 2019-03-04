@@ -35,10 +35,11 @@ toy_pics:
   -  marquis-de-plume-01-6.jpg
   -  marquis-de-plume-02-6.jpg
   -  marquis-de-plume-03-6.jpg
+  -  nom-de-plume-marquis-rare-sketch-by-ashley-wood.jpg
 backstory: Chance for a Marquis drawing by Ashley Wood
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
- 
+ "The double tank denote a different make up of veil parting gases, they have many varied mixes depending on their path! Marquis are strong and talented bunch, but as evolution has shown there is always bigger and stronger, on both sides of the path. The NOM story is great fun for me, I will be introducing some new players soon, Fallen and the Callen!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Q and A #39</a> 

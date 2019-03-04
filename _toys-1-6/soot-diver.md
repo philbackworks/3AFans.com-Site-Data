@@ -4,7 +4,7 @@ toy_id: soot-diver
 toy_name: Soot Diver
 permalink: /toys-1-6/soot-diver.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

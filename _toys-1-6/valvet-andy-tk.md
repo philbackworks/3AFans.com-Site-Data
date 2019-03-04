@@ -4,7 +4,7 @@ toy_id: valvet-andy-tk
 toy_name: Valvet Andy TK
 permalink: /toys-1-6/valvet-andy-tk.html
 world: Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

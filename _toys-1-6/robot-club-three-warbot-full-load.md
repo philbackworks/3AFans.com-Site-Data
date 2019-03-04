@@ -26,8 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Keguang-Kho]
 toy_pics: 
+  -  robot-club-three-warbot-full-load-01-6-by-frutiger_.jpg
+  -  robot-club-three-warbot-full-load-02-6-by-frutiger_.jpg
+  -  warbot-02-6-BY-KEGUANG_KHO.jpg
 backstory: Resident sale until 2/28/2018. 3rd of 3 ROBOT CLUB releases towards free Desert Stroll Bot
 sale_type: 
 event_exclusive: 
