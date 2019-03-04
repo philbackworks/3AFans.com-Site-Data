@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: sky-blast-blue-gid
-toy_name: Sky Blast (Blue GID)
+toy_name: Sky Blast Blue GID
 permalink: /toys-1-6/sky-blast-blue-gid.html
 world: Worlds Best Robots
 world_abr: WBR
@@ -26,6 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  REMUS 
+  -  ROMULUS
+  -  MARS Ghost of Guangzhou GID
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
 backstory: Surprise LTD Drop

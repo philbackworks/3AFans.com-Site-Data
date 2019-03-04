@@ -26,6 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  REMUS 
+  -  Sky Blast Blue GID
+  -  MARS Ghost of Guangzhou GID
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
 backstory: 
