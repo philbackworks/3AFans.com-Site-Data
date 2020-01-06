@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0MBDIY20P
+product_code: 0MBDIY20P
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,7 +28,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
-  # -  bag-o-mini-berties-20_01_6_by_lumpyheadstudios.jpg
+  -  bag-o-mini-berties_01_6_by_lumpyheadstudios.jpg
 backstory: 20 DIY Mini Berties
 sale_type: 
 event_exclusive: 

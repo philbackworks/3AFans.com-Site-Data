@@ -8,6 +8,7 @@ world_abr: AK
 character_base: Zomb
 layout: layout-toy-detail
 categories: 
+tags: [yellow]
 release_date: 1/1/2011
 release_price: $80 
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 2011B
+product_code: 2011B
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,8 +29,9 @@ variants:
   -  Acolyte Zomb Black Boiler Suit
   -  Acolyte Zomb Orange Boiler Suit
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3A_boltman]
 toy_pics: 
+  -  yellow-zomb-01-6-by_3a_boltman.jpg
 backstory: 3 versions - Orange, black or yellow boiler suit
 sale_type: 
 event_exclusive: 

@@ -28,13 +28,13 @@ article_contributors: [Phil Back, dai88cc]
 toy_pics:
   -  ankou-ex-medic-01-6-by-dai88cc.jpg
 you_might_also_like:
-  -  Ankou Johan
+  -  Ankou Johan LSBBG
   -  Ankou Asclepius
-  -  Ankou Police
+  -  Ankou Newandria Police
 backstory:
 tags: medic
 ---
 From the Official ThreeA promotional materials:
 
 "He opens the wound, he doesn't close it."
-1/6th, 14.5" tall, fully articulated body, heavily weathered white-ish body with dirty white jump suit, left sleeve is red.
+1/6th, 14.5" tall, fully articulated body, heavily weathered white-ish body with dirty white jump suit, left sleeve is red. 

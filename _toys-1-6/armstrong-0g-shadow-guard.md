@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Armstrong 
 layout: layout-toy-detail
 categories: 
+tags: [harrison, og]
 release_date: 8/18/2009
 release_price: $250 
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: ASWWR
+product_code: ASWWR
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -30,6 +31,7 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88, frutiger_]
 toy_pics: 
   -  armstrong-shadow-guard-0g-01-6-by-pcww88-patrick-wong.jpg
   -  Shadow-Guard-Armstrong-01-6-by_frutiger_.jpg
+  -  armstrong-shadow-guard-harrison-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: GT006
+product_code: GT006
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -33,8 +33,6 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+"Like any army, they are made up people who love for the ideal of it, love to kill, love adventure or just looking for a place to fit in!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#11)</a></cite>

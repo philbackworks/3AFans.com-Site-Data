@@ -25,7 +25,7 @@ you_might_also_like:
   -  Data Liberator Aki
   -  Data Liberator Kiba
   -  TK Yoji
-  -  TK Ronin Moon
+  -  RONIN TK MOON
   -  Interloper Heavy IH001
   -  TK Kenshiro Negro
 article_contributors: [Phil Back, foreignparticle]

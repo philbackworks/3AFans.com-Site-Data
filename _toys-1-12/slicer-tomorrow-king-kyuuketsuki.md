@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: slicer-tomorrow-king-kyuuketsuki
 toy_name: Slicer Tomorrow King Kyuuketsuki
-permalink: /toys-1-6/slicer-tomorrow-king-kyuuketsuki.html
+permalink: /toys-1-12/slicer-tomorrow-king-kyuuketsuki.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/27/2012
 release_price: $55 
 scale: one twelve

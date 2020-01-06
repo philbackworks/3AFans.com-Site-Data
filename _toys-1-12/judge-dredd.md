@@ -4,7 +4,7 @@ toy_name: Judge Dredd
 permalink: /toys-1-12/judge-dredd.html
 world: 2000 AD
 world_abr: 2K
-character_base: n/a
+character_base: Judge
 layout: layout-toy-detail
 categories: [2000AD, onetwelve]
 release_date: 
@@ -20,11 +20,17 @@ packaging_type: 13" card
 designer: Ashley Wood
 makers: Design inspired by Carlos Ezquerra, Brian Bolland, and Mike McMahon
 points_of_articulation: 30
-variants: no
+variants:
+  -  Judge Dredd Classic Comic Book Edition
 you_might_also_like:
-  -  Judge Death
+  -  Judge Dredd plus Lawmaster MK1 Set
+  -  Judge Dredd plus Lawmaster MK1 Set Classic Comic Book Edition
   -  Judge Fear 
-  -  Judge Mortis 
+  -  Judge Mortis
+  -  Judge Death
+  -  Judge Death Classic Comic Book Edition
+  -  Judge Fish and Gronk Set
+  -  Judge Fish and Gronk Set Comic Version
 article_contributors: [Phil Back]
 backstory:
 ---

@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [rocket launcher, rpg, bazooka, missile, red, black, tomorrow king]
 release_date: 11/25/2009
 release_price: $120 
 scale: one sixth
@@ -20,14 +21,16 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, saaaa_muel]
 toy_pics: 
+  -  heavy-tk-soh_01-6_by_saaaa_muel_via_instagram.jpg
+  -  heavy-tk-soh-rocket-launcher-red-shirt_01_6_by_foreignparticle.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

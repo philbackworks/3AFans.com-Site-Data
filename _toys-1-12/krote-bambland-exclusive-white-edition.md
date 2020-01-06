@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 11/30/2012
 release_price: $190 
 scale: one twelve

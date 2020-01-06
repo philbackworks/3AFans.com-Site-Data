@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: iron-panda-heavy-bramble
 toy_name: Iron Panda Heavy Bramble
-permalink: /toys-1-6/iron-panda-heavy-bramble.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/iron-panda-heavy-bramble.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 11/14/2011
 release_price: $55 
 scale: one twelve

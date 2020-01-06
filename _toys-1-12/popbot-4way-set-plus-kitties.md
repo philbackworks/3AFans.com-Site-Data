@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: popbot-4way-set-plus-kitties
 toy_name: Popbot 4Way Set + Kitties
-permalink: /toys-1-6/popbot-4way-set-plus-kitties.html
+permalink: /toys-1-12/popbot-4way-set-plus-kitties.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/3/2012
 release_price: $180 
 scale: one twelve

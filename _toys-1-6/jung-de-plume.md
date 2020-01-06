@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: JDP06
+product_code: JDP06
 designer: Ashley Wood
 makers: 
 points_of_articulation: 30

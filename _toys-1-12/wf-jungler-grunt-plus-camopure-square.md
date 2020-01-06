@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: wf-jungler-grunt-plus-camopure-square
 toy_name: WF Jungler Grunt + Camopure Square
-permalink: /toys-1-6/wf-jungler-grunt-plus-camopure-square.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/wf-jungler-grunt-plus-camopure-square.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 3/9/2013
 release_price: $45 
 scale: one twelve

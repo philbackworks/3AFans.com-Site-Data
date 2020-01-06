@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: square
 toy_name: Square
-permalink: /toys-1-6/square.html
+permalink: /toys-non-scale/square.html
 world: GACHA Toy
 world_abr: 
 character_base: 

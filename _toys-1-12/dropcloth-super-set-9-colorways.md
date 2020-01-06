@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: dropcloth-super-set-9-colorways
-toy_name: Dropcloth Super Set (9 colorways)
-permalink: /toys-1-6/dropcloth-super-set-9-colorways.html
-world: WWRp
-world_abr: 
+toy_name: Dropcloth Super Set 9 colorways
+permalink: /toys-1-12/dropcloth-super-set-9-colorways.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/15/2013
 release_price: $230 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

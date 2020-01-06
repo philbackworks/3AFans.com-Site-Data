@@ -21,7 +21,7 @@ secret_drop:
 sold_where: RVHK (Hong Kong Event), then bambaland.com
 bamba_points: 
 packaging_type: Blind box
-product_code_/_link: 12RVHKOGTK
+product_code: 12RVHKOGTK
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

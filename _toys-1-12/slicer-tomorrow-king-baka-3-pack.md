@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: slicer-tomorrow-king-baka-3-pack
 toy_name: Slicer Tomorrow King Baka 3 Pack
-permalink: /toys-1-6/slicer-tomorrow-king-baka-3-pack.html
+permalink: /toys-1-12/slicer-tomorrow-king-baka-3-pack.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/27/2012
 release_price: $145 
 scale: one twelve

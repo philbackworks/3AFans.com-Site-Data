@@ -1,7 +1,8 @@
 ---
+contributor_id: 3a_boltman
 layout: layout-contributor
 name: 3a_boltman
-country: 
+country: USA
 links:
   instagram: https://www.instagram.com/3a_boltman
   facebook:

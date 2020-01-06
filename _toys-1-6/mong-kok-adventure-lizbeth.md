@@ -8,33 +8,31 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [black and white stripes, jj mcgee handbag, pink hair, leggings]
 release_date: 1/12/2015
 release_price: $120 
 scale: one sixth
-size: 12 inches
+size: 13 inches
 comes_with: 
 edition_qty: 
 chase: 
-exclusive: TSHK
+exclusive: Toy Soul Hong Kong 2015
 secret_drop: 
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000000000MKL
-designer: Ashley Wood
-makers: 
-points_of_articulation: 
+product_code: 00000000000000MKL
+designer: TP Louise
+makers: Ashley Wood
+points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
-backstory: Pre-made. Toysoul HK 2014 Exclusive leftover stock
+  -  mong-kok-adventure-lizbeth_01-6_by_SZUTSUNG_via_instagram.jpg
+backstory: Pre-made and limited to 50. Toysoul HK 2014 Exclusive, leftover stock
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

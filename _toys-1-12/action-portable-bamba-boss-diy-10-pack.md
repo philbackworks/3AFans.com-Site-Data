@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: action-portable-bamba-boss-diy-10-pack
 toy_name: Action Portable Bamba Boss DIY 10 Pack
-permalink: /toys-1-6/action-portable-bamba-boss-diy-10-pack.html
+permalink: /toys-1-12/action-portable-bamba-boss-diy-10-pack.html
 world: BambaBoss
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/1/2011
 release_price: $200 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

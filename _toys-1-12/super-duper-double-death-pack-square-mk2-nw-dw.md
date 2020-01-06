@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: super-duper-double-death-pack-square-mk2-nw-dw
 toy_name: WWRp Super Duper Double Death Pack Square MK2 NW-DW
-permalink: /toys-1-6/super-duper-double-death-pack-square-mk2-nw-dw.html
+permalink: /toys-1-12/super-duper-double-death-pack-square-mk2-nw-dw.html
 world: World War Robot portable
 world_abr: WWRP
 character_base: Robot
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/21/13
 release_price: $30 USD
 scale: one twelve

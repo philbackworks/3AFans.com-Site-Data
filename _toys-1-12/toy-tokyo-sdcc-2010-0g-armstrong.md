@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: toy-tokyo-sdcc-2010-0g-armstrong
 toy_name: Toy Tokyo SDCC 2010 0G Armstrong
-permalink: /toys-1-6/toy-tokyo-sdcc-2010-0g-armstrong.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/toy-tokyo-sdcc-2010-0g-armstrong.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/23/2010
 release_price: $78 
 scale: one twelve

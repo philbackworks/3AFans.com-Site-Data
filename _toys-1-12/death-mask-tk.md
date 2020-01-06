@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: death-mask-tk
 toy_name: Death Mask TK
-permalink: /toys-1-6/death-mask-tk.html
+permalink: /toys-1-12/death-mask-tk.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [tomorrow king, action portable, deathmask]
+tags: [action portable, ap, tomorrow king, action portable, deathmask]
 release_date: 5/29/2016
 release_price: $0 
 scale: one twelve
@@ -34,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

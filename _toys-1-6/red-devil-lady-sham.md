@@ -7,6 +7,7 @@ world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: [onesixth]
+tags: [red]
 release_date: 6/6/2012
 release_price: $100 USD
 scale: one sixth
@@ -26,9 +27,11 @@ variants:
 you_might_also_like:
   -  Blind Cowboy
   -  Ghost Horse
-article_contributors: [Phil Back, luciferbeck]
+article_contributors: [Phil Back, luciferbeck, 3a_boltman, fdk_ksu]
 toy_pics:
+  -  red-devil-lady-sham-01-6-by-3A_boltman.jpg
   -  red-devil-lady-sham-01-6.jpg
+  -  red-devil-lady-sham-01-6_by_fdk_ksu_via_instagram.jpg
 backstory:
 ---
 3AA Exclusive - Limited set with Mr. Bridger (sock devil hand puppet who talks to Lady Sham!)

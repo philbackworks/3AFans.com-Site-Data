@@ -8,6 +8,7 @@ world_abr: 2K
 character_base: Judge Dredd
 layout: layout-toy-detail
 categories: 
+tags: [judge dred, dread, red, green, gold]
 release_date: 2/11/2017
 release_price: $220 
 scale: one sixth
@@ -20,16 +21,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: DREDDAPWAR
+product_code: DREDDAPWAR
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono, frutiger_]
 toy_pics: 
   -  apokalypse-war-judge-dredd-01-6-by-absolutemono.jpg
   -  apokalypse-war-judge-dredd-02-6-by-absolutemono.jpg
+  -  apokalypse-war-judge-dredd-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

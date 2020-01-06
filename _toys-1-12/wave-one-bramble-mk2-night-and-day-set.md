@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: wave-one-bramble-mk2-night-and-day-set
 toy_name: WAVE ONE Bramble MK2 Night and Day set
-permalink: /toys-1-6/wave-one-bramble-mk2-night-and-day-set.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/wave-one-bramble-mk2-night-and-day-set.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/20/2009
 release_price: $120 
 scale: one twelve

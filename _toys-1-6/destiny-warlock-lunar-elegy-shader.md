@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -32,7 +32,7 @@ you_might_also_like:
   -  Destiny Titan Hanged Man Shader
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: Retailer Exclusive
+backstory: Retailer Exclusive; Market update - sold on ebay for $143.50, March 2019.
 sale_type: 
 event_exclusive: 
 event_details: 

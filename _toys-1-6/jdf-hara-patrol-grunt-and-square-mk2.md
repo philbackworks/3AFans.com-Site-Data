@@ -1,14 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: jdf-hara-patrol-grunt-and-square-mk2
-toy_name: JDF Hara Patrol Grunt & Square MK2
+toy_name: JDF Hara Patrol Grunt and Square MK2
 permalink: /toys-1-6/jdf-hara-patrol-grunt-and-square-mk2.html
 world: World War Robot
 world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [2-pack, two way, square]
+tags: [2-pack, two way, square, JDF, red, white, stripe, circle, japanese, defence, force]
 release_date: 2/10/2013
 release_price: JPY 14,286
 scale: one sixth
@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 1600
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

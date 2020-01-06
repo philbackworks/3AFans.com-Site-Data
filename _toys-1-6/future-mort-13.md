@@ -20,12 +20,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 3AA2018
+product_code: 3AA2018
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Dead Astronaut Gangsta White
+  -  Dead Astronaut Gangsta Set
+  -  Dark Dead Astronaut Gangsta
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, frutiger_, Patrick Wong]
 toy_pics: 
   -  future-mort-13-01-6-by-luciferbeck.jpg

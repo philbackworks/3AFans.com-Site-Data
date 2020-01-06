@@ -16,26 +16,25 @@ size: 12 inches
 comes_with: 
 edition_qty: 50
 chase: 
-exclusive: 
-secret_drop: 
+exclusive: yes
+secret_drop: yes
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: GIDB
+product_code: GIDB
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  Bambaboss 3AA
+  -  Bambaboss 01 Panda Boss
   -  Bambaboss 2nd Birthday Boss
   -  Bambaboss 3rd Birthday 3oss
   -  Bambaboss 6th Year
-  -  Bambaboss 01 Panda Boss
   -  Bambaboss Jeaboss
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: Second 3A site launch secret release
+backstory: Second secret release for the 3A site launch back in 2009
 sale_type: 
 event_exclusive: 
 event_details: 

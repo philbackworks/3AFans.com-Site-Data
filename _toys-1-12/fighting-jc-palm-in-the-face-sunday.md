@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: fighting-jc-palm-in-the-face-sunday
 toy_name: Fighting JC Palm in the Face Sunday
-permalink: /toys-1-6/fighting-jc-palm-in-the-face-sunday.html
+permalink: /toys-1-12/fighting-jc-palm-in-the-face-sunday.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 9/5/2012
 release_price: $45 
 scale: one twelve

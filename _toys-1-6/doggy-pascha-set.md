@@ -21,11 +21,14 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000DPS
+product_code: 00000000DPS
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  KUMA ATTACK PASCHA BLIND SINGLE
+  -  Shadow Krieger Kuma
+  -  Kuma Attack Pascha 3 Pack
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, mikeyuenism]
 toy_pics: 

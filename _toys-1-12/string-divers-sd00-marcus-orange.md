@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-sd00-marcus-orange
 toy_name: String Divers SD00 Marcus Orange
-permalink: /toys-1-6/string-divers-sd00-marcus-orange.html
+permalink: /toys-1-12/string-divers-sd00-marcus-orange.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/4/2014
 release_price: $45 
 scale: one twelve

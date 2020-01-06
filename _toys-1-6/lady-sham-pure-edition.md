@@ -8,6 +8,7 @@ world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: 
+tags: [white]
 release_date: 6/6/2012
 release_price: $100 
 scale: one sixth
@@ -20,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 03SHAMWHITE
+product_code: 03SHAMWHITE
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, threealegionnaire]
 toy_pics: 
+  -  lady-sham-pure-white_01-6_3a-toys_by_threealegionnaire-via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

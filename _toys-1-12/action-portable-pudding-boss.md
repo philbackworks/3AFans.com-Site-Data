@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: action-portable-pudding-boss
 toy_name: Action Portable Pudding Boss
-permalink: /toys-1-6/action-portable-pudding-boss.html
+permalink: /toys-1-12/action-portable-pudding-boss.html
 world: BambaBoss
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/21/2011
 release_price: $25 
 scale: one twelve
@@ -25,9 +26,16 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+you_might_also_like:  
+  -  Action Portable 3rd Birthday Bamba 3OSS
+  -  Action Portable Bamba Boss 2nd Boss
+  -  Action Portable Devil Bamba
+  -  Action Portable Bamba Boss GID
+  -  Action Portable Black Bamba
+  -  Action Portable Bamba Boss JEA
+article_contributors: [Phil Back, Don Slater, MW Wutasi, bennynormal]
 toy_pics: 
+  -  bambaboss-pudding-boss-carded-ap_01-12_by_bennynormal_via_instagram.jpg
 backstory: $12 S/H
 sale_type: 
 event_exclusive: 

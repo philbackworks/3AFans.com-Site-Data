@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: shitty-9-member-one-harold-the-fucktard-mdl-defense-
 toy_name: SHITTY 9 Member One - Harold The Fucktard - MDL Defense 
-permalink: /toys-1-6/shitty-9-member-one-harold-the-fucktard-mdl-defense-.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/shitty-9-member-one-harold-the-fucktard-mdl-defense-.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/25/2015
 release_price: JPY 9,600 
 scale: one twelve

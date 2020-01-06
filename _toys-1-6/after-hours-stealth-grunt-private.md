@@ -21,7 +21,7 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: 
-product_code_/_link: GT001
+product_code: GT001
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

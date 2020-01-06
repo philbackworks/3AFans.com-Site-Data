@@ -2,16 +2,17 @@
 layout: layout-toy-detail 
 toy_id: romulus
 toy_name: ROMULUS
-permalink: /toys-1-6/romulus.html
+permalink: /toys-3ago/romulus.html
 world: Worlds Best Robots
 world_abr: WBR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [orange, robot, dark grey]
 release_date: 9/18/2014
 release_price: $230 
 scale: 3AGO
-size: 8 inches
+size: 24 inches
 comes_with: 
 edition_qty: 
 chase: 
@@ -29,8 +30,10 @@ you_might_also_like:
   -  REMUS 
   -  Sky Blast Blue GID
   -  MARS Ghost of Guangzhou GID
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  MARS
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
+  -  ROMULUS_01_6_by_abrader_john-mcdaniel.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

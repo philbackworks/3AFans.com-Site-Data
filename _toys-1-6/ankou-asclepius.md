@@ -27,7 +27,7 @@ variants:
   -  Ankou NLCS
   -  Ankou UNKNOWN
   -  Ankou NLCS Commander
-  -  Ankou Junglevet
+  -  Ankou Jungle Vet
   -  Johnson Ankou
 you_might_also_like:
   -  Nabler Guys

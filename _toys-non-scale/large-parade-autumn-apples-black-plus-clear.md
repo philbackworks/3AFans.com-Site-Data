@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
 toy_id: large-parade-autumn-apples-black-plus-clear
-toy_name: Large Parade Autumn Apples (Black + Clear)
-permalink: /toys-1-6/large-parade-autumn-apples-black-plus-clear.html
+toy_name: Large Parade Autumn Apples Black plus Clear
+permalink: /toys-non-scale/large-parade-autumn-apples-black-plus-clear.html
 world: PARADE
 world_abr: 
 character_base: 
@@ -10,8 +10,8 @@ layout: layout-toy-detail
 categories: 
 release_date: 4/10/2014
 release_price: $50 
-scale: one sixth
-size: 12 inches
+scale: non-scale
+size:
 comes_with: 
 edition_qty: 
 chase: 
@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 0
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21, lumpyheadstudios, absolutemono]
 toy_pics: 
+  -  large-parade-autumn-apple-black-01-6-by-absolutemono.jpg
   -  large-parade-autumn-apple-black-by-hwang_21-01-6.jpg
   -  large-parade-autumn-apple-clear_01_6_by_lumpyheadstudios.jpg
   -  large-parade-autumn-apple-clear_02_6_by_lumpyheadstudios.jpg

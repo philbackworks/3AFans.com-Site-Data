@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: okult-v-psyenze-hyper-seance-pilot-leg
 toy_name: Okult V Psyenze Hyper Seance Pilot Leg
-permalink: /toys-1-6/okult-v-psyenze-hyper-seance-pilot-leg.html
+permalink: /toys-1-1/okult-v-psyenze-hyper-seance-pilot-leg.html
 world: AW Collection
-world_abr: 
-character_base: 
+world_abr:
+character_base: Foot
 layout: layout-toy-detail
 categories: 
+tags: [severed, leg, foot, severedfoot]
 release_date: 
 release_price:  
 scale: one-to-one

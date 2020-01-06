@@ -21,20 +21,22 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000001BBS
+product_code: 00000001BBS
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Bambaboss 6th Year 3AA Version
 you_might_also_like: 
-  -  Bambaboss 3AA
+  -  Bambaboss 01 Panda Boss
   -  Bambaboss 2nd Birthday Boss
   -  Bambaboss 3rd Birthday 3oss
   -  Bambaboss Ghostbamba GID
-  -  Bambaboss 01 Panda Boss
   -  Bambaboss Jeaboss
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, wang2nobody, bennynormal]
 toy_pics: 
+  -  bambaboss-6th-anniversary_01-6_by_wang2nobody_via_instagram.jpg
+  -  bambaboss-6th-year_01-6_by_bennynormal_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

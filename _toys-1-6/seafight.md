@@ -8,7 +8,7 @@ character_base:
 layout: layout-toy-detail
 categories: []
 tags: [rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: NONE YET!
 size: 
@@ -30,6 +30,7 @@ you_might_also_like:
   -  Oliver Apple 10 inch Girl and Giant Mongolian Mountain Heel
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory: 
 ---
 This character is not a toy... yet! 

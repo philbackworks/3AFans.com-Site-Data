@@ -21,13 +21,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 3ADEC
+product_code: 3ADEC
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-you_might_also_like: 
-  -  Bambaboss 3AA
+you_might_also_like:
+  -  Bambaboss 01 Panda Boss
   -  Bambaboss 2nd Birthday Boss
   -  Bambaboss 3rd Birthday 3oss
   -  Bambaboss 6th Year

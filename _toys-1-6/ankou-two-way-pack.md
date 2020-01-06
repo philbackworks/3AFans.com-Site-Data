@@ -19,7 +19,7 @@ exclusive: yes
 secret_drop:
 sold_where: bambaland.com
 packaging_type: Exclusive 2-pack at bambaland.com
-product_code_/_link: 2WAY
+product_code: 2WAY
 designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30

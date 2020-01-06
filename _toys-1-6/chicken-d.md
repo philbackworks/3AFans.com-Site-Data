@@ -8,13 +8,13 @@ character_base:
 layout: layout-toy-detail
 categories: []
 tags: [rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: NONE YET!
 size: 
 comes_with: 
 edition_qty: 
-exclusive: no
+exclusive: 
 secret_drop:
 sold_where: 
 packaging_type: 
@@ -28,8 +28,9 @@ you_might_also_like:
   -  Peppermint Grove   
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory: Chicken D is the lackey henchman of Golden Dolphin (brother of Peppermint Grove).
 ---
-This character is not a toy...yet! 
+This character is not a toy... yet! 
 
 Chicken D - the henchman lackey of <a href="/toys-1-6/golden-dolphin/">Goldin Dolphin</a>, is mentioned on the packing of the <a href="/toys-1-6/peppermint-grove-robot-krieger/">Peppermint Grove</a> Black Onyx set. Looking forward to more information on this character.

@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: destiny-titan-retail-edition
-toy_name: Destiny Titan
+toy_name: Destiny Titan Retail Edition
 permalink: /toys-1-6/destiny-titan-retail-edition.html
 world: Destiny
 world_abr: Male
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [Bungie, video game, black, red]
 release_date: 7/27/2015
 release_price: $190 
 scale: one sixth
@@ -20,20 +21,23 @@ secret_drop:
 sold_where: thinkgeek.com
 bamba_points: 
 packaging_type: 
-product_code_/_link: DESTINYR1TITAN
+product_code: DESTINYR1TITAN
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
   -  Destiny Titan Hanged Man Shader
 you_might_also_like: 
-  -  Destiny Warlock Lunar Elegy Shader
   -  Destiny Warlock Old Guard Shader
   -  Destiny Warlock Chatterwhite Shader
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  Destiny Warlock Lunar Elegy Shader
+  -  Destiny 2 Titan Golden Trace Shader
+  -  Destiny 2 Titan Calus Selected Shader
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
   -  destiny-titan-red-retail-edition-01-6-by-phil-back.jpg
   -  destiny-titan-red-retail-edition-02-6-by-phil-back.jpg
+  - destiny-titan-red_01_6_by_abrader_john-mcdaniel.jpg
 backstory: Bambaland version comes with bonus Hawkmoon Exotic Hand Cannon
 sale_type: 
 event_exclusive: 

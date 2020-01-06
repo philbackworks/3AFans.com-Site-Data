@@ -2,16 +2,17 @@
 layout: layout-toy-detail 
 toy_id: kuntsler-bear-black-edition
 toy_name: Kuntsler Bear Black Edition
-permalink: /toys-1-6/kuntsler-bear-black-edition.html
-world: WO7174
-world_abr: WO7174
+permalink: /toys-non-scale/kuntsler-bear-black-edition.html
+world: GALA Milk
+world_abr: 
 character_base: Bear
 layout: layout-toy-detail
 categories: 
+tags: []
 release_date: 9/19/2015
-release_price: JPY 12,000 
-scale: one-to-one
-size: 6 inches
+release_price: 12,000 JPY
+scale: non-scale
+size: 11 inches
 comes_with: 
 edition_qty: 
 chase: 
@@ -26,11 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
-  -  kuntsler-bear-black-edition-usventure-01-6-by-philback.jpg
-  -  kuntsler-black-bear-01-6-by-frutiger_.jpg
-  -  kuntsler-bear-black-01-6-by-frutiger_.jpg
+  -  kuntsler-bear-black_01-6_by_SZUTSUNG_via_instagram.jpg
 backstory: $100 USD. Japan Venture 2015 Exclusive
 sale_type: 
 event_exclusive: 

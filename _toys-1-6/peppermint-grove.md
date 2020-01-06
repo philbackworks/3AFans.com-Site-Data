@@ -24,12 +24,17 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
+  -  Golden Dolphin
 article_contributors: [Phil Back, Don Slater, absolutemono]
 toy_pics: 
   -  peppermint-grove-01-6-by-absolutemono.jpg
-backstory: 
+backstory: Came with different boot colors - pink, yellow, blue, green, red, and white (rare!)
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no
 event_details: 
 source_doc: 3A2013a.xls
 ---
+"Q: How does Peppermint Grove captures her robot bounties? Does she use weapons or boobie traps or something even more wicked?
+
+A: Pep G is very smart, the opposite of GD, she will use whatever it takes, normally someone else!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#11)</a></cite>

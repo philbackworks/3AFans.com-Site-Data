@@ -8,6 +8,7 @@ world_abr: AK
 character_base: Zomb
 layout: layout-toy-detail
 categories: 
+tags: [2p, 2-way-2-pack, two-way, two-pack, set, multiple figures, brain]
 release_date: 12/7/2012
 release_price: $200 
 scale: one sixth
@@ -20,17 +21,21 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000GWC
+product_code: 000GWC
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
+  -  Frau Gehirns
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, John McDaniel]
 toy_pics: 
   -  removalists-zomb-2-pack-brain-thing-01-6.jpg
   -  removalists-zomb-2-pack-brain-thing-02-6.jpg
-backstory: Bambaland 1 hour sale. IDW black and white zomb sculpt twin set. Comes with 1/6 brain
+  -  Removalists Zomb_01_6_by_abrader_john-mcdaniel.jpg
+  -  Removalists Zomb_02_6_by_abrader_john-mcdaniel.jpg
+  -  Removalists Zomb_03_6_by_abrader_john-mcdaniel.jpg
+backstory: Bambaland 1 hour sale. IDW black and white zomb sculpt twin set. Comes with 1/6 brain (Frau Gehirns)
 sale_type: 
 event_exclusive: 
 event_details: 

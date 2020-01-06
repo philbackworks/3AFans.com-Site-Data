@@ -20,8 +20,8 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
-designer: Ashley Wood
+product_code:
+designer: TP Louise, Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 

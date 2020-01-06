@@ -20,7 +20,7 @@ secret_drop: yes
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000000DA
+product_code: 000000DA
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -33,7 +33,7 @@ toy_pics:
   -  debbie-applehair-red-hed-02-6-by-mikeyuenism.jpg
   -  debbie-applehair-red-hed-03-6-by-mikeyuenism.jpg
   -  debbie-applehair-red-hed-poster.jpg
-backstory: Surprise LTD Drop
+backstory: Surprise LTD Drop; Market update - sold on ebay for $282 + $30 shipping on 4-14-2019.
 sale_type: 
 event_exclusive: 
 event_details: 

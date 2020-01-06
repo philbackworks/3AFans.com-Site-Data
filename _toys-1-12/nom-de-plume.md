@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: nom-de-plume
 toy_name: Nom de Plume
-permalink: /toys-1-6/nom-de-plume.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/nom-de-plume.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/15/2010
 release_price: $150 
 scale: one twelve

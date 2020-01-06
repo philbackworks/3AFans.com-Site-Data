@@ -2,9 +2,9 @@
 layout: layout-toy-detail 
 toy_id: ashtro-lad-16-inch-anniversary-edition
 toy_name: Ashtro Lad 16 inch Anniversary Edition
-permalink: /toys-1-6/ashtro-lad-16-inch-anniversary-edition.html
-world: Popbot
-world_abr: POP
+permalink: /toys-non-scale/ashtro-lad-16-inch-anniversary-edition.html
+world: 3ADecade
+world_abr: 3AD
 character_base: Ashtro Lad
 layout: layout-toy-detail
 categories: 
@@ -28,6 +28,11 @@ variants:
   -  Ashtro Lad 16 Inch King Coal
   -  Ashtro Lad 16 Inch Tro Glow
 you_might_also_like: 
+  -  Ashtro Lad Decade
+  -  Ashtro Lad Sleepy 77
+  -  Ashtro Lad Moon Watch
+  -  Ashtro Lad Local Guardian
+  -  Ashtro Lad Dragon Bone Guard
 article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono]
 toy_pics: 
   -  ashtrolad-16-inches-01-6-by-absolutemono.jpg

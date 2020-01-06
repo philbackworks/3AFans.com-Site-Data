@@ -8,7 +8,7 @@ character_base: Female
 layout: layout-toy-detail
 categories: [AK, onesixth]
 tags: [rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: None yet!
 size: 
@@ -29,10 +29,10 @@ you_might_also_like:
   -  Ankou NLCS
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory:
 ---
-This character is not a toy.
-
-According to a Q&A session with Ash posted on worldofthreea.com 1/12/2014."
+This character has not been produced as a toy... yet!
 
 "Byron and the Hostess are AK characters, they run a restaurant that serves nothing but drinks, The Hostess is an ex SHADOW COMMANDO leftover from the carine glade conflict."
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>

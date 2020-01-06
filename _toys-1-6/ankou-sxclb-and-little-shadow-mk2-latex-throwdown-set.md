@@ -21,13 +21,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: ANKOUSXC
+product_code: ANKOUSXC
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, frutiger_]
 toy_pics: 
   -  ankou-sxclb-and-little-shadow-01-6-by-keguant-kho.jpg
   -  ankou-sxclb-and-little-shadow-02-6-by-keguant-kho.jpg
@@ -38,6 +38,7 @@ toy_pics:
   -  ankou-sxclb-and-little-shadow-07-6-by-keguant-kho.jpg
   -  ankou-sxclb-and-little-shadow-08-6-by-keguant-kho.jpg
   -  ankou-sxclb-and-little-shadow-09-6-by-keguant-kho.jpg
+  -  Little-Shadow-MK2-Latex-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

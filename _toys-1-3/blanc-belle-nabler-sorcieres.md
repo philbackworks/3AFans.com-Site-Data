@@ -26,8 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, kw9398ww]
 toy_pics: 
+  -  blanc-belle-nabler-sorcieres_01-3_by_kw9398kw_via_instagram.jpg
+  -  blanc-belle-nabler-sorcieres_02-3_by_kw9398kw_via_instagram.jpg
+  -  blanc-belle-nabler-sorcieres_03-3_by_kw9398kw_via_instagram.jpg
+  -  blanc-belle-nabler-sorcieres_04-3_by_kw9398kw_via_instagram.jpg
+  -  blanc-belle-nabler-sorcieres-foam-insert_01-3_by_kw9398kw_via_instagram.jpg
 backstory: LTD
 sale_type: 
 event_exclusive: 

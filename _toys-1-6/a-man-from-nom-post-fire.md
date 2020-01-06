@@ -20,14 +20,16 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Hung Yu Wen]
 toy_pics: 
+  -  a-man-from-nom-post-fire-01-6_by_hung-yu-wen.jpg
+  -  a-man-from-nom-post-fire-02-6_by_hung-yu-wen.jpg
 backstory: Shadow Commander HK Venture Exclusive
 sale_type: 
 event_exclusive: 

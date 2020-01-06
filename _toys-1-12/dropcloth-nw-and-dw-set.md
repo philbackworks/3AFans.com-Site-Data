@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: dropcloth-nw-and-dw-set
 toy_name: Dropcloth NW and DW Set
-permalink: /toys-1-6/dropcloth-nw-and-dw-set.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/dropcloth-nw-and-dw-set.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/15/2013
 release_price: $75 
 scale: one twelve

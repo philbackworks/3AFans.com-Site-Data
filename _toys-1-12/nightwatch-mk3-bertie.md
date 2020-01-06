@@ -29,4 +29,3 @@ faction: nightwatch
 portable: yes
 nickname: 
 ---
-More soon!

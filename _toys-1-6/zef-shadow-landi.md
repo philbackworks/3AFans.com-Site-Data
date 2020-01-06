@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: DADY
+product_code: DADY
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -35,3 +35,6 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+On the 'Shadow' and 'Soy' versions of characters:
+"They are just what they are, they don't consider good or bad as a disposition, just following their natural agenda, they do seem to have a distaste for robots though!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>

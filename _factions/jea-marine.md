@@ -17,4 +17,4 @@ layout: layout-faction-detail
 description: The JEA Marine colorway is characterized by a marine green base with pale, white-green accents, plus that ThreeA trademark rust effect. Look for the bold, block lettering, "JEA".
 contributors: [Phil Back]
 ---
-This is JEA
+This is JEA. The "80" represents association with the 80th Corp. "JEA is a MARINE CORP, equipped to to handle most situations in a rapid way, they are the US's premier MARINE CORP in the WWR world. I love JEA, but I'm going to introduce a new CORP in the EVOL storyline, a more HOMELAND centric version, where JEA hung in the PACIFIC more." - Ashley Wood, Q and A (#1)

@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: the-two-oya-tomorrow-king-2-pack
 toy_name: The Two OYA Tomorrow King 2 Pack
-permalink: /toys-1-6/the-two-oya-tomorrow-king-2-pack.html
+permalink: /toys-1-12/the-two-oya-tomorrow-king-2-pack.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/27/2012
 release_price: $120 
 scale: one twelve

@@ -32,3 +32,6 @@ toy_pics:
   -  soy-dolphin-black-dolphin-01-6-by-FRUTIGER_.jpg
 backstory:
 ---
+On the 'Shadow' and 'Soy' versions of characters:
+"They are just what they are, they don't consider good or bad as a disposition, just following their natural agenda, they do seem to have a distaste for robots though!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>

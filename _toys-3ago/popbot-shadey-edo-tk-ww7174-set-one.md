@@ -4,8 +4,8 @@ toy_id: popbot-shadey-edo-tk-ww7174-set-one
 toy_name: Popbot Shadey EDO TK WW7174 Set One
 permalink: /toys-3ago/popbot-shadey-edo-tk-ww7174-set-one.html
 world: 3AGO
-world_abr: 
-character_base: 
+world_abr: 3AGO
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 3/27/2016

@@ -20,14 +20,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000000000000000DFG
+product_code: 0000000000000000DFG
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  dresden-lady-lollistick-gravedancer-mortis-mobile-infantry_01_6_by_FRUTIGER_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

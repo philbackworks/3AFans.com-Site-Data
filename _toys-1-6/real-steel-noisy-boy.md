@@ -8,7 +8,7 @@ world_abr: RS
 character_base: Robot
 layout: layout-toy-detail
 categories: 
-tags: [lux3a, movie]
+tags: [lux3a, movie, purple, yellow, LED, kanji, samurai]
 release_date: 11/1/2013
 release_price: $380 
 scale: one sixth
@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000NOIS
+product_code: 0000NOIS
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -30,8 +30,10 @@ you_might_also_like:
   -  Real Steel Atom
   -  Real Steel Ambush
   -  Real Steel Midas
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, saaaa_muel]
 toy_pics: 
+  -  real-steel-noisy-boy_01-6_by_saaaa_muel_via_instagram.jpg
+  -  real-steel-noisy-boy_02-6_by_saaaa_muel_via_instagram.jpg
 backstory: Bambaland version comes with Exclusive bot controller and headset
 sale_type: 
 event_exclusive: 

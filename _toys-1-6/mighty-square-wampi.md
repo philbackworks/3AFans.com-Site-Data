@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Mighty Square
 layout: layout-toy-detail
 categories: 
+tags: [wanpi, wampi, blue, siuy, gold stars, red roses, 1218, I can see the elephant]
 release_date: 10/3/2014
 release_price: $155 
 scale: one sixth
@@ -20,15 +21,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000000000000MSG
-designer: Ashley Wood
-makers: 
+product_code: 0000000000000MSG
+designer: Siuyin
+makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, sgt_smile]
 toy_pics: 
-backstory: 26 colorways - DW, NW, Deep Powder, Dirty Deeds Memeorial, DIY, Dutch Merc, F-Album, Fat Cloud, Fong John, Fremantle, Grave Digger, Hard Thirty, ISO, Jea Ricky, Legion, Lunar Defence, Medic, Meow CD, MOD Polymorphic, P18 Maid, PRU ZW, CCCP, ThreeA, Wanpi, WF DBG Jungler, Sand Devil 666th
+  -  mighty-square-wanpi_01-6_3a-toys_by-sgt_smile-via_instagram.jpg
+  -  mighty-square-wanpi_02-6_3a-toys_by-sgt_smile-via_instagram.jpg
+backstory: Many colorways - DW, NW, Deep Powder, Dirty Deeds Memeorial, DIY, Dutch Merc, F-Album, Fat Cloud, Fong John, Fremantle, Grave Digger, Hard Thirty, ISO, Jea Ricky, Legion, Lunar Defence, Medic, Meow CD, MOD Polymorphic, P18 Maid, PRU ZW, CCCP, ThreeA, Wanpi, WF DBG Jungler, Sand Devil 666th
 sale_type: 
 event_exclusive: 
 event_details: 

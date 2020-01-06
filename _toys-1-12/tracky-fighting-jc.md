@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tracky-fighting-jc
 toy_name: Tracky Fighting JC
-permalink: /toys-1-6/tracky-fighting-jc.html
+permalink: /toys-1-12/tracky-fighting-jc.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap, jesus]
 release_date: 7/27/2012
 release_price: $45 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

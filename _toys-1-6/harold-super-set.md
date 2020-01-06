@@ -25,7 +25,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater]
 toy_pics: 
-backstory: 
+backstory: Harold, is described by Ashley Wood as, "...one of the best (releases), and no doubt the dearest of all the WWR bots out there!". <a href="https://www.worldofthreea.com/threea-production-blog/qa38" target="_blank">Q and A - 38</a>
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no
 event_details: 

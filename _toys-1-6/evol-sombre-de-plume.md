@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
 categories: 
+tags: [nom, n.o.m, gas mask, evol]
 release_date: 2/28/2014
 release_price: $130 
 scale: one sixth
@@ -20,26 +21,31 @@ secret_drop: yes
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000WESC
+product_code: 00000WESC
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  EVOL Dead de Plume GID
 you_might_also_like: 
   -  Nom De Plume
   -  Nom De Plume Final Fight
   -  Blanc De Plume
   -  Evol Marquis De Plume
+  -  F3ACTORY NOM de Plume
   -  Darwin Rothchild A Means to an End
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, wang2nobody]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, wang2nobody, absolutemono]
 toy_pics: 
   -  sombre-de-plume-01-6.jpg
   -  evol-sombre-de-plume-01-6-by_foreignparticle.jpg
   -  evol-sombre-de-plume_02_6_by_foreignparticle.jpg
+  -  sombre-de-plume-01-6.jpg
+  -  sombre-de-plume-02-6-by-absolutemono.jpg
+  -  sombre-de-plume-01-6-by-absolutemono.jpg
 backstory: Surprise Limited Drop. Chance for a Marquis drawing by Ashley Wood
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-  
+ 

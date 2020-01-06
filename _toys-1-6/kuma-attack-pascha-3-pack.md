@@ -8,6 +8,7 @@ world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [three-way, 3-pack, multiple, black, brown, white, cosplay, bear, koala, isobelle]
 release_date: 12/20/2013
 release_price: $280 
 scale: one sixth
@@ -20,14 +21,20 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000KAP3P
-designer: Ashley Wood
-makers: 
+product_code: 00000KAP3P
+designer: TP Louise
+makers: Ashley Wood
 points_of_articulation: 
 variants: 
+  -  KUMA ATTACK PASCHA BLIND SINGLE
+  -  Shadow Krieger Kuma
+  -  Doggy Pascha Set
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, sammlerman]
 toy_pics: 
+  -  kuma-attack-isobelle-pascha-3-pack-bear-cosplay_01-6_3a-toys_by_szutsung-via-instagram.jpg
+  -  kuma-attack-pascha-koala-bear-cosplay-3-pack_01-6_3a-toys_by_sammlerman_via_ebay.jpg
+  -  kuma-attack-pascha-koala-bear-cosplay-3-pack_02-6_3a-toys_by_sammlerman_via_ebay.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tk-oyabun
 toy_name: TK Oyabun
-permalink: /toys-1-6/tk-oyabun.html
+permalink: /toys-1-12/tk-oyabun.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
-tags: [tomorrow king]
+tags: [action portable, ap, tomorrow king]
 release_date: 1/15/2011
 release_price: $150 
 scale: one twelve

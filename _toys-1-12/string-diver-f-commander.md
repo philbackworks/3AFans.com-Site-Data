@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-diver-f-commander
 toy_name: String Diver F Commander
-permalink: /toys-1-6/string-diver-f-commander.html
+permalink: /toys-1-12/string-diver-f-commander.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 9/29/2017
 release_price: $80 
 scale: one twelve

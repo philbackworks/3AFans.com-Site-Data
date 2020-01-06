@@ -4,7 +4,7 @@ toy_id: wooden-apple-tainted-pine-edition
 toy_name: Wooden Apple - Tainted Pine Edition
 permalink: /toys-1-1/wooden-apple-tainted-pine-edition.html
 world: AW Collection
-world_abr: AWC
+world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 

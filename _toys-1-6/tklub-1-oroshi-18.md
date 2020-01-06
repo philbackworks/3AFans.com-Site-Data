@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [black, white, had met last life, brown hair]
 release_date: 3/28/2013
 release_price: $120 USD
 scale: one sixth
@@ -20,13 +21,15 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000TK1
+product_code: 00000TK1
 designer: Ashley Wood
-makers: 
+makers: Tomorrow King logo design by Brent Ashe
 points_of_articulation: 
 variants: 
+  -  OROSHI INTERLOPER
+  -  OROSHI DARKY
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, Keguang Kho]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, Keguang Kho, Brent Ashe]
 toy_pics: 
   -  tklub-1-oroshi-18-02-6-by-foreignparticle.jpg
   -  oroshi-18_01_6_by_KEGUANG-KHO.jpg

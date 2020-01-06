@@ -2,16 +2,16 @@
 layout: layout-toy-detail 
 toy_id: kuntsler-gid-bear
 toy_name: Kuntsler GID Bear
-permalink: /toys-1-6/kuntsler-gid-bear.html
+permalink: /toys-non-scale/kuntsler-gid-bear.html
 world: GALA Milk
 world_abr: 
-character_base: 
+character_base: Bear
 layout: layout-toy-detail
 categories: 
 release_date: 4/14/2016
 release_price: $100 
-scale: one sixth
-size: 12 inches
+scale: non-scale
+size: 11 inches
 comes_with: 
 edition_qty: 100
 chase: 
@@ -26,9 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, szutsung]
 toy_pics: 
   -  kuntsler-gid-bear-01-non-scale-by-3a_boltman.jpg
+  -  kuntsler-gid-bear_01-6_by_SZUTSUNG_via_instagram.jpg
 backstory: LTD
 sale_type: 
 event_exclusive: 

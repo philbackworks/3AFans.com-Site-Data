@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: wave-three-3-x-3-super-deal-pack
 toy_name: WAVE THREE 3 x 3 Super Deal Pack
-permalink: /toys-1-6/wave-three-3-x-3-super-deal-pack.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/wave-three-3-x-3-super-deal-pack.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/19/2010
 release_price: $350 
 scale: one twelve

@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-sd05-julian-clear-body
 toy_name: String Divers SD05-Julian Clear Body
-permalink: /toys-1-6/string-divers-sd05-julian-clear-body.html
+permalink: /toys-1-12/string-divers-sd05-julian-clear-body.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/15/2014
 release_price: ~$45
 scale: one twelve

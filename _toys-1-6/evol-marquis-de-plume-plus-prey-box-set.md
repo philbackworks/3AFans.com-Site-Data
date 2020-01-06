@@ -20,13 +20,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000WE02
+product_code: 00000WE02
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  Sombre De Plume
+  -  EVOL Sombre De Plume
   -  06 Blanc Hunter Nom
   -  Nom De Plume Final Fight 
   -  EVOL Marquis De Plume

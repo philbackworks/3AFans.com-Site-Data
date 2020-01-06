@@ -1,4 +1,5 @@
 ---
+contributor_id: gundamben831
 layout: layout-contributor
 name: gundamben831
 country: 
@@ -12,3 +13,4 @@ links:
 role: Photo contributor
 pic: bio-gundamben831.jpg
 ---
+Bio coming soon!

@@ -4,8 +4,8 @@ toy_id: popbot-tomorrow-king
 toy_name: Popbot Tomorrow King
 permalink: /toys-3ago/popbot-tomorrow-king.html
 world: 3AGO
-world_abr: 
-character_base: 
+world_abr: 3AGO
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 2/16/2014

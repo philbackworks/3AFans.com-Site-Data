@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: harold-the-fucktard-rothchild-experimental-div-set
 toy_name: Harold the Fucktard ROTHCHILD EXPERIMENTAL DIV. Set
-permalink: /toys-1-6/harold-the-fucktard-rothchild-experimental-div-set.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/harold-the-fucktard-rothchild-experimental-div-set.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/6/2013
 release_price: $300 
 scale: one twelve

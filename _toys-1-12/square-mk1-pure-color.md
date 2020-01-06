@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: square-mk1-pure-color
 toy_name: Square MK1 Pure Color
-permalink: /toys-1-6/square-mk1-pure-color.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/square-mk1-pure-color.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/7/2013
 release_price: TWD 150
 scale: one twelve

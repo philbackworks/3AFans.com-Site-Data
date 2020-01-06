@@ -8,7 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [white, black, bodyguard, rothchild]
+tags: [white, black, bodyguard, rothchild, rip, shield, zero two]
 release_date: 9/14/2011
 release_price: $230 
 scale: one sixth
@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: CA002
+product_code: CA002
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -30,8 +30,9 @@ you_might_also_like:
   -  Caesar RIP 001
   -  Caesar RIP 002
   -  Caesar RIP 003
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, threealegionnaire]
 toy_pics: 
+  -  caesar-rip-002-wwr_01-6_3a-toys_by_threealegionnaire-via-instagram.jpg
 backstory: Black Rothchild Internal Police Caesar
 sale_type: 
 event_exclusive: 

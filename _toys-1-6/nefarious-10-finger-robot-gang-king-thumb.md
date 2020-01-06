@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: AKFG-0011
+product_code: AKFG-0011
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -36,3 +36,7 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+There has been mention of a bike for King Thumb in development...
+
+"King Thumb bike soon!"
+ <cite>- <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA Blog Q and A (#8)</a></cite>

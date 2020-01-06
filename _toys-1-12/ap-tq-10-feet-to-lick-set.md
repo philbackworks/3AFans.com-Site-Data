@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: ap-tq-10-feet-to-lick-set
 toy_name: AP TQ 10 feet to lick set
-permalink: /toys-1-6/ap-tq-10-feet-to-lick-set.html
+permalink: /toys-1-12/ap-tq-10-feet-to-lick-set.html
 world: Popbot Action Portable
 world_abr: POP-AP
 character_base: Female
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/18/13
 release_price: $180 USD
 scale: one twelve

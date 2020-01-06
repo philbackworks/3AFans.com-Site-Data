@@ -21,16 +21,21 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 
+product_code: 
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, John McDaniel]
 toy_pics: 
   -  DOC-GRUNT-02-6-by-foreignparticle.jpg
   -  DOC-GRUNT-01-6-by-foreignparticle.jpg
+  -  doc-grunt-and-nurse-betsy-mk2-square_01_6_by_abrader_john-mcdaniel.jpg
+  -  doc-grunt-and-nurse-betsy-mk2-square_02_6_by_abrader_john-mcdaniel.jpg
+  -  doc-grunt-and-nurse-betsy-mk2-square_03_6_by_abrader_john-mcdaniel.jpg
+  -  doc-grunt-and-nurse-betsy-mk2-square_04_6_by_abrader_john-mcdaniel.jpg
+  -  doc-grunt-and-nurse-betsy-mk2-square_05_6_by_abrader_john-mcdaniel.jpg
 backstory:
 sale_type: 
 event_exclusive: 

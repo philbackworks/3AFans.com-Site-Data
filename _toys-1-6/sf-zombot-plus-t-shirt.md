@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: sf-zombot-plus-t-shirt
-toy_name: SF Zombot + T-shirt
+toy_name: SF Zombot plus T shirt
 permalink: /toys-1-6/sf-zombot-plus-t-shirt.html
 world: Zombie vs. Robot
 world_abr: 
@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

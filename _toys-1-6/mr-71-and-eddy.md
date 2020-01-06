@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000000DECCA2
+product_code: 000000DECCA2
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

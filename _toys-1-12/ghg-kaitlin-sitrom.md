@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: ghg-kaitlin-sitrom
 toy_name: GHG Kaitlin Sitrom
-permalink: /toys-1-6/ghg-kaitlin-sitrom.html
+permalink: /toys-1-12/ghg-kaitlin-sitrom.html
 world: Kenny Wong
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/30/2014
 release_price: $45.00 
 scale: one twelve

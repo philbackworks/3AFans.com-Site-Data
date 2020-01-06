@@ -8,7 +8,7 @@ character_base:
 layout: layout-toy-detail
 categories: []
 tags: [worlds best robots, wbr, rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: NONE YET!
 size: 
@@ -29,6 +29,7 @@ you_might_also_like:
   -  MARS Ghost of Guangzhou GID
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory: 
 ---
 This character is not a toy... yet! 
@@ -39,4 +40,4 @@ This character was mentioned in a previous blog post by ThreeA:
 
 "Q: Just pre-ordered MARS - you mentioned William Best and Squidicorn next in the lineup.  Those (tentatively) slated for 2014 pre-orders? Can't wait to see Squidicorn!
 
-A: <a href="/toys-3ago/william-best.html">Best</a> soon, Squidicorn later, big toy!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Q and A #39</a> 
+A: <a href="https://www.worldofthreea.com/threea-production-blog/qa38" target="_blank">Best</a> soon, Squidicorn later, big toy!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Q and A #39</a> 

@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000000000000000SABD
+product_code: 000000000000000SABD
 designer: Ashley Wood
 makers: Batman was created by Bob Kane (artist) and Bill Finger (writer)
 points_of_articulation: 

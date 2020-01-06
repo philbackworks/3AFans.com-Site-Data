@@ -20,7 +20,7 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: 
-product_code_/_link: 
+product_code: 
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

@@ -8,6 +8,7 @@ world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [blue, black, skirt, black hair]
 release_date: 10/4/13
 release_price: $110 USD
 scale: one sixth
@@ -23,8 +24,12 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, missbincaboo, szutsung]
 toy_pics: 
+  -  goodbye-voyager-lizbeth-paramour-02-6_BY_MISSBINCABOO.jpg
+  -  goodbye-voyager-lizbeth-paramour-01-6_BY_MISSBINCABOO.jpg
+  -  goodbye-voyager-lizbeth-paramour-03-6_BY_MISSBINCABOO.jpg
+  -  goodbye-voyager-lizbeth_01-6_by_SZUTSUNG_via_instagram.jpg
 backstory: 
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

@@ -4,8 +4,8 @@ toy_id: popbot-seven-bones-tk-kyoku
 toy_name: Popbot Seven Bones TK Kyoku
 permalink: /toys-3ago/popbot-seven-bones-tk-kyoku.html
 world: 3AGO
-world_abr: 
-character_base: 
+world_abr: 3AGO
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/20/2014

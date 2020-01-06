@@ -8,6 +8,7 @@ world_abr: GALA
 character_base: Female
 layout: layout-toy-detail
 categories: 
+tags: [star wars, stormtrooper, white, black]
 release_date: 5/5/2016
 release_price: THB 16,000
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,8 +29,8 @@ variants:
   -  Rice Cream the Last Lonely TQ
 you_might_also_like: 
   -  Lonely Dark Lady TQ
-  -  Lonely Star Warrior TK - Clean
-  -  Lonely Star Warrior TK Seargeant - Clean Version
+  -  Lonely Star Warrior TK Clean Warrior
+  -  Lonely Star Warrior TK Sergeant Clean Version
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
   -  angel-cake-lonely-tq-stormtrooper-head-pink-01-6-by-foreignparticle.jpg

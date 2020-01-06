@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: heavy-tomorrow-king-interheavy
 toy_name: Heavy Tomorrow King Interheavy
-permalink: /toys-1-6/heavy-tomorrow-king-interheavy.html
+permalink: /toys-1-12/heavy-tomorrow-king-interheavy.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 10/13/2012
 release_price: $45 
 scale: one twelve

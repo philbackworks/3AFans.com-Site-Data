@@ -20,7 +20,7 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: 
-product_code_/_link: DESTINYR1WARLOCK
+product_code: DESTINYR1WARLOCK
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,8 +28,10 @@ variants:
   -  Destiny Warlock Lunar Elegy Shader
   -  Destiny Warlock Old Guard Shader
 you_might_also_like: 
-  -  Destiny Titan Retail Edition
   -  Destiny Titan Hanged Man Shader
+  -  Destiny Titan Retail Edition
+  -  Destiny 2 Titan Golden Trace Shader
+  -  Destiny 2 Titan Calus Selected Shader
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
   -  destiny-warlock-white-01-6-by-philback.jpg
@@ -39,4 +41,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Three colorways were available: Chatterwhite (Bambaland.com), Lunar Elegy, Old Guard
+Three colorways were available: Chatterwhite (Bambaland.com), Lunar Elegy, Old Guard 

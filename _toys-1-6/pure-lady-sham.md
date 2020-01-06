@@ -7,6 +7,7 @@ world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: [onesixth]
+tags: [white]
 release_date: 6/6/2012
 release_price: $100 USD
 scale: one sixth
@@ -26,7 +27,8 @@ variants:
 you_might_also_like:
   -  Blind Cowboy
   -  Ghost Horse
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, szutsung]
 toy_pics:
+  -  pure-lady-sham_01-6_3a-toys_by_szutsung-via-instagram.jpg
 backstory:
 ---

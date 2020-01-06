@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: COOKIEY
+product_code: COOKIEY
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -31,9 +31,15 @@ toy_pics:
   -  cookie-thumper-yolandi-01-6-by-apple_tamer-batedbunnytoys.jpg
   -  cookie-thumper-yolandi-02-6-by-apple_tamer-batedbunnytoys.jpg
   -  cookie-thumper-yolandi-03-6-by-apple_tamer-batedbunnytoys.jpg
-backstory: 
+backstory: Market update - sold on ebay 4/14/2019 for $810 + $30 shipping; Sold on ebay 5/23/19 for $504 + $29.40 s/h
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+School uniform Dress and Shirt set
+School Bag
+Bikini top with Panties
+head-covering bag (you can make a Dancing Bag Head yo)
+style Interchangeable hands x 3 sets
+style sneakers x 1 pair

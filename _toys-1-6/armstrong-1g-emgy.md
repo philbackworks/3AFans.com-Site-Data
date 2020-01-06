@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Armstrong
 layout: layout-toy-detail
 categories: 
+tags: [yellow, black, nyc]
 release_date: 7/19/2011
 release_price: $240 
 scale: one sixth
@@ -20,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: SDCCE
+product_code: SDCCE
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, hamburgerddsdm]
 toy_pics: 
+  -  wwr-armstrong-1g-emgy-01-6_by-hamburgerddsdm_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

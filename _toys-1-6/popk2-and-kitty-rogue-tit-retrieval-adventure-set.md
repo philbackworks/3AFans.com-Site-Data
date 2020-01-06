@@ -20,7 +20,7 @@ secret_drop:
 sold_where: US Venture
 bamba_points: 
 packaging_type: Carded figure
-product_code_/_link: USSPOP
+product_code: USSPOP
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

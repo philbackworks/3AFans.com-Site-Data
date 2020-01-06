@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: k1971-underverse-architect-tk-plus-bo-tq-the-rabbit-tamer-set
-toy_name: K1971 Underverse Architect TK + BO TQ - The Rabbit Tamer Set
+toy_name: K1971 Underverse Architect TK plus BO TQ The Rabbit Tamer Set
 permalink: /toys-1-6/k1971-underverse-architect-tk-plus-bo-tq-the-rabbit-tamer-set.html
 world: World of Meta-Popbot
 world_abr: POP
@@ -21,12 +21,18 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0TP5
+product_code: 0TP5
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Bo TQ Slippery Attack Plan
+  -  Bo the Rabbit Tamer
+  -  K1971 Underverse Architect TK
+  -  K1971 TK No Name
+  -  Ms 74
+  -  Mr 71 and Eddy
 article_contributors: [Phil Back, Don Slater, MW Wutasi, toy_spot]
 toy_pics: 
   -  K1971-UNDERVERSE-ARCHITECT-TK-and-bo-set-01-6-by-toy_spot.jpg

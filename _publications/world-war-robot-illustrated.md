@@ -5,13 +5,13 @@ pub_title: World War Robot Illustrated
 permalink: /publications/world-war-robot-illustrated/
 world: World War Robot
 world_abr: WWR
-pages: --
+pages: 48
 format: Soft cover with French wraps
 language: English
-ISBN-10: n/a
-ISBN-13: n/a
+ISBN-10: 1600103243
+ISBN-13: 9781600103247
 categories: []
-release_date: 2008
+release_date: 8/5/2008
 release_price: 
 size: 12" x 12"
 edition_qty: unknown

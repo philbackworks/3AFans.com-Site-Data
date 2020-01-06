@@ -19,7 +19,7 @@ secret_drop:
 sold_where: bambaland.com
 packaging_type: box
 designer: Ashley Wood
-makers: 
+makers: Blind Cowboy logo design by Brent Ashe
 points_of_articulation: 30
 variants: 
   -  Dark Blind Cowboy
@@ -32,3 +32,9 @@ toy_pics:
   -  blind-cowboy_01_6_by_luciferbeck.jpg
 backstory:
 ---
+From ThreeA:
+
+"His family killed bu a gang of deranged robots, his eyesight taken as payment for someone else's debt. He now wears the rag reputely used to mop the bloody brow of the assassinated JFK, the turgid rag now giving a clarity of vision, a clarity of justice and revenge to the BLIND COWBOY. His only friend, a horse named GHOST!"
+
+Blind Cowboy hunts the 13 Shitheels... maybe we will see these characters as upcoming releases.
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#10)</a></cite>

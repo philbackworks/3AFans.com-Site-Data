@@ -9,7 +9,7 @@ layout: layout-toy-detail
 categories: [onesixth, EVOL, 3AAexclusive]
 tags: [red, caesar, young rothchild, mini bertie, shield, r.i.p, rip, 003, 2-pack, two pack, multiple figures, 3aa exclusive]
 release_date: 11/24/2014
-release_price: 
+release_price: $285
 scale: one sixth
 size: 12 inches tall
 comes_with: Caesar 003 (Red) - Badass!

@@ -4,7 +4,7 @@ toy_id: 3aa-1-1-dolphin-velor-hat
 toy_name: 3AA 1-1 Dolphin velor hat
 permalink: /toys-1-1/3aa-1-1-dolphin-velor-hat.html
 world: Apparel
-world_abr: APP 
+world_abr: 
 character_base: none
 layout: layout-toy-detail
 categories: 

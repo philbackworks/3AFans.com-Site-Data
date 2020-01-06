@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Armstrong
 layout: layout-toy-detail
 categories: 
+tags: [maria]
 release_date: 8/18/2009
 release_price: $250 
 scale: one sixth
@@ -20,14 +21,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: ACWWR
+product_code: ACWWR
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  ARMSTRONG-0G-LUNAR-DEFENSE-CAMO-01-6-frutiger_.jpg
+  -  ARMSTRONGS-01-6-frutiger_.jpg
+  -  ARMSTRONG-0G-LUNAR-DEFENSE-CAMO-01-6-by-frutiger_.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

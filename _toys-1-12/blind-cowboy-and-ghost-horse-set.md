@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: blind-cowboy-and-ghost-horse-set
 toy_name: Blind Cowboy and Ghost Horse Set
-permalink: /toys-1-6/blind-cowboy-and-ghost-horse-set.html
+permalink: /toys-1-12/blind-cowboy-and-ghost-horse-set.html
 world: AP Popbot
 world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/16/2016
 release_price: $145 
 scale: one twelve

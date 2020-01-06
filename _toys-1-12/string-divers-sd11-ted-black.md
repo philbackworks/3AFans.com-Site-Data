@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-sd11-ted-black
 toy_name: String Divers SD11-Ted Black
-permalink: /toys-1-6/string-divers-sd11-ted-black.html
+permalink: /toys-1-12/string-divers-sd11-ted-black.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/30/2015
 release_price: ~$40
 scale: one twelve

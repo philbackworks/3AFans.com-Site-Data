@@ -8,6 +8,7 @@ world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [clear, four way, four pack, multiple, set]
 release_date: 7/23/2014
 release_price: $550 
 scale: one sixth
@@ -20,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000SDCC4PACK
-designer: Ashley Wood
-makers: 
+product_code: 00000000SDCC4PACK
+designer: TP Louise
+makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
+  -  pascha-cyborg-4-pack_03-6_by_SZUTSUNG_via_instagram.jpg
 backstory: SDCC 2014 Bamba sale
 sale_type: 
 event_exclusive: 

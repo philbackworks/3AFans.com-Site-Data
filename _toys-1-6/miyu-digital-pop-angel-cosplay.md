@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [teal, black, garter, fishnet]
 release_date: 10/6/2014
 release_price: ~$120
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,11 +29,12 @@ variants:
   -  Pink Latex Miyu Easter Egger
   -  Cream Dream Miyu Cosplay
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, apple_tamer]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, apple_tamer, szutsung]
 toy_pics: 
   -  miyu-digital-pop-angel-cosplay-01-6-by-apple_tamer-batedbunnytoys.jpg
   -  miyu-digital-pop-angel-cosplay-02-6-by-apple_tamer-batedbunnytoys.jpg
   -  miyu-digital-pop-angel-cosplay-03-6-by-apple_tamer-batedbunnytoys.jpg
+  -  miyu-digital-pop-angel-cosplay_01-6_3a-toys_by_szutsung-via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

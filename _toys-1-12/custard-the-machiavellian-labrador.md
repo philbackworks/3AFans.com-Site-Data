@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: custard-the-machiavellian-labrador
 toy_name: Custard The Machiavellian Labrador
-permalink: /toys-1-6/custard-the-machiavellian-labrador.html
+permalink: /toys-1-12/custard-the-machiavellian-labrador.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/16/2014
 release_price: 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

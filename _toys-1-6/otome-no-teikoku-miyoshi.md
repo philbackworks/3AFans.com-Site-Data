@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: MIYOSHI
+product_code: MIYOSHI
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -32,8 +32,10 @@ you_might_also_like:
   -  Otome No Teikoku Mahiru and Mahiro Set
   -  Otome No Teikoku Ai
   -  Otome No Teikoku Mask Senpai
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
+  -  otome-no-teikoku-miyoshi_01-6_by_SZUTSUNG_via_instagram.jpg
+  -  otome-no-teikoku-miyoshi_02-6_by_SZUTSUNG_via_instagram.jpg
 backstory: 7 females figures - Ai (blonde with bangs), Ayano (long brown hair), Chie (bright yellow pigtail puffs), Mahiro and Mahiru (twins with purple and pink pigtails, respectively), Miyoshi (long red-orange hair), Mask Senpai (grey hair, white respiratory safety mask. Special release through Goodsmile.com). Market update - typically seen at $150 to $350.
 sale_type: 
 event_exclusive: 

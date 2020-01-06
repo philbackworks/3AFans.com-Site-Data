@@ -8,6 +8,7 @@ world_abr:
 character_base: Bambaboss
 layout: layout-toy-detail
 categories: 
+tags: [yellow, brown]
 release_date: 12/15/2009
 release_price: 
 scale: one sixth
@@ -20,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Lumpyheadstudios]
 toy_pics: 
+  -  PUDDING-BOSS-01-6-by_lumpyheadstudios.jpg
 backstory: Special gifted figure
 sale_type: 
 event_exclusive: 

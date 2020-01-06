@@ -20,16 +20,20 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: Box
-product_code_/_link: 00000000AKMDS
+product_code: 00000000AKMDS
 designer: Ashley Wood
 makers: 
 points_of_articulation: 30
 variants: 
   -  Zomb MD GID and After Nurse Jessica Set
+  -  Zomb MD Dr Shitvago and Albino Nurse Zomb Set
 you_might_also_like: 
-  -  Cherry Bomb
-  -  Tommy Mission EMO
-  -  Little Shadow  
+  -  Oppenheimer GID Zomb
+  -  Boiler Zomb Red
+  -  Boiler Zomb Black
+  -  Black Rose Nurse Zomb
+  -  Bloodhood Hoodzomb
+  -  Ka Mumb Blind Box
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
 toy_pics: 
   -  zomb-md-dr-shitvago-01-6.jpg

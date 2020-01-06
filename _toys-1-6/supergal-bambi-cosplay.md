@@ -20,7 +20,7 @@ secret_drop:
 sold_where: US Venture 2017, SDCC
 bamba_points: 
 packaging_type: 
-product_code_/_link: USSBAM
+product_code: USSBAM
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

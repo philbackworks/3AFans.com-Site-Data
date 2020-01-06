@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: automatic-hemingway-noir
 toy_name: Automatic Hemingway Noir
-permalink: /toys-1-6/automatic-hemingway-noir.html
+permalink: /toys-3ago/automatic-hemingway-noir.html
 world: 3AGO
 world_abr: 
 character_base: 

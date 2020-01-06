@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: wave-three-large-martin-nw-dw-diy-set
 toy_name: WAVE THREE Large Martin NW DW DIY set
-permalink: /toys-1-6/wave-three-large-martin-nw-dw-diy-set.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/wave-three-large-martin-nw-dw-diy-set.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/19/2010
 release_price: $130 
 scale: one twelve

@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000GIM
+product_code: 00000GIM
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

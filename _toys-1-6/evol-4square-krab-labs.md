@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000E4SK
+product_code: 00000000E4SK
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

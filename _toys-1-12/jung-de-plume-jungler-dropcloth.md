@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: jung-de-plume-jungler-dropcloth
 toy_name: Jung de Plume, Jungler Dropcloth
-permalink: /toys-1-6/jung-de-plume-jungler-dropcloth.html
+permalink: /toys-1-12/jung-de-plume-jungler-dropcloth.html
 world: World War Robot Portable
 world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/27/2011
 release_price: $100 
 scale: one twelve

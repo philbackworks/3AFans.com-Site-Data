@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: lawmaster-mk1
 toy_name: Lawmaster MK1
-permalink: /toys-1-6/lawmaster-mk1.html
+permalink: /toys-1-12/lawmaster-mk1.html
 world: 2000 AD
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 12/1/2015
 release_price: $120 
 scale: one twelve

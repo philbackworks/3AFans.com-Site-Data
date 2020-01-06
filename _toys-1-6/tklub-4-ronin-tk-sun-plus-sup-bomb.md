@@ -20,13 +20,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000TKLBTQ
+product_code: 00000TKLBTQ
 designer: Ashley Wood
-makers: 
+makers: Tomorrow King logo design by Brent Ashe
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Brent Ashe]
 toy_pics: 
   -  tklub-four-ronin-tk-sun-plus-sup-bomb-01-6.jpg
   -  tklub-four-ronin-tk-sun-plus-sup-bomb-02-6.jpg

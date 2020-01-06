@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: tkyo-plus-yellow-hornets-set
-toy_name: TKYO + Yellow Hornets Set
+toy_name: TKYO plus Yellow Hornets Set
 permalink: /toys-1-6/tkyo-plus-yellow-hornets-set.html
 world: Popbot
 world_abr: POP
@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 5000
 packaging_type: 
-product_code_/_link: 000YHS
+product_code: 000YHS
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

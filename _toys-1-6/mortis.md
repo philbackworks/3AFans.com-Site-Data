@@ -8,7 +8,7 @@ character_base:
 layout: layout-toy-detail
 categories: []
 tags: [popbot, skin, sexbot, rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: NONE YET!
 size: 
@@ -28,9 +28,12 @@ you_might_also_like:
   -  Peppermint Grove   
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory:
 ---
 This character is not a toy... yet! 
+
+"... I didnt want release them until we got some skinning tech down, we are close!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa13" target="_blank">Q and A #13</a> 
 
 A Popbot character possibly in the works, here are comments from a previous installment of the ThreeA blog:
 

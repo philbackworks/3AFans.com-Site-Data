@@ -17,7 +17,7 @@ exclusive: yes
 secret_drop:
 sold_where: unknown
 packaging_type: 
-product_code_/_link: MNG1
+product_code: MNG1
 designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30

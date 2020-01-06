@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tk-unleashed-yo
 toy_name: TK Unleashed YO
-permalink: /toys-1-6/tk-unleashed-yo.html
+permalink: /toys-1-12/tk-unleashed-yo.html
 world: AP Popbot
 world_abr: POP
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/21/2011
 release_price: $65 
 scale: one twelve

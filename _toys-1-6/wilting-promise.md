@@ -8,7 +8,7 @@ character_base:
 layout: layout-toy-detail
 categories: [AK]
 tags: [rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: one sixth
 size: 
@@ -28,6 +28,7 @@ you_might_also_like:
   -  Ankou NLCS
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory:
 ---
 This character is not a toy… yet!

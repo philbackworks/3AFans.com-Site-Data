@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: tq-call-echo-itsumo
-toy_name: TQ Call Echo - Itsumo
+toy_name: TQ Call Echo Itsumo
 permalink: /toys-1-6/tq-call-echo-itsumo.html
 world: Popbot
 world_abr: POP
@@ -20,11 +20,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  TQ Call Echo Saigo
+  -  TQ Call Echo Saisho 
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 

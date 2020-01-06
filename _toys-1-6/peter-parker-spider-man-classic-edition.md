@@ -21,9 +21,9 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
-makers: 
+makers: 3A Spider-Man logo design and packaging design by Brent Ashe
 points_of_articulation: 
 variants: 
   -  Peter Parker Spider Man Stealth Edition
@@ -33,7 +33,7 @@ you_might_also_like:
   -  Night Mission Captain America
   -  Ultron Classic Edition
   -  Steel Detective Batman
-article_contributors: [Phil Back, Don Slater, MW Wutasi, sjcui]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, sjcui, Brent Ashe]
 toy_pics: 
   -  spider-man-classic-01-6-by-sjcui.jpg
   -  spider-man-classic-02-6-by-sjcui.jpg

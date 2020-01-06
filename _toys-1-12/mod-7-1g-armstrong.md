@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: mod-7-1g-armstrong
 toy_name: MOD 7 1G Armstrong
-permalink: /toys-1-6/mod-7-1g-armstrong.html
-world: World War Robot
+permalink: /toys-1-12/mod-7-1g-armstrong.html
+world: World War Robot Portable
 world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [portable, action portable]
+tags: [action portable, ap, portable, action portable]
 release_date: 4/8/2011
 release_price: $45 
 scale: one twelve

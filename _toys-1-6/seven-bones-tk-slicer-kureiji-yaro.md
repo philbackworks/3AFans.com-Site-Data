@@ -21,14 +21,14 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000T7BSY
+product_code: 00000T7BSY
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
   -  TK Kenshiro Blanco
-  -  TK Ronin Moon
+  -  RONIN TK MOON
   -  TK Hideo
   -  TK Yoji
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]

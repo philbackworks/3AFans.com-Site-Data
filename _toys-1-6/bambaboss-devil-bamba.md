@@ -21,12 +21,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000001BB
+product_code: 00000001BB
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Bambaboss 01 Panda Boss
+  -  Bambaboss 2nd Birthday Boss
+  -  Bambaboss 3rd Birthday 3oss
+  -  Bambaboss Ghostbamba GID
+  -  Bambaboss Jeaboss
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
   -  devil-bamba-red-bambaboss_01_6_by_FRUTIGER_.jpg

@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: dirty-deeds-bertie-mk1
 toy_name: Dirty Deeds Bertie MK1
 permalink: /toys-1-6/dirty-deeds-bertie-mk1.html
-world: 7174 AW threezero
-world_abr: 
-character_base: 
+world: World War Robot
+world_abr: WWR
+character_base: Bertie MK1
 layout: layout-toy-detail
 categories: 
 release_date: 5/22/2008
@@ -20,15 +20,16 @@ secret_drop:
 sold_where: sideshowtoys.com
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 46
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, sjcui, badass_wayne]
 toy_pics: 
   -  dirty-deeds-bertie-mk1-01-6-by-sjcui.jpg
+  -  dirty-deeds-bertie-mk1_01-6_3a-toys_by_badass_wayne_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

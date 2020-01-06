@@ -20,13 +20,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: THDMF
+product_code: THDMF
 designer: Ashley Wood
-makers: 
+makers: Tomorrow King logo and TK Hunter logo designs by Brent Ashe
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88, Brent Ashe]
 toy_pics: 
   -  tk-hunter-mk6-deathmask-hack-01-6-by-pcww88-patrick-wong.jpg
   -  tk-hunter-mk6-deathmask-hack-02-6-by-pcww88-patrick-wong.jpg

@@ -5,9 +5,10 @@ toy_name: Mighty Squaro
 permalink: /toys-1-6/mighty-squaro-3aa.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Mighty Square
 layout: layout-toy-detail
 categories: 
+tags: [white]
 release_date: 6/27/2012
 release_price: $155 
 scale: one sixth
@@ -20,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 12SDCCMSQO
+product_code: 12SDCCMSQO
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
+  -  mighty-squaro_01-6_3a-toys_by_szutsung-via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -21,13 +21,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: MASTER
+product_code: MASTER
 designer: Ashley Wood
-makers: 
+makers: Logo design by Brent Ashe
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono, 3a_boltman]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono, 3a_boltman, Brent Ashe]
 toy_pics: 
   -  tk-master-5-orange-hair-robot-arm-01-6-by-absolutemono.jpg
   -  master-5-tk-robot-arm-orange-hair-01-6-by-3a_boltman.jpg

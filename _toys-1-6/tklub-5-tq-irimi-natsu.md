@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TQ
 layout: layout-toy-detail
 categories: 
+tags: [short brown skirt, swords, black hair, tomorrow queen]
 release_date: 10/24/2014
 release_price: $120 
 scale: one sixth
@@ -20,17 +21,23 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000TKLBTQN
+product_code: 00000000TKLBTQN
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  TKLUB 5 TQ Irimi Fuyu
+article_contributors: [Phil Back, Don Slater, MW Wutasi, saaaa_muel, 3a_boltman]
 toy_pics: 
+  -  tklub-5-tq-irimi-natsu_01-6_by_saaaa_muel_via_instagram.jpg
+  -  tklub-5-tq-irimi-natsu_02-6_by_saaaa_muel_via_instagram.jpg
+  -  tklub-5-tq-irimi-natsu_03-6_by_saaaa_muel_via_instagram.jpg
+  -  tklub-5-tq-irimi-natsu-01-6_by_3a_boltman_via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Short brown skirt

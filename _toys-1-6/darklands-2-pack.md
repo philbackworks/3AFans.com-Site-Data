@@ -15,15 +15,15 @@ size: 12 inches
 comes_with: 
 edition_qty: 100
 chase: 
-exclusive: 
+exclusive: yes
 secret_drop: 
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 2XA
+product_code: 2XA
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: 30
 variants: 
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
@@ -35,3 +35,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Tommy comes with the glow-in-the-dark "Hand of Fate" - a severed zomb hand that allows him to open a secret door somewhere in New Andria - Ashley Wood, Instagram comment (2019)

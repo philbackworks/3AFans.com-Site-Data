@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: fighting-jc-mauro
 toy_name: Fighting JC Mauro
-permalink: /toys-1-6/fighting-jc-mauro.html
+permalink: /toys-1-12/fighting-jc-mauro.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 9/5/2012
 release_price: $45 
 scale: one twelve

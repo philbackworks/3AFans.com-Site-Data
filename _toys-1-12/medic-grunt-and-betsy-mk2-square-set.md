@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: medic-grunt-and-betsy-mk2-square-set
 toy_name: WWRp Medic Grunt and Betsy MK2 square set
-permalink: /toys-1-6/medic-grunt-and-betsy-mk2-square-set.html
+permalink: /toys-1-12/medic-grunt-and-betsy-mk2-square-set.html
 world: World War Robot portable
 world_abr: WWRP
 character_base: Robot
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/19/13
 release_price: $74 USD
 scale: one twelve

@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TQ
 layout: layout-toy-detail
 categories: 
+tags: [bo staff, eye patch, blue]
 release_date: 1/30/2012
 release_price: $120 
 scale: one sixth
@@ -20,13 +21,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 002TQ7
+product_code: 002TQ7
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, frutiger_, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, frutiger_, pcww88, fdk_ksu, hamburgerddsdm]
 toy_pics: 
   -  queenie-the-first-tq-01-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-02-6-by-keguang-kho.jpg
@@ -35,6 +36,12 @@ toy_pics:
   -  queenie-the-first-tq-05-6-by-keguang-kho.jpg
   -  queeny-tq-01-6-by-frutiger_.jpg
   -  queeny-01-6-by-pcww88-patrick-wong.jpg
+  -  tomorrow-queen-tq-queeny-01-6_by_fdk_ksu_via_instagram.jpg
+  -  tomorrow-queen-tq-queeny-02-6_by_fdk_ksu_via_instagram.jpg
+  -  tomorrow-queen-tq-queeny-03-6_by_fdk_ksu_via_instagram.jpg
+  -  queeny-seven-bones-tq_02-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  -  queeny-seven-bones-tq_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  # -  tomorrow-queen-tq-queeny-04-6_by_fdk_ksu_via_instagram.jpg
 backstory: Includes poster
 sale_type: 
 event_exclusive: 

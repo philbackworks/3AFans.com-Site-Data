@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: wave-two-bertie-mk2-7-pack
 toy_name: WAVE TWO Bertie MK2 7 Pack
-permalink: /toys-1-6/wave-two-bertie-mk2-7-pack.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/wave-two-bertie-mk2-7-pack.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 11/20/2009
 release_price: $220 
 scale: one twelve

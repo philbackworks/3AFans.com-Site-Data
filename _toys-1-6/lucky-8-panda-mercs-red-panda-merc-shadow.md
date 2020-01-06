@@ -8,6 +8,7 @@ world_abr: AK
 character_base: Female
 layout: layout-toy-detail
 categories: 
+tags: [cosplay, panda suit, orange, bear, red, costume, panda]
 release_date: 2/13/2015
 release_price: $130 
 scale: one sixth
@@ -20,14 +21,32 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000000000SC5
+product_code: 00000000000000SC5
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Little Shadow
+  -  Shadow Mode Little Shadow
+  -  Cherry Shadow
+  -  Ghost Shadow
+  -  Little Shadow MK2 Latex
+  -  Shadow2
+  -  Penumbra
+  -  Cherry Bomb
+  -  Flakey Frost
+  -  On The Run Little Shadow and Tommy 2 Pack
+  -  Little Shadow v2
+  -  Cherry Shadow v2
+  -  Umbra Always v2
+  -  Shadow Mode Little Shadow v2
 you_might_also_like: 
+  -  Lucky 8 Panda Mercs Handsome Wu
+  -  Lucky 8 Panda Mercs Snow Panda Light Blue F-Legion 6000
+  -  Lucky 8 Panda Mercs Soot Panda Inky Handsome Wu
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, frutiger_]
 toy_pics: 
+  -  lucky-8-panda-mercs-red-panda-merc-01-6-by_frutiger_.jpg
   -  lucky-8-panda-mercs-red-panda-merc-shadow-01-6.jpg
   -  lucky-8-panda-mercs-red-panda-merc-shadow-02-6.jpg
   -  panda-merc-red-panda-merc-shadow_02_6_by_FRUTIGER_.jpg

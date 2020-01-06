@@ -30,7 +30,7 @@ you_might_also_like:
 article_contributors: [Phil Back, foreignparticle]
 toy_pics: 
   -  darwin-rothchild-here-is-the-young-man-01-6.jpg
-backstory:
+backstory: Market update - sold for $112.50 on ebay 3/2018.
 ---
 From the official ThreeA promotional materials:
 

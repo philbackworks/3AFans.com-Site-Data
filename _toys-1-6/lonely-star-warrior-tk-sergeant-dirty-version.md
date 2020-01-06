@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: lonely-star-warrior-tk-sergeant-dirty-version
-toy_name: Lonely Star Warrior TK Sergeant - Dirty Version
+toy_name: Lonely Star Warrior TK Sergeant Dirty Version
 permalink: /toys-1-6/lonely-star-warrior-tk-sergeant-dirty-version.html
 world: Star Wars Alternate
 world_abr: SWA
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [star wars, stormtrooper, white, black]
 release_date: 4/28/2015
 release_price: $160 
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0TP6
+product_code: 0TP6
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

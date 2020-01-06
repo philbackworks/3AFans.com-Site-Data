@@ -21,7 +21,7 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: Box
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -37,3 +37,15 @@ event_details:
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
 Chase figure randomly inserted in <a href="/toys-1-6/tklub-2-nage-mia.html">Nage</a> Box (TKLUB #2). Figure towards ART OF TK MOOK.
+
+Q: Can you please give us some additional information on Ghost Nage, is he a Loper?
+
+A: Ghost Nage isnt a loper, its by product of the Underverse, he kinda looks and becomes a ghost, existing between the present universe and the Underverse. the Mortis have finally moved on from grey TK looking bots, to more devious simulacrum now.
+
+
+Q: Can you please give us some additional information on Ghost Nage, is he a Loper?
+
+A: Ghost Nage isnt a loper, its by product of the Underverse, he kinda looks and becomes a ghost, existing between the present universe and the Underverse. The Mortis have finally moved on from grey TK looking bots, to more devious simulacrum now.
+
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A #6</a></cite>
+                                

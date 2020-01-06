@@ -21,17 +21,16 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  Bambaboss 3AA
+  -  Bambaboss 01 Panda Boss
   -  Bambaboss 2nd Birthday Boss
   -  Bambaboss 3rd Birthday 3oss
   -  Bambaboss Ghostbamba GID
-  -  Bambaboss 01 Panda Boss
   -  Bambaboss Jeaboss
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 

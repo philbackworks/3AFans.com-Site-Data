@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000000000000GD
+product_code: 0000000000000GD
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

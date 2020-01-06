@@ -15,29 +15,31 @@ comes_with: Bot head, butcher knives, sword and sheath
 edition_qty: 75
 exclusive: yes
 secret_drop:
-sold_where: bambaland.com
+sold_where: Beijing Gathering Event in China
 packaging_type: box
 designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Seven Bones Slicer Kureiji Yaro
+  -  Seven Bones TK Slicer Kureiji Yaro
   -  Interloper Oya
   -  TK Kenshiro Negro
   -  Interloper Heavy IH001
   -  Heavy TK Kato
   -  K1971 TK Noname
-article_contributors: [Phil Back, foreignparticle, 3a_boltman, xxbarachielxx]
+article_contributors: [Phil Back, foreignparticle, 3a_boltman, xxbarachielxx, Patrick Wong]
 toy_pics:
   -  aiki-elite-hatchery-guard-01-6-by-3a_boltman.jpg
   -  aiki-elite-hatchery-guard-02-6-by-3a_boltman.jpg
+  -  tk-aiki-elite-hatchery-guard-01-6-by-pcww88-patrick-wong.jpg
   -  aiki-elite-hatchery-guard-03-6-by-3a_boltman.jpg
   -  aiki-elite-hatchery-guard-04-6-by-3a_boltman.jpg
+  -  tk-aiki-elite-hatchery-guard-02-6-by-pcww88-patrick-wong.jpg
   -  aiki-elite-hatchery-guard-06-6.jpg
   -  aiki-elite-hatchery-guard-02-6-by-xxbarachielxx.jpg
   -  aiki-elite-hatchery-guard-03-6-by-xxbarachielxx.jpg
   -  aiki-elite-hatchery-guard-01-6-by-xxbarachielxx.jpg
 backstory: aka "Hatcher"
 ---
-Exclusive at Beijing Gathering Event in China. Single Invitation only gift (wow!)
+Exclusive at Beijing Gathering Event in China. Single Invitation only gift (wow!) 

@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: [robot club]
+tags: [robot club, skull, guns]
 release_date: 1/10/2018
 release_price: $200 
 scale: one sixth
@@ -20,14 +21,16 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 201801WFL
+product_code: 201801WFL
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Keguang-Kho]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Keguang-Kho, badass_wayne]
 toy_pics: 
+  -  warbot-full-load_01-6_3a-toys_by_badass_wayne_via_instagram.jpg
+  -  warbot-full-load_02-6_3a-toys_by_badass_wayne_via_instagram.jpg
   -  robot-club-three-warbot-full-load-01-6-by-frutiger_.jpg
   -  robot-club-three-warbot-full-load-02-6-by-frutiger_.jpg
   -  warbot-02-6-BY-KEGUANG_KHO.jpg

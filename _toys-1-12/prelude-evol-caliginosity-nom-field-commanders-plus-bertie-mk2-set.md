@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: prelude-evol-caliginosity-nom-field-commanders-plus-bertie-mk2-set
 toy_name: Prelude EVOL Caliginosity N.O.M Field Commanders + Bertie MK2 Set
-permalink: /toys-1-6/prelude-evol-caliginosity-nom-field-commanders-plus-bertie-mk2-set.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/prelude-evol-caliginosity-nom-field-commanders-plus-bertie-mk2-set.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 8/16/2013
 release_price: $125 
 scale: one twelve

@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: queen-of-the-reef-tq-statue
 toy_name: Queen of the Reef TQ Statue
-permalink: /toys-1-6/queen-of-the-reef-tq-statue.html
+permalink: /toys-non-scale/queen-of-the-reef-tq-statue.html
 world: Bungie
 world_abr: 
 character_base: 

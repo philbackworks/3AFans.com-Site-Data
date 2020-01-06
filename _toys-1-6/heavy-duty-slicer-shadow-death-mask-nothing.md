@@ -21,15 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
   -  Heavy Duty Slicer Death Mask Nothing
 you_might_also_like: 
-  -  Seven Bones Slicer Kureiji Yaro
-  -  TK Ronin Moon
+  -  Seven Bones TK Slicer Kureiji Yaro
+  -  RONIN TK MOON
   -  TK Kenshiro Negro
   -  TK Hideo 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, 3a_boltman, hwang_21]

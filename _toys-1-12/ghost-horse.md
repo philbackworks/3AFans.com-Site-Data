@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: ghost-horse
 toy_name: Ghost Horse
-permalink: /toys-1-6/ghost-horse.html
+permalink: /toys-1-12/ghost-horse.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/29/2016
 release_price: ~$90
 scale: one twelve

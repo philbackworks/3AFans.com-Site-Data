@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: ankou-ex-sxclb-bouncer-little-shadow-mk2-latex-set
 toy_name: Ankou EX SXCLB Bouncer Little Shadow MK2 Latex Set
-permalink: /toys-1-6/ankou-ex-sxclb-bouncer-little-shadow-mk2-latex-set.html
+permalink: /toys-1-12/ankou-ex-sxclb-bouncer-little-shadow-mk2-latex-set.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 8/27/2013
 release_price: $120 
 scale: one twelve

@@ -8,6 +8,7 @@ world_abr: 3AGO
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [orange, robot]
 release_date: 4/6/2016
 release_price: $280 
 scale: 3AGO
@@ -26,9 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
-  -  bi-gunner-hemmingway-ww7174-set-two-robot-WBR_01_6_by_FRUTIGER_.jpg
+  -  bi-gunner-hemmingway-orange_01_6_by_abrader_john-mcdaniel.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

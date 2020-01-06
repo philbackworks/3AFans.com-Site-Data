@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: EFHOOD
+product_code: EFHOOD
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -32,9 +32,18 @@ toy_pics:
   -  totem-agent-hood_02_6_by_lumpyheadstudios.jpg
   -  totem-agent-hood_03_6_by_lumpyheadstudios.jpg
   -  totem-agent-hood_04_6_by_lumpyheadstudios.jpg
+  -  evenfall-agent-ellis-01-6-by_lumpyheadstudios.jpg
+  -  evenfall-agent-ellis-02-6-by_lumpyheadstudios.jpg
+  -  evenfall-agent-ellis-03-6-by_lumpyheadstudios.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Tailored suit
+Chest holster x 1
+Pistol Glock 17 x 1
+Power Pistol x1
+Leather boots
+Interchangeable hands x 5pc (Fist, Relax, Gun holding R)

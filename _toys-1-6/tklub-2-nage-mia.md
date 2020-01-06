@@ -19,11 +19,11 @@ secret_drop:
 sold_where: bambaland.com
 packaging_type: 
 designer: Ashley Wood
-makers: 
+makers: Tomorrow King logo design by Brent Ashe
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, foreignparticle]
+article_contributors: [Phil Back, Don Slater, foreignparticle, Brent Ashe]
 toy_pics: 
   -  tk-naga-mia-01-6-by-foreignparticle.jpg
 backstory: 

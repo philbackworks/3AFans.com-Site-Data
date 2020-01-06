@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -34,3 +34,7 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+From <a href="https://www.worldofthreea.com/threea-production-blog/qa37" target="_blank">ThreeA Blog Q & A #37</a>:
+"Q: You mentioned that your decision to make T.H.U.G as a robot,  helped round up EVENFALL story. Can you please share some more about EVENFALL and how T.H.U.G robot is controlled? Is there a command center with pilots somewhere or robot comes with it's own AI?
+
+A: Actually they kinda function like a modern jet, the main bot is autonomous but there is a control team that is seeing what it see's, etc, and can augment the decision making processes of the T.H.U.G.y, etc. Imagine if you will, the T.H.U.G. is deep underground in a crypt type environment, above in an OP’s base the handlers watch monitors etc, looking for movement, or sublet shifts that the A.I. couldn’t catch. - Ashley Wood"

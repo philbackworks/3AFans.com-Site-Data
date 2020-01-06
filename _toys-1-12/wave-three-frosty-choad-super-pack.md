@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: wave-three-frosty-choad-super-pack
 toy_name: WAVE THREE Frosty Choad Super Pack
-permalink: /toys-1-6/wave-three-frosty-choad-super-pack.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/wave-three-frosty-choad-super-pack.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/19/2010
 release_price: $170 
 scale: one twelve

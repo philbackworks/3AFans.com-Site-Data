@@ -8,6 +8,7 @@ world_abr: GALA
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [star wars, blonde, pony tail, storm trooper, 24 inches, pascha]
 release_date: 10/15/2015
 release_price: $350 
 scale: one third
@@ -26,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Mikko Sison]
 toy_pics: 
+  -  lonely-warrior-tq-24-inch_01-3-by-mikko-sison.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: shitty-9-member-five-snow-panda-damn-large-martin
 toy_name: SHITTY 9 Member Five - Snow Panda Damn Large Martin
-permalink: /toys-1-6/shitty-9-member-five-snow-panda-damn-large-martin.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/shitty-9-member-five-snow-panda-damn-large-martin.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/25/2016
 release_price: JPY 10,584 
 scale: one twelve

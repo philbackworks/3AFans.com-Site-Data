@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-sd09-guy-clear-red
 toy_name: String Divers SD09-Guy Clear Red
-permalink: /toys-1-6/string-divers-sd09-guy-clear-red.html
+permalink: /toys-1-12/string-divers-sd09-guy-clear-red.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/30/2015
 release_price: ~$40
 scale: one twelve

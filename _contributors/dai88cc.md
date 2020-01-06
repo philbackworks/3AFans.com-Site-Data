@@ -1,4 +1,5 @@
 ---
+contributor_id: dai88cc
 layout: layout-contributor
 name: dai88cc
 country: Japan

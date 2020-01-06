@@ -1,4 +1,5 @@
 ---
+contributor_id: apple_tamer
 layout: layout-contributor
 name: apple_tamer
 country: 

@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: AKFG-SET
+product_code: AKFG-SET
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

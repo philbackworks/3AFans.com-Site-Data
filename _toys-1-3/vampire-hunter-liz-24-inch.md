@@ -8,6 +8,7 @@ world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [white, wooden stake]
 release_date: 8/21/2015
 release_price: $320 
 scale: one third

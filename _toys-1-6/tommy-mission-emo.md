@@ -30,7 +30,7 @@ article_contributors: [Phil Back, foreignparticle, Andhika Rahmaditya]
 toy_pics:
   -  tommy-mission-emo-04-6-by-dk_kuro.jpg
   -  tommy-mission-emo-01-6.jpg
-backstory:
+backstory: As the story goes, Tommy's mother is a witch... (mentioned in ThreeA blog post - Q and A - 39)
 ---
 
 

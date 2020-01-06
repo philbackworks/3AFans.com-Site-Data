@@ -23,10 +23,11 @@ points_of_articulation: 30
 variants: 
 you_might_also_like:
   -  Evol Marquis De Plume
-  -  Nom 27
+  -  EVOL Sombre De Plume
   -  Nom de Plume Final fight
   -  Von De Plume
-  -  Darwin Rothchild
+  -  BLANC DE PLUME 
+  -  Darwin Rothchild New Dawn Fades Edition
 article_contributors: [Phil Back, sjcui]
 toy_pics:
   -  kuan-ti-plume-01-6.jpg
@@ -36,5 +37,4 @@ THE FIRST FALLEN
 
 Yellow helmet, red shirt short sleeve shirt with yellow long sleeve extensions roughly sewn on. Single hose with dirty red cloth shroud.
 
-It's been said that when this figure was released at the Beijing Gathering in 2010, that people were camping outside, overnight, waiting to get in and buy this figure.
-[need more info]
+It's been said that when Kuan ti Plume was released at the Beijing Gathering in 2010, that people were camping overnight, outside, waiting to get in and buy this figure.

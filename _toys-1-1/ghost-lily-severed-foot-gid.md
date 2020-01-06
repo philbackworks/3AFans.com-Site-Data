@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: ghost-lily-severed-foot-gid
 toy_name: Ghost Lily Severed Foot GID
-permalink: /toys-1-6/ghost-lily-severed-foot-gid.html
+permalink: /toys-1-1/ghost-lily-severed-foot-gid.html
 world: AW Collection
-world_abr: AW
+world_abr:
 character_base: Foot
 layout: layout-toy-detail
 categories: 
-tags: [glow in the dark, gid, green, white shoe, female]
+tags: [glow in the dark, gid, green, white shoe, female, severed, foot, severedfoot]
 release_date: 1/20/2013
 release_price: $100 
 scale: one-to-one

@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: sea-monkey-plus-snow-pea
 toy_name: Sea Monkey + Snow Pea
-permalink: /toys-1-6/sea-monkey-plus-snow-pea.html
+permalink: /toys-1-12/sea-monkey-plus-snow-pea.html
 world: Ashley Wood Collection Artist Series
 world_abr: AWC
 character_base: 
 layout: layout-toy-detail
 categories: [artist series]
-tags: [Kenny Wong, 2-pack, two-pack, multiple figures, female, pilot, mech, yellow, bikini, artist series]
+tags: [action portable, ap, Kenny Wong, 2-pack, two-pack, multiple figures, female, pilot, mech, yellow, bikini, artist series]
 release_date: 1/30/2014
 release_price: $230.00 
 scale: one twelve

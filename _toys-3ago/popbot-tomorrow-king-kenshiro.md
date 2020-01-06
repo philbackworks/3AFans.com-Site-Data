@@ -5,7 +5,7 @@ toy_name: Popbot Tomorrow King Kenshiro
 permalink: /toys-3ago/popbot-tomorrow-king-kenshiro.html
 world: 3AGO
 world_abr: 3AGO
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 8/27/2014

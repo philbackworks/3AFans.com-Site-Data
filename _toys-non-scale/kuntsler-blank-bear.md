@@ -4,14 +4,14 @@ toy_id: kuntsler-blank-bear
 toy_name: Kuntsler Blank Bear
 permalink: /toys-1-non-scale/kuntsler-blank-bear.html
 world: GALA Milk
-world_abr: GALA
+world_abr: 
 character_base: Bear
 layout: layout-toy-detail
 categories: 
 release_date: 4/15/2016
 release_price: $80 
-scale: one sixth
-size: 12 inches
+scale: non-scale
+size: 11 inches
 comes_with: 
 edition_qty: 
 chase: 

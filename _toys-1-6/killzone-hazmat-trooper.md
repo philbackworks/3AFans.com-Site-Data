@@ -21,7 +21,7 @@ secret_drop:
 sold_where: Retail
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -29,11 +29,12 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
-  -  KILLZONE-HAZMAT-TROOPER-01-6-BY-FRUTIGER_.jpg
-backstory: 
+  -  killzone-hazmat-trooper-01-6-by-frutiger_.jpg
+backstory: Retailer exclusive. In collaboration with SONY - Game Accurate Design, Signature Articulated Weapon, Removable Armor, LED Light Up Optics 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+
 

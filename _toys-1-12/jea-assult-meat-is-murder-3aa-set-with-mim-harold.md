@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: jea-assult-meat-is-murder-3aa-set-with-mim-harold
 toy_name: JEA Assult Meat is Murder 3AA Set with MIM Harold
-permalink: /toys-1-6/jea-assult-meat-is-murder-3aa-set-with-mim-harold.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/jea-assult-meat-is-murder-3aa-set-with-mim-harold.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 3/14/2014
 release_price: $200 
 scale: one twelve

@@ -1,4 +1,5 @@
 ---
+contributor_id: frutiger_
 layout: layout-contributor
 name: frutiger_
 country: Singapore

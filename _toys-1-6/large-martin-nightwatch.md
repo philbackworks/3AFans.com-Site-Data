@@ -20,15 +20,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, quietstorm__]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, quietstorm__, achtanders]
 toy_pics: 
   -  large-martin-nightwatch_01_6_by_quietstorm-dot__.jpg
+  -  large-martin-nightwatch_02-6_3a-toys_by_achtanders_via_instagram.jpg
+  -  large-martin-nightwatch_01-6_3a-toys_by_achtanders_via_instagram.jpg
 backstory: Chase figure from Large Martin releases
 sale_type: 
 event_exclusive: 

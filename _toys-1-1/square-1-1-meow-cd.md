@@ -27,7 +27,7 @@ variants:
   - Squaro 1-1
   - Square 1-1 Hard Thirty Corp
 you_might_also_like:  
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, Aaron Romyns]
 toy_pics:
   -  square-1-1-meow-cd-01-1.jpg
   -  square-1-1-meow-cd-02-1.jpg

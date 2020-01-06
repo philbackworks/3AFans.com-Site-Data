@@ -5,7 +5,7 @@ toy_name: Popbot Seven Bones TK Kyoku (Bambaland Version)
 permalink: /toys-3ago/popbot-seven-bones-tk-kyoku-bambaland-version.html
 world: 3AGO
 world_abr: 3AGO
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 12/19/2014

@@ -21,14 +21,16 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
+  -  AURORAL-PASCHA_01-6_by_SZUTSUNG_via_instagram.jpg
+  -  AURORAL-PASCHA_02-6_by_SZUTSUNG_via_instagram.jpg
 backstory: 2013 NYCC Exclusive, raffled event
 sale_type: 
 event_exclusive: 

@@ -8,7 +8,7 @@ character_base:
 layout: layout-toy-detail
 categories: [AK, onesixth]
 tags: [rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: one sixth
 size: 
@@ -28,12 +28,12 @@ you_might_also_like:
   -  Ankou NLCS
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory:
 ---
 This character is not a toy… yet!
 
-According to a Q&A session with Ash posted on worldofthreea.com 1/12/2014."
-
-"The Link is the 0-Day robot for the AK universe. All the robots in AK trace back to this one, The Link
+"The Link is the 0-Day robot for the AK universe. All the robots in AK trace back to this one, The Link"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16) - 1/12/2014</a></cite>
 
 

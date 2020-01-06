@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: metal-gear-solid-ray
 toy_name: Metal Gear Solid RAY
-permalink: /toys-1-6/metal-gear-solid-ray.html
+permalink: /toys-non-scale/metal-gear-solid-ray.html
 world: Kojima
 world_abr: 
 character_base: 

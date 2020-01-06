@@ -13,7 +13,7 @@ detail_pics:
   -  /assets/img/factions/detail-idw-security-04.jpg 
   -  /assets/img/factions/detail-idw-security-05.jpg 
 layout: layout-faction-detail
-description: The IDW Security colorway is characterized by a light grey base color with heavy weathering, a light blue "X" as a center motif, plus yellow accents and the IDW logo decal in black.
+description: The IDW Security colorway is characterized by a light grey base color with heavy weathering, a light blue "X" as a center motif, plus yellow accents and the IDW logo decal in black. In real life, IDW is the publishing company that has worked with Ashley Wood for years, publishing many of his projects.
 contributors: [Phil Back]
 ---
 More soon!

@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 2000ROJ
+product_code: 2000ROJ
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

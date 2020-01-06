@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: bramble-plus-kitty-and-amanda-visell
 toy_name: Bramble and Kitty by Amanda Visell
-permalink: /toys-1-6/bramble-plus-kitty-by-amanda-visell.html
+permalink: /toys-non-scale/bramble-plus-kitty-by-amanda-visell.html
 world: Amanda Visell
 world_abr: 
 character_base: 
@@ -21,7 +21,7 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code_/_link: N/A
-designer: Ashley Wood
+designer: Ashley Wood and Amanda Visell
 makers: 
 points_of_articulation: 
 variants: 

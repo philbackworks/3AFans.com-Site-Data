@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-sd07-rex-clear-blue
 toy_name: String Divers SD07 Rex Clear Blue
-permalink: /toys-1-6/string-divers-sd07-rex-clear-blue.html
+permalink: /toys-1-12/string-divers-sd07-rex-clear-blue.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/30/2015
 release_price: ~$40
 scale: one twelve

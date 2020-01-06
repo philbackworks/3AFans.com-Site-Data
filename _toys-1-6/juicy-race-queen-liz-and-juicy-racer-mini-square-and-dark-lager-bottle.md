@@ -21,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: Clear plastic box
-product_code_/_link: 0000000JRL
-designer: Ashley Wood
-makers: 
+product_code: 0000000JRL
+designer: TP Louise
+makers: Ashley Wood 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, szutsung]
 toy_pics: 
+  -  juicy-racer-liz_01-6_3a-toys_by_szutsung-via-instagram.jpg
   -  juicy-racer-mini-square-01-6-by-frutiger_.jpg
 backstory: Surprise LTD Drop; white hair Miyu chase figure
 sale_type: 

@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: LAN
+product_code: LAN
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

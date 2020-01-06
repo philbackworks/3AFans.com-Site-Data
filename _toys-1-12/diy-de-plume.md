@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: diy-de-plume
 toy_name: DIY de Plume
-permalink: /toys-1-6/diy-de-plume.html
-world: WWRp
-world_abr: 
-character_base: 
+permalink: /toys-1-12/diy-de-plume.html
+world: World War Robot Portable
+world_abr: WWRp
+character_base: NOM
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap, white, blank, nom de plume, helmet, sketch]
 release_date: 4/27/2011
 release_price: $40 
 scale: one twelve
@@ -26,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, kw9398kw]
 toy_pics: 
+  -  diy-de-plume_01-12_by_kw9398kw_via_instagram.jpg
 backstory: $10 S&H
 sale_type: 
 event_exclusive: 

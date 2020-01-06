@@ -1,4 +1,5 @@
 ---
+contributor_id: toy_spot
 layout: layout-contributor
 name: toy_spot
 country: 

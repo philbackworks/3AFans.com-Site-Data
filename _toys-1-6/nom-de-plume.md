@@ -1,5 +1,5 @@
 ---
-toy_id: nom-deplume
+toy_id: nom-de-plume
 toy_name: Nom De Plume
 permalink: /toys-1-6/nom-de-plume.html
 world: World War Robot
@@ -7,15 +7,15 @@ world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
 categories: [WWR, onesixth]
-release_date: 
+release_date: 6/24/2008
 release_price: 
 scale: one sixth
 size: 12 inches tall
-comes_with: unknown
-edition_qty: unknown
+comes_with: 
+edition_qty: 50 
 exclusive:
 secret_drop:
-sold_where: unknown
+sold_where: 
 packaging_type: box
 designer: Ashley Wood
 makers: unknown
@@ -25,11 +25,15 @@ variants:
 you_might_also_like:
   -  Fighting JC
   -  Tommy Mission EMO
-  -  Sombre De Plume
+  -  EVOL Sombre De Plume
   -  Barguest De Plume
-article_contributors: [Phil Back, wang2nobody]
+article_contributors: [Phil Back, wang2nobody, Isiow SG]
 toy_pics:
-backstory:
+  -  nom-de-plume_01-6_by_isiow_sg.jpg
+  -  nom-de-plume_02-6_by_isiow_sg.jpg
+  -  nom-de-plume_03-6_by_isiow_sg.jpg
+  -  nom-de-plume_04-6_by_isiow_sg.jpg
+backstory: Market update - sold on ebay 6/4/19 for $2493 + 25.45 s/h @ 6 bids (with both ankle pegs broken and a detached shoulder joint). 
 ---
 "Nom de Plume was the first character to be released by ThreeA. His allegiance is not certain, though it is believed that he was a member of N.O.M. at some point in time who may or may not have gone rogue. Nom de Plume also possesses unique abilities such as being able to communicate with robots and changing his skin colour to suit his purpose and environment. It is unknown whether these descriptions by Ashley Wood are literal or not. 
   

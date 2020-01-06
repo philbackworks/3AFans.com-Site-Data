@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [severed, foot, severedfoot]
 release_date: 6/7/2012
 release_price: $110 
 scale: one-to-one

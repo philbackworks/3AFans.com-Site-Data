@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: EURO3AA
+product_code: EURO3AA
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

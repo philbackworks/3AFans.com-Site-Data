@@ -8,6 +8,7 @@ world_abr:
 character_base: TQ
 layout: layout-toy-detail
 categories: 
+tags: [star wars, black, darth vader, dark side]
 release_date: 10/30/2015
 release_price: $140 
 scale: one sixth
@@ -20,12 +21,14 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000000000000000LTQDL
+product_code: 000000000000000LTQDL
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Angel Cake Lonely TQ
+  -  Rice Cream The Last Lonely TQ
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
   -  lonely-dark-lady-01-6-by-foreignparticle.jpg
@@ -35,3 +38,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

@@ -29,4 +29,3 @@ faction: jea-marine
 portable: yes
 nickname: 
 ---
-More soon!

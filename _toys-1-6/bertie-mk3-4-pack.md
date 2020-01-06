@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 6SLAP
+product_code: 6SLAP
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

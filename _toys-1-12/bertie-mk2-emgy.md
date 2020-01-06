@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: bertie-mk2-emgy
 toy_name: Bertie MK2 EMGY
-permalink: /toys-1-6/bertie-mk2-emgy.html
+permalink: /toys-1-12/bertie-mk2-emgy.html
 world: World War Robot Portable
 world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap, emgy]
 release_date: 5/2010
 release_price: $50 
 scale: one twelve

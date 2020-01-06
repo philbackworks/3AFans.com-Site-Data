@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [rocket launcher, rpg, bazooka, missile, teal, turquoise, black, tomorrow king]
 release_date: 10/1/2009
 release_price: $120 
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: TKH
+product_code: TKH
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

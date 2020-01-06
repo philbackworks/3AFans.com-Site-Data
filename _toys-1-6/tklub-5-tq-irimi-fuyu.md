@@ -20,13 +20,14 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000TKLBTQF
+product_code: 00000000TKLBTQF
 designer: Ashley Wood
-makers: 
+makers: Tomorrow King logo design by Brent Ashe
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+  -  -  TKLUB 5 TQ Irimi Natsu
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, Brent Ashe]
 toy_pics: 
   -  tklub-five-tq-irimi-fuyu-01-6.jpg
 backstory: 
@@ -35,3 +36,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Long brown skirt

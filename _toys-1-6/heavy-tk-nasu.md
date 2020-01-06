@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [rocket launcher, rpg, bazooka, missile, tan, black, tomorrow king]
 release_date: 10/1/2009
 release_price: $120 
 scale: one sixth
@@ -20,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: TKHE
+product_code: TKHE
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman]
 toy_pics: 
+  -  heavy-tk-nasu-rocket-launcher-rpg-light-brown-hair-01-6-by-3A_boltman.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

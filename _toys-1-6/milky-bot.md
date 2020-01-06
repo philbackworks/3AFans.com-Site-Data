@@ -20,15 +20,16 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000000000MB1
+product_code: 00000000000000MB1
 designer: Crystal-Jade Vaughan
 makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Paul Tang EXAhouse]
 toy_pics: 
   -  milky-bot-01-6-by-frutiger_.jpg
+  -  milky-bot_01-6_by_paul_tang_EXAhouse.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

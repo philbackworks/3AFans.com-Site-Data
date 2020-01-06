@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: jdf-damn-large-martin-and-square-mk1
 toy_name: JDF Damn Large Martin and Square MK1
-permalink: /toys-1-6/jdf-damn-large-martin-and-square-mk1.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/jdf-damn-large-martin-and-square-mk1.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/24/2011
 release_price: JPY 5,238
 scale: one twelve

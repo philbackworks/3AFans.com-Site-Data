@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: LES
+product_code: LES
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,13 +28,9 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: 3A How2work
+backstory: 3A How2work; The D'Airain Adventure
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-  enabled: true
-  collection: toys-1-6
-  sort_field: 'toy_name'
 ---

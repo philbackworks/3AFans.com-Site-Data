@@ -20,15 +20,18 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Underverse Ninja TK Dark
 you_might_also_like: 
+  -  TQ UNDERVERSE DEATHMASK NINJA
+  -  TKLUB 7 FINAL TQ UNDERVERSE NINJA POTSUN
+  -  TKLUB 7 FINAL TQ UNDERVERSE NINJA TSURU
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
-  -  ichihito-underverse-ninja-tk-01-6.jpg
   -  underverse-ninja-tk-dark-04-6-by-dk_kuro.jpg
   -  underverse-ninja-tk-dark-05-6-by-dk_kuro.jpg
   -  underverse-ninja-tk-dark-06-6-by-dk_kuro.jpg

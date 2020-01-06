@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: lasstranaut
 toy_name: Lasstranaut
-permalink: /toys-1-6/lasstranaut.html
+permalink: /toys-1-12/lasstranaut.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/16/2016
 release_price: $80 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

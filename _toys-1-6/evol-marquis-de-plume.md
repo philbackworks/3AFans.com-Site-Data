@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
 categories: [WWR, onesixth]
+tags: [nom, blue, green, stripes, long sleeve]
 release_date: 2/28/2014
 release_price: $130 
 scale: one sixth
@@ -20,26 +21,32 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: Box
-product_code_/_link: 00000WE01
+product_code: 00000WE01
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
   -  EVOL Marquis de Plume plus Prey Box Set
-  -  Sombre De Plume
+  -  EVOL Sombre De Plume
   -  06 Blanc Hunter Nom
   -  Nom De Plume Final Fight  
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
-toy_pics: 
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, saaaa_muel, Wade Taylor]
+toy_pics:
+  -  marquis-de-plume_01-6_by_saaaa_muel_via_instagram.jpg 
   -  marquis-de-plume-01-6.jpg
   -  marquis-de-plume-02-6.jpg
   -  marquis-de-plume-03-6.jpg
   -  nom-de-plume-marquis-rare-sketch-by-ashley-wood.jpg
+  -  evol-marquis-de-plume_01-6_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
+  -  evol-marquis-de-plume_02-6_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
 backstory: Chance for a Marquis drawing by Ashley Wood
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"He has taught the best, he has killed the best."
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#19)</a></cite>
+
  "The double tank denote a different make up of veil parting gases, they have many varied mixes depending on their path! Marquis are strong and talented bunch, but as evolution has shown there is always bigger and stronger, on both sides of the path. The NOM story is great fun for me, I will be introducing some new players soon, Fallen and the Callen!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Q and A #39</a> 

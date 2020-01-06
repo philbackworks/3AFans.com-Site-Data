@@ -8,7 +8,7 @@ character_base:
 layout: layout-toy-detail
 categories: []
 tags: [adventure kartel, ak, zomb, undead, rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: NONE YET!
 size: 
@@ -30,8 +30,13 @@ you_might_also_like:
   -  Zombkin
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory: 
 ---
 This character is not a toy... yet! 
 
-"[Mega Zomb] is really big and zombi-ish, it is kinda epic and silly, can’t wait to show him off! Mega Zombs weakness is the amount of energy needed to be, well mega! One of our proto’s was 15” tall,  that kinda height is the aim…" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Q and A #39</a>
+"[Mega Zomb] is really big and zombi-ish, it is kinda epic and silly, can’t wait to show him off! Mega Zombs weakness is the amount of energy needed to be, well mega! One of our proto’s was 15” tall,  that kinda height is the aim…" 
+<cite>- <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Ashley Wood, ThreeA Blog Q and A (#39)</a></cite>
+
+Is this the same as: "ZOMBENSTEIN©"?
+<cite>- <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA Blog Q and A (#9)</a></cite>

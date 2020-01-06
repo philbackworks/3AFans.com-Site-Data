@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: lux3a-dreamworks-x-3a-real-steel-atom
 toy_name: LUX3A Dreamworks x 3A Real Steel Atom
-permalink: /toys-1-6/lux3a-dreamworks-x-3a-real-steel-atom.html
+permalink: /toys-non-scale/lux3a-dreamworks-x-3a-real-steel-atom.html
 world: Showcase
 world_abr: SHOW
 character_base: Robot

@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: jea-assault-meat-is-murder-set
 toy_name: WWR JEA Assault Meat is Murder set
-permalink: /toys-1-6/jea-assault-meat-is-murder-set.html
+permalink: /toys-1-12/jea-assault-meat-is-murder-set.html
 world: 
 world_abr: WWR
 character_base: Robot
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/22/13
 release_price: $530 USD
 scale: one twelve

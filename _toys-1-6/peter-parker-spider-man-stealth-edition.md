@@ -21,14 +21,14 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: MPPSETR
+product_code: MPPSETR
 designer: Ashley Wood
-makers: 
+makers: 3A Spider-Man logo design and packaging design by Brent Ashe
 points_of_articulation: 
 variants: 
   -  Peter Parker Spider Man Classic Edition
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, Brent Ashe]
 toy_pics: 
   -  peter-parker-spiderman-stealth-edition-01-6-by-3A_boltman.jpg
   -  peter-parker-spiderman-stealth-edition-02-6-by-3A_boltman.jpg

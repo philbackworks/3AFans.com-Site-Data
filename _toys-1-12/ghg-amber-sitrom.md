@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: ghg-amber-sitrom
 toy_name: GHG Amber Sitrom
-permalink: /toys-1-6/ghg-amber-sitrom.html
+permalink: /toys-1-12/ghg-amber-sitrom.html
 world: Kenny Wong
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/30/2014
 release_price: $45.00 
 scale: one twelve

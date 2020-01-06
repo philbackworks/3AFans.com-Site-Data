@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: prom-night-disagreement-severed-foot-lauren
 toy_name: Prom Night Disagreement - Severed Foot Lauren
-permalink: /toys-1-6/prom-night-disagreement-severed-foot-lauren.html
+permalink: /toys-1-1/prom-night-disagreement-severed-foot-lauren.html
 world: AW Collection
-world_abr: 
-character_base: 
+world_abr:
+character_base: Foot
 layout: layout-toy-detail
 categories: 
+tags: [severed, foot, severedfoot]
 release_date: 7/15/2011
 release_price: $100 
 scale: one-to-one

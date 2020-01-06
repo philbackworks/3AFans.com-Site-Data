@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: adventure-kartel-14-piece-set
 toy_name: Adventure Kartel 14 Piece Set
-permalink: /toys-1-6/adventure-kartel-14-piece-set.html
+permalink: /toys-1-12/adventure-kartel-14-piece-set.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2014.02.25
 release_price: $630 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

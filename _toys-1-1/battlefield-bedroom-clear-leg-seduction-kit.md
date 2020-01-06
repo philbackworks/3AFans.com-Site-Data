@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [severed, leg, foot, severedfoot]
 release_date: 9/19/2015
 release_price: JPY 72,000 
 scale: one-to-one

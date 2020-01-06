@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 201805BAT
+product_code: 201805BAT
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

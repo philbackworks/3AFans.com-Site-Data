@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: popbot-plus-kitty
 toy_name: Popbot + Kitty
-permalink: /toys-1-6/popbot-plus-kitty.html
+permalink: /toys-1-12/popbot-plus-kitty.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/3/2012
 release_price: $55 
 scale: one twelve

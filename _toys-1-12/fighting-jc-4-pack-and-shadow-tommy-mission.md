@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: fighting-jc-4-pack-and-shadow-tommy-mission
 toy_name: Fighting JC 4 Pack and Shadow Tommy Mission
-permalink: /toys-1-6/fighting-jc-4-pack-and-shadow-tommy-mission.html
+permalink: /toys-1-12/fighting-jc-4-pack-and-shadow-tommy-mission.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 9/5/2012
 release_price: $180 
 scale: one twelve
@@ -33,8 +34,7 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---
+On the 'Shadow' and 'Soy' versions of characters:
+"They are just what they are, they don't consider good or bad as a disposition, just following their natural agenda, they do seem to have a distaste for robots though!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>

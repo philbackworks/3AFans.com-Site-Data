@@ -8,7 +8,7 @@ world_abr: IP
 character_base: Female
 layout: layout-toy-detail
 categories: 
-tags: [pink dress, black hair, red shoes, pink purse, grey leggings]
+tags: [pink dress, black hair, red shoes, pink purse, grey leggings, wampi, wanpi]
 release_date: 10/6/2014
 release_price: ~$120
 scale: one sixth
@@ -21,7 +21,7 @@ secret_drop:
 sold_where: retailers
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

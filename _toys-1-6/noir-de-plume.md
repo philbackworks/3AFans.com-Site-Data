@@ -20,7 +20,7 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: Box
-product_code_/_link: 10002
+product_code: 10002
 designer: Ashley Wood
 makers: 
 points_of_articulation: 30

@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: 4Square
 layout: layout-toy-detail
 categories: 
+tags: [black, white, tap 12, white spot, 4 legs, spider, trp 14, star, crunch]
 release_date: 7/9/2014
 release_price: $80 
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000E4SP
+product_code: 00000000E4SP
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,9 +29,10 @@ variants:
 you_might_also_like: 
   -  EVOL 4Square Krab Labs
   -  EVOL 4Square Rothchild Mechanics
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, Wade Taylor]
 toy_pics: 
   -  evol-4square-panda-corp-01-6-by-pcww88-patrick-wong.jpg
+  -  evol-4square-panda-corp_01-6_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

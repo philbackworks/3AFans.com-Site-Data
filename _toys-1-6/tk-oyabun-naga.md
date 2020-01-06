@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: OYA4SNAGA
+product_code: OYA4SNAGA
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

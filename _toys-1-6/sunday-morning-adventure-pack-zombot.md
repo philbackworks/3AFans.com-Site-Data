@@ -6,7 +6,7 @@ world: Adventure Kartel
 world_abr: AK
 character_base: Zombot
 layout: layout-toy-detail
-categories: [onesixth, snow, SMAP]
+categories: [onesixth, snow, SMAP, 4-pack, 4 pack, four way, 4-way]
 release_date: 9/19/2015
 release_price: $
 scale: one sixth
@@ -22,12 +22,14 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Golden Dolphin
   -  Sunday Morning Adventure Pack Little Shadow
+  -  Sunday Morning Adventure Pack Tommy
   -  Sunday Morning Adventure Pack Ankou Johan
-  -  Sunday Morning Adventure Pack Tommy  
-article_contributors: [Phil Back]
+  -  Sunday Morning Adventure Pack All 
+article_contributors: [Phil Back, sammlerman]
 toy_pics: 
+  -  sunday-morning-adventure-pack-zombot_01-6_3a-toys_by_sammerlerman_via_ebay.jpg
+  -  sunday-morning-adventure-pack-box-art_01-6_3a-toys_by_sammerlerman_via_ebay.jpg
 backstory:
 ---
 There were 2 releases of this awesome 4-pack: the first at the Japan Venture 3A event, along with a Bambaland.com version.

@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: heavy-duty-slicer-death-mask-tomorrow-nothing-t-shirt-plus-vinyl-grenade
 toy_name: Heavy Duty Slicer Death Mask Tomorrow Nothing T-Shirt + Vinyl Grenade
-permalink: /toys-1-6/heavy-duty-slicer-death-mask-tomorrow-nothing-t-shirt-plus-vinyl-grenade.html
+permalink: /toys-1-1/heavy-duty-slicer-death-mask-tomorrow-nothing-t-shirt-plus-vinyl-grenade.html
 world: Popbot
 world_abr: 
 character_base: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-1
-__sort_field: toy_name'
 ---

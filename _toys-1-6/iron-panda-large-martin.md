@@ -5,9 +5,10 @@ toy_name: Iron Panda Large Martin
 permalink: /toys-1-6/iron-panda-large-martin.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Large Martin
 layout: layout-toy-detail
 categories: 
+tags: [black, white, big]
 release_date: 4/21/2009
 release_price: $300 
 scale: one sixth
@@ -20,14 +21,19 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: LMP
+product_code: LMP
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Paul Tang EXAhouse, Fernando Bao]
 toy_pics: 
+  -  IRON-PANDA-LARGE-MARTIN_01_6_by_paul_tang_EXAhouse.jpg
+  -  large-martin-iron-panda_01-6_by_FERNANDO_BAO_via_instagram.jpg
+  -  IRON-PANDA-LARGE-MARTIN_02_6_by_paul_tang_EXAhouse.jpg
+  -  IRON-PANDA-LARGE-MARTIN_03_6_by_paul_tang_EXAhouse.jpg
+  -  IRON-PANDA-LARGE-MARTIN_04_6_by_paul_tang_EXAhouse.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

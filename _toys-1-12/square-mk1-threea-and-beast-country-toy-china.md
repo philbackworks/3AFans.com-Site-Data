@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: square-mk1-threea-and-beast-country-toy-china
 toy_name: Square MK1 ThreeA and Beast Country Toy China
-permalink: /toys-1-6/square-mk1-threea-and-beast-country-toy-china.html
+permalink: /toys-1-12/square-mk1-threea-and-beast-country-toy-china.html
 world: World War Robot Portable
 world_abr: WWRp
 character_base: Square
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/11/2013
 release_price: TWD 150
 scale: one twelve

@@ -21,7 +21,7 @@ secret_drop:
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -30,10 +30,12 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
   -  ms-shadow-slickerice-01-6-by-foreignparticle.jpg
-backstory: $20~$30 S/H. Free reward for purchase of AKLUB# 1, 2, 3, 4
+backstory: $20~$30 S/H. Free reward for purchase of AKLUB# 1, 2, 3, 4; Market updated - sold on ebay 3/31/2019 for $95.
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Notes from ThreeA about this figure: "MS SHADOW will not be available anywhere else and to receive it you have to make four AKLUB sets purchases; MS SHADOW comes free, however you will have to cover the shipping charges. AKLUB isn't limited to 3AA members only."
+Notes from ThreeA about this figure: 
+
+"MS SHADOW will not be available anywhere else and to receive it you have to make four AKLUB sets purchases; MS SHADOW comes free, however you will have to cover the shipping charges. AKLUB isn't limited to 3AA members only."

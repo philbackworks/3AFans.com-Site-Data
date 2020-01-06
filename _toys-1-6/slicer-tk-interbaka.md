@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [pbtkb, chase, white, grey]
 release_date: 9/10/2010
 release_price: $120 
 scale: one sixth
@@ -20,11 +21,12 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Slicer TK Baka
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, xxbarachielxx]
 toy_pics:
@@ -38,3 +40,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Fabric Mask, Battery pack, Slicer Swords,Limited Chase inserted in Baka box

@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: real-steel-atom
-toy_name: Real Steal Atom
+toy_name: Real Steel Atom
 permalink: /toys-1-6/real-steel-atom.html
 world: Real Steel
 world_abr: RS
@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000ATOM
+product_code: 0000ATOM
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

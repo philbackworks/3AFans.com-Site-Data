@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: heavy-tomorrow-king-soh
 toy_name: Heavy Tomorrow King Soh
-permalink: /toys-1-6/heavy-tomorrow-king-soh.html
+permalink: /toys-1-12/heavy-tomorrow-king-soh.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/27/2012
 release_price: $45 
 scale: one twelve

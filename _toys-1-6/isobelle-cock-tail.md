@@ -18,8 +18,8 @@ exclusive:
 secret_drop: 
 sold_where: 
 packaging_type: 
-designer: Ashley Wood
-makers: 
+designer: TP Louise
+makers: Ashley Wood
 points_of_articulation: 30
 variants: 
 you_might_also_like: 

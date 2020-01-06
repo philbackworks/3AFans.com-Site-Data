@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: Clear plastic box
-product_code_/_link: 000000GA
+product_code: 000000GA
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

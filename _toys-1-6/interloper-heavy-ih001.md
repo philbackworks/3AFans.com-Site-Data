@@ -23,8 +23,8 @@ points_of_articulation: 30
 variants: 
   -  Interloper Heavy IH002
 you_might_also_like:
-  -  Seven Bones Slicer Kureiji Yaro
-  -  TK Ronin Moon
+  -  Seven Bones TK Slicer Kureiji Yaro
+  -  RONIN TK MOON
   -  TK Kenshiro Negro
   -  TK Hideo  
 article_contributors: [Phil Back, foreignparticle]
@@ -36,4 +36,4 @@ backstory:
 
 Since they lacked the skills of wielding traditional TK weapons, they opted for the usage of big guns instead.
 
-Interlopers or not, eitherway they walk alone - the Heavys, masters of the BOOM" - Source: The Art of Tomorrow Kings 2006 / > 2016 by Ashley Wood, IDW copyright © 2016.
+Interlopers or not, eitherway they walk alone - the Heavys, masters of the BOOM" - Source: The Art of Tomorrow Kings 2006 - 2016 by Ashley Wood, IDW copyright © 2016. 

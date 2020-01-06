@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: damaged-pinky-bertie-mk35-dmg
-toy_name: WWRp Damaged Pinky Bertie MK35 DMG
-permalink: /toys-1-6/damaged-pinky-bertie-mk35-dmg.html
+toy_name: Damaged Pinky Bertie MK35 DMG
+permalink: /toys-1-12/damaged-pinky-bertie-mk35-dmg.html
 world: World War Robot portable
-world_abr: WWRP
+world_abr: WWRp
 character_base: Robot
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap, WWRp, pink, red, cloak]
 release_date: 4/5/13
 release_price: $75 USD
 scale: one twelve

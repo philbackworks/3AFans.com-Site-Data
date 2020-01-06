@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: wf-jungler-grunt-purecamo-square
 toy_name: WWRp WF Jungler Grunt Purecamo Square
-permalink: /toys-1-6/wf-jungler-grunt-purecamo-square.html
+permalink: /toys-1-12/wf-jungler-grunt-purecamo-square.html
 world: World War Robot portable
 world_abr: WWRP
 character_base: Robot
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 3/9/13
 release_price: $60 USD
 scale: one twelve

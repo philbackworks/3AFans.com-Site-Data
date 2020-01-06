@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: jj-mcgee-plush
 toy_name: JJ McGEE Plush
-permalink: /toys-1-6/jj-mcgee-plush.html
+permalink: /toys-1-1/jj-mcgee-plush.html
 world: The World of Isobelle Pascha
 world_abr: 
 character_base: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-1
-__sort_field: toy_name'
 ---

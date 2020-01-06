@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: bumblebee
 toy_name: Bumblebee
-permalink: /toys-1-6/bumblebee.html
+permalink: /toys-non-scale/bumblebee.html
 world: Transformers Bumblebee
 world_abr: TR
 character_base: 
@@ -37,3 +37,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+TRANSFORMERS and all related characters are trademarks of Hasbro. ©2019 Hasbro. All Rights Reserved. © 2019 Paramount Pictures Corporation. All Rights Reserved.

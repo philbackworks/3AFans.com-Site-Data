@@ -8,6 +8,7 @@ world_abr: AK
 character_base: Zomb
 layout: layout-toy-detail
 categories: [AK, onesixth]
+tags: [red, undead, zombie, jumpsuit, zomb]
 release_date: 6/25/2009
 release_price: $87 
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: BZ
+product_code: BZ
 designer: Ashley Wood
 makers: 
 points_of_articulation: 30
@@ -34,10 +35,12 @@ you_might_also_like:
   -  Zomb MD Dr Shitvago
   -  Little Shadow
   -  Cherry Bomb
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, sammlerman]
 toy_pics:
   -  boiler-zomb-01-6.jpg
   -  boiler-zomb-02-6.jpg
+  -  boiler-zomb-red_01_6_by_sammlerman_via_ebay.jpg
+  -  boiler-zomb-red_02_6_by_sammlerman_via_ebay.jpg
 backstory: Dark colorway
 sale_type: 
 event_exclusive: 

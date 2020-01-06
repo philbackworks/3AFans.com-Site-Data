@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [witch, white, dress]
 release_date: 12/19/2014
 release_price: $120 
 scale: one sixth
@@ -20,12 +21,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000000000WM
+product_code: 00000000000000WM
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Herbst Grave Blind Box
 article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21]
 toy_pics: 
   -  weiss-mutter-01-6.jpg

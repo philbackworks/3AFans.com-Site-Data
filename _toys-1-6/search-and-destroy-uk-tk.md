@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: search-and-destroy-uk-tk
-toy_name: Search & Destroy UK TK
+toy_name: Search and Destroy UK TK
 permalink: /toys-1-6/search-and-destroy-uk-tk.html
 world: Popbot
 world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [punk, mohawk, union jack, bandaid, fox tail]
 release_date: 2014.04.12
 release_price: $150 
 scale: one sixth
@@ -20,17 +21,19 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000000SDTK
+product_code: 0000000SDTK
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, xxbarachielxx]
+  -  Search and Destroy UK TQ
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, xxbarachielxx, szutsung]
 toy_pics: 
   -  uk-tk-01-6.jpg
   -  search-and-destroy-tk-02-6-by-foreignparticle.jpg
   -  search-and-destroy-uk-tk-01-6-by-xxbarachielxx.jpg
+  -  uk-tk-search-and-destroy-_01-6_by_SZUTSUNG_via_instagram.jpg
 backstory: Surprise Drop
 sale_type: 
 event_exclusive: 

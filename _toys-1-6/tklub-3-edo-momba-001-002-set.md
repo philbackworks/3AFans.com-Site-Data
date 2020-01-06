@@ -19,11 +19,11 @@ secret_drop:
 sold_where: bambaland.com
 packaging_type: 
 designer: Ashley Wood
-makers: 
+makers: Tomorrow King logo design by Brent Ashe
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Brent Ashe]
 toy_pics: 
   -  edo-momba-001-01-6-by-dk_kuro.jpg
   -  tklub-3-edo-momba-001-01-6-by-dk_kuro.jpg

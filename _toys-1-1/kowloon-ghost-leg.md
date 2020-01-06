@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: kowloon-ghost-leg
 toy_name: Kowloon Ghost Leg
-permalink: /toys-1-6/kowloon-ghost-leg.html
+permalink: /toys-1-1/kowloon-ghost-leg.html
 world: AW Collection
-world_abr: AWC
+world_abr:
 character_base: Leg
 layout: layout-toy-detail
 categories: 
-tags: [glow in the dark, gid, green, female]
+tags: [glow in the dark, gid, green, female, severed, foot, leg, severedfoot]
 release_date: 2014.03.21
 release_price: $400 
 scale: one-to-one

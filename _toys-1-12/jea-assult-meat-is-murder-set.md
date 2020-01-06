@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: jea-assult-meat-is-murder-set
 toy_name: JEA Assult Meat is Murder Set
-permalink: /toys-1-6/jea-assult-meat-is-murder-set.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/jea-assult-meat-is-murder-set.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2014.03.14
 release_price: $160 
 scale: one twelve

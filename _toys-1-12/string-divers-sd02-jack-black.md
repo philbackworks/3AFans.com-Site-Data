@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-sd02-jack-black
 toy_name: String Divers SD02 Jack Black
-permalink: /toys-1-6/string-divers-sd02-jack-black.html
+permalink: /toys-1-12/string-divers-sd02-jack-black.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/4/2014
 release_price: $45 
 scale: one twelve

@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: metal-gear-solid-rex-half-size-edition
 toy_name: Metal Gear Solid REX - Half Size Edition
-permalink: /toys-1-6/metal-gear-solid-rex-half-size-edition.html
+permalink: /toys-non-scale/metal-gear-solid-rex-half-size-edition.html
 world: Kojima
 world_abr: 
 character_base: 

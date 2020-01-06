@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: square-mk2-10-pack-rvhk-exclusive
 toy_name: Square MK2 10 Pack (RVHK Exclusive)
-permalink: /toys-1-6/square-mk2-10-pack-rvhk-exclusive.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/square-mk2-10-pack-rvhk-exclusive.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/10/2012
 release_price: $150 
 scale: one twelve

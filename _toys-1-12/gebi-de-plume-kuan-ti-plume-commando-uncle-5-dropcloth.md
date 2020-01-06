@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: gebi-de-plume-kuan-ti-plume-commando-uncle-5-dropcloth
 toy_name: Gebi de Plume, Kuan ti Plume, Commando Uncle 5 Dropcloth
-permalink: /toys-1-6/gebi-de-plume-kuan-ti-plume-commando-uncle-5-dropcloth.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/gebi-de-plume-kuan-ti-plume-commando-uncle-5-dropcloth.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/27/2011
 release_price: $135 
 scale: one twelve

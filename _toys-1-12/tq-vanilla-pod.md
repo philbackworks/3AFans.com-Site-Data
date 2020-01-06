@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tq-vanilla-pod
 toy_name: Popbot Action Portable TQ Vanilla Pod
-permalink: /toys-1-6/tq-vanilla-pod.html
+permalink: /toys-1-12/tq-vanilla-pod.html
 world: Popbot Action Portable
 world_abr: POP-AP
-character_base: Female
+character_base: TQ
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/18/13
 release_price: $60 USD
 scale: one twelve

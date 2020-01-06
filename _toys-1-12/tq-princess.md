@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tq-princess
 toy_name: Popbot Action Portable TQ Princess
-permalink: /toys-1-6/tq-princess.html
+permalink: /toys-1-12/tq-princess.html
 world: Popbot Action Portable
 world_abr: POP-AP
-character_base: Female
+character_base: TQ
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/18/13
 release_price: $60 USD
 scale: one twelve

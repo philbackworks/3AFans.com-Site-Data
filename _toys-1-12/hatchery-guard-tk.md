@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: hatchery-guard-tk
 toy_name: Hatchery Guard TK
-permalink: /toys-1-6/hatchery-guard-tk.html
+permalink: /toys-1-12/hatchery-guard-tk.html
 world: AP Popbot
 world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
-tags: [tomorrow king, action portable]
+tags: [action portable, ap, tomorrow king, action portable]
 release_date: 6/18/2011
 release_price: $30 
 scale: one twelve
@@ -27,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, fdk_ksu]
 toy_pics: 
   -  ap-hatchery-guard_01_12_by_lumpyheadstudios.jpg
+  -  ap-action-portable-tk-hatchery-guard_01-12_by_fdk_ksu_via_instagram.jpg
 backstory: $12 S/H
 sale_type: 
 event_exclusive: 

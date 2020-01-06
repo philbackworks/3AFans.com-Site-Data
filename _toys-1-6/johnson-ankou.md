@@ -1,13 +1,14 @@
 ---
 toy_id: johnson-ankou
-toy_name: Johnson! Ankou
+toy_name: Johnson Ankou
 permalink: /toys-1-6/johnson-ankou.html
 world: Adventure Kartel
 world_abr: AK
 character_base: Ankou
 layout: layout-toy-detail
 categories: [AK, onesixth, ankou]
-release_date: 
+tags: [orange]
+release_date: 2011
 release_price: 
 scale: one sixth
 size: 12 inches tall

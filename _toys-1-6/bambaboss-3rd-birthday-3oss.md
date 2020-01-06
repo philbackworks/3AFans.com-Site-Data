@@ -21,13 +21,12 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 3RD002
+product_code: 3RD002
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  Bambaboss 3AA
   -  Bambaboss 2nd Birthday Boss
   -  Bambaboss 6th Year
   -  Bambaboss Ghostbamba GID

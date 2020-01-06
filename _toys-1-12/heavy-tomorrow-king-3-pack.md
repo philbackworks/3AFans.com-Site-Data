@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: heavy-tomorrow-king-3-pack
 toy_name: Heavy Tomorrow King 3 Pack
-permalink: /toys-1-6/heavy-tomorrow-king-3-pack.html
+permalink: /toys-1-12/heavy-tomorrow-king-3-pack.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/27/2012
 release_price: $145 
 scale: one twelve

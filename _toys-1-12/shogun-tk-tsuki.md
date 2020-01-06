@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: shogun-tk-tsuki
 toy_name: Shogun TK Tsuki
-permalink: /toys-1-6/shogun-tk-tsuki.html
+permalink: /toys-1-12/shogun-tk-tsuki.html
 world: AP Popbot
 world_abr: POP
-character_base: Male
+character_base: TK
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap, tomorrow king]
+tags: [action portable, ap, action portable, ap, tomorrow king]
 release_date: 3/26/2018
 release_price: ~$110
 scale: one twelve

@@ -8,6 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [pink, ankou, robot, rainbow, personal trainer]
 release_date: 12/7/2012
 release_price: $130 
 scale: one sixth
@@ -19,22 +20,31 @@ exclusive:
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
-product_code_/_link: 00WYT
+packaging_type: Carded figure
+product_code: 00WYT
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
+variants:
 variants: 
-you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  Ankou Sentry Shadow Security
+  -  Ankou Newandria Police
+  -  Ankou NLCS
+  -  Ankou Asclepius
+  -  Ankou UNKNOWN
+  -  Ankou NLCS Commander
+  -  Ankou Junglevet
+  -  Johnson Ankou
+you_might_also_like:
+  -  Nabler Guys
+  -  Tommy Mission EMO
+  -  Little Shadow    
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
+  -  johan-ankou-pink-rainbow-lsbbg-01-6-by-foreignparticle.jpg
 backstory: Surprise LTD drop. Comes in blister card
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

@@ -20,11 +20,13 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  TKLUB 1 OROSHI 18
+  -  OROSHI DARKY
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, xxbarachielxx, foreignparticle]
 toy_pics: 

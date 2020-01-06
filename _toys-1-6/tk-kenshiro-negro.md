@@ -25,8 +25,8 @@ variants:
   -  TK Yoji
   -  TK Hideo
 you_might_also_like:
-  -  Seven Bones Slicer Kureiji Yaro
-  -  TK Ronin Moon
+  -  Seven Bones TK Slicer Kureiji Yaro
+  -  RONIN TK MOON
 article_contributors: [Phil Back, wang2nobody]
 toy_pics:
   -  tk-kenshiro-01-6.jpg

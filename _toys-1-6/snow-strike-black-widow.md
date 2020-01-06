@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: SNOWWIDOW
+product_code: SNOWWIDOW
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

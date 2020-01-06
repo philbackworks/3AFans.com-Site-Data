@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: mars-ghost-of-guangzhou-gid
 toy_name: MARS Ghost of Guangzhou GID
-permalink: /toys-1-6/mars-ghost-of-guangzhou-gid.html
+permalink: /toys-3ago/mars-ghost-of-guangzhou-gid.html
 world: Worlds Best Robots
 world_abr: WBR
 character_base: MARS

@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tk-rida
 toy_name: TK Rida
-permalink: /toys-1-6/tk-rida.html
+permalink: /toys-1-12/tk-rida.html
 world: AP Popbot
 world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
-tags: [tomorrow king, yellow shirt, witch craft, blonde]
+tags: [action portable, ap, tomorrow king, yellow shirt, witch craft, blonde]
 release_date: 9/29/2017
 release_price: $80 
 scale: one twelve

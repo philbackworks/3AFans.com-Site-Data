@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: lonely-star-warrior-tk-pure-warrior-diy
-toy_name: Lonely Star Warrior TK - Pure Warrior (DIY)
+toy_name: Lonely Star Warrior TK Pure Warrior DIY
 permalink: /toys-1-6/lonely-star-warrior-tk-pure-warrior-diy.html
 world: Star Wars Alternate
 world_abr: SWA
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [star wars, stormtrooper, white, black]
 release_date: 4/30/2015
 release_price: THB 5,000
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

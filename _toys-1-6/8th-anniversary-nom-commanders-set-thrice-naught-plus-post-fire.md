@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: NOMCOMSET8
+product_code: NOMCOMSET8
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

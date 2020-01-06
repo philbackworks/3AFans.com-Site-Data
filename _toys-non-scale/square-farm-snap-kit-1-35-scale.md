@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: square-farm-snap-kit-1-35-scale
 toy_name: Square Farm Snap Kit (1:35 Scale)
-permalink: /toys-1-6/square-farm-snap-kit-1-35-scale.html
+permalink: /toys-non-scale/square-farm-snap-kit-1-35-scale.html
 world: OSM WWR
 world_abr: 
 character_base: 

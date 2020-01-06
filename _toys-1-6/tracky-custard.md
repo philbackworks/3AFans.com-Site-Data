@@ -8,10 +8,11 @@ world_abr: AK
 character_base: Dog
 layout: layout-toy-detail
 categories: 
+tags: [dog, sweatshirt, black, stripe, eyepatch, labrador]
 release_date: 3/21/2013
 release_price: $60 
 scale: one sixth
-size: 12 inches
+size:
 comes_with: 
 edition_qty: 
 chase: 
@@ -20,21 +21,18 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000CUSTARDTRACKY
+product_code: 000CUSTARDTRACKY
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: 0
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
+  -  tracky-custard-dog_01-6_by_dk_kuro_via_instagram.jpg
 backstory: Surprise LTD drop
-sale_type: 
+sale_type: BAMBALAND - LIMITED, SURPRISE
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

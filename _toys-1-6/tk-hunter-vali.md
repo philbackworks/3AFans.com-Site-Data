@@ -20,14 +20,14 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: THVF
+product_code: THVF
 designer: Ashley Wood
-makers: 
+makers: Tomorrow King logo and TK Hunter logo designs by Brent Ashe
 points_of_articulation: 
 variants: 
   -  TK Hunter MK6 Death Mask Hack
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, xxbarachielxx]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, xxbarachielxx, Brent Ashe]
 toy_pics: 
   -  tk-hunter-vali-huge-robot-01-6-by-FRUTIGER_.jpg
   -  tk-hunter-01-6-by-xxbarachielxx.jpg

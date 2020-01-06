@@ -7,6 +7,7 @@ world_abr: AK
 character_base: Ankou
 layout: layout-toy-detail
 categories: [AK, onesixth, ankou]
+tags: [3-Pack, Set]
 release_date: 7/12/2010
 release_price: $220 USD
 scale: one sixth
@@ -33,9 +34,14 @@ you_might_also_like:
   - Ankou Johan
   - Ankou Asclepius
   - Ankou EX Fat Drown 
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, threealegionnaire]
+toy_pics:
+  -  ankou-sentry-3-pack_01-6_by_threealegionnaire_via_instagram.jpg
 backstory:
-tags: 3-Pack, Set
+sale_type: BAMBALAND - NORMAL
+event_exclusive: no
+event_details: 
+source_doc: 3A2013a.xls
 ---
 3-Pack included three standard Ankou figures.
 

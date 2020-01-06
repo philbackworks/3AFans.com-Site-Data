@@ -9,7 +9,7 @@ character_base: Punisher
 layout: layout-toy-detail
 categories: 
 tags: [rumor, canceled, cancelled]
-release_date: n/a
+release_date: unreleased
 release_price: n/a
 scale: one sixth
 size: 12 inches
@@ -21,7 +21,7 @@ secret_drop:
 sold_where: Not for sale
 bamba_points: 
 packaging_type: n/a
-product_code_/_link: 
+product_code: 
 designer: Marvel Comics
 makers: Ashley Wood
 points_of_articulation: n/a

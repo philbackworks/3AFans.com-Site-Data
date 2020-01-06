@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: GONE
+product_code: GONE
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -35,3 +35,8 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"...the direct lineage of the original release TK’s, all are missing in the Underverse, these 3 are on the hunt for them!" - <a href="https://www.worldofthreea.com/threea-production-blog/qa37" target="_blank">Ashley Wood, Q & A #37</a>
+
+Red t-shirt (Mae No Ni) 
+Green t-shirt (Tsuitachi No Ato) 
+Black t-shirt (Tsuitachi Ni Ushinawa)

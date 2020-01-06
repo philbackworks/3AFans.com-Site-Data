@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: wwr-jdf-bertie-plus-square-2-pack
-toy_name: WWR JDF Bertie + Square 2 Pack
+toy_name: WWR JDF Bertie plus Square 2 Pack
 permalink: /toys-3ago/wwr-jdf-bertie-plus-square-2-pack.html
 world: 3AGO
 world_abr: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-3ago
-__sort_field: toy_name'
 ---

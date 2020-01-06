@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: sand-devil-bertie-mk3-mode-b
 toy_name: Sand Devil Bertie MK3 Mode B
-permalink: /toys-1-6/sand-devil-bertie-mk3-mode-b.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/sand-devil-bertie-mk3-mode-b.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/2/2012
 release_price: $70 
 scale: one twelve

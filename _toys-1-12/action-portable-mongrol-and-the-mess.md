@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: action-portable-mongrol-and-the-mess
 toy_name: Action Portable Mongrol and the Mess
-permalink: /toys-1-6/action-portable-mongrol-and-the-mess.html
+permalink: /toys-1-12/action-portable-mongrol-and-the-mess.html
 world: 2000 AD
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap, chain] 
 release_date: 4/25/2015
 release_price: $55 
 scale: one twelve
@@ -21,8 +22,8 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code_/_link: 0WS2
-designer: Ashley Wood
-makers: 
+designer: Pat Mills and Kevin O'Neill
+makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

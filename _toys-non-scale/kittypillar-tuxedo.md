@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
 toy_id: kittypillar-tuxedo
-toy_name: Kittypillar - Tuxedo
-permalink: /toys-1-6/kittypillar-tuxedo.html
+toy_name: Kittypillar Tuxedo
+permalink: /toys-non-scale/kittypillar-tuxedo.html
 world: Casey Weldon x 3A
 world_abr: ART
 character_base: Kittypillar
@@ -22,7 +22,7 @@ bamba_points:
 packaging_type: 
 product_code_/_link: 201809TUX
 designer: Ashley Wood
-makers: 
+makers: Brodie Perkins (Sculptor)
 points_of_articulation: 
 variants: 
 you_might_also_like: 

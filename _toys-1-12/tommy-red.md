@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tommy-red
 toy_name: Tommy Red
-permalink: /toys-1-6/tommy-red.html
+permalink: /toys-1-12/tommy-red.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/16/2014
 release_price: 
 scale: one twelve

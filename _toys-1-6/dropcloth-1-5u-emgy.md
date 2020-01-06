@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 1500
 packaging_type: 
-product_code_/_link: 15DEMGYGONEBYE2
+product_code: 15DEMGYGONEBYE2
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

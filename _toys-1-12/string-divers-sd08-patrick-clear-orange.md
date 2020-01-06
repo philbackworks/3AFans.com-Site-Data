@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-sd08-patrick-clear-orange
 toy_name: String Divers SD08 Patrick Clear Orange
-permalink: /toys-1-6/string-divers-sd08-patrick-clear-orange.html
+permalink: /toys-1-12/string-divers-sd08-patrick-clear-orange.html
 world: Microman
 world_abr: MICRO
 character_base: String Diver
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/30/2015
 release_price: ~$40
 scale: one twelve

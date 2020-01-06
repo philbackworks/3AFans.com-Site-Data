@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [hammer, set, black, tk, tomorrow king, 4-pack, four way]
 release_date: 5/1/2014
 release_price: $440 
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000000TKFAS0005
+product_code: 0000000TKFAS0005
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

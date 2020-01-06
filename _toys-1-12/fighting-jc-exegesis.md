@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: fighting-jc-exegesis
 toy_name: Fighting JC Exegesis 
-permalink: /toys-1-6/fighting-jc-exegesis.html
+permalink: /toys-1-12/fighting-jc-exegesis.html
 world: AP Adventure Kartel
 world_abr: 
-character_base: 
+character_base: JC
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap, jesus, blonde, white]
 release_date: 9/5/2012
 release_price: $45 
 scale: one twelve
@@ -26,15 +27,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, barton_ltm]
 toy_pics: 
+  -  jc-exegesis_01-3AGO-by_barton_ltm.jpg
 backstory: ($15 S/H)
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

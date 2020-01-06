@@ -18,7 +18,7 @@ exclusive:
 secret_drop: 
 sold_where: bambaland.com
 packaging_type: box
-product_code_/_link: 0000000000HSDM
+product_code: 0000000000HSDM
 designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30

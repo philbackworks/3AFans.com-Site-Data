@@ -8,6 +8,7 @@ world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [outer space, astronaut, underverse, Baphtranaut, black, grey]
 release_date: 1/18/2017
 release_price: ~$160
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

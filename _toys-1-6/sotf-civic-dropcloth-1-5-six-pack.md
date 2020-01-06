@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: sotf-civic-dropcloth-1-5-six-pack
-toy_name: SOTF Civic Dropcloth 1.5 Six Pack
+toy_name: SOTF Civic Dropcloth 1 5 Six Pack
 permalink: /toys-1-6/sotf-civic-dropcloth-1-5-six-pack.html
 world: World War Robot
 world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [cdr, white, orange, pod, container]
 release_date: 1/7/2015
 release_price: $860 
 scale: one sixth
@@ -20,17 +21,26 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000000000CDSP
+product_code: 00000000000000CDSP
 designer: Ashley Wood
-makers: 
+makers: Civic Defence logo design, faction design and packaging design by Brent Ashe
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  SOTF Civic Defence Mule Rev 3 BIRDCAGE
+  -  SOTF Civic Defence Rothchild MK2 Bertie
+  -  SOTF Civic Dropcloth 1 5 Commander
+  -  SOTF Civic Dropcloth 1 5 Guard Blindbox
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Brent Ashe]
 toy_pics: 
+  -  sotf-civic-defence-mule-birdcage-05-6-branding-designed_by_brent_ashe_for_threea_toys.jpg
+  -  sotf-civic-defence-iconography-01-6-branding-designed_by_brent_ashe_for_threea_toys.jpg
 backstory: Comes with drop-pods
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+SOTF Civic Dropcloth 1.5 Six Pack
+
+"Order is the dream of man" - From the ThreeA packaging

@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
 toy_id: kittypillar-bombay
-toy_name: Kittypillar - Bombay
-permalink: /toys-1-6/kittypillar-bombay.html
+toy_name: Kittypillar Bombay
+permalink: /toys-non-scale/kittypillar-bombay.html
 world: Casey Weldon x 3A
 world_abr: 
 character_base: 
@@ -22,7 +22,7 @@ bamba_points:
 packaging_type: 
 product_code_/_link: KPB
 designer: Ashley Wood
-makers: 
+makers: Brodie Perkins (Sculptor)
 points_of_articulation: 
 variants: 
 you_might_also_like: 
@@ -33,8 +33,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-non-scale
-__sort_field: toy_name'
 ---

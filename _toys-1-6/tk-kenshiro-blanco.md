@@ -24,8 +24,8 @@ variants:
   -  TK Kenshiro Negro
 you_might_also_like:
   -  TK Hideo
-  -  Seven Bones Slicer Kureiji Yaro
-  -  TK Ronin Moon
+  -  Seven Bones TK Slicer Kureiji Yaro
+  -  RONIN TK MOON
 article_contributors: [Phil Back]
 toy_pics:
 backstory: Market note - spotted on ebay (Kenshiro - Red) for $450 USD. Kenshiro Blue spotted @ $800 USD (1/30/2019). 

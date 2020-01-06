@@ -20,12 +20,19 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000AKNZ
+product_code: 00000000AKNZ
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Taweret Nurse Zomb
 you_might_also_like: 
+  -  Oppenheimer GID Zomb
+  -  Zomb MD Dr Shitvago
+  -  Boiler Zomb Red
+  -  Boiler Zomb Black
+  -  Bloodhood Hoodzomb
+  -  Nurse Becky Bertie MK2
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
 toy_pics: 
   -  black-rose-nurse-zomb-01-6-by-luciferbeck.jpg

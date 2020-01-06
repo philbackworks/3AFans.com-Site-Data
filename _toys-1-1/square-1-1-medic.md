@@ -7,6 +7,7 @@ world_abr: WWR
 character_base: Square (1:1)
 layout: layout-toy-detail
 categories: [wwr, one-to-one]
+tags: [white, red, cross]
 release_date: 2/6/2015
 release_price: $$$$
 scale: one-to-one
@@ -27,10 +28,11 @@ variants:
   - Square 1-1 Meow CD
   - Squaro 1-1
 you_might_also_like:  
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, hamburgerddsdm]
 toy_pics:
+  -  square-medic_01-1_3a-toys_by_hamburgerddsd-via-instagram.jpg
   -  square-1-1-medic-01-1.jpg
-  -  square-1-1-medic.jpg
+  -  square-medic_01-1_3a-toys_by_hamburgerddsd-via-instagram.jpg
   -  square-1-1-all.jpg
 backstory:  
 ---

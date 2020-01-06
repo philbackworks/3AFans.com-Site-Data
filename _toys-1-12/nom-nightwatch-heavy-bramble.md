@@ -3,11 +3,12 @@ layout: layout-toy-detail
 toy_id: nom-nightwatch-heavy-bramble
 toy_name: NOM Nightwatch Heavy Bramble
 permalink: /toys-1-12/nom-nightwatch-heavy-bramble.html
-world: WWRp
-world_abr: 
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/21/2011
 release_price: $55 
 scale: one twelve

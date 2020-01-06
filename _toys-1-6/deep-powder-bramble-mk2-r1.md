@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 201805DPB
+product_code: 201805DPB
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

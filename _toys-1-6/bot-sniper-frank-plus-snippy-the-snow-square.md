@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 2200
 packaging_type: 
-product_code_/_link: 0000FAS
+product_code: 0000FAS
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

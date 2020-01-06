@@ -21,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000000000000000LTKD
+product_code: 000000000000000LTKD
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -38,3 +38,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"...his place in the story is a dark moment, maybe im putting it off for that reason!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa13" target="_blank">Q and A #13</a> 

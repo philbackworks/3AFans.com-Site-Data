@@ -20,9 +20,9 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000000000WFB
-designer: Ashley Wood
-makers: 
+product_code: 0000000000WFB
+designer: TP Louise
+makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 

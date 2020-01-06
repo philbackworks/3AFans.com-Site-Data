@@ -56,3 +56,5 @@ BAMBALAND EXCLUSIVE EDITION INCLUDES
 ADDITIONAL INFO
  Materials Used - ABS, PVC, POM
  Requires AG1 X 3 Button Cell Batteries (Batteries Not Included)
+
+ TRANSFORMERS and all related characters are trademarks of Hasbro. ©2019 Hasbro. All Rights Reserved. © 2019 Paramount Pictures Corporation. All Rights Reserved.

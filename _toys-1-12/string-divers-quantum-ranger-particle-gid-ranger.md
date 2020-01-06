@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: string-divers-quantum-ranger-particle-gid-ranger
 toy_name: String Divers Quantum Ranger Particle GID Ranger
-permalink: /toys-1-6/string-divers-quantum-ranger-particle-gid-ranger.html
+permalink: /toys-1-12/string-divers-quantum-ranger-particle-gid-ranger.html
 world: Microman
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 1/5/2016
 release_price: $80 
 scale: one twelve

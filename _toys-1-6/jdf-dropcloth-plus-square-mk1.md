@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: jdf-dropcloth-plus-square-mk1
-toy_name: JDF Dropcloth + Square MK1
+toy_name: JDF Dropcloth plus Square MK1
 permalink: /toys-1-6/jdf-dropcloth-plus-square-mk1.html
 world: World War Robot
 world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [JDF, red, white, stripe, circle, japanese, defence, force]
 release_date: 2/7/2011
 release_price: JPY 11,429
 scale: one sixth
@@ -20,12 +21,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  MIGHTY SQUARE JDF
+  -  JDF HAROLD THE FUCKTARD
+  -  EVOL 4SQUARE JDF
+  -  JDF DROPCLOTH Plus SQUARE MK1
+  -  JDF HARA PATROL GRUNT and SQUARE MK2
 article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
 toy_pics: 
   -  jdf-dropcloth-plus-square-mk2-01-6-by-pcww88-patrick-wong.jpg

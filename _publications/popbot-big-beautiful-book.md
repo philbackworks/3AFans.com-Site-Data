@@ -19,14 +19,15 @@ exclusive: yes
 secret_drop:
 sold_where: SDCC 2011
 packaging_type: --
-designer: 
+designer: Brent Ashe
 publisher: IDW
 authors: Ashley Wood, TP Louise
 variants:
 you_might_also_like: 
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, Brent Ashe]
 pub_pics: 
   -  popbot-big-beautiful-book.jpg
+  -  popbot-big-beautiful-book-02_designed_by_brent_ashe_for_threea_toys.jpg
 summary: This item was ONLY available at San Diego Comic Con 2011. POPBOT BIG BEAUTIFUL BOOK collects the long sold-out POPBOT volumes 1 to 8. This huge 11" x 14" hardcover collection showcases over 400 pages of Ashley Wood art and comes with a slipcase. Strictly limited to 500 copies.  - From Amazon
 buy:
   amazon: https://www.amazon.com/Popbot-Beautiful-Book-SDCC-Exclusive/dp/B007C7TVSG/ref=sr_1_1?ie=UTF8&qid=1549246359&sr=8-1&keywords=Popbot+Big+Beautiful+Book

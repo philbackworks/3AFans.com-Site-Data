@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: BDIY
+product_code: BDIY
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -29,6 +29,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
   -  bambi-paramour-diy-film-with-pink-01-6.jpg
+  -  bambi-paramour-diy-film_01-6_by_dk_kuro_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: lost-planet-2-gtf-11-drio-plus-mercenary
 toy_name: LOST PLANET 2 GTF-11 DRIO + Mercenary
-permalink: /toys-1-6/lost-planet-2-gtf-11-drio-plus-mercenary.html
+permalink: /toys-1-12/lost-planet-2-gtf-11-drio-plus-mercenary.html
 world: Capcom
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/28/2014
 release_price: $350 
 scale: one twelve

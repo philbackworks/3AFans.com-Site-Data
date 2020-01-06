@@ -21,13 +21,12 @@ secret_drop:
 sold_where: 
 bamba_points: 1500
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  Bambaboss 3AA
   -  Bambaboss 2nd Birthday Boss
   -  Bambaboss 3rd Birthday 3oss
   -  Bambaboss 6th Year

@@ -1,12 +1,13 @@
 ---
-toy_id: darwin-rothchild-a-means-to-an-end-edition
+toy_id: darwin-rothchild-a-means-to-an-end
 toy_name: Darwin Rothchild A Means to an End
-permalink: /toys-1-6/darwin-rothchild-a-means-to-an-end-edition.html
+permalink: /toys-1-6/darwin-rothchild-a-means-to-an-end.html
 world: World War Robot
 world_abr: WWR
 character_base: Rothchild
 layout: layout-toy-detail
-categories: [onesixth, EVOL, shadowplay, NFS]
+categories: [onesixth, shadowplay, NFS]
+tags: [black, EVOL]
 release_date: 12/20/2012
 release_price: 
 scale: one sixth
@@ -27,10 +28,9 @@ variants:
   -  Darwin Rothchild Here is the Young Man Edition
 you_might_also_like: 
   -  Caesar RIP 001
-article_contributors: [Phil Back, foreignparticle, toy_spot]
+article_contributors: [Phil Back, kw9398kw]
 toy_pics: 
-  -  darwin-rothchild-a-means-to-an-end-01-6.jpg
-  -  darwin-rothchild-a-means-to-an-end-02-6.jpg
+  -  darwin-rothchild-a-means-to-an-end-all-black_01-6_by_kw9398kw_via_instagram.jpg
 backstory:
 ---
-[need some more info!]
+The figure never was for sale - extremely limited!

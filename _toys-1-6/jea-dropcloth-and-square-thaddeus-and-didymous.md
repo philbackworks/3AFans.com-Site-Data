@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 3RD001
+product_code: 3RD001
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -29,7 +29,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
 toy_pics: 
   -  jea-dropcloth-didymous-and-square-thaddeus-01-6-by-pcww88-patrick-wong.jpg
-backstory: Bambaland Exclusive
+backstory: Bambaland Exclusive; ; Market update - sold for $162.50 on ebay 3/2018.
 sale_type: 
 event_exclusive: 
 event_details: 

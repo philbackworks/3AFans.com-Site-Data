@@ -39,5 +39,3 @@ toy_pics:
   -  tracky-jc-02-6.jpg
 backstory:
 ---
-
-[Need some info!]

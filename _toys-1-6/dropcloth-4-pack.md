@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
+tags: [four way,set, multiple, jungler, zhivago, medic, snowballer, monty, 666, red, white, camo, brown, tan, beige, skull, green, grey]
 release_date: 1/29/2010
 release_price: $320 
 scale: one sixth
@@ -20,15 +21,23 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 
+product_code: 
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, hamburgerddsdm]
 toy_pics: 
-backstory: Bambaland Exclusive
+  -  dropcloth-4-pack_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  -  dropcloth-jungler-WF_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  -  dropcloth-jungler-WF_02-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  -  dropcloth-medic_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  -  medic-dropcloth-zhivago_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  -  dropcloth-sand-devil_01-12_3a-toys_wwr-portable-by_hamburgerddsd-via-instagram.jpg
+  -  dropcloth-snowballer_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+  -  dropcloth-666-sand-devil_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
+backstory: Bambaland Exclusive included Jungler (green and camo), Monty (tan), Zhivago (red left arm) and Snowballer (dirty white). Other colorways available through retailers.
 sale_type: 
 event_exclusive: 
 event_details: 

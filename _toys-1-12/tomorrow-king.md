@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tomorrow-king
 toy_name: Tomorrow King
-permalink: /toys-1-6/tomorrow-king.html
+permalink: /toys-1-12/tomorrow-king.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 9/10/2010
 release_price: $100 
 scale: one twelve

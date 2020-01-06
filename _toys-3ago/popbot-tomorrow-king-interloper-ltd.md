@@ -4,8 +4,8 @@ toy_id: popbot-tomorrow-king-interloper-ltd
 toy_name: Popbot Tomorrow King Interloper Ltd
 permalink: /toys-3ago/popbot-tomorrow-king-interloper-ltd.html
 world: 3AGO
-world_abr: 
-character_base: 
+world_abr: 3AGO
+character_base: TK
 layout: layout-toy-detail
 categories: 
 release_date: 8/27/2014

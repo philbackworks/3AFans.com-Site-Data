@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: action-portable-mongrol-and-the-mess-blackhole-edition-rvhk-exclusive
 toy_name: Action Portable Mongrol and the Mess Blackhole Edition (RVHK Exclusive)
-permalink: /toys-1-6/action-portable-mongrol-and-the-mess-blackhole-edition-rvhk-exclusive.html
+permalink: /toys-1-12/action-portable-mongrol-and-the-mess-blackhole-edition-rvhk-exclusive.html
 world: 2000 AD
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/10/2012
 release_price: $55 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

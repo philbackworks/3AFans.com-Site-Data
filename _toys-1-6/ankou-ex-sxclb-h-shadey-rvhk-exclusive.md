@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: ankou-ex-sxclb-h-shadey-rvhk-exclusive
-toy_name: Ankou EX SXCLB H Shadey (RVHK Exclusive)
+toy_name: Ankou EX SXCLB H Shadey RVHK Exclusive
 permalink: /toys-1-6/ankou-ex-sxclb-h-shadey-rvhk-exclusive.html
 world: Adventure Kartel
 world_abr: AK
@@ -20,7 +20,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

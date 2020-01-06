@@ -8,6 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [white, space, skull, skeleton]
 release_date: 8/7/13
 release_price: $160 USD
 scale: one sixth
@@ -22,7 +23,12 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 30
 variants: 
-you_might_also_like: 
+  -  Dead Astronaut Gangsta Set
+  -  Dead Astronaut Gangsta Dark
+  -  Dead Astronaut Gangsta Golovorez Cosmonaut
+you_might_also_like:
+  -  Dead Astronaut Gangsta White 2 Pack
+  -  Future Mort 13
 article_contributors: [Phil Back, Don Slater, absolutemono]
 toy_pics: 
   -  dead-astronaut-gangsta-white-01-6-by-absolutemono.jpg

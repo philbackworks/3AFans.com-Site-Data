@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [white, white hair]
 release_date: 10/6/2014
 release_price: ~$120
 scale: one sixth
@@ -20,7 +21,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -28,8 +29,9 @@ variants:
   -  Pink Latex Miyu Easter Egger
   -  Miyu Digital Pop Angel Cosplay
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
-toy_pics: 
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
+toy_pics:
+  -  cream-dream-cosplay-pascha_01-6_by_SZUTSUNG_via_instagram.jpg 
   -  miyu-digital-pop-angel-cosplay-02-6-by-apple_tamer-batedbunnytoys.jpg
 backstory: 
 sale_type: 

@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: pure-color-square-mk1-squares
 toy_name: Pure Color Square MK1 Squares
-permalink: /toys-1-6/pure-color-square-mk1-squares.html
-world: World War Robot
+permalink: /toys-1-12/pure-color-square-mk1-squares.html
+world: World War Robot Portable
 world_abr: WWRp
 character_base: Square MK1
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/7/13
 release_price: 
 scale: one twelve

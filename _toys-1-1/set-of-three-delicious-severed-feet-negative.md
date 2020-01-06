@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: set-of-three-delicious-severed-feet-negative
 toy_name: Set of Three Delicious Severed Feet - Negative
-permalink: /toys-1-6/set-of-three-delicious-severed-feet-negative.html
+permalink: /toys-1-1/set-of-three-delicious-severed-feet-negative.html
 world: AW Collection
 world_abr: 
-character_base: 
+character_base: Foot
 layout: layout-toy-detail
 categories: 
+tags: [severed, foot, severedfoot]
 release_date: 1/20/2013
 release_price: $280 
 scale: one-to-one
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-1
-__sort_field: toy_name'
 ---

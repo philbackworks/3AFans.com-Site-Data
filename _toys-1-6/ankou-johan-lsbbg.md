@@ -16,7 +16,8 @@ edition_qty: unknown
 exclusive: no
 secret_drop:
 sold_where: bambaland.com
-packaging_type: Carded
+packaging_type: Carded figure
+product_code: 00WYT
 designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30

@@ -21,17 +21,27 @@ secret_drop:
 sold_where: Bambaland.com and retailers
 bamba_points: 
 packaging_type: Box
-product_code_/_link: BLACKWIDOW
+product_code: BLACKWIDOW
 designer: Marvel, Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Snow Strike Black Widow
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  The Invincible Iron Man Ghost Edition
+  -  The Invincible Iron Man Classic
+  -  The Invincible Iron Man Stark Hanger Set
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Sjcui, saaaa_muel]
 toy_pics: 
   -  marvel-black-widow-by-ashley-wood-01-6-by-phil-back.jpg
+  -  black-widow-by-ashley-wood_01-6_by_saaaa_muel_via_instagram.jpg
   -  marvel-black-widow-by-ashley-wood-02-6-by-phil-back.jpg
+  -  black-widow-by-ashley-wood_02-6_by_saaaa_muel_via_instagram.jpg
   -  marvel-black-widow-by-ashley-wood-03-6-by-phil-back.jpg
+  -  black-widow-by-ashley-wood_03-6_by_saaaa_muel_via_instagram.jpg
+  -  black-widow-01-6-by_sjcui.jpg
+  -  black-widow-by-ashley-wood_04-6_by_saaaa_muel_via_instagram.jpg
+  -  black-widow-by-ashley-wood_05-6_by_saaaa_muel_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -23,8 +23,8 @@ points_of_articulation: 30
 variants: 
   -  Interloper Heavy IH001
 you_might_also_like:
-  -  Seven Bones Slicer Kureiji Yaro
-  -  TK Ronin Moon
+  -  Seven Bones TK Slicer Kureiji Yaro
+  -  RONIN TK MOON
   -  TK Kenshiro Negro
   -  TK Hideo  
 article_contributors: [Phil Back, foreignparticle]

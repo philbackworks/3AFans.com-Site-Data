@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: search-and-destroy-uk-tq
-toy_name: Search & Destroy UK TQ
+toy_name: Search and Destroy UK TQ
 permalink: /toys-1-6/search-and-destroy-uk-tq.html
 world: Popbot
 world_abr: POP
@@ -20,12 +20,14 @@ secret_drop: yes
 sold_where: bambaland.com
 bamba_points: 
 packaging_type: box
-product_code_/_link: 0000000SDTQ
+product_code: 0000000SDTQ
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Search and Destroy Shadow TQ
 you_might_also_like: 
+  -  Search and Destroy UK TK
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
 toy_pics: 
   -  search-and-destroy-uk-tq-01-6.jpg

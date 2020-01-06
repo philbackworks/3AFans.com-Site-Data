@@ -8,6 +8,7 @@ world_abr: POP
 character_base: Female
 layout: layout-toy-detail
 categories: 
+tags: [mask, blue, underverse]
 release_date: 10/24/2014
 release_price: $120 
 scale: one sixth
@@ -20,14 +21,15 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000TKLBTQH
+product_code: 00000000TKLBTQH
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, pcww88, saaaa_muel]
 toy_pics: 
+  -  hoaxer_01-6_by_saaaa_muel_via_instagram.jpg
   -  hoaxer-01-6-by-foreignparticle.jpg
   -  hoaxer-one-irimi-01-6-by-FRUTIGER_.jpg
   -  hoaxer-one-irimi-01-6-by-pcww88-patrick-wong.jpg

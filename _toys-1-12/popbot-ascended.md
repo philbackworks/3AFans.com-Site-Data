@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: popbot-ascended
 toy_name: Popbot Ascended
-permalink: /toys-1-6/popbot-ascended.html
+permalink: /toys-1-12/popbot-ascended.html
 world: AP Popbot
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/21/2011
 release_price: $45 
 scale: one twelve

@@ -8,28 +8,30 @@ world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [red, blue hair, santa, christmas, sack, holiday, cheer, ho]
 release_date: 12/4/2014
 release_price: $120 
 scale: one sixth
-size: 12 inches
-comes_with: 
-edition_qty: 
+size: 13 inches
+comes_with: Santa hat, Sacks full of surprises, Holiday Cheer
+edition_qty: Limited
 chase: 
-exclusive: 
+exclusive: yes
 secret_drop: 
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 00000000000000XMG
+product_code: 00000000000000XMG
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, szutsung]
 toy_pics: 
   -  isobelle-pascha-xxxmas-girl-red-skirt_01_6_by_FRUTIGER_.jpg
-backstory: LTD Pre-Made. Purple, Turquoise and Teal hair variants, each comes with sack containing unknown gift
+  -  xxxmas-girl_01-6_by_SZUTSUNG_via_instagram.jpg
+backstory: Limited pre-made blind box. Purple (Liz), Turquoise (Iso) and Teal (Miyu) hair variants, each comes with sack containing unknown gift
 sale_type: 
 event_exclusive: 
 event_details: 

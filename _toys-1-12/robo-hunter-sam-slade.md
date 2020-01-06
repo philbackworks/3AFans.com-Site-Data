@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: robo-hunter-sam-slade
 toy_name: Robo-Hunter Sam Slade
-permalink: /toys-1-6/robo-hunter-sam-slade.html
+permalink: /toys-1-12/robo-hunter-sam-slade.html
 world: 2000 AD
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 4/28/2015
 release_price: $50 
 scale: one twelve

@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: automatic-hemingway
 toy_name: Automatic Hemingway
-permalink: /toys-1-6/automatic-hemingway.html
+permalink: /toys-3ago/automatic-hemingway.html
 world: 3AGO
 world_abr: 3AGO
 character_base: Cyborg
@@ -27,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, barton_ltm]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, barton_ltm, saaaa_muel]
 toy_pics: 
   -  automatic-hemingway_01-3AGO-by_barton_ltm.jpg
+  -  automatic-heminway_01-6_by_saaaa_muel_via_instagram.jpg
   -  automatic-hemingway_02-3AGO-by_barton_ltm.jpg
   -  automatic-hemingway_03-3AGO-by_barton_ltm.jpg
 backstory: 

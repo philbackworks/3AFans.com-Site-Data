@@ -47,3 +47,9 @@ From the official ThreeA promotional material:
 "SHADOW SLINGER" (Dark version of <a href="/toys-1-6/blink-cowboy.html">Blind Cowboy</a>)
 
 This amazing figure was offered as part of the Dead Equine Super Set, which included the <a href="/toys-1-6/dark-ghost-horse.html">Dark version of his ghost horse, "Ghost"</a>.
+
+
+The story from ThreeA:
+"I need your services in locating some naughty lads, who owe me some payments! Thirteen lads to be clear... These tricky boys have gone where, well to be honest I cannot go, so I need you to go there and bring them to me. On Earth... New Manchester.
+
+Oh, I forgot to mention, as a deal sweetener, I'll bring back your Dead Equine, but he will continue to decay. That's a Devil thing, with one sock I give, the other I take away, you know that ol'gem. One last thing. While you're in my Dark Service, so will you look it! Your color will return when you have completed you task!"

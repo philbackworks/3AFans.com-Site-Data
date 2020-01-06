@@ -7,7 +7,7 @@ world_abr: WWR
 character_base: Caesar
 layout: layout-toy-detail
 categories: [onesixth, robot, caesar]
-tags: [white, black, bodyguard, rothchild]
+tags: [white, black, bodyguard, rothchild, white, black, shield, zerozeroone, 3avox]
 release_date: 2012
 release_price: $230 USD
 scale: one sixth
@@ -27,7 +27,7 @@ variants:
   -  Caesar EMGY
   -  Caesar PRU Support
   -  Caesar Gravedigger
-  -  Caesar DBG
+  -  Caesar Jungler DBG
   -  Caesar JEA GSC
   -  Caesar 666th CLINT E
   -  Caesar Dutch Merc
@@ -35,12 +35,13 @@ variants:
 you_might_also_like:
   -  Caesar RIP 002
   -  Caesar RIP 003
-  -  EVOL Rothchild
+  -  EVOL Darwin Rothchild
 article_contributors: [Phil Back, frutiger_]
 toy_pics: 
   -  RIP-001-caesar-01-6_by_frutiger_.jpg
 backstory: Caesar was created by Rothchild as his personal bodyguards, after he survived the failed attempt on his life by the Dirty Deed Squad of 12 Berties, sent from Earth.
 ---
+"Rothchild Yes We Are Better"
 
 "All colorways are exclusive to Bambaland and will not be offered again. Caesar is scheduled to ship January 2012"
 

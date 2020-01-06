@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: caliginosity-nom-field-commander-set
-toy_name: WWRp Caliginosity NOM Field Commander set
-permalink: /toys-1-6/caliginosity-nom-field-commander-set.html
+toy_name: Caliginosity NOM Field Commander set
+permalink: /toys-1-12/caliginosity-nom-field-commander-set.html
 world: World War Robot portable
 world_abr: WWRP
 character_base: Robot
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 8/16/13
 release_price: $125 USD
 scale: one twelve

@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: string-divers-quantum-ranger-guy-black
-toy_name: String Divers - Quantum Ranger Guy Black
-permalink: /toys-1-6/string-divers-quantum-ranger-guy-black.html
+toy_name: String Divers Quantum Ranger Guy Black
+permalink: /toys-1-12/string-divers-quantum-ranger-guy-black.html
 world: Microman
 world_abr: MICRO
 character_base: String Divers
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 9/19/2015
 release_price: $80 
 scale: one twelve

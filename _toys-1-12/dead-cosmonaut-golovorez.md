@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: dead-cosmonaut-golovorez
 toy_name: Dead Cosmonaut Golovorez
-permalink: /toys-1-6/dead-cosmonaut-golovorez.html
+permalink: /toys-1-12/dead-cosmonaut-golovorez.html
 world: Adventure Kartel
 world_abr: AK 
 character_base: Astronaut 
 layout: layout-toy-detail
 categories: 
-tags: [orange, spaceman, skull, skeleton, cosmonaut, astronaut]
+tags: [action portable, ap, orange, spaceman, skull, skeleton, cosmonaut, astronaut]
 release_date: 6/16/2016
 release_price: $80 
 scale: one twelve

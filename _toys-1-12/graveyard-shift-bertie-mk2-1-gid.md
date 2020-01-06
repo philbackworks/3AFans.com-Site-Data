@@ -2,13 +2,13 @@
 layout: layout-toy-detail 
 toy_id: graveyard-shift-bertie-mk2-1-gid
 toy_name: Graveyard Shift Bertie MK2 1 (GID)
-permalink: /toys-1-6/graveyard-shift-bertie-mk2-1-gid.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/graveyard-shift-bertie-mk2-1-gid.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: Bertie
 layout: layout-toy-detail
 categories: 
-tags: [glow in the dark, blue, white, blindbox, agartha]
+tags: [action portable, ap, glow in the dark, blue, white, blindbox, agartha]
 release_date: 2014.03.14
 release_price: $60 
 scale: one twelve

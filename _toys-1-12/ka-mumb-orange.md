@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: ka-mumb-orange
 toy_name: Ka Mumb (Orange)
-permalink: /toys-1-6/ka-mumb-orange.html
+permalink: /toys-1-12/ka-mumb-orange.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/29/2016
 release_price: ~$65
 scale: one twelve

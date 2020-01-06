@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: slaughterhouse-dropcloth
 toy_name: Slaughterhouse Dropcloth
-permalink: /toys-1-6/slaughterhouse-dropcloth.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/slaughterhouse-dropcloth.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 7/21/2011
 release_price: $40 
 scale: one twelve
@@ -33,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

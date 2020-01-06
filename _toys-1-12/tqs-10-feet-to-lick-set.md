@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: tqs-10-feet-to-lick-set
 toy_name: Tomorrow Queens 10 FEET TO LICK SET
-permalink: /toys-1-6/tqs-10-feet-to-lick-set.html
+permalink: /toys-1-12/tqs-10-feet-to-lick-set.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TQ
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 2/18/2013
 release_price: $180 
 scale: one twelve

@@ -20,15 +20,18 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 000000000000000UNP
+product_code: 000000000000000UNP
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  TKLUB 7 FINAL TQ UNDERVERSE NINJA TSURU
 you_might_also_like: 
+  -  TQ UNDERVERSE DEATHMASK NINJA
+  -  ICHIHITO UNDERVERSE NINJA TK
+  -  Underverse Ninja TK Dark
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
-  -  tklub-seven-final-tq-underverse-ninja-potsun-01-6.jpg
   -  tklub-seven-final-tq-underverse-ninja-potsun-02-6.jpg
 backstory: 
 sale_type: 

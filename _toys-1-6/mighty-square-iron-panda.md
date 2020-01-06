@@ -8,7 +8,7 @@ character_base:
 layout: layout-toy-detail
 categories: []
 tags: [rumor]
-release_date: 
+release_date: unreleased
 release_price: 
 scale: one sixth
 size: 
@@ -30,6 +30,7 @@ you_might_also_like:
   -  Bambaboss 01 Panda Boss
 article_contributors: [Phil Back]
 toy_pics:
+  -  just-a-rumor.jpg
 backstory: 
 ---
 This colorway has not been produced... yet!

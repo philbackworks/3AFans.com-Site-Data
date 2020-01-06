@@ -20,15 +20,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 0000000000000MSG
+product_code: 0000000000000MSG
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Isiow SG]
 toy_pics: 
-backstory: 26 colorways - DW, NW, Deep Powder, Dirty Deeds Memeorial, DIY, Dutch Merc, F-Album, Fat Cloud, Fong John, Fremantle, Grave Digger, Hard Thirty, ISO, Jea Ricky, Legion, Lunar Defence, Medic, Meow CD, MOD Polymorphic, P18 Maid, PRU ZW, CCCP, ThreeA, Wanpi, WF DBG Jungler, Sand Devil 666th
+  -  mighty-square-threea-vintage-01-6-by_isiow_sg.jpg
+  -  mighty-square-threea-vintage-02-6-by_isiow_sg.jpg
+backstory: Many colorways - DW, NW, Deep Powder, Dirty Deeds Memeorial, DIY, Dutch Merc, F-Album, Fat Cloud, Fong John, Fremantle, Grave Digger, Hard Thirty, ISO, Jea Ricky, Legion, Lunar Defence, Medic, Meow CD, MOD Polymorphic, P18 Maid, PRU ZW, CCCP, ThreeA, Wanpi, WF DBG Jungler, Sand Devil 666th
 sale_type: 
 event_exclusive: 
 event_details: 

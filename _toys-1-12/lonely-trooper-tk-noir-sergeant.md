@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: lonely-trooper-tk-noir-sergeant
 toy_name: Lonely Trooper TK Noir Sergeant
-permalink: /toys-1-6/lonely-trooper-tk-noir-sergeant.html
+permalink: /toys-1-12/lonely-trooper-tk-noir-sergeant.html
 world: AP Star Wars Alternate
 world_abr: 
-character_base: 
+character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 10/20/2017
 release_price: $99 
 scale: one twelve

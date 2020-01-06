@@ -4,7 +4,7 @@ toy_name: Shadow Tommy
 permalink: /toys-1-6/shadow-tommy.html
 world: Adventure Kartel
 world_abr: AK
-character_base: JC
+character_base: Tommy
 layout: layout-toy-detail
 categories: [onesixth, tommy]
 release_date: 
@@ -32,6 +32,6 @@ toy_pics:
   -  shadow-tommy-01-6.jpg
 backstory:
 ---
-"Red Atonement JC" or "Red Night JC" features the "New Pissed Off Head Sculpt", has fabric bandages, fake leather boots and comes with a "newly sculpted zombie head". This figure was available via a 'timed sale premade edition'.
-
-"One thousand heads I shall deliver on this night, the RED NIGHT!"
+On the 'Shadow' and 'Soy' versions of characters:
+"They are just what they are, they don't consider good or bad as a disposition, just following their natural agenda, they do seem to have a distaste for robots though!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>

@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: hatchery-guard-bertie-mk2
 toy_name: Hatchery Guard Bertie MK2
-permalink: /toys-1-6/hatchery-guard-bertie-mk2.html
-world: WWRp
-world_abr: 
+permalink: /toys-1-12/hatchery-guard-bertie-mk2.html
+world: World War Robot Portable
+world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 11/6/2009
 release_price: $50 
 scale: one twelve

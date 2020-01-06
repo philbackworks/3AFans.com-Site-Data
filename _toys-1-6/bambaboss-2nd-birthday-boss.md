@@ -21,17 +21,16 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: BAMBA2
+product_code: BAMBA2
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  Bambaboss 3AA
+  -  Bambaboss 01 Panda Boss
   -  Bambaboss 3rd Birthday 3oss
   -  Bambaboss 6th Year
   -  Bambaboss Ghostbamba GID
-  -  Bambaboss 01 Panda Boss
   -  Bambaboss Jeaboss
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 

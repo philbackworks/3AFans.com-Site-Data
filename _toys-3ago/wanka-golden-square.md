@@ -5,9 +5,10 @@ toy_name: Wanka Golden Square
 permalink: /toys-3ago/wanka-golden-square.html
 world: 3AGO
 world_abr: 3AGO
-character_base: 
+character_base: Square
 layout: layout-toy-detail
 categories: 
+tags: [willy wonka, wormhole, acquisition, northern, crater, anover, wl01solomon, sqr]
 release_date: 9/6/2016
 release_price: $25 
 scale: 3AGO
@@ -26,8 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman]
 toy_pics: 
+  -  wanka-golden-square-01-3ago-by-3A_boltman.jpg
+  -  wanka-golden-square-02-3ago-by-3A_boltman.jpg
 backstory: Golden ticket holders who purchased the Dodgy Wonka Square only
 sale_type: 
 event_exclusive: 

@@ -20,7 +20,7 @@ secret_drop:
 sold_where: Bambaland.com and retailers
 bamba_points: 
 packaging_type: Blister card
-product_code_/_link: 000000000000000BWCK
+product_code: 000000000000000BWCK
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

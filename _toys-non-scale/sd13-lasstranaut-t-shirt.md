@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: sd13-lasstranaut-t-shirt
 toy_name: SD13 exclusive Lasstranaut T-shirt
-permalink: /toys-1-6/sd13-lasstranaut-t-shirt.html
+permalink: /toys-non-scale/sd13-lasstranaut-t-shirt.html
 world: Apparel
 world_abr: APP 
 character_base: 
@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 release_date: 7/18/13
 release_price: $35 USD
-scale: one sixth
+scale: non-scale
 size: 
 comes_with: 
 edition_qty: 

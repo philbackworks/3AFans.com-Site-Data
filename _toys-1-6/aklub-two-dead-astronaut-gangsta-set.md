@@ -20,15 +20,16 @@ secret_drop:
 sold_where: 
 bamba_points: 3200
 packaging_type: 
-product_code_/_link: 0000DAS
+product_code: 0000DAS
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, lumpyheadstudios, kw9398kw]
 toy_pics: 
   -  aklub-two-dead-astronaut-gangsta-set_01_6_by_foreignparticle-and-lumpyheadstudios_.jpg
+  -  two-dead-astronaut-gangsta-set_01-6_by_kw9398kw_via_instagram.jpg
 backstory: Comes with hand held EETU, rock and 3A flag accessories
 sale_type: 
 event_exclusive: 

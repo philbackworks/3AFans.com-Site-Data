@@ -15,7 +15,7 @@ comes_with: Folded poster with comic on the back, extra GID hand
 edition_qty: unknown
 exclusive: yes
 secret_drop:
-sold_where: bambaland.com
+sold_where: BBICN - China
 packaging_type: box
 designer: Ashley Wood
 makers: unknown
@@ -28,7 +28,7 @@ you_might_also_like:
   -  Cherry Bomb
   -  Ankou Johan
   -  Nom DePlume   
-article_contributors: [Phil Back, Andhika Rahmaditya]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics:
   -  blood-nails-tommy-mission-01-6.jpg
 backstory:

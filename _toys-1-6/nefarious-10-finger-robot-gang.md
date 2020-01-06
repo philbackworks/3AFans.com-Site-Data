@@ -8,6 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [fucking robot island, fri, red, white, one, 1, s]
 release_date: 10/17/2011
 release_price: $85 
 scale: one sixth
@@ -20,17 +21,18 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: AKFG
+product_code: AKFG
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, saaaa_muel]
 toy_pics: 
   -  nefarious-10-finger_1_02-6-by-foreignparticle.jpg
   -  nefarious-10-finger_5_02-6-by-foreignparticle.jpg
   -  nefarious-10-finger_6_02-6-by-foreignparticle.jpg
+  -  nefarious-10-finger-gang-one_01-6_by_saaaa_muel_via_instagram.jpg
   -  nefarious-10-finger_8_02-6-by-foreignparticle.jpg
   -  nefarious-10-finger_9_02-6-by-foreignparticle.jpg
   -  nefarious-10-finger_10_02-6-by-foreignparticle.jpg

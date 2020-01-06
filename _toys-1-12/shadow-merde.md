@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: shadow-merde
 toy_name: Shadow Merde
-permalink: /toys-1-6/shadow-merde.html
+permalink: /toys-1-12/shadow-merde.html
 world: AP Adventure Kartel
 world_abr: 
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [action portable, ap] 
 release_date: 6/29/2016
 release_price: ~$65
 scale: one twelve
@@ -34,3 +35,6 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+On the 'Shadow' and 'Soy' versions of characters:
+"They are just what they are, they don't consider good or bad as a disposition, just following their natural agenda, they do seem to have a distaste for robots though!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>

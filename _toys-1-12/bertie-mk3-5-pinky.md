@@ -1,14 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: bertie-mk3-5-pinky
-toy_name: Bertie MK3.5 - PINKY
-permalink: /toys-1-6/bertie-mk3-5-pinky.html
-world: World War Robot
+toy_name: Bertie MK3 5 PINKY
+permalink: /toys-1-12/bertie-mk3-5-pinky.html
+world: World War Robot Portable
 world_abr: WWRp
 character_base: Bertie
 layout: layout-toy-detail
 categories: 
-tags: [portable, action portable]
+tags: [action portable, ap, portable, action portable, pinky]
 release_date: 4/16/2013
 release_price: $75 
 scale: one twelve
@@ -27,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Fdk_ksu]
 toy_pics: 
   -  wwrp-bertie-mk3_5-pinky-01-6-by-frutiger_.jpg
+  -  wwrp-bertie-mk3_5-pinky-02-6-by_fdk_ksu_via_instagram.jpg
 backstory: Resident Sale. Comes with GO-FAR Fuel cannister and SWEETDREAMS landmine
 sale_type: 
 event_exclusive: 

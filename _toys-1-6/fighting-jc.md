@@ -41,3 +41,9 @@ backstory:
 "Red Atonement JC" or "Red Night JC" features the "New Pissed Off Head Sculpt", has fabric bandages, fake leather boots and comes with a "newly sculpted zombie head". This figure was available via a 'timed sale premade edition'.
 
 "One thousand heads I shall deliver on this night, the RED NIGHT!"
+
+"He is an Essene, hence the tagline, the MEAN ESSENE! There are many nationalities in the AK world!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>
+
+"The Essenes were members of an ancient Jewish ascetic sect of the 2nd century BC–2nd century AD in Palestine, who lived in highly organized groups and held property in common. The Essenes are widely regarded as the authors of the Dead Sea Scrolls"
+<cite>- Ashley Wood, <a href="https://en.wikipedia.org/wiki/Essenes" target="_blank">Wikipedia.org</a></cite>
