@@ -35,4 +35,4 @@ backstory:
 ---
 Available as a 2-pack with <a href="/toys-1-6/data-liberator-kiba.html">Data Liberator Kiba</a>, from 2009, the second year of ThreeA's existence.
 
-Aki is wearing the shirt that features two women's high heel shoes
+Aki is wearing the shirt that features two women's high heel shoes 

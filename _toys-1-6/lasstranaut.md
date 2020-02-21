@@ -24,7 +24,7 @@ points_of_articulation: 30
 variants: 
 you_might_also_like:
   -  Fighting JC
-  -  Little Shadow
+  -  Little Shadow v1
   -  Pale AF JC
 article_contributors: [Phil Back, wang2nobody, Andhika Rahmaditya, Brent Ashe, Gar]
 toy_pics:

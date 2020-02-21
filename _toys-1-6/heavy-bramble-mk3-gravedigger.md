@@ -5,7 +5,7 @@ toy_name: Heavy Bramble MK3 Gravedigger
 permalink: /toys-1-6/heavy-bramble-mk3-gravedigger.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 release_date: 8/12/2010
@@ -20,7 +20,21 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code: 0HBGD
+product_code: 
+  - label: Heavy Bramble MK3
+    code: 0HBGD
+    notes: 
+    date: 8/12/2010
+    URL:
+  - label: Heavy Bramble MK3 4-Pack
+    code: 0HD4PK
+    notes: $1,000 - Contained Bromwich, Deimos, Gravedigger and JEA Marine Bramble
+    date: 8/12/2010
+    URL:
+variants: 
+  -  Heavy Bramble MK3 Deimos
+  -  Heavy Bramble MK3 Bromwich
+  -  Heavy Bramble MK3 Marine JEA
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

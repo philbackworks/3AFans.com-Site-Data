@@ -3,6 +3,7 @@ layout: layout-toy-detail
 toy_id: on-the-run-little-shadow-and-tommy-2-pack
 toy_name: On The Run Little Shadow and Tommy 2 Pack
 permalink: /toys-1-6/on-the-run-little-shadow-and-tommy-2-pack.html
+description: Learn about On The Run Little Shadow and Tommy 2 Pack (by ThreeA toys and Ashley Wood) and how they relate to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: 
@@ -26,7 +27,7 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  Little Shadow
+  -  Little Shadow v1
   -  Tommy Mission Emo
 you_might_also_like:
   -  Saturday Adventure Set

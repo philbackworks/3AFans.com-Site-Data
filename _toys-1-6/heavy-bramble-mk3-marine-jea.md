@@ -20,7 +20,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code: 0HJEA
+product_code: 
+  - label: Heavy Bramble MK3
+    code: 0HJEA
+    notes: 
+    date: 8/12/2010
+    URL:
+  - label: Heavy Bramble MK3 4-Pack
+    code: 0HD4PK
+    notes: $1,000 - Contained Bromwich, Deimos, Gravedigger and JEA Marine Bramble
+    date: 8/12/2010
+    URL:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -33,8 +43,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Mighty Square
 layout: layout-toy-detail
 categories: 
+tags: [orange]
 release_date: 10/3/2014
 release_price: $155 
 scale: one sixth

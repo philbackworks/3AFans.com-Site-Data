@@ -5,6 +5,7 @@ toy_name: Large Martin Marine JEA WWRp
 permalink: /toys-1-12/large-martin-marine-jea-wwrp.html
 world: World War Robot Portable
 world_abr: WWRp
+colorway: jea
 character_base: Large Martin
 layout: layout-toy-detail
 categories: 
@@ -21,21 +22,33 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link:
+product_code:
+  - label: Large Martin Wave Three 3-Pack A
+    code:
+    notes: Included Large Martin Marine JEA, Damn Large Martin Dam Buster, Bramble Phobos Defense RPG @ $130
+    date: 2/19/2010
+    URL: /toys-1-12/large-martin-wave-three-3-pack-a.html
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  Large Martin Norge Defense WWRp
+  -  Large Martin Daywatch WWRp
+  -  Large Martin Iron Panda WWRp
+  -  Large Martin Kruschev Memorial CCCP WWRp
   -  Large Martin Mod Chip WWRp
+  -  Large Martin Mr Frosty WWRp
+  -  Large Martin Nightwatch WWRp
+  -  Large Martin Norge Defence WWRp
+  -  Large Martin Sand Devil WWRp
 you_might_also_like: 
   -  Bramble Phobos Defense RPG WWRp
   -  Damn Large Martin Dam Buster WWRp
   -  Large Martin Wave Three 3 Pack A
   -  Large Martin Wave Three 3 Pack B
   -  Large Martin Wave Three 3 Pack C
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao]
 toy_pics: 
+  -  large-martin-jea_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
 backstory: Available in the 3-pack wave three pack A - Large Martin Marine JEA, Damn Large Martin Dam Buster, Bramble Phobos Defense RPG
 sale_type: 
 event_exclusive: 

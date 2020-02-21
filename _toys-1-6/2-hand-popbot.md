@@ -9,7 +9,7 @@ world_abr: POP
 character_base: Popbot
 layout: layout-toy-detail
 categories: 
-tags: []
+tags: [twohand, two hand, two-hand, 2-hand, rare]
 release_date: 1/27/2011
 release_price: $150 
 scale: one sixth

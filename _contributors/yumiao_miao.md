@@ -4,7 +4,8 @@ layout: layout-contributor
 name: yumiao_miao
 country: China
 links:
-  instagram: https://www.instagram.com/yumiao_miao
+  # instagram: https://www.instagram.com/yumiao_miao
+  instagram: https://www.instagram.com/yumaomao555
   facebook:
   twitter: 
   youtube:

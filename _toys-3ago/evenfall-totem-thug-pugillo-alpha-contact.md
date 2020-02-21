@@ -4,7 +4,7 @@ toy_id: evenfall-totem-thug-pugillo-alpha-contact
 toy_name: EVENFALL TOTEM Thug Pugillo Alpha Contact
 permalink: /toys-3ago/evenfall-totem-thug-pugillo-alpha-contact.html
 world: 3AGO
-world_abr: 
+world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
@@ -36,7 +36,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: 
+backstory: 1/9th scale
 sale_type: 
 event_exclusive: 
 event_details: 

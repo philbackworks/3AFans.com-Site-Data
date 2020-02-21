@@ -4,7 +4,7 @@ toy_id: strigoi-moonbase-omega-astronaut-set
 toy_name: Strigoi Moonbase Omega Astronaut Set
 permalink: /toys-1-6/strigoi-moonbase-omega-astronaut-set.html
 world: EVENFALL
-world_abr: 
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 

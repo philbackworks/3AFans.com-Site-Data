@@ -2,6 +2,7 @@
 toy_id: cherry-shadow
 toy_name: Cherry Shadow
 permalink: /toys-1-6/cherry-shadow.html
+description: Learn about Cherry Shadow (by ThreeA toys and Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: female
@@ -22,6 +23,20 @@ designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
 variants: 
+  -  Little Shadow v1
+  -  Shadow Mode Little Shadow v1
+  -  Cherry Shadow
+  -  Ghost Shadow
+  -  Little Shadow MK2 Latex
+  -  Shadow2
+  -  Penumbra
+  -  Cherry Bomb
+  -  Flakey Frost
+  -  On The Run Little Shadow and Tommy 2 Pack
+  -  Lucky 8 Panda Mercs Red Panda Merc Shadow
+  -  Little Shadow v2
+  -  Umbra Always v2
+  -  Shadow Mode Little Shadow v2
 you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO

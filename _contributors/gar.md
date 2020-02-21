@@ -4,7 +4,7 @@ layout: layout-contributor
 name: gar
 country: 
 links:
-  instagram: 
+  instagram: https://www.instagram.com/gar_v1
   facebook:
   twitter: 
   youtube:

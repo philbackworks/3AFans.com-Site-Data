@@ -4,7 +4,7 @@ toy_id: strigoi-totemnaut-security-red
 toy_name: Strigoi Totemnaut Security Red
 permalink: /toys-1-6/strigoi-totemnaut-security-red.html
 world: EVENFALL
-world_abr: EF
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 

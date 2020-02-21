@@ -3,6 +3,7 @@ layout: layout-toy-detail
 toy_id: little-shadow-v2
 toy_name: Little Shadow V2
 permalink: /toys-1-6/little-shadow-v2.html
+description: Learn about Little Shadow v2 (by ThreeA toys and Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: 
@@ -25,6 +26,19 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Little Shadow v1
+  -  Shadow Mode Little Shadow v1
+  -  Cherry Shadow
+  -  Ghost Shadow
+  -  Little Shadow MK2 Latex
+  -  Shadow2
+  -  Penumbra
+  -  Flakey Frost
+  -  On The Run Little Shadow and Tommy 2 Pack
+  -  Lucky 8 Panda Mercs Red Panda Merc Shadow
+  -  Cherry Shadow v2
+  -  Umbra Always v2
+  -  Shadow Mode Little Shadow v2
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
@@ -34,4 +48,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-"Shadow don’t play!" - Ashley Wood
+"Shadow don’t play!" - Ashley Wood 

@@ -8,7 +8,7 @@ world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap, siuyin, blue, red roses, yellow] 
+tags: [action portable, ap, siuyin, blue, red roses, yellow, gold star, 1218, i can see the elephant, wanpi, wampi] 
 release_date: 12/20/2014
 release_price: 
 scale: one twelve
@@ -27,14 +27,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, threealegionnaire]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao]
 toy_pics: 
-  -  wanpi-square-by-siuyin_01-12_3a-toys_by_threealegionnaire-via-instagram.jpg
-  -  wanpi-square-by-siuyin_02-12_3a-toys_by_threealegionnaire-via-instagram.jpg
-  -  wanpi-square-by-siuyin_03-12_3a-toys_by_threealegionnaire-via-instagram.jpg
-backstory: Free with any purchase 2014 Toysoul HK Exclusives. 3AA members only
+  -  square-wanpi-blue_01-12_3a-toys_by-yumaomao555_via_instagram.jpg
+backstory: Free gift for the first 20 customers each day of the 2014 Toysoul HK Exclusives. 3AA members only
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Only 60 of these little guys were given as gifts!

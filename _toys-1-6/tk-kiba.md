@@ -3,11 +3,13 @@ layout: layout-toy-detail
 toy_id: tk-kiba
 toy_name: TK Kiba
 permalink: /toys-1-6/tk-kiba.html
-world: Popbot
-world_abr: POP
+description: Learn about TK Kiba, Tomorrow King (by ThreeA toys and Ashley Wood) and more from the world of Popbot, plus get the most detailed info including release date, price, variants, colorways and more.
+world: Tomorrow Kings
+world_abr: TK
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [data liberator]
 release_date: 2/24/2009
 release_price: $100 
 scale: one sixth
@@ -25,14 +27,25 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Data Liberator Aki
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+  -  TK Yoji
+  -  TKLUB FOUR RONIN TK SUN
+  -  Interloper Heavy IH001
+  -  TK Kenshiro Negro
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, xxbarachielxx]
 toy_pics: 
   -  tk-kiba-01-1-by_foreignparticle.jpg
+  -  data-liberator-kiba-01-6.jpg
+  -  tomorrow-king-kiba-black-shirt-black-hair-01-6-by-xxbarachielxx.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Data Liberator
+Data Liberator 
+
+Available as a 2-pack with <a href="/toys-1-6/data-liberator-aki.html">Data Liberator Aki</a>, from 2009, the second year of ThreeA's existence.
+
+Kiba is wearing the Les Mort shirt (the skeleton guy wearing a hat)

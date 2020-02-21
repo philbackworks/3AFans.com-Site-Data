@@ -3,6 +3,7 @@ layout: layout-toy-detail
 toy_id: cherry-shadow-v2
 toy_name: Cherry Shadow V2
 permalink: /toys-1-6/cherry-shadow-v2.html
+description: Learn about Cherry Shadow v2 (by ThreeA toys and Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: Female
@@ -26,8 +27,8 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  Little Shadow
-  -  Shadow Mode Little Shadow
+  -  Little Shadow v1
+  -  Shadow Mode Little Shadow v1
   -  Cherry Shadow
   -  Ghost Shadow
   -  Little Shadow MK2 Latex

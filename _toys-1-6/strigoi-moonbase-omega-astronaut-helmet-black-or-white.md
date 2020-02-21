@@ -4,7 +4,7 @@ toy_id: strigoi-moonbase-omega-astronaut-helmet-black-or-white
 toy_name: Strigoi Moonbase Omega Astronaut Helmet (Black or White)
 permalink: /toys-1-6/strigoi-moonbase-omega-astronaut-helmet-black-or-white.html
 world: EVENFALL
-world_abr: 
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 

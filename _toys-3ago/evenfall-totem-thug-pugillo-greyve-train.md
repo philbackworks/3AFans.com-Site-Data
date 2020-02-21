@@ -4,7 +4,7 @@ toy_id: evenfall-totem-thug-pugillo-greyve-train
 toy_name: EVENFALL TOTEM Thug Pugillo Greyve Train
 permalink: /toys-3ago/evenfall-totem-thug-pugillo-greyve-train.html
 world: 3AGO
-world_abr: 
+world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
@@ -37,7 +37,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, badass_wayne]
 toy_pics: 
   -  evenfall-totem-thug-pugillo-greyve-train_1-6_by_badass_wayne_via_instagram.jpg
-backstory: 
+backstory: 1/9th scale
 sale_type: 
 event_exclusive: 
 event_details: 

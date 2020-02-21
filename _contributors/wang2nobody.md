@@ -2,7 +2,7 @@
 contributor_id: wang2nobody
 layout: layout-contributor
 name: wang2nobody
-country: --
+country: China
 links:
   instagram: https://www.instagram.com/wang2nobody
   facebook:
@@ -12,6 +12,11 @@ links:
   web:
 role: Photo contributor
 pic: bio-wang2nobody.jpg
+misc_contributions:
+  - name: Article - 10 Most Rare Releases from 3A Toys
+    link: /10-Most-Rare-Releases-from-3A-Toys/
+  - name: Article - 3A Toys That Never Were
+    link: /3a-toys-that-never-were/
 ---
 Toy collector. ThreeA aficionado.
 

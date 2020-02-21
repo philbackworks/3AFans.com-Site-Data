@@ -5,7 +5,8 @@ toy_name: Large Martin Wave Three 3 Pack C
 permalink: /toys-1-12/large-martin-wave-three-3-pack-c.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+colorway:
+character_base: Large Martin
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 
@@ -21,7 +22,7 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link: 03PACKC SOLD OUT
+product_code: 03PACKC SOLD OUT
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -33,8 +34,9 @@ you_might_also_like:
   -  Large Martin Mod Chip WWRp
   -  Damn Large Martin Sand Devil WWRp
   -  Bramble Grave Digger RPG WWRp
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao, frutiger_]
 toy_pics: 
+  -  large-martin-wave-3-3-pack-c_02-6_3a-toys_by-yumaomao555_via_instagram.jpg
 backstory: Large Martin Mod Chip, Damn Large Martin Sand Devil, Bramble Grave Digger RPG
 sale_type: 
 event_exclusive: 

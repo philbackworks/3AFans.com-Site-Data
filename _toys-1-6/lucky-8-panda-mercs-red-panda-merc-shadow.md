@@ -3,6 +3,7 @@ layout: layout-toy-detail
 toy_id: lucky-8-panda-mercs-red-panda-merc-shadow
 toy_name: Lucky 8 Panda Mercs Red Panda Merc Shadow
 permalink: /toys-1-6/lucky-8-panda-mercs-red-panda-merc-shadow.html
+description: Learn about Lucky 8 Panda Mercs Red Panda Merc Shadow (by ThreeA toys and Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: Female
@@ -26,7 +27,7 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  Little Shadow
+  -  Little Shadow v1
   -  Shadow Mode Little Shadow
   -  Cherry Shadow
   -  Ghost Shadow

@@ -21,7 +21,7 @@ designer: Pat Mills and Kevin O'Neill
 makers: Ashley Wood
 points_of_articulation: 25+
 variants: 
-  -  Mongrol Blackhole Edition
+  -  Mongrol and the Mess Blackhole Edition
 you_might_also_like:
 article_contributors: [Phil Back]
 backstory:

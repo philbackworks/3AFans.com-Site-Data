@@ -26,7 +26,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, foreignparticle]
 toy_pics: 
   -  emma-the-bitch-01-6-by-foreignparticle.jpg
-backstory: 
+backstory: Undoubtedly based on Ashley Wood's real life pet beagle, Emma.
 sale_type: BAMBALAND - LIMITED, SURPRISE
 event_exclusive: no
 event_details: 

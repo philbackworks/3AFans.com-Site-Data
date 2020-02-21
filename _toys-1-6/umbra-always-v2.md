@@ -8,6 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: Female
+tags: [black, little shadow, fur]
 release_date: 2/13/2015
 release_price: $100 
 scale: one sixth
@@ -25,7 +26,7 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  Little Shadow
+  -  Little Shadow v1
   -  Shadow Mode Little Shadow
   -  Cherry Shadow
   -  Ghost Shadow
@@ -40,8 +41,10 @@ variants:
   -  Cherry Shadow v2
   -  Shadow Mode Little Shadow v2
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, dai88cc]
 toy_pics: 
+  -  umbra-always-v2_03-6_3a-toys_by-dai88cc_via_instagram.jpg
+  -  umbra-always-v2_01-6_3a-toys_by-dai88cc_via_instagram.jpg
 backstory: 10" female body
 sale_type: 
 event_exclusive: 

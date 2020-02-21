@@ -4,7 +4,7 @@ toy_id: evenfall-totem-thug-pugillo-arctic-albino
 toy_name: EVENFALL TOTEM Thug Pugillo Arctic Albino
 permalink: /toys-3ago/evenfall-totem-thug-pugillo-arctic-albino.html
 world: 3AGO
-world_abr: 
+world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
@@ -35,7 +35,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: 
+backstory: 1/9th scale 
 sale_type: 
 event_exclusive: 
 event_details: 

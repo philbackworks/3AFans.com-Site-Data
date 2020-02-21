@@ -2,6 +2,7 @@
 toy_id: ghost-shadow
 toy_name: Ghost Shadow
 permalink: /toys-1-6/ghost-shadow.html
+description: Learn about Ghost Shadow (by ThreeA toys and Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: Little Shadow
@@ -22,8 +23,8 @@ designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
 variants: 
-  -  Little Shadow
-  -  Shadow Mode Little Shadow
+  -  Little Shadow v1
+  -  Shadow Mode Little Shadow v1
   -  Cherry Shadow
   -  Little Shadow MK2 Latex
   -  Shadow2

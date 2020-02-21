@@ -21,7 +21,12 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link:
+product_code:
+  - label: Large Martin Wave Three 3-Pack B
+    code:
+    notes: Included Large Martin Norge Defense, Damn Large Martin Iron Panda, Bramble Pink Dazzle RPG @ $130
+    date: 2/19/2010
+    URL: /toys-1-12/large-martin-wave-three-3-pack-b.html
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -33,10 +38,10 @@ you_might_also_like:
   -  Large Martin Wave Three 3 Pack B
   -  Large Martin Wave Three 3 Pack C
   -  Damn Large Martin Iron Panda WWRp
-  -  Large Martin Norge Defense WWRp
+  -  Large Martin Norge Defence WWRp
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: Available in the 3-pack wave three pack B - Large Martin Norge Defense, Damn Large Martin Iron Panda, Bramble Pink Dazzle RPG
+backstory: Available in the 3-pack wave three pack B - Large Martin Norge Defence, Damn Large Martin Iron Panda, Bramble Pink Dazzle RPG
 sale_type: 
 event_exclusive: 
 event_details: 

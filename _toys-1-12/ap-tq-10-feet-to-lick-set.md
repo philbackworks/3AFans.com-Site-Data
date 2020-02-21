@@ -8,12 +8,12 @@ world_abr: POP-AP
 character_base: Female
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, tomorrow queen, feet] 
 release_date: 2/18/13
 release_price: $180 USD
 scale: one twelve
 size: 
-comes_with: 
+comes_with: 5 Figures
 edition_qty: 
 exclusive: 
 secret_drop: 
@@ -24,8 +24,9 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, threealegionnaire]
 toy_pics: 
+  -  10-feet-to-lick_01-12_by_threealegionnaire_via_instagram.jpg
 backstory: 
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

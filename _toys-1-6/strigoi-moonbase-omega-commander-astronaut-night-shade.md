@@ -4,7 +4,7 @@ toy_id: strigoi-moonbase-omega-commander-astronaut-night-shade
 toy_name: Strigoi Moonbase Omega Commander Astronaut - Night Shade
 permalink: /toys-1-6/strigoi-moonbase-omega-commander-astronaut-night-shade.html
 world: EVENFALL
-world_abr: 
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 

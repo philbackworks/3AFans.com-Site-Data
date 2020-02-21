@@ -1,13 +1,14 @@
 ---
 layout: layout-toy-detail 
 toy_id: obsidian-tk-shadow-mode-original-tk
-toy_name: Obsidian TK (Shadow Mode Original TK)
+toy_name: Obsidian TK Shadow Mode Original TK
 permalink: /toys-1-6/obsidian-tk-shadow-mode-original-tk.html
 world: Popbot
 world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [black, shadow mode, sio2, tomorrow king]
 release_date: 11/27/2014
 release_price: $110 
 scale: one sixth
@@ -26,8 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, dai88cc]
 toy_pics: 
+  -  obsidian-tk_01-6_3a-toys_by-dai88cc_via_instagram.jpg
+  -  obsidian-tk_02-6_3a-toys_by-dai88cc_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

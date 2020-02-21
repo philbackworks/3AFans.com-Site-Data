@@ -4,7 +4,7 @@ toy_id: evenfall-totem-thug-pugillo-c
 toy_name: EVENFALL TOTEM Thug Pugillo C
 permalink: /toys-3ago/evenfall-totem-thug-pugillo-c.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
@@ -36,7 +36,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
   -  evenfall-totem-thug-pugillo-01-6-by-foreignparticle.jpg
-backstory: 2016 SDCC Exclusive
+backstory: 2016 SDCC Exclusive; 1/9th scale
 sale_type: 
 event_exclusive: 
 event_details: 

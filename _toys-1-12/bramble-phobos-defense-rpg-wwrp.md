@@ -21,7 +21,12 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code_/_link:
+product_code:
+  - label: Large Martin Wave Three 3-Pack A
+    code:
+    notes: Included Large Martin Marine JEA, Damn Large Martin Dam Buster, Bramble Phobos Defense RPG @ $130
+    date: 2/19/2010
+    URL: /toys-1-12/large-martin-wave-three-3-pack-a.html
 designer: Ashley Wood
 makers: 
 points_of_articulation: 

@@ -4,7 +4,7 @@ toy_id: ground-zero-infection-set-greyve-and-strigoi-spoldier
 toy_name: Ground Zero Infection Set Greyve and Strigoi Spoldier
 permalink: /toys-1-6/ground-zero-infection-set-greyve-plus-strigoi-spoldier.html
 world: EVENFALL
-world_abr: 
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 

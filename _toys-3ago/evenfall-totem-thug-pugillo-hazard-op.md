@@ -4,7 +4,7 @@ toy_id: evenfall-totem-thug-pugillo-hazard-op
 toy_name: EVENFALL TOTEM Thug Pugillo Hazard Op
 permalink: /toys-3ago/evenfall-totem-thug-pugillo-hazard-op.html
 world: 3AGO
-world_abr: 
+world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
@@ -38,7 +38,7 @@ toy_pics:
   -  evenfall-totem-thug-pugillo-hazard-op_01-3ago_by_paul_tang_EXAhouse.jpg
   -  evenfall-totem-thug-pugillo-hazard-op_02-3ago_by_paul_tang_EXAhouse.jpg
   -  evenfall-totem-thug-pugillo-hazard-op_03-3ago_by_paul_tang_EXAhouse.jpg
-backstory: 2016 SDCC Exclusive
+backstory: 2016 SDCC Exclusive, 1/9th scale
 sale_type: 
 event_exclusive: 
 event_details: 

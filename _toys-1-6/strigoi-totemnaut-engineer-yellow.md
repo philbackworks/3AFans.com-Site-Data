@@ -4,7 +4,7 @@ toy_id: strigoi-totemnaut-engineer-yellow
 toy_name: Strigoi Totemnaut Engineer Yellow
 permalink: /toys-1-6/strigoi-totemnaut-engineer-yellow.html
 world: EVENFALL
-world_abr: EF
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories:

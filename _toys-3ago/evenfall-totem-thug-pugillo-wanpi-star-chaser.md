@@ -4,7 +4,7 @@ toy_id: evenfall-totem-thug-pugillo-wanpi-star-chaser
 toy_name: Evenfall Totem Thug Pugillo Wanpi Star Chaser
 permalink: /toys-3ago/evenfall-totem-thug-pugillo-wanpi-star-chaser.html
 world: 3AGO
-world_abr: 
+world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
@@ -36,7 +36,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
   -  totem-wanpi-star-chaser-evenfall-robot_01_6_by_FRUTIGER_.jpg
-backstory: LTD Surprise Drop
+backstory: LTD Surprise Drop; 1/9th scale
 sale_type: 
 event_exclusive: 
 event_details: 

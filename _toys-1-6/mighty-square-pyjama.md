@@ -5,9 +5,10 @@ toy_name: Mighty Square PYJAMA
 permalink: /toys-1-6/mighty-square-pyjama.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Mighty Square
 layout: layout-toy-detail
 categories: 
+tags: [black, white, 3a logo, we create worlds, branded, branding]
 release_date: 5/1/2014
 release_price: $155 
 scale: one sixth
@@ -26,8 +27,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, dai88cc]
 toy_pics: 
+  -  mighty-square-pyjama_01-6_3a-toys_by-dai88cc_via_instagram.jpg
+  -  mighty-square-pyjama_02-6_3a-toys_by-dai88cc_via_instagram.jpg
+  -  mighty-square-pyjama_03-6_3a-toys_by-dai88cc_via_instagram.jpg
+  -  mighty-square-pyjama_04-6_3a-toys_by-dai88cc_via_instagram.jpg
+  -  mighty-square-pyjama_05-6_3a-toys_by-dai88cc_via_instagram.jpg
 backstory: LTD Pre-Made. Also sold in Thai Toy Expo 2014 bundles (Thiddy + Thai Pascha + Mighty Square)
 sale_type: 
 event_exclusive: 

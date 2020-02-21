@@ -4,7 +4,7 @@ toy_id: strigoi-totemnaut-engineer-gid-with-silver-suit
 toy_name: Strigoi Totemnaut Engineer GID with Silver Suit
 permalink: /toys-1-6/strigoi-totemnaut-engineer-gid-with-silver-suit.html
 world: EVENFALL
-world_abr: EVEN
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -22,7 +22,7 @@ designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
 variants: 
-  -  Little Shadow
+  -  Little Shadow v1
   -  Shadow Mode Little Shadow
   -  Cherry Shadow
   -  Ghost Shadow

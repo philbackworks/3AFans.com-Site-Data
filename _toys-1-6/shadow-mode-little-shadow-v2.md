@@ -8,6 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [dark, grey, 3aa shirt, black]
 release_date: 2/13/2015
 release_price: $100 
 scale: one sixth
@@ -25,9 +26,24 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Shadow Mode Little Shadow v1
+  -  Little Shadow v1
+  -  Cherry Shadow
+  -  Ghost Shadow
+  -  Little Shadow MK2 Latex
+  -  Shadow2
+  -  Penumbra
+  -  Cherry Bomb
+  -  Flakey Frost
+  -  On The Run Little Shadow and Tommy 2 Pack
+  -  Lucky 8 Panda Mercs Red Panda Merc Shadow
+  -  Little Shadow v2
+  -  Cherry Shadow v2
+  -  Umbra Always v2
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 718comicsnbeats]
 toy_pics: 
+  -  shadow-mode-little-shadow-v2_01-6_by-718comicsnbeats_via_instagram.jpg
 backstory: 10" female body. Black hair, gray skin, blue eye, black hoodie, black messenger bag, black shirt with white imprint.
 sale_type: 
 event_exclusive: 

@@ -18,7 +18,7 @@ edition_qty:
 chase: 
 exclusive: 3AA
 secret_drop: 
-sold_where: 
+sold_where: Bambaland.com
 bamba_points: 
 packaging_type: 
 product_code: 0PASCHAC
