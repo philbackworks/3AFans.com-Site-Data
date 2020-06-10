@@ -21,13 +21,18 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: 000000000BBR
-designer: Ashley Wood
-makers: 
+designer: T.P. Louise
+makers: Ashley Wood
 points_of_articulation: 30
 variants: 
+  -  Shade Caster Prudence Pascha
 you_might_also_like:
-  -  Shit Mood Lady Sham
-  -  Euro Nymph
+  -  Dark Blind Cowboy
+  -  Foot Cutter Cowbot
+  -  Blind Cowboy
+  -  CNY Beer Girl Drinking Miyu
+  -  CNY Beer Girl Drunk Miyu 3AA Version
+  -  CNY TQ 2 Year of the Rabbit
 article_contributors: [Phil Back, Don Slater, MW Wutasi, wang2nobody, frutiger_]
 toy_pics: 
   -  cowgirl-bounty-hunter-prudence-pascha-01-6.jpg

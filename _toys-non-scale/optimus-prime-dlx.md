@@ -12,6 +12,7 @@ tags: [DLX, diecast, red, blue]
 release_date: 6/2019
 release_price: $199 
 scale: non-scale
+series: DLX
 size: 11.2 inches
 comes_with: 1 x Ion Blaster, 4 Pairs of Interchangeable Hands - Fists, Relaxed, Spread, Weapon Holding, 1 x Left Command Hand, 1 x Action Stand with Base
 edition_qty: 

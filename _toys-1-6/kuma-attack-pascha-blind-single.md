@@ -8,7 +8,7 @@ world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [cosplay, bear, caramel]
+tags: [cosplay, bear, caramel, tan, light brown, blonde, white]
 release_date: 12/20/2013
 release_price: $110 
 scale: one sixth
@@ -32,6 +32,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, fdk_ksu, szutsung]
 toy_pics: 
   -  kuma-attack-caramel-brown-bear-blind-single_01-6_3a-toys_by_szutsung-via-instagram.jpg
+  -  kuma-attack-bear-pascha-cosplay_01-6_by_szutsung_via_instagram.jpg
   -  kuma-bear-white_01-6_by_fdk_ksu_via_instagram.jpg
   -  kuma-bear-white_02-6_by_fdk_ksu_via_instagram.jpg
   -  kuma-bear-white_03-6_by_fdk_ksu_via_instagram.jpg

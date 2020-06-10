@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: ronin-tk-snowblind-plus-bomb
-toy_name: Ronin TK Snowblind + Bomb
+toy_name: Ronin TK Snowblind Plus Bomb
 permalink: /toys-1-6/ronin-tk-snowblind-plus-bomb.html
 world: Popbot
 world_abr: POP

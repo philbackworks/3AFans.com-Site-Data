@@ -4,12 +4,12 @@ layout: layout-contributor
 name: sammlerman
 country: Germany
 links:
-  instagram: https://www.ebay.com/usr/sammlerman
+  instagram: 
   facebook:
   twitter: 
   youtube:
   pinterest: 
-  web: 
+  web: https://www.ebay.com/usr/sammlerman
 role: Photo contributor
 pic: bio-sammlerman.jpg  
 ---

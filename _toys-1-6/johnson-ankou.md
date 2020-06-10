@@ -22,15 +22,15 @@ designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
 variants: 
-  - Ankou Sentry Shadow Security
-  - Ankou Newandria Police
-  - Ankou NLCS
-  - Ankou Asclepius
-  - Ankou NLCS Commander
-  - Ankou Junglevet
+  -  Ankou Sentry Shadow Security
+  -  Ankou Newandria Police
+  -  Ankou NLCS
+  -  Ankou Asclepius
+  -  Ankou NLCS Commander
+  -  Ankou Jungle Vet
 you_might_also_like:
-  - Ankou Johan
-  - Ankou Asclepius  
+  -  Ankou Johan LSBBG
+  -  Ankou Asclepius  
 article_contributors: [Phil Back]
 backstory:
 ---

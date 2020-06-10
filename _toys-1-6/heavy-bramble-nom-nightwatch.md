@@ -5,7 +5,7 @@ toy_name: Heavy Bramble NOM Nightwatch
 permalink: /toys-1-6/heavy-bramble-nom-nightwatch.html
 world: World War Robot
 world_abr: WWR
-character_base: Bramble
+character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: 
 release_date: 1/27/2011
@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, foreignparticle]
 toy_pics: 
   -  heavy-bramble-nom-nightwatch-01-6-by-pcww88-patrick-wong.jpg
   -  heavy-bramble-nom-nightwatch-02-6-by-pcww88-patrick-wong.jpg

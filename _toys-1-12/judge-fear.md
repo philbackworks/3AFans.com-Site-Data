@@ -17,8 +17,8 @@ exclusive: no
 secret_drop:
 sold_where: bambaland.com, retailers
 packaging_type: carded
-designer: Ashley Wood
-makers: Created by John Wagner, Alan Grant, and Brian Bolland
+designer: Judge Dredd created by John Wagner (writer), Carlos Ezquerra (artist), Pat Mills (editor) - 2000AD
+makers: Ashley Wood, Gregory Prout
 points_of_articulation: 30
 variants: 
 you_might_also_like:

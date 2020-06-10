@@ -12,6 +12,7 @@ tags: [diecast, yellow]
 release_date: 
 release_price: $448
 scale: non-scale
+series: Premium
 size: 14 inches
 comes_with: Interchangeable Head with Battlemask and Standard Head, Interchangeable Right Arm with Stinger Blaster and Standard Right Arm, Interchangeable Folded and Opened Back Wings, Detachable Stinger Sword, Articulated Hands, 4 Pairs of Interchangeable Eyebrows for Bumblebee’s Expressions (Normal, Angry, Sad, Squinting).
 edition_qty: 

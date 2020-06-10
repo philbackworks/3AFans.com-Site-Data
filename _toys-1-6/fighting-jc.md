@@ -21,27 +21,29 @@ designer: Ashley Wood
 makers: unknown
 points_of_articulation: 30
 variants: 
-  -  Red Night JC
   -  Exegesis JC
   -  Tracky Boss JC
+  -  MAURO JC 2 PACK
   -  Palm in the Face Sunday JC
   -  Shit Got Real JC
-  -  Dark Shit Got Real JC
+  -  Shit Got Real Dark JC
   -  Pale AF JC
+  -  Red Night JC
+  -  Custard Hair Killer JC
 you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
-  -  Little Shadow   
+  -  Little Shadow v1   
 article_contributors: [Phil Back, foreignparticle]
 toy_pics:
   -  fighting-jc-01-6.jpg
   -  fighting-jc-02-6.jpg
 backstory:
+sale_type: 
+event_exclusive: 
+event_details: 
+source_doc:
 ---
-"Red Atonement JC" or "Red Night JC" features the "New Pissed Off Head Sculpt", has fabric bandages, fake leather boots and comes with a "newly sculpted zombie head". This figure was available via a 'timed sale premade edition'.
-
-"One thousand heads I shall deliver on this night, the RED NIGHT!"
-
 "He is an Essene, hence the tagline, the MEAN ESSENE! There are many nationalities in the AK world!"
 <cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>
 

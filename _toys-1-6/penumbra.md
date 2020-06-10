@@ -2,7 +2,7 @@
 toy_id: penumbra
 toy_name: Penumbra
 permalink: /toys-1-6/penumbra.html
-description: Learn about Penumbra (by ThreeA toys and Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
+description: ThreeA Penumbra (by Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: female
@@ -27,7 +27,7 @@ variants:
   -  Shadow Mode Little Shadow v1
   -  Cherry Shadow
   -  Ghost Shadow
-  -  Little Shadow MK2 Latex
+  -  Little Shadow Mk2
   -  Shadow2
   -  Cherry Bomb
   -  Flakey Frost
@@ -42,7 +42,6 @@ you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
   -  Red Night JC  
-  -  Little Shadow
   -  Merde Mission
 article_contributors: [Phil Back, 3a_boltman, absolutemono, mikeyuenism, missbincaboo, threealegionnaire]
 toy_pics: 

@@ -8,12 +8,12 @@ world_abr: IP
 character_base: Pascha
 layout: layout-toy-detail
 categories: 
-tags: [clear, see-through, sdcc, comic con, PaschaBorg 001]
+tags: [clear, see-through, sdcc, comic con, PaschaBorg 001, ISO Cyborg]
 release_date: 7/23/2014
 release_price: $150 
 scale: one sixth
 size: 12 inches
-comes_with: 
+comes_with: Each ISO CYBORG comes with 5 hands and two pairs of shoes
 edition_qty: 
 chase: 
 exclusive: yes
@@ -26,6 +26,8 @@ designer: TP Louise
 makers: Ashley Wood 
 points_of_articulation: 
 variants: 
+  -  Pascha Cyborg Transparent Blue
+  -  Pascha Cyborg 4 Pack Set
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, saaaa_muel]
 toy_pics: 
@@ -34,7 +36,7 @@ toy_pics:
   -  pascha-cyborg_02-6_by_SZUTSUNG_via_instagram.jpg
   -  pascha-cyborg_03-6_by_SZUTSUNG_via_instagram.jpg
   -  pascha-cyborg-blind-single-clear-see-through_01-6_3a-toys_by_szutsung-via-instagram.jpg
-backstory: SDCC 2014 Bamba sale. Long/Miyu/Lizbeth/Pony variants; IDW Exclusive - http://3a.idwpublishing.com/products/isobelle-pacha
+backstory: SDCC 2014 Bamba sale. Long/Miyu/Lizbeth/Pony variants; IDW Exclusive
 sale_type: 
 event_exclusive:
 event_details: 

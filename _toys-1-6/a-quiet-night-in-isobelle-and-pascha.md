@@ -12,7 +12,7 @@ release_date: 12/31/2013
 release_price: $200 USD
 scale: one sixth
 size: 12 inches
-comes_with: 
+comes_with: 2 Figures
 multipack: yes
 edition_qty: 
 chase: 
@@ -29,7 +29,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: Surprise LTD Drop. Comes with 1/6 strap-ons and video recorder
+backstory: Surprise LTD Drop. Comes with 1/6 strap-ons and video recorder. Blondes wearing white.
 sale_type: 
 event_exclusive: 
 event_details: 

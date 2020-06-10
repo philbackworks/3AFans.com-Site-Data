@@ -30,6 +30,7 @@ you_might_also_like:
   -  Lucky 8 Panda Mercs Handsome Wu
   -  Lucky 8 Panda Mercs Red Panda Merc Shadow
   -  Lucky 8 Panda Mercs Soot Panda Inky Handsome Wu
+  -  Lucky 8 Panda Merc Two F-Legion 6023
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
 backstory: Surprise LTD Drop. Comes with new RPG

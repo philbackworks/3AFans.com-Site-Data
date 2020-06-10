@@ -4,13 +4,13 @@ toy_id: zvr-warbot-bertie
 toy_name: ZvR Warbot Bertie
 permalink: /toys-3ago/zvr-warbot-bertie.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: ZVR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 7/9/2015
 release_price: $75 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

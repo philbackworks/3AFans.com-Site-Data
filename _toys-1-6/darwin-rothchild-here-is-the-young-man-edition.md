@@ -34,7 +34,7 @@ backstory: Market update - sold for $112.50 on ebay 3/2018.
 ---
 From the official ThreeA promotional materials:
 
-"Here is the young man"
+"Here is the young man, dressed for the funeral of the world. We're living by your rules and that's all we know." - Ashley Wood, ThreeA
 
 "It was obvious from a young age I was destined to be alone.
 My ideas and outlook were always a step above my peers.

@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong]
 toy_pics: 
   -  tk-shogun-interloper-shogun-hana-01-6.jpg
   -  tk-shogun-interloper-shogun-hana-02-6.jpg

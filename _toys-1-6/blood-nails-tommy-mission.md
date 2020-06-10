@@ -23,11 +23,10 @@ points_of_articulation: 30
 variants: 
   -  Shadow Tommy
   -  Tommy Mission EMO
-  -  Dirty Tracky Tommy Mission
+  -  Tommy Mission Dirty Tracky
 you_might_also_like:
   -  Cherry Bomb
-  -  Ankou Johan
-  -  Nom DePlume   
+  -  Ankou Johan LSBBG
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics:
   -  blood-nails-tommy-mission-01-6.jpg

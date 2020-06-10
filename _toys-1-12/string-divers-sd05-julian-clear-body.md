@@ -8,7 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, clear]
 release_date: 7/15/2014
 release_price: ~$45
 scale: one twelve
@@ -27,15 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
-backstory: Asian Retailer Exclusive
+backstory: Asian Retailer Exclusive. No breather mask or tank belt pouches. "Julian the clear SD is only available at retail, and we can only offer Asian retail stores the selection as our license only covers the Asian region for now." - [via 3A]
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

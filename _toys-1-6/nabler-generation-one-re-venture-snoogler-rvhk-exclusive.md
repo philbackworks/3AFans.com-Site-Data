@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: nabler-generation-one-re-venture-snoogler-rvhk-exclusive
 toy_name: Nabler Generation One Re Venture Snoogler RVHK Exclusive
 permalink: /toys-1-6/nabler-generation-one-re-venture-snoogler-rvhk-exclusive.html
-world: Popbot
-world_abr: POP
+world: Miss+Mrs
+world_abr: M+M
 character_base: 
 layout: layout-toy-detail
 categories: 
@@ -34,7 +34,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

@@ -3,15 +3,16 @@ layout: layout-toy-detail
 toy_id: optimus-prime-evasion-edition
 toy_name: Optimus Prime Evasion Edition
 permalink: /toys-non-scale/optimus-prime-evasion-edition.html
-world: Transformers
-world_abr: TRAN
+world: Transformers Age of Extinction
+world_abr: TR
 character_base: Optimus Prime
 layout: layout-toy-detail
 categories: 
 release_date: 3/24/2017
 release_price: $430 
 scale: non-scale
-size: 6 inches
+series: Premium
+size: 19 inches
 comes_with: 
 edition_qty: 
 chase: 

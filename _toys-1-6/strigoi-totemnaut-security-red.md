@@ -30,7 +30,7 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
 toy_pics: 
   -  strigoi-totemnaut-security-red-01-6.jpg
   -  strigoi-totemnaut-security-red-02-6.jpg
-backstory: Name tag on red is "CARTER". Are there other names?
+backstory: Name tag on red is "CARTER".
 sale_type: 
 event_exclusive: 
 event_details: 

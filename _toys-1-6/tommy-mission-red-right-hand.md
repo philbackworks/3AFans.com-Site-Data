@@ -22,10 +22,10 @@ makers: unknown
 points_of_articulation: 30
 variants: 
   - Shadow Tommy
-  - Dirty Tracky Tommy Mission
+  -  Tommy Mission Dirty Tracky
 you_might_also_like:
   - Zombot
-  - Little Shadow
+  -  Little Shadow v1
   - Zomb MD Dr Shitvago
 article_contributors: [Phil Back]
 backstory:

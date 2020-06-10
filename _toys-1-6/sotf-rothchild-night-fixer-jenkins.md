@@ -8,8 +8,9 @@ world_abr: WWR
 character_base: Male
 layout: layout-toy-detail
 categories: 
+tags: [field, mechanic]
 release_date: 1/11/2015
-release_price: ~$140
+release_price: $140
 scale: one sixth
 size: 12 inches
 comes_with: 
@@ -26,10 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
 toy_pics: 
   -  sotf-rothchild-night-fixer-jenkins-01-6-by-pcww88-patrick-wong.jpg
-backstory: 
+backstory: Brown hair, camo-markings on face and arms.
 sale_type: 
 event_exclusive: 
 event_details: 

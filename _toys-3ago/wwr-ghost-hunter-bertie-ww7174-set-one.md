@@ -4,13 +4,13 @@ toy_id: wwr-ghost-hunter-bertie-ww7174-set-one
 toy_name: WWR Ghost Hunter Bertie (WW7174 Set One)
 permalink: /toys-3ago/wwr-ghost-hunter-bertie-ww7174-set-one.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 3/27/2016
 release_price: $126 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

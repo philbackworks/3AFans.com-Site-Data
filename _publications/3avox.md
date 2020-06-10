@@ -39,6 +39,13 @@ pub_pics:
   -  3a-vox-v1-09.jpg
   -  3a-vox-v1-10.jpg
   -  3a-vox-v1-11.jpg
+  -  voxv21header.jpg
+  -  2012header.jpg
+  -  voxv2_2.jpg
+  -  voxv2_3.jpg
+  -  voxv24.1.jpg
+  -  voxv25.jpg
+  -  vox5.jpg
 summary: Archive of 20+ issues of the official 3A email newsletters that started in August 2011
 buy:
   amazon: n/a
@@ -51,7 +58,7 @@ reviews:
   review3:
   review4:
 ---
-<p>The VOX e-newsletter started in August 2011 and continued on a regular basis for 27 issues, plus 4 special editions, according to the 3A website. Here are links for easy access to learn more about the history of 3A toy releases, along with great commentary from Ash and his amazing team:
+<p>The VOX e-newsletter started in August 2011 and continued on a regular basis for 27 issues, plus 4 special editions, according to the previous 3A website. Here are links for easy access to learn more about the history of 3A toy releases, along with great commentary from Ash and his amazing team:
 <h4>Volume 1</h4>
 <ul>
     <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=601c22b791&e" target="_blank">3AVOX - #1 - August 18, 2011</a></li>
@@ -75,11 +82,23 @@ reviews:
 
 <h4>Volume 2</h4>
 <ul>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=a978c9a939&e=f6e664f239" target="_blank">3AVOX - January 4, 2012</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=b811fb9e00&e=f6e664f239" target="_blank">3AVOX - January 10, 2012</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=6be092d73f&e=f6e664f239" target="_blank">3AVOX - January 20, 2012</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=0342421c49&e=f6e664f239" target="_blank">3AVOX - vol 2, #3 - February 3, 2012</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=baec991b24&e=f6e664f239" target="_blank">3AVOX - vol 2, #4 - February 10, 2012</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=f97bd590bb&e=f6e664f239" target="_blank">3AVOX - vol 2, #5 - February 24, 2012</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=37a3bb3073&e=f6e664f239" target="_blank">3AVOX - vol 2, #6 - March 9, 2012</a></li>
   <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=b13c89c8d3&e" target="_blank">3AVOX - Christmas Special  - December 17, 2012</a></li>
 </ul>
 
 <h4>Volume 3</h4>
 <ul>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=72877fdbdd&e=2f26719c2c" target="_blank">3AVOX - March 31, 2013 (Daniel aka Gimbat)</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=64559260d0&e=2f26719c2c" target="_blank">3AVOX - April 28, 2013</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=2b92a6cfb4&e=2f26719c2c" target="_blank">3AVOX - May 11, 2013</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=e0b7f83a2b&e=2f26719c2c" target="_blank">3AVOX - July 26, 2013</a></li>
+  <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=47a509b788&e=f6e664f239" target="_blank">3AVOX - #1 - September 26, 2012</a></li>
   <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=1a110183df&e" target="_blank">3AVOX - Special: Hot-Foot - October 28, 2013</a></li>
   <li><a href="https://us1.campaign-archive.com/?u=df39a60ebc972356a8428c41e&id=85d41e3b2d&e" target="_blank">3AVOX - Special: Real Steel: Noisy Boy - October 27, 2013</a></li>
 </ul>

@@ -4,13 +4,13 @@ toy_id: wwr-bertie-mk2-wave-one-jea-div
 toy_name: WWR Bertie MK2 Wave One - JEA DIV
 permalink: /toys-3ago/wwr-bertie-mk2-wave-one-jea-div.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 3/14/2016
 release_price: $75 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

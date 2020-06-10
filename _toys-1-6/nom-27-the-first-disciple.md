@@ -8,7 +8,7 @@ world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
 categories: 
-tags: [black, handgun]
+tags: [black, handgun, 3 hoses]
 release_date: 6/26/2012
 release_price: $125 
 scale: one sixth
@@ -33,11 +33,14 @@ you_might_also_like:
   -  Nom De Plume Final Fight  
   -  EVOL Sombre De Plume  
   -  Barguest De Plume
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, luciferbeck, quietstorm__, Wade Taylor]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, luciferbeck, quietstorm__, Wade Taylor, Toni Garcia Wright]
 toy_pics: 
   -  nom-27-01-6.jpg
   -  nom-27-02-6.jpg
+  -  nom-27_03-6_3a-toys_by-toni-garcia-wright.jpg
+  -  nom-27_01-6_3a-toys_by-toni-garcia-wright.jpg
   -  nom-27-_01-6_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
+  -  nom-27_02-6_3a-toys_by-toni-garcia-wright.jpg
   -  nom-27-the-first-disciple_01_6_by_foreignparticle.jpg
   -  nom-27_01_6_by_quietstorm-dot__.jpg
 backstory: 

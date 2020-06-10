@@ -27,13 +27,26 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+  -  Fighting JC
+  -  Exegesis JC
+  -  Tracky Boss JC
+  -  Palm in the Face Sunday JC
+  -  Shit Got Real JC
+  -  Shit Got Real Dark JC
+  -  Pale AF JC
+  -  Red Night JC
+  -  Custard Hair Killer JC
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, foreignparticle, 3a_boltman, gar]
 toy_pics: 
   -  mauro-jc-and-blind-oracle-2-pack-01-6-by-frutiger_.jpg
   -  mauro-jc-and-blind-oracle-2-pack-02-6-by-frutiger_.jpg
+  -  mauro-jc-01-6.jpg
+  -  mauro-jc-02-6.jpg
+  -  mauro-jc-03-6.jpg
 backstory: LTD release
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

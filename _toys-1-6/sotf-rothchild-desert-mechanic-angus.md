@@ -6,7 +6,6 @@ permalink: /toys-1-6/sotf-rothchild-desert-mechanic-angus.html
 world: World War Robot
 world_abr: WWR
 character_base: Male
-layout: layout-toy-detail
 categories: 
 tags: [mechanic, wrench, blonde, desert, outdoors]
 release_date: 1/7/2015
@@ -27,11 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, toy_spot]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, toy_spot, szutsung]
 toy_pics: 
   -  sotf-rothchild-desert-mechanic-angus-01-6-by-toy_spot.jpg
   -  sotf-rothchild-desert-mechanic-angus-02-6-by-toy_spot.jpg
-backstory: Desert colorway
+  -  desert-mechanic-angus_01-6_3a-toys_by_szutsung-via-instagram.jpg
+backstory: Desert colorway - blonde hair, sand-colored attire.
 sale_type: 
 event_exclusive: 
 event_details: 

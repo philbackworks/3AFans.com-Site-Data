@@ -4,14 +4,14 @@ toy_id: wanka-golden-square
 toy_name: Wanka Golden Square
 permalink: /toys-3ago/wanka-golden-square.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: WWR
 character_base: Square
 layout: layout-toy-detail
 categories: 
 tags: [willy wonka, wormhole, acquisition, northern, crater, anover, wl01solomon, sqr]
 release_date: 9/6/2016
 release_price: $25 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

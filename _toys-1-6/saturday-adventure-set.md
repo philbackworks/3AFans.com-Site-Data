@@ -27,7 +27,7 @@ points_of_articulation:
 variants: 
 you_might_also_like: 
   -  Sunday Morning 4 Pack
-  -  Little Shadow
+  -  Little Shadow v1
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
 backstory: 4-pack exclusive set available at the Beijing Gathering 2010. Set included Ghost Shadow, Missionary Zomb, Shadow Tommy, Shadow Zombot

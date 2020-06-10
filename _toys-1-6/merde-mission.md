@@ -22,6 +22,7 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
+  -  Cold Merde PREMADE ltd
   -  Sunday Morning Adventure Pack Little Shadow
   -  Sunday Morning Adventure Pack Ankou Johan
   -  Sunday Morning Adventure Pack Zombot
@@ -33,6 +34,8 @@ toy_pics:
   -  merde-mission-02-6.jpg
 backstory: The Father of Bleak Mission. There were 2 releases of this awesome 4-pack - the first at the Japan Venture 3A event, along with a Bambaland.com version.
 ---
+Merde Mission is the father of Bleak Mission and grandfather of Tommy Mission.
+
 From the official promotional material from ThreeA:
 
 "Adventure Kartel - Not For Starlings"

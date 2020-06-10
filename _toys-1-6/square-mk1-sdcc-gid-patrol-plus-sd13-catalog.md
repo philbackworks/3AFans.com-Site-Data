@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 tags: [mk1, glow in the dark, gid]
 release_date: 7/18/2013
-release_price: $40 
+release_price: $40 or $35 for 3AA, cash-only sale
 scale: one sixth
 size: 12 inches
 comes_with: SD13 catalog
@@ -36,3 +36,16 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+  SDCC 2013 Exclusive, "Live F5" - basically released at random times at the ThreeA booth at SDCC! This was eventually put under control by the convention workers managing the crowds. 3AA discount was honored if you had your membership card. Cash only sale.
+
+  Other items available as San Diego Comic Con 2013 Exclusives:
+
+  Isobelle Pascha F.M.I.S. CMD Edition @ $130 / 3AA @ $110
+
+  Adventure Kartel Medic Zomb @ $125 / 3AA @ $105
+
+  Kent Williams Art Book - "Ophthalm" @ $60 / 3AA @ $50
+
+  Lasstranaut T-Shirt @ $35 / 3AA @ $30
+
+  Dead Astronaut Gangsta T-Shirt @ $35 / 3AA @ $30

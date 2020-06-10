@@ -5,7 +5,7 @@ toy_name: Harold the Fucktard MEDIC Set
 permalink: /toys-1-12/harold-the-fucktard-medic-set.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Harold
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

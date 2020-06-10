@@ -22,25 +22,32 @@ makers: unknown
 points_of_articulation: 30
 variants: 
   -  Fighting JC
-  -  Exegesis JC
   -  Tracky Boss JC
+  -  MAURO JC 2 PACK
   -  Palm in the Face Sunday JC
   -  Shit Got Real JC
-  -  Dark Shit Got Real JC
+  -  Shit Got Real Dark JC
   -  Pale AF JC
+  -  Red Night JC
   -  Custard Hair Killer JC
-  -  Mauro JC
 you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
-  -  Little Shadow   
+  -  Little Shadow v1
 article_contributors: [Phil Back, frutiger_]
 toy_pics:
   -  exegesis-jc-01-6.jpg
 backstory:
+sale_type: 
+event_exclusive: 
+event_details: 
+source_doc:
 ---
 From the Official ThreeA promotional materials:
 
 "Let me show you the LIGHT!"
 
 JC wearing white pants, white hooded jacket, blue sneakers, blonde hair.
+
+ex·e·ge·sis  /ˌeksəˈjēsis/ - noun - critical explanation or interpretation of a text, especially of scripture.
+Example: "the task of biblical exegesis"

@@ -5,10 +5,9 @@ toy_name: Grunt EMGY
 permalink: /toys-1-12/grunt-emgy-trg.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
-layout: layout-toy-detail
+character_base: Grunt
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, yellow] 
 release_date: 3/1/2013
 release_price: $45 
 scale: one twelve
@@ -27,13 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, quietstorm__, Wade Taylor]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
-  -  emgy-trg-trooper_02_6_by_quietstorm-dot__.jpg
-  -  emgy-trg-trooper_01_6_by_quietstorm-dot__.jpg
-  # -  grunt-emgy-trg-01-6-by-foreignparticle.jpg
-  -  emgy-grunt_01-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
-  -  emgy-grunt_02-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
+  -  emgy-trg-trooper_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
+  #-  emgy-grunt_01-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
+  #-  emgy-grunt_02-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
 backstory: $15 S/H
 sale_type: 
 event_exclusive: 

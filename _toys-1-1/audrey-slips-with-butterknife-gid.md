@@ -5,7 +5,7 @@ toy_name: Audrey Slips with Butterknife GID
 permalink: /toys-1-1/audrey-slips-with-butterknife-gid.html
 world: AW Collection
 world_abr: 
-character_base: 
+character_base: Foot
 layout: layout-toy-detail
 categories: 
 tags: [severed, foot, severedfoot]

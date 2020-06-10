@@ -5,7 +5,7 @@ toy_name: Bramble MK2 Deep Powder
 permalink: /toys-1-6/bramble-mk2-deep-powder.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 release_date: 10/1/2008

@@ -4,13 +4,13 @@ toy_id: wwr-jdf-bertie-plus-square-2-pack
 toy_name: WWR JDF Bertie plus Square 2 Pack
 permalink: /toys-3ago/wwr-jdf-bertie-plus-square-2-pack.html
 world: 3AGO
-world_abr: 
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 9/19/2015
 release_price: JPY 12,000 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

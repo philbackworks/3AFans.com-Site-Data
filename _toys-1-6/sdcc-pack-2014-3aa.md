@@ -34,4 +34,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Included Ironman EG, Square Cosplay Miyu, and Pascha Cyborg
+Included Ironman EG, Square Cosplay Miyu, and Pascha Cyborg 

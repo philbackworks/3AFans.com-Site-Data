@@ -11,9 +11,9 @@ categories:
 tags: [robot, blue, white, glow in the dark]
 release_date: 9/18/2014
 release_price: $230 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
-comes_with: 
+comes_with: Fires a spring-loaded missile
 edition_qty: 
 chase: 
 exclusive: 
@@ -24,12 +24,15 @@ packaging_type:
 product_code_/_link: 0000000000BG
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: 36
 variants: 
-you_might_also_like: 
+  -  MARS
   -  REMUS 
   -  ROMULUS
+  -  Universe Swirl MARS and EDO Commander
   -  MARS Ghost of Guangzhou GID
+you_might_also_like: 
+  -  Saturn MK2 Titan WW7174 Set Two
 article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
   -  sky-blast-blue-gid-glow_01_6_by_abrader_john-mcdaniel.jpg
@@ -39,3 +42,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

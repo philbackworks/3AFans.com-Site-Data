@@ -7,6 +7,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: [onesixth]
+tags: [rare, og, tomorrow king]
 release_date: 12/3/2008
 release_price: $120 USD
 scale: one sixth

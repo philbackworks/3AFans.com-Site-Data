@@ -5,7 +5,7 @@ toy_name: Heavy Brambles MK2 5
 permalink: /toys-1-12/heavy-brambles-mk2-5.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

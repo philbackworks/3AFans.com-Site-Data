@@ -6,9 +6,8 @@ permalink: /toys-1-12/fantome-de-plume-wwrp.html
 world: World War Robot Portable
 world_abr: WWRp
 character_base: 
-layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, white, barguest, X] 
 release_date: 10/13/2012
 release_price: $45 
 scale: one twelve
@@ -30,8 +29,10 @@ you_might_also_like:
   -  Gebi de Plume WWRp
   -  Barguest de Plume WWRp
   -  Noir de Plume WWRp
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Toni Garcia Wright, Dexter Lacuanan]
 toy_pics: 
+  -  fantome-de-plume_01-12_3a-toys_by-toni-garcia-wright.jpg
+  -  fantome-de-plume-wwrp_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: $15 S/H
 sale_type: 
 event_exclusive: 

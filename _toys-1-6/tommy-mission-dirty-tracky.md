@@ -32,7 +32,7 @@ variants:
 you_might_also_like: 
   -  Zombot
   -  Cherry Bomb
-  -  Little Shadow  
+  -  Little Shadow v1
 article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, Andhika Rahmaditya]
 toy_pics: 
   -  dirty-tracky-tommy-mission_05-6_by_dk_kuro_via_instagram.jpg

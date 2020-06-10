@@ -3,7 +3,7 @@ layout: layout-toy-detail
 toy_id: cherry-bomb
 toy_name: Cherry Bomb
 permalink: /toys-1-6/cherry-bomb.html
-description: Learn about Cherry Bomb (by ThreeA toys and Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
+description: ThreeA Cherry Bomb (by Ashley Wood) and how she relates to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: female
@@ -28,7 +28,7 @@ variants:
   -  Shadow Mode Little Shadow v1
   -  Cherry Shadow
   -  Ghost Shadow
-  -  Little Shadow MK2 Latex
+  -  Little Shadow Mk2
   -  Shadow2
   -  Penumbra
   -  Flakey Frost

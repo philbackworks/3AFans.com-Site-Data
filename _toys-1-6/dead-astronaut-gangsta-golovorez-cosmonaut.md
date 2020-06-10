@@ -23,14 +23,15 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 30
 variants: 
-  -  Dead Astronaut Gangsta Set
   -  Dead Astronaut Gangsta Dark
   -  Dead Astronaut Gangsta White
 you_might_also_like:
-  -  Dead Astronaut Gangsta White 2 Pack
   -  Future Mort 13
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, luciferbeck]
 toy_pics: 
+  -  dead-astronaut-gangsta-golovorez-cosmonaut_01-6_by_luciferbeck_via_instagram.jpg
+  -  dead-astronaut-gangsta-golovorez-cosmonaut_02-6_by_luciferbeck_via_instagram.jpg
+  -  dead-astronaut-gangsta-golovorez-cosmonaut_03-6_by_luciferbeck_via_instagram.jpg
 backstory: Retail exclusive
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

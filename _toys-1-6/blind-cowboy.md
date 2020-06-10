@@ -9,7 +9,7 @@ layout: layout-toy-detail
 categories: [onesixth, superset]
 tags: [cowboy, red]
 release_date: 04/30/2013
-release_price: $270 USD
+release_price: $120 for the figure only, $270 USD for the set including the horse
 scale: one sixth
 size: 
 comes_with: Poncho, hat, guns, Tombstone Rifle, blindfold with JFK's blood, Red Devil sock puppet

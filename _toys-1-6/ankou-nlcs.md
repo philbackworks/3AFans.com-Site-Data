@@ -26,9 +26,9 @@ variants:
   # -  Ankou N.L.C.S. Commander
   # -  Johnson Ankou
 you_might_also_like:
-  -  Ankou Johan
+  -  Ankou Johan LSBBG
   # -  Ankou Asclepius
-  -  Ankou Junglevet
+  -  Ankou Jungle Vet
   -  Ankou UNKNOWN
   -  Ankou Sentry Shadow Security
 article_contributors: [Phil Back, frutiger_]

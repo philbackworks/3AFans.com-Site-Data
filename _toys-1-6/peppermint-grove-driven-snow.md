@@ -6,8 +6,8 @@ permalink: /toys-1-6/peppermint-grove-driven-snow.html
 world: Adventure Kartel
 world_abr: AK
 character_base: 
-layout: layout-toy-detail
 categories: 
+tags: [white]
 release_date: 11/5/2014
 release_price: $100 
 scale: one sixth
@@ -26,9 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, kisscat15]
 toy_pics:
-  -  perppermint-grove-driven-snow-01-6.jpg 
+  -  perppermint-grove-driven-snow-01-6.jpg
+  -  peppermint-grove-driven-snow_01-6_3a-toys_by-kisscat15-via_instagram.jpg
+  -  peppermint-grove-driven-snow_02-6_3a-toys_by-kisscat15-via_instagram.jpg
 backstory: LTD Pre-Made
 sale_type: 
 event_exclusive: 

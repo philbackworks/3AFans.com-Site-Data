@@ -22,8 +22,8 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code_/_link: 000000000000000FGC
-designer: Ashley Wood
-makers: Created by John Wagner, Alan Grant, and Brian Bolland
+designer: Judge Dredd created by John Wagner (writer), Carlos Ezquerra (artist), Pat Mills (editor) - 2000AD
+makers: Ashley Wood, Gregory Prout
 points_of_articulation: 
 variants: 
   -  Judge Fish and Gronk Set

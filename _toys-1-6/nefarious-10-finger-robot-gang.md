@@ -27,9 +27,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, saaaa_muel]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, saaaa_muel, gundamben831]
 toy_pics: 
   -  nefarious-10-finger_1_02-6-by-foreignparticle.jpg
+  -  nefarious-10-finger-no3-01-6-by-gundamben831_via_instagram.jpg
+  -  nefarious-10-finger-no3-02-6-by-gundamben831_via_instagram.jpg
+  -  nefarious-10-finger-no3-03-6-by-gundamben831_via_instagram.jpg
   -  nefarious-10-finger_5_02-6-by-foreignparticle.jpg
   -  nefarious-10-finger_6_02-6-by-foreignparticle.jpg
   -  nefarious-10-finger-gang-one_01-6_by_saaaa_muel_via_instagram.jpg

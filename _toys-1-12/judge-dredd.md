@@ -17,8 +17,8 @@ exclusive: no
 secret_drop:
 sold_where: bambaland.com, retailers
 packaging_type: 13" card
-designer: Ashley Wood
-makers: Design inspired by Carlos Ezquerra, Brian Bolland, and Mike McMahon
+designer: Judge Dredd created by John Wagner (writer), Carlos Ezquerra (artist), Pat Mills (editor) - 2000AD
+makers: Ashley Wood, Gregory Prout
 points_of_articulation: 30
 variants:
   -  Judge Dredd Classic Comic Book Edition

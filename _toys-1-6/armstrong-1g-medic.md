@@ -8,12 +8,12 @@ world_abr: WWR
 character_base: Armstrong
 layout: layout-toy-detail
 categories: 
-tags: [white, red]
+tags: [white, red, medic, kowloon]
 release_date: 7/14/2011
 release_price: $240 
 scale: one sixth
 size: 12 inches
-comes_with: 
+comes_with: CLAXTON80 gun
 edition_qty: 
 chase: 
 exclusive: 
@@ -27,10 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, gar]
 toy_pics: 
   -  armstrong-1g-medic-01-6-by-frutiger_.jpg
-backstory: 
+  -  armstrong-1g-medic-02-6-by-gar_v1_via_instagram.jpg
+backstory: Kowloon Medic Air Support
 sale_type: 
 event_exclusive: 
 event_details: 

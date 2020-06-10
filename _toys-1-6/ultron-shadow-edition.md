@@ -26,6 +26,8 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Ultron Classic Edition
+  -  Ultron Ghost Edition
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, lumpyheadstudios, 3a_boltman]
 toy_pics: 

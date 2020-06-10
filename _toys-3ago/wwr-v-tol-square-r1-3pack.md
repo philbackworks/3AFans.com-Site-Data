@@ -4,14 +4,14 @@ toy_id: wwr-v-tol-square-r1-3pack
 toy_name: WWR V-TOL Square R1 3Pack
 permalink: /toys-3ago/wwr-v-tol-square-r1-3pack.html
 world: 3AGO
-world_abr: 3AGO
-character_base: 
+world_abr: WWR
+character_base: Square
 layout: layout-toy-detail
 categories: 
 tags: [3-pack, 3-way, three-way, fly, jet, bpd337, bp6001, grey, gray]
 release_date: 9/14/2018
 release_price: $140 
-scale: 3AGO
+scale: 3ago
 size:
 comes_with: 
 edition_qty: 

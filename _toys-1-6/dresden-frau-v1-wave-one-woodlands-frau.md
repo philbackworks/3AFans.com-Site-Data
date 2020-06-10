@@ -27,7 +27,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88, John McDaniel]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, John McDaniel]
 toy_pics: 
   -  dresden-frau-v1-wave-one-woodlands-frau-01-6-by-pcww88-patrick-wong.jpg
   -  dresden-frau-woodlands-machine-gun-legs_01_6_by_abrader_john-mcdaniel.jpg

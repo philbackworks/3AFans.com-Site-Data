@@ -8,7 +8,7 @@ world_abr: MAR
 character_base: Female
 layout: layout-toy-detail
 categories: 
-tags: [licensed]
+tags: [licensed, mask, white hair, marvel, natasha]
 release_date: 10/7/2017
 release_price: $160 
 scale: one sixth
@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, szutsung]
 toy_pics: 
+  -  snow-strike-black-widow_01-6_by_szutsung_via_instagram.jpg
   -  snow-strike-black-widow-01-6.jpg
   -  snow-strike-black-widow-white-02-6-by-luciferbeck.jpg
 backstory: LTD Pre-made. LTD qty also available on Bambaland

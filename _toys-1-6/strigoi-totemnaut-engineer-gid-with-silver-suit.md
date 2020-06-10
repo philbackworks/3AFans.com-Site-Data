@@ -8,6 +8,7 @@ world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [z smith]
 release_date: 3/9/2015
 release_price: $180 
 scale: one sixth
@@ -16,7 +17,7 @@ comes_with:
 edition_qty: 
 chase: 
 exclusive: BAMB
-secret_drop: 
+secret_drop: yes
 sold_where: 
 bamba_points: 
 packaging_type: 
@@ -25,6 +26,7 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 35
 variants: 
+  -  Strigoi Totemnaut Engineer Yellow
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 

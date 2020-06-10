@@ -22,9 +22,9 @@ makers: unknown
 points_of_articulation: 30
 variants: 
   -  Shadow Tommy
-  -  Dirty Tracky Tommy Mission
+  -  Tommy Mission Dirty Tracky
 you_might_also_like:
-  -  Little Shadow
+  -  Little Shadow v1
   -  Zomb MD Dr Shitvago
 article_contributors: [Phil Back, foreignparticle, Andhika Rahmaditya]
 toy_pics:

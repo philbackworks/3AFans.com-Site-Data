@@ -28,9 +28,10 @@ points_of_articulation:
 variants: 
 you_might_also_like: 
   -  Faust and Small Apple
-article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, Chris Budd]
 toy_pics: 
   -  garland-and-faust-with-apples,-hellpop-duo_01-6_by_SZUTSUNG_via_instagram.jpg
+  -  garland-and-small-apple_01-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

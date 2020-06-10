@@ -8,6 +8,7 @@ world_abr: ART
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [licensed, cowboy, western, geoff darrow]
 release_date: 9/8/2017
 release_price: $220 
 scale: one sixth
@@ -21,14 +22,15 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: SHAOLINBAM
-designer: Ashley Wood
-makers: Brodie Perkins (Sculptor)
+designer: Geoff Darrow
+makers: Ashley Wood, Brodie Perkins (Sculptor)
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
   -  shaolin-cowboy-01-6-by-philback.jpg
+  -  shaolin-cowboy_01-6_by_szutsung_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

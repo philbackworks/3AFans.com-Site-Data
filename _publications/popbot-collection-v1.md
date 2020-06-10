@@ -12,7 +12,7 @@ ISBN-10: 1600100341
 ISBN-13: 978-1600100345
 categories: []
 release_date: 10/17/2006
-release_price: 
+release_price: $35 USD
 size: 8.5" x 11"
 edition_qty: 500
 exclusive: 
@@ -24,6 +24,7 @@ publisher: IDW
 authors: Ashley Wood, Sam Keith
 variants:
 you_might_also_like: 
+  -  Popbot Collection v2
 article_contributors: [Phil Back]
 pub_pics: 
   -  popbot-collection.jpg

@@ -5,10 +5,10 @@ toy_name: SHITTY 9 Member Five - Snow Panda Damn Large Martin
 permalink: /toys-1-12/shitty-9-member-five-snow-panda-damn-large-martin.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Damn Large Martin
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, fuck the reds!, dead eyes open, 14, trp, panel, sensor access] 
 release_date: 2/25/2016
 release_price: JPY 10,584 
 scale: one twelve

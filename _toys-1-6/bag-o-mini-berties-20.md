@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Bertie
 layout: layout-toy-detail
 categories: 
+tags: [bag, tiny, robot, rothchild]
 release_date: 11/24/2011
 release_price: $30 
 scale: one sixth
@@ -19,16 +20,17 @@ exclusive:
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Clear bag with stapled card
 product_code: 0MBDIY20P
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: None
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, gwaijai8]
 toy_pics: 
   -  bag-o-mini-berties_01_6_by_lumpyheadstudios.jpg
+  -  dark-mini-bertie-bag-non-scale-by-gwaijai8-via-ebay.jpg
 backstory: 20 DIY Mini Berties
 sale_type: 
 event_exclusive: 

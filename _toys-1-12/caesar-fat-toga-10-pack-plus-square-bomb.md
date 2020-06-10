@@ -5,7 +5,7 @@ toy_name: Caesar Fat Toga 10 Pack plus Square Bomb
 permalink: /toys-1-12/caesar-fat-toga-10-pack-plus-square-bomb.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: [Caesar, Square]
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

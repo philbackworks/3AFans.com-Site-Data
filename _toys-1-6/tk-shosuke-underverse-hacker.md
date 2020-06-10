@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
 toy_pics: 
   -  tk-shosuke-underverse-hacker-01-6-by-pcww88-patrick-wong.jpg
 backstory: LTD Pre-Made

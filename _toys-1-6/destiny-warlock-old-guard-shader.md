@@ -8,22 +8,22 @@ world_abr: DEST
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [Bungie, video game, black, red, grey]
+tags: [Bungie, video game, black, red, grey, thorn, licensed]
 release_date: 7/7/2016
 release_price: $190
 scale: one sixth
 size: 12.6 inches
-comes_with: 
+comes_with: 2 pair extra hands, 3 guns and ghost
 edition_qty: 
 chase: 
 exclusive: BUNG
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Box
 product_code:
-designer: Ashley Wood
-makers: 
+designer: Bungie
+makers: Ashley Wood, box packaging design by Brent Ashe
 points_of_articulation: 27
 variants: 
   -  Destiny Warlock Lunar Elegy Shader
@@ -33,9 +33,21 @@ you_might_also_like:
   -  Destiny Titan Hanged Man Shader
   -  Destiny 2 Titan Golden Trace Shader
   -  Destiny 2 Titan Calus Selected Shader
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+  -  Destiny Hunter Autumn Splendor Shader
+  -  Destiny Hunter Chatterwhite Shader
+  -  Destiny Hunter Goldspiral Shader
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, traders-cards-n-collectibles, Brent Ashe]
 toy_pics: 
   -  destiny-warlock-bungie_01_6_by_abrader_john-mcdaniel.jpg
+  -  destiny-warlock-bungie_04_6_by_traders-cards-n-collectibles.jpg
+  -  destiny-warlock-bungie_01_6_by_traders-cards-n-collectibles.jpg
+  -  destiny-warlock-bungie_03_6_by_traders-cards-n-collectibles.jpg
+  -  destiny-warlock-bungie_02_6_by_traders-cards-n-collectibles.jpg
+  -  destiny-warlock-bungie_06_6_by_traders-cards-n-collectibles.jpg
+  -  destiny-warlock-bungie_07_6_by_traders-cards-n-collectibles.jpg
+  -  destiny-warlock-bungie_05_6_by_traders-cards-n-collectibles.jpg
+  -  3a-destiny-figure-packaging_01-designed_by_brent_ashe_for_threea_toys.jpg
+  -  3a-destiny-figure-packaging_03_designed_by_brent_ashe_for_threea_toys.jpg
 backstory: Bungie Store Exclusive
 sale_type: 
 event_exclusive: 

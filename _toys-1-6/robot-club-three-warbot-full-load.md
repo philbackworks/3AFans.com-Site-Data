@@ -8,7 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: [robot club]
-tags: [robot club, skull, guns]
+tags: [robot club, skull, guns, ZvR]
 release_date: 1/10/2018
 release_price: $200 
 scale: one sixth
@@ -40,3 +40,5 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"Warbot is a different world really, but If I had to write it into lore, Warbot got plucked outta the WWR universe using similar portal tech that brought Zombies into the ZvR reality. The journey messed his wiring up a bit and decided to go on a one bot Zombie killing spree."
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#19)</a></cite>

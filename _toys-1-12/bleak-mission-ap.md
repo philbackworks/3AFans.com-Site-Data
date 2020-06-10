@@ -3,10 +3,9 @@ layout: layout-toy-detail
 toy_id: bleak-mission-ap
 toy_name: Bleak Mission AP
 permalink: /toys-1-12/bleak-mission-ap.html
-world: Adventure Kartel
+world: Adventure Kartel AP
 world_abr: AK
 character_base: Bleak
-layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, black, brown, silly squeal 1982, retail, series one, wave 1]
 release_date: 3/3/2014
@@ -27,12 +26,13 @@ makers:
 points_of_articulation: 20
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, barton_ltm]
+article_contributors: [Phil Back, barton_ltm, Dexter Lacuanan]
 toy_pics: 
   -  bleak-mission-01-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  bleak-mission-02-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  bleak-mission-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  bleak-mission-03-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
+  -  bleak-mission-ap_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: There are 14 figures in the Action Portable Series 1 set - Red Right Hand Tommy, Little Shadow (Shadow MK2 version), Cherry Bomb, Shit Got Real JC (Open Pale Style SGR JC version), Shit Got Real JC (Pale as Fuck SGR JC version), Bleak Mission, Merde Mission (Original version - dark jacket, black 3A logo shirt, fur lined hood), Merde Mission (Cold version - light jacket, blue pullover, fur lined hood), Golden Dolphin, Soy Dolphin (black), Removalist Zomb 01 (white), Removalist Zomb 02 (black), Johnson Ankou (orange boilersuit), Junglevet Ankou (camo).
 sale_type: 
 event_exclusive: 

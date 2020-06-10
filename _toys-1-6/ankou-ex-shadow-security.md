@@ -26,7 +26,7 @@ variants:
   -  Ankou EX Shadow Security
 you_might_also_like:
   -  Ankou Newandria Police
-  -  Ankou Junglevet
+  -  Ankou Jungle Vet
   -  Ankou NLCS
 article_contributors: [Phil Back, luciferbeck]
 toy_pics: 

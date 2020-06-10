@@ -4,7 +4,7 @@ toy_name: JEA Bertie
 permalink: /toys-1-12/jea-bertie.html
 world: World War Robot
 world_abr: WWR
-character_base: Bertie MK3
+character_base: Bramble
 layout: layout-toy-detail
 categories: [WWR, onetwelve]
 release_date: 

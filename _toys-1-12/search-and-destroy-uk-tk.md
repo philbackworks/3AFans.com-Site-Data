@@ -6,7 +6,6 @@ permalink: /toys-1-12/search-and-destroy-uk-tk.html
 world: AP Popbot
 world_abr: 
 character_base: 
-layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, tomorrow kings, punk, mohawk, leather jacket, fox tail, union jack, bandages, red]
 release_date: 6/16/2016
@@ -27,10 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
-  -  uktk_01_12_by_lumpyheadstudios.jpg
-  -  uktk_02_12_by_lumpyheadstudios.jpg
+  -  search-and-destroy-uk-tk_02-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg  
+  # -  uktk_01_12_by_lumpyheadstudios.jpg
+  -  search-and-destroy-uk-tk_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
+  # -  uktk_02_12_by_lumpyheadstudios.jpg
 backstory: Retailer Exclusive
 sale_type: 
 event_exclusive: 

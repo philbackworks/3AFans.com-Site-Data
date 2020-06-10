@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: saturn-mk2-titan-ww7174-set-two
-toy_name: Saturn MK2 Titan (WW7174 Set Two)
+toy_name: Saturn MK2 Titan WW7174 Set Two
 permalink: /toys-3ago/saturn-mk2-titan-ww7174-set-two.html
 world: Worlds Best Robots
 world_abr: WBR
@@ -11,8 +11,8 @@ categories:
 tags: [robot, orange, white, titan, World's Best Robots, WBR]
 release_date: 4/6/2016
 release_price: $280 
-scale: 3AGO
-size: 8 inches
+scale: 3ago
+size: 24 inches
 comes_with: 
 edition_qty: 
 chase: 
@@ -27,10 +27,17 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+  -  MARS
+  -  REMUS 
+  -  ROMULUS
+  -  Sky Blast Blue GID
+  -  Universe Swirl MARS and EDO Commander
+  -  MARS Ghost of Guangzhou GID
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, frutiger_]
 toy_pics: 
   -  wbr-saturn-mk2_01_6_by_abrader_john-mcdaniel.jpg
   -  wbr-saturn-mk2_02_6_by_abrader_john-mcdaniel.jpg
+  -  saturn-mk2-titan-ww7174-set-two_01-3ago_by_frutiger_-via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

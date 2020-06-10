@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
 toy_pics: 
   -  tk-tomb-diver-interloper-baka-01-6-by-pcww88-patrick-wong.jpg
 backstory: 

@@ -32,7 +32,8 @@ toy_pics:
   -  Audrey-Slips-on-Butterknife-01-01-by-frutiger_.jpg
   -  Audrey-Slips-with-Butterknife - Severed-Foot-Audrey_by_fdk_ksu_via_instagram.jpg
   -  audrey-slipes-with-butter-knife-severed-foot_01-6_by_FERNANDO_BAO_via_instagram.jpg
-backstory: Blindbox LTD - 5 Variants - Black, White, Leopard, Blue, Red
+backstory: Blindbox LTD - 5 Variants - Black, White, Leopard, Blue, Red. #LILY ELEVATOR MISHAP (very high heel). NEGATIVE BLACK VERSION. FROM THE 3 PACK COLLECTION
+
 sale_type: 
 event_exclusive: 
 event_details: 

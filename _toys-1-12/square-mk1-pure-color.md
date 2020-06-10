@@ -5,7 +5,7 @@ toy_name: Square MK1 Pure Color
 permalink: /toys-1-12/square-mk1-pure-color.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Square
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

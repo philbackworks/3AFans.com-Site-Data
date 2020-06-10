@@ -5,7 +5,7 @@ toy_name: SOTF 13th Cavalry Bramble MK2
 permalink: /toys-1-12/sotf-13th-cavalry-bramble-mk2.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, black, grey, stripes, diesel, skull, calvary, calvalry, crossbones]

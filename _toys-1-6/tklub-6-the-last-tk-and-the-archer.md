@@ -26,11 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong, Chris Budd]
 toy_pics: 
   -  tklub-6-the-last-tk-and-the-archer-01-6-by-pcww88-patrick-wong.jpg
   -  last-tk-and-the-archer-01-6-by-dk_kuro.jpg
   -  last-tk-and-the-archer-02-6-by-dk_kuro.jpg
+  -  tklub-6-the-last-tk-and-the-archer_01-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
+  -  tklub-6-the-last-tk-and-the-archer_02-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

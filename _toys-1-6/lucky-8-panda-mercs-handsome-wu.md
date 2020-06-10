@@ -30,6 +30,7 @@ variants:
 you_might_also_like: 
   -  Lucky 8 Panda Mercs Red Panda Merc Shadow
   -  Lucky 8 Panda Mercs Snow Panda Light Blue F-Legion 6000
+  -  Lucky 8 Panda Merc Two F-Legion 6023
 article_contributors: [Phil Back, Don Slater, MW Wutasi, gundamben831, saaaa_muel]
 toy_pics: 
   -  handsome-wu-01-6.jpg

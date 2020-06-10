@@ -8,7 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, threepack] 
 release_date: 10/31/2011
 release_price: $68 
 scale: one twelve
@@ -20,7 +20,7 @@ exclusive:
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Box
 product_code_/_link: APZOMB3P
 designer: Ashley Wood
 makers: 
@@ -29,13 +29,10 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: $25 S/H
+backstory: $25 S/H - Includes Classic, Medic Prevention, Trauma Command
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---
+From the box: "He Only Wants A Taste"

@@ -25,7 +25,6 @@ variants:
   -  Ankou EX Fat Drown
   -  Ankou EX Medic
 you_might_also_like:
-  -  Ankou Johan
   -  Ankou NLCS
   -  Ankou Johan LSBBG
 article_contributors: [Phil Back, frutiger_]

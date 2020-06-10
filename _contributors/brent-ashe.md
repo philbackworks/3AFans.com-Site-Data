@@ -10,7 +10,7 @@ links:
   youtube:
   pinterest: 
   web: http://www.brentashe.com
-role: Photo contributor
+role: Photo contributor, Packaging Designer
 pic: bio-brent-ashe.jpg
 misc_contributions:
   - name: 3AA History - Multiple logo, branding, packaging design and art direction credits.

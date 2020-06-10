@@ -31,7 +31,7 @@ you_might_also_like:
   -  Ankou Asclepius
   -  Ankou EX Medic
   -  Ankou Johan LSBBG
-  -  Ankou Junglevet
+  -  Ankou Jungle Vet
   -  Nabler Guys
   -  Nabler Generation One Re Venture Snoogler RVHK Exclusive
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]

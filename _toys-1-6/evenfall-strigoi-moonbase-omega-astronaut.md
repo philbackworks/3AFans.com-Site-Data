@@ -8,6 +8,7 @@ world_abr: EVF
 character_base: Strigoli
 layout: layout-toy-detail
 categories: 
+tags: [orange, strigoli, spacesuit, vampire, johnson]
 release_date: 11/21/13
 release_price: $160 USD
 scale: one sixth
@@ -23,8 +24,10 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, Chris Budd]
 toy_pics: 
+  -  evenfall-strigoi-astronaut_01-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
+  -  evenfall-strigoi-astronaut_02-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
 backstory: 
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

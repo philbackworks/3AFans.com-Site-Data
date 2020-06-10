@@ -11,7 +11,7 @@ categories:
 tags: [android, cuborg, gun arm, gun hand, red, white, green]
 release_date: 8/27/2014
 release_price: $45 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

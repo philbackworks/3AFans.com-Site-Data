@@ -25,12 +25,19 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Nabler Guys
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
+  -  nabler-guys-02-6.jpg
+  -  nabler-guys-01-6.jpg 
+  -  r-rated-smiling-nabler-guy-blindbox_01-6_by_frutiger_-via-instagram.jpg
 backstory: 5 color variants
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Listed on bambaland.com as:
+
+"R RATED SMILING NABLER GUY RANDOM BLIND BOX THINGY" - There appears to be multiple color variations available as part of this release, not including the 'last nabler guy' (orange body, black jeans, black jacket and t-shirt with white print) offered in the Halloween 2 Pack with Liz. There was also a 3AA Exclusive Nabler Guy - "Like a burnished end seethed Marlon" - Popbot Nabler (orange body, weathered orange jumpsuit, orange sneakers and a baseball bat). 

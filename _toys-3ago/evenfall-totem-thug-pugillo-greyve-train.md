@@ -11,7 +11,7 @@ categories:
 tags: [orange]
 release_date: 9/8/2016
 release_price: $160 
-scale: 3AGO
+scale: 3ago
 size: 10 inches
 comes_with: 
 edition_qty: 50

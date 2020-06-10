@@ -5,7 +5,7 @@ toy_name: Bramble MK2 Euro Daniel
 permalink: /toys-1-12/bramble-mk2-euro-daniel.html
 world: World War Robot portable
 world_abr: WWRp
-character_base: Robot
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, yellow, green] 

@@ -5,7 +5,7 @@ toy_name: Okult V Psyenze Hyper Seance Pilot Leg
 permalink: /toys-1-1/okult-v-psyenze-hyper-seance-pilot-leg.html
 world: AW Collection
 world_abr:
-character_base: Foot
+character_base: Leg
 layout: layout-toy-detail
 categories: 
 tags: [severed, leg, foot, severedfoot]

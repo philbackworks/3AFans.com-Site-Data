@@ -8,7 +8,7 @@ world_abr: DC
 character_base: Batman
 layout: layout-toy-detail
 categories: 
-tags: [licensed]
+tags: [licensed, batman, dark, black]
 release_date: 12/31/2015
 release_price: $240 
 scale: one sixth
@@ -26,14 +26,15 @@ designer: artist Bob Kane and writer Bill Finger; DC Comics
 makers: Ashley Wood
 points_of_articulation: 
 variants: 
-  -  Steel Detective Batman
+  -  The Steel Detective Batman
   -  The Steel Age Batman Night
   -  The Steel Age Batman Day
   -  The Steel Age Arctic Batman
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, szutsung]
 toy_pics: 
   -  the-steel-age-batman-dark_01_6_by_lumpyheadstudios.jpg
+  -  the-steel-detective-batman-dark_01-6_by_szutsung_via_instagram.jpg
   -  the-steel-age-batman-dark_02_6_by_lumpyheadstudios.jpg
   -  the-steel-age-batman-dark_03_6_by_lumpyheadstudios.jpg
 backstory: Bambaland Exclusive
@@ -42,4 +43,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
- All black weathered version, including his chin/face.
+ All black weathered version, including his chin/face. 

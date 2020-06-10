@@ -2,8 +2,8 @@
 toy_id: zvr-warbot-bertie-mk2
 toy_name: ZVR Warbot Bertie MK2
 permalink: /toys-3ago/zvr-warbot-bertie-mk2.html
-world: World War Robot
-world_abr: WWR
+world: 3AGO
+world_abr: ZVR
 character_base: Bertie
 layout: layout-toy-detail
 categories: [3ago, zvr]

@@ -21,8 +21,8 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: BDIY
-designer: Ashley Wood
-makers: 
+designer: T.P. Louise
+makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 

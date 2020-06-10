@@ -9,7 +9,7 @@ layout: layout-toy-detail
 categories: [AK, onesixth, halloween]
 release_date: 10/31/2012
 release_price:
-scale: 3AGO
+scale: 3ago
 size: 8-inches
 comes_with:
 edition_qty: unknown

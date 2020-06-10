@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: 8th-anniversary-nom-commanders-set-thrice-naught-plus-post-fire
-toy_name: 8th Anniversary NOM Commanders Set - Thrice Naught + Post Fire
+toy_name: 8th Anniversary NOM Commanders Set Thrice Naught Plus Post Fire
 permalink: /toys-1-6/8th-anniversary-nom-commanders-set-thrice-naught-plus-post-fire.html
 world: World War Robot
 world_abr: WWR
@@ -36,3 +36,5 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+<p>Q: "Is there a chance to see Thrice Naut and Post Fire (Men from N.O.M) in WWR Evol?"</p>
+<p>A: "Maybe" - Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">Q and A #18</a></p>

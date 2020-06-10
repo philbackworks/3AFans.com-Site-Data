@@ -27,7 +27,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, pcww88, saaaa_muel]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, Patrick Wong, saaaa_muel]
 toy_pics: 
   -  hoaxer_01-6_by_saaaa_muel_via_instagram.jpg
   -  hoaxer-01-6-by-foreignparticle.jpg

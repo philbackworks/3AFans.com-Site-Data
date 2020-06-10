@@ -27,7 +27,7 @@ product_code:
     notes: Sold in pre-made bundles (i.e. Thiddy + Thai Pascha + Mighty Square)
     date: 2014
     URL:
-  - label: Mighty Square Selection Garage on Bambaland Store
+  - label: Mighty Square Selection Garage on Bambaland
     code: 0000000000000MSG
     notes: 26 colorways to choose from during the sale.
     date: 10/3/2014

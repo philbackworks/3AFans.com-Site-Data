@@ -9,20 +9,20 @@ character_base:
 layout: layout-toy-detail
 categories: 
 release_date: 9/19/2015
-release_price: JPY 7,200 
+release_price: JPY 7,200, ~$60 USD
 scale: one-to-one
 size: 6 inches
 comes_with: 
 edition_qty: 
 chase: 
-exclusive: JPV
+exclusive: JapanVenture 2015
 secret_drop: 
 sold_where: 
 bamba_points: 
 packaging_type: 
 product_code_/_link: N/A
-designer: Ashley Wood
-makers: 
+designer: William Wray
+makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 

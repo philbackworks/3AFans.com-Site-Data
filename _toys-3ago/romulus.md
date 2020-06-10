@@ -11,9 +11,9 @@ categories:
 tags: [orange, robot, dark grey]
 release_date: 9/18/2014
 release_price: $230 
-scale: 3AGO
+scale: 3ago
 size: 24 inches
-comes_with: 
+comes_with: Fires a spring-loaded missile
 edition_qty: 
 chase: 
 exclusive: 3AA
@@ -24,19 +24,24 @@ packaging_type:
 product_code_/_link: 0000000000ROM
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: 36
 variants: 
-you_might_also_like: 
+  -  MARS
   -  REMUS 
   -  Sky Blast Blue GID
+  -  Universe Swirl MARS and EDO Commander
   -  MARS Ghost of Guangzhou GID
-  -  MARS
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+you_might_also_like: 
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, szutsung]
 toy_pics: 
   -  ROMULUS_01_6_by_abrader_john-mcdaniel.jpg
+  -  romulus_01-3ago_3a-toys_by_szutsung-via-instagram.jpg
+  -  romulus-wbr_01-6_by_szutsung_via_instagram.jpg
+  -  romulus-wbr_03-6_by_szutsung_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

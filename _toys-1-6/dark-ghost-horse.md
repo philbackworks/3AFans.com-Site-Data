@@ -7,6 +7,7 @@ world_abr: POP
 character_base: Horse
 layout: layout-toy-detail
 categories: [onesixth, superset]
+tags: [cowboy]
 release_date: 08/15/2011
 release_price: $270 USD
 scale: one sixth
@@ -17,14 +18,19 @@ exclusive: yes
 secret_drop:
 sold_where: bambaland.com
 packaging_type: box
+product_code:  #0000DCB
+  - label:
+    code: 0WS1
+    notes: Remaining stock available later during the Warehouse Clearance Sale.
+    date: 4/25/2015
+    URL:
 designer: Ashley Wood
 makers: 
 points_of_articulation: Ghost Horse Zeroticulation (0)
 variants: 
-  -  Dark Ghost Horse
+  -  Ghost Horse
 you_might_also_like:
   -  Blind Cowboy
-  -  Ghost Horse
   -  Dark Blind Cowboy
 article_contributors: [Phil Back, Keguang Kho]
 toy_pics:

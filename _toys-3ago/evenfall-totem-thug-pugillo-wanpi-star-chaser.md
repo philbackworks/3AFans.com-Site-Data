@@ -8,9 +8,10 @@ world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
+tags: [blue, gold stars, yellow, wanpi, wampi, siuy, Siuyin, thug, evenfall]
 release_date: 9/8/2016
 release_price: $160 
-scale: 3AGO
+scale: 3ago
 size: 10 inches
 comes_with: 
 edition_qty: 50
@@ -33,9 +34,10 @@ variants:
   -  EVENFALL TOTEM Thug Pugillo Arctic Albino 
   -  EVENFALL TOTEM Thug Pugillo Psychic Defence
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, szutsung]
 toy_pics: 
   -  totem-wanpi-star-chaser-evenfall-robot_01_6_by_FRUTIGER_.jpg
+  -  wanpi-star-chaser_01-6_by_SZUTSUNG_via_instagram.jpg
 backstory: LTD Surprise Drop; 1/9th scale
 sale_type: 
 event_exclusive: 

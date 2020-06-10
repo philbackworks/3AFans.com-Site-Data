@@ -8,9 +8,10 @@ world_abr: TR
 character_base: 
 layout: layout-toy-detail
 categories: 
-release_date: 6-30-2017
+release_date: 6/30/2017
 release_price: $430 
 scale: non-scale
+series: Premium
 size: 
 comes_with: 
 edition_qty:

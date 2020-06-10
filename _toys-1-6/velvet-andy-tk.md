@@ -32,10 +32,10 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21]
 toy_pics: 
   -  tomorrow-andy-by-hwang_21-01-6.jpg
   -  tomorrow-andy-by-hwang_21-02-6.jpg
-backstory: LTD Bambaland allotment
+backstory: LTD Bambaland allotment, Black jacket 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Black jacket
+In the world of Popbot, clones of Andy Warhol host a popular televised talk show called "Geeee Bob", where they interview eclectic musical personalities.

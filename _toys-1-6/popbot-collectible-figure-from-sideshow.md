@@ -1,16 +1,17 @@
 ---
 toy_id: popbot-collectible-figure-from-sideshow
 toy_name: Popbot Collectible Figure from Sideshow
-permalink: /toys-non-scale/popbot-collectible-figure-from-sideshow.html
+permalink: /toys-1-6/popbot-collectible-figure-from-sideshow.html
 world: Popbot
 world_abr: POP
 character_base: Popbot
 layout: layout-toy-detail
 categories: robot
-release_date: 
+tags: [universal]
+release_date: 12/2010
 release_price: $149.99 USD
 scale: one sixth
-size: 14 inches tall
+size: 14.5 inches tall
 comes_with: Kitty! (10 color variants)
 edition_qty: limited edition
 exclusive: yes
@@ -22,14 +23,15 @@ makers: James Hakola, IDW
 points_of_articulation:
 variants: 
 you_might_also_like:
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, Michael Crawford]
 toy_pics: 
+  -  threea-popbot-from-sideshow-_01-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
+  -  threea-popbot-from-sideshow-_02-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
+  -  threea-popbot-from-sideshow-_03-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
+  -  threea-popbot-from-sideshow-_04-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
+  -  threea-popbot-from-sideshow-_05-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
   -  popbot-from-sideshow-01-6.jpg
   -  popbot-from-sideshow-02-6.jpg
 backstory:
 ---
-"Kitty comes in 10 color variants, randomly packed with Popbot."
-
-"Sideshow Collectibles proudly presents the Popbot Collectible Figure by ThreeA Toys, from the graphic novel series by world-renowned artist Ashley Wood. Each piece is fully articulated and crafted of combined high quality ABS, PVC and roto vinyl materials. Standing over 14 inches high and complete with a long barrel pistol, shoulder bag and Kitty accessory, the Popbot Collectible Figure is the perfect addition to any collection."
-
-Source: SideshowToy.com, Popbot Polystone Statue by Sideshow Collectibles, December 2018 
+Check out a <a href="http://www.mwctoys.com/REVIEW_032311b.htm" target="_blank">review of this figure on MWCToys.com from 3/11/2011</a>

@@ -31,6 +31,9 @@ toy_pics:
   -  emgy-trg-trooper_01_6_by_quietstorm-dot__.jpg
   -  emgy-trg-trooper_02_6_by_quietstorm-dot__.jpg
   -  emgy-grunt-01-6-by-foreignparticle.jpg
+   -  emgy-trg-trooper_02_6_by_quietstorm-dot__.jpg
+  -  emgy-trg-trooper_01_6_by_quietstorm-dot__.jpg
+  -  grunt-emgy-trg-01-6-by-foreignparticle.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

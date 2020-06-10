@@ -4,15 +4,16 @@ toy_id: megatron
 toy_name: Megatron
 permalink: /toys-non-scale/megatron.html
 world: Transformers
-world_abr: TRAN
+world_abr: TR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 1/30/2015
 release_price: $430 
 scale: non-scale
+series: Premium
 size: 18.5 inches tall
-comes_with: 
+comes_with: Shotgun and chains
 edition_qty: 
 chase: 
 exclusive: 

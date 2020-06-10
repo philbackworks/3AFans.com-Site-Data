@@ -28,9 +28,11 @@ points_of_articulation: 25+
 variants: 
   -  Mongrol and the Mess
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, gar]
 toy_pics: 
   -  mongrol-and-the-mess-black-hole-edition-01-6.jpg
+  -  mongrol-and-the-mess_01-6_by_gar_v1_via_instagram.jpg
+  -  mongrol-and-the-mess_02-6_by_gar_v1_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

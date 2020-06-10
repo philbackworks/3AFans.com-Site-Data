@@ -9,7 +9,7 @@ colorway: shag rocks
 character_base: Damn Large Martin
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap, portable, action portable, robot club, Rothchild]
+tags: [action portable, ap, portable, action portable, robot club, Rothchild, jose]
 release_date: 8/11/2017
 release_price: $140 
 scale: one twelve

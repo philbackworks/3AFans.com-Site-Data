@@ -32,10 +32,10 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
   -  tomorrow-andy_01_6_by_lumpyheadstudios.jpg
-backstory: 
+backstory: Squaro sweater
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Squaro Sweater
+In the world of Popbot, clones of Andy Warhol host a popular televised talk show called "Geeee Bob", where they interview eclectic musical personalities.

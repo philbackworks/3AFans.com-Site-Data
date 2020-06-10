@@ -28,12 +28,17 @@ variants:
   -  Acolyte Zomb Yellow Boiler Suit
   -  Acolyte Zomb Black Boiler Suit
 you_might_also_like: 
+  -  Boiler Zomb Black
+  -  Boiler Zomb Yellow
+  -  Boiler Zomb Red
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
   -  acolyte-zomb-01-6.jpg
+  -  boiler-zomb-01-6.jpg
 backstory: 3 versions - Orange, black or yellow boiler suit
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Research indicates that the Acolyte Zomb hairstyle is a bit longer in the front and typically swoops over to the left.

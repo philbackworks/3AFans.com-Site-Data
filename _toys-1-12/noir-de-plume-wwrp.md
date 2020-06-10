@@ -6,9 +6,8 @@ permalink: /toys-1-12/noir-de-plume-wwrp.html
 world: World War Robot Portable
 world_abr: WWRp
 character_base: 
-layout: layout-toy-detail
 categories: 
-tags: [action portable, ap, black, shadow, wwrp] 
+tags: [action portable, ap, black, shadow, wwrp]
 release_date: 8/20/2010
 release_price: $40 
 scale: one twelve
@@ -30,9 +29,10 @@ you_might_also_like:
   -  Gebi de Plume WWRp
   -  Barguest de Plume WWRp
   -  Fantome de Plume WWRp
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Wade Taylor]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Wade Taylor, Dexter Lacuanan]
 toy_pics: 
   -  noir-de-plume_01-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
+  -  noir-de-plume-wwrp_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: $15 S/H
 sale_type: 
 event_exclusive: 

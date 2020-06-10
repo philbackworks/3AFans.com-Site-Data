@@ -8,6 +8,7 @@ world_abr: POP
 character_base: Cowboy
 layout: layout-toy-detail
 categories: 
+tags: [cowboy]
 release_date: 4/30/2013
 release_price: $120 
 scale: one sixth

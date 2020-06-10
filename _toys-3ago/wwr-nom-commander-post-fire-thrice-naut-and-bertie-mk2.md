@@ -4,13 +4,13 @@ toy_id: wwr-nom-commander-post-fire-thrice-naut-and-bertie-mk2
 toy_name: WWR NOM Commander Post Fire, Thrice Naut and Bertie MK2
 permalink: /toys-3ago/wwr-nom-commander-post-fire-thrice-naut-and-bertie-mk2.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 1/15/2015
 release_price: $190 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

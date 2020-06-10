@@ -33,7 +33,7 @@ toy_pics:
   -  sotf-rothchild-field-mechanic-paul-03-6.jpg
   -  field-mechanic-paul-01-6-by-foreignparticle.jpg
   -  sotf-rothchild-field-mechanic-paul-05-6-by-absolutemono.jpg
-backstory: Dark colorway
+backstory: Dark colorway - brown hair, army-green attire.
 sale_type: 
 event_exclusive: 
 event_details: 

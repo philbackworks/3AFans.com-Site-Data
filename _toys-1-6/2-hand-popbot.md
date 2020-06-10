@@ -1,6 +1,6 @@
 ---
 layout: layout-toy-detail 
-description: 2-Hand Popbot by ThreeA (Ashley Wood) was an exclusive surprise drop from 2011 that retailed for $150 and was a limited edition.
+description: ThreeA 2-Hand Popbot (by Ashley Wood) was an exclusive surprise drop from 2011 that retailed for $150 and was a limited edition.
 toy_id: 2-hand-popbot
 toy_name: 2 Hand Popbot
 permalink: /toys-1-6/2-hand-popbot.html
@@ -37,3 +37,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

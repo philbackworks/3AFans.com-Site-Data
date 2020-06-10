@@ -6,9 +6,8 @@ permalink: /toys-1-12/barguest-de-plume-wwrp.html
 world: World War Robot Portable
 world_abr: WWRp
 character_base: NOM
-layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, mask, gravedigger, fallen]
 release_date: 
 release_price: $45 
 scale: one twelve
@@ -30,12 +29,13 @@ you_might_also_like:
   -  Gebi de Plume WWRp
   -  Fantome de Plume WWRp
   -  Noir de Plume WWRp
-article_contributors: [Phil Back, barton_ltm, Wade Taylor]
+article_contributors: [Phil Back, barton_ltm, Wade Taylor, Dexter Lacuanan]
 toy_pics: 
   -  barguest-de-plume-wwrp-01-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  barguest-de-plume-wwrp-02-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  barguest-de-plume-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  barguest-de-plume_01-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
+  -  barguest-de-plume-wwrp_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory:
 sale_type: 
 event_exclusive: 

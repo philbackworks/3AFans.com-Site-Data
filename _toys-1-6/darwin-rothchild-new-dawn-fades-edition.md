@@ -37,3 +37,13 @@ event_details:
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
 Extremely limited release, prize figure available during the F5 Bar sketch contest. "F5", meaning the key on a computer keyboard that triggers a browser refresh.
+
+"A NEW DAWN FADES. IT WAS OBVIOUS FROM A YOUNG AGE DARWIN ROTHCHILD WAS DESTINED TO BE ALONE. HIS IDEAS AND OUTLOOK WERE ALWAYS A STEP ABOVE HIS PEERS. A SINGLE SET OF HANDS COULD NOT DO HIS MUCH NEEDED WORK ALONE. HE SIMPLY MADE MORE AND SET THEM AROUND THE WORLD'S THROAT.
+
+Comfortable in his isolation, Darwin Rothchild is the patriarchal purveyor to the mechanical instruments enslaved in this damnable War. A war that rages across the heavens. Darwin Rothchild the architect of countless atrocities.
+
+After wrapping his hands around his father's throat he soon turned to wrapping them around the world. You cannot have a war without weapons, just as you cannot have love without pain. The people put their trust in him. His hands begat business. And business was good. Profiteering from his genius, he supplied the armies on all sides with his mechanical wonders. Their diesel engines poisoning the air and long casting a shadow wherever they roam. It is said the children of men shall inherit the Earth, his offspring, though mechanical in design and glorious in every way, shall inherit the Universe. Rothchild the proud father.
+
+His hubris his only mistake. Rothchild surrounded himself with only the cold steel of his creations as his comfort. Not realizing the immense scope of N.O.M's power and reach, his Lunar Base's defenses were finally breached
+
+His children's A.I. corrupted and his celestial dwelling destroyed, the exiled Rothchild took his first steps into the EVOL Universe. A means to an end. Will he emerge sadist or saviour?" - Ashley Wood, 3A Adventure 001, April 2014 (page 16)

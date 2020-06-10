@@ -8,7 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [cosplay, cozplay]
+tags: [cosplay, cozplay, gray, grey]
 release_date: 11/16/2013
 release_price: $100 
 scale: one sixth
@@ -27,8 +27,9 @@ makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, gar]
 toy_pics: 
+  -  koala-pascha-ohala-bear-01-6-by-gar_v1_via_instagram.jpg
 backstory: Supanova Adelaide Con 2013 Exclusive; Market update - sold for $279 on ebay 3/2018.
 sale_type: 
 event_exclusive: 

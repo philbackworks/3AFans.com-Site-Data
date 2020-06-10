@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong]
 toy_pics: 
   -  tomorrow-tomb-diver-3-pack-01-6-by-pcww88-patrick-wong.jpg
 backstory: 

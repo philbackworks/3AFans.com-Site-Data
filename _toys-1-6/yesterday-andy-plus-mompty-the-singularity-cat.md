@@ -32,12 +32,12 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
 toy_pics: 
   -  yesterday-andy-plus-mompty-the-singularity-cat-01-6-by-pcww88-patrick-wong.jpg
-backstory: LTD Surprise Drop
+backstory: LTD Surprise Drop, classic stripes shirt.
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Classic stripes shirt.
+In the world of Popbot, clones of Andy Warhol host a popular televised talk show called "Geeee Bob", where they interview eclectic musical personalities.
 
-ART IS MY WEAPON
+"ART IS MY WEAPON"

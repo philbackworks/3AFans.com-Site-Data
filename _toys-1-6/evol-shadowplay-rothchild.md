@@ -7,6 +7,7 @@ world_abr: WWR
 character_base: Rothchild
 layout: layout-toy-detail
 categories: [WWR, onesixth]
+tags: [black, eye patch, white shirt, arm band, cyborg arm, white eye]
 release_date: 5/12/2014
 release_price: $??
 scale: one sixth
@@ -24,9 +25,10 @@ variants:
   -  EVOL Darwin Rothchild
   -  EVOL Battlechild Rothchild
 you_might_also_like:
-article_contributors: [Phil Back, frutiger_]
+article_contributors: [Phil Back, frutiger_, szutsung]
 toy_pics:
   -  evol-shadowplay-rothchild-darwin_01_6_by_FRUTIGER_.jpg
+  -  evol-shadowplay-rothchild_01-6_by_szutsung_via_instagram.jpg
 backstory: Market update - sold for $204.49 on ebay 3/2018.
 ---
 World War Robot: EVOL ... This blacked-out version of Rothchild features a wicked cybernetic arm, eyepatch and shoulder holster. He's wearing a clean white shirt with tie and black pants.

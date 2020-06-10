@@ -26,7 +26,7 @@ designer: artist Bob Kane and writer Bill Finger; DC Comics
 makers: Ashley Wood
 points_of_articulation: 
 variants: 
-  -  Steel Detective Batman
+  -  The Steel Detective Batman
   -  The Steel Age Batman Day
   -  The Steel Age Batman Dark
   -  The Steel Age Arctic Batman

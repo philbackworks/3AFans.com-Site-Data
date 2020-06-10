@@ -5,7 +5,7 @@ toy_name: Bramble MK2 6 Pack Wave 1
 permalink: /toys-1-12/bramble-mk2-6-pack-wave-1.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, Euro, Winter Defense, MERC, Marine, Medic, DIY gatling gun] 

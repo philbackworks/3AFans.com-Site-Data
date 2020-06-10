@@ -32,7 +32,7 @@ variants:
 you_might_also_like:
   -  Nabler Guys
   -  Tommy Mission EMO
-  -  Little Shadow  
+  -  Little Shadow v1 
   -  Blind Cowboy
   -  Ankou Johan LSBBG
   -  Cold Dick

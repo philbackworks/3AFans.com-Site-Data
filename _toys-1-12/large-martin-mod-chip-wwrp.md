@@ -50,6 +50,7 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, yumiao
 toy_pics: 
   -  large-martin-mod-chip_01_12_by_foreignparticle-via-instagram.jpg
   -  large-martin-mod-chip_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  large-martin-mod-chip_02-12_3a-toys_by-yumaomao555_via_instagram.jpg
 backstory: Available in the 3-pack wave three pack C - Large Martin Mod Chip, Damn Large Martin Sand Devil, Bramble Grave Digger RPG 
 sale_type: 
 event_exclusive: 

@@ -9,7 +9,7 @@ colorway: auspublic region def
 character_base: Damn Large Martin
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap, portable, action portable, defense, defence]
+tags: [action portable, ap, portable, action portable, defense, defence, tubby taylor]
 release_date: 
 release_price:  
 scale: one twelve
@@ -38,7 +38,8 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao]
 toy_pics: 
   -  damn-large-martin-aus-republic_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
-backstory: 
+  -  damn-large-martin-auspublic_02-6_3a-toys_by-yumaomao555_via_instagram.jpg
+backstory: nickname - Tubby Taylor
 sale_type: 
 event_exclusive: 
 event_details: 

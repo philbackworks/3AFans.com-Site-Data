@@ -30,6 +30,7 @@ variants:
 you_might_also_like: 
   -  Lucky 8 Panda Mercs Red Panda Merc Shadow
   -  Lucky 8 Panda Mercs Snow Panda Light Blue F-Legion 6000
+  -  Lucky 8 Panda Merc Two F-Legion 6023
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
   -  panda-merc-soot-panda-inky-handsome-wu_01_6_by_FRUTIGER_.jpg

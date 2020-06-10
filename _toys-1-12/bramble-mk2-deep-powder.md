@@ -5,7 +5,7 @@ toy_name: Bramble MK2 Deep Powder
 permalink: /toys-1-12/bramble-mk2-deep-powder.html
 world: World War Robot portable
 world_abr: WWRp
-character_base: Robot
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

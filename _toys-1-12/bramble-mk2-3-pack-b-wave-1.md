@@ -5,7 +5,7 @@ toy_name: Bramble MK2 3 Pack B Wave 1
 permalink: /toys-1-12/bramble-mk2-3-pack-b-wave-1.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, merc, medic, winter] 

@@ -7,6 +7,7 @@ world_abr: POP
 character_base: Horse
 layout: layout-toy-detail
 categories: [onesixth, superset]
+tags: [cowboy]
 release_date: 08/15/2011
 release_price: $270 USD
 scale: one sixth
@@ -26,8 +27,9 @@ you_might_also_like:
   -  Tracky Boss JC
   -  Tommy Mission EMO
   -  Ankou NLCS
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, Don Slater, Gar, MW Wutasi, Chris Budd]
 toy_pics:
+  -  ghost-horse_01-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
 backstory:
 ---
 The Ghost Horse, "Ghost" was offered as part of the Super Set. It's made of resin and has fabric wraps around each leg, the neck, head and tail. Comes with a saddle and holsters.

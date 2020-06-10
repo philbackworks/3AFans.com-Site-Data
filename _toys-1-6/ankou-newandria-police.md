@@ -26,10 +26,10 @@ variants:
   - Ankou Asclepius
   - Ankou UNKNOWN
   - Ankou NLCS Commander
-  - Ankou Junglevet
+  - Ankou Jungle Vet
   - Johnson Ankou
 you_might_also_like:
-  - Ankou Johan
+  - Ankou Johan LSBBG
   - Ankou Asclepius
 article_contributors: [Phil Back, luciferbeck]
 toy_pics:

@@ -29,7 +29,7 @@ variants:
 you_might_also_like: 
   -  Jung de Plume
   -  Kuan Ti Plume
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, luciferbeck, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, luciferbeck, frutiger_, Chris Budd]
 toy_pics: 
   -  supreme-nom-underwater_01_6_by_FRUTIGER_.jpg
   -  supreme-nom-01-6.jpg
@@ -37,6 +37,7 @@ toy_pics:
   -  supreme-nom-03-6.jpg
   -  supreme-nom-04-6.jpg
   -  supreme-nom-05-6.jpg
+  -  supreme-nom_01-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

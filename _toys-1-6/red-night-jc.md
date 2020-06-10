@@ -6,7 +6,8 @@ world: Adventure Kartel
 world_abr: AK
 character_base: JC
 layout: layout-toy-detail
-categories: [JC, onesixth, red]
+categories: [JC, onesixth]
+tags: [red, tattoos, angry]
 release_date: 3/19/2014
 release_price: $130 USD
 scale: one sixth
@@ -25,15 +26,16 @@ variants:
   -  Fighting JC
   -  Exegesis JC
   -  Tracky Boss JC
+  -  MAURO JC 2 PACK
   -  Palm in the Face Sunday JC
   -  Shit Got Real JC
-  -  Dark Shit Got Real JC
+  -  Shit Got Real Dark JC
   -  Pale AF JC
-  -  Mauro JC
+  -  Custard Hair Killer JC
 you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
-  -  Little Shadow   
+  -  Little Shadow v1
 article_contributors: [Phil Back]
 toy_pics:
   -  red-night-and-zomb-head-01-6-by-phil-back.jpg

@@ -8,10 +8,11 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [bag, tiny, robot, rothchild]
 release_date: 5/12/2014
 release_price: $40 
 scale: one sixth
-size: 12 inches
+size: 1.5 inches
 comes_with: 
 edition_qty: 
 chase: 
@@ -19,11 +20,11 @@ exclusive:
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Clear bag with stapled card
 product_code: 0000000BOCB
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: None
 variants: 
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]

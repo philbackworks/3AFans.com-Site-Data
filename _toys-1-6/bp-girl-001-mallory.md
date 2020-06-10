@@ -8,8 +8,7 @@ world_abr: BP
 character_base: Female
 layout: layout-toy-detail
 categories: 
-tags: [bandage and purrs, bp]
-tags: [black, white, bp]
+tags: [bandage and purrs, bp, black, white,]
 release_date: 7/22/2014
 release_price: $120 
 scale: one sixth
@@ -30,15 +29,16 @@ variants:
 you_might_also_like: 
   -  Frosty Chem Death Hazmat Girl
   -  RAD LOVE YELLOW HAZMAT GIRL
-article_contributors: [Phil Back, Don Slater, MW Wutasi, fdk_ksu]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, fdk_ksu, kisscat15]
 toy_pics: 
   -  bandage-and-purrs_bp-mallory-girl-001_01_6_by_fdk_ksu_via_instagram.jpg
   -  bandage-and-purrs_bp-mallory-girl-001_02_6_by_fdk_ksu_via_instagram.jpg
   -  bandage-and-purrs_bp-mallory-girl-001_03_6_by_fdk_ksu_via_instagram.jpg
+  -  bp-girl-001-mallory_01-6_3a-toys_by-kisscat15-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-BP = Bandage + Purrs
+BP = Bandage + Purrs (an apparel brand)

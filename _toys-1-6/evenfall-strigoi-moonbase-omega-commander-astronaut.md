@@ -8,6 +8,7 @@ world_abr: EVF
 character_base: Strigoli
 layout: layout-toy-detail
 categories: 
+tags: [Adams, strigoli, strigoi, vampire, space, astronaut, alien, spacesuit, white]
 release_date: 11/21/13
 release_price: $160 USD
 scale: one sixth
@@ -23,11 +24,13 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
+article_contributors: [Phil Back, Don Slater, kisscat15]
 toy_pics: 
+  -  evenfall-strigoi-moonbase-omega-commander-astronaut_01-6_3a-toys_by-kisscat15-via_instagram.jpg
 backstory: 
 sale_type: BAMBALAND - LIMITED, SURPRISE
 event_exclusive: no
 event_details: 
 source_doc: 3A2013a.xls
 ---
+NIGHT SHADE STRIGOI

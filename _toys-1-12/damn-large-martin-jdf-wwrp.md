@@ -38,6 +38,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao]
 toy_pics: 
   -  damn-large-martin-jdf_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  damn-large-martin-jdf_02-6_3a-toys_by-yumaomao555_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

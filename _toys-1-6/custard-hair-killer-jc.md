@@ -7,6 +7,7 @@ world_abr: AK
 character_base: JC
 layout: layout-toy-detail
 categories: [JC, onesixth, red]
+tags: [blonde, spiky hair, tattoos, angry]
 release_date:
 release_price: $120 USD
 scale: one sixth
@@ -24,17 +25,26 @@ variants:
   -  Fighting JC
   -  Exegesis JC
   -  Tracky Boss JC
+  -  MAURO JC 2 PACK
   -  Palm in the Face Sunday JC
   -  Shit Got Real JC
-  -  Dark Shit Got Real JC
+  -  Shit Got Real Dark JC
   -  Pale AF JC
+  -  Red Night JC
 you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
-  -  Little Shadow   
-article_contributors: [Phil Back]
+  -  Little Shadow v1  
+article_contributors: [Phil Back, kisscat15]
 toy_pics:
+  -  custard-hair-killer-jc_03-6_by_kisscat15_via_instagram.jpg
+  -  custard-hair-killer-jc_02-6_by_kisscat15_via_instagram.jpg
+  -  custard-hair-killer-jc_01-6_by_kisscat15_via_instagram.jpg
 backstory:
+sale_type: 
+event_exclusive: 
+event_details: 
+source_doc:
 ---
 From the Official ThreeA promotional materials:
 

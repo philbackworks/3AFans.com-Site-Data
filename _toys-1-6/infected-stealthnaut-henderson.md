@@ -4,11 +4,11 @@ toy_id: infected-stealthnaut-henderson
 toy_name: Infected Stealthnaut Henderson
 permalink: /toys-1-6/infected-stealthnaut-henderson.html
 world: EVENFALL
-world_abr: EV
+world_abr: EVF
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [strigoli, black, tall, undead, space man, space suit]
+tags: [strigoi, black, tall, undead, space man, space suit]
 release_date: 10/9/2014
 release_price: TWD 4,500
 scale: one sixth
@@ -36,3 +36,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

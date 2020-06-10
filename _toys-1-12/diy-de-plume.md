@@ -6,7 +6,6 @@ permalink: /toys-1-12/diy-de-plume.html
 world: World War Robot Portable
 world_abr: WWRp
 character_base: NOM
-layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, white, blank, nom de plume, helmet, sketch]
 release_date: 4/27/2011
@@ -20,16 +19,16 @@ exclusive:
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Blister card
 product_code_/_link: 000PLMDIY
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, kw9398kw]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, Dexter Lacuanan]
 toy_pics: 
-  -  diy-de-plume_01-12_by_kw9398kw_via_instagram.jpg
+  -  diy-de-plume_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: $10 S&H
 sale_type: 
 event_exclusive: 

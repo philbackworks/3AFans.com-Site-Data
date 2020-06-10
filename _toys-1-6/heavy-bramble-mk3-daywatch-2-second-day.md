@@ -5,7 +5,7 @@ toy_name: Heavy Bramble MK3 Daywatch .2 Second Day
 permalink: /toys-1-6/heavy-bramble-mk3-daywatch-2-second-day.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: 
 release_date: 8/12/2010

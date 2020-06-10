@@ -4,14 +4,14 @@ toy_id: wwr-bomb-v2-square-2019-assortment-3pack
 toy_name: WWR Bomb v2 Square 2019 Assortment 3pack
 permalink: /toys-3ago/wwr-bomb-v2-square-2019-assortment-3pack.html
 world: 3AGO
-world_abr: 3AGO
-character_base: 
+world_abr: WWR
+character_base: Square
 layout: layout-toy-detail
 categories: 
 tags: [BV2, Square Set, 3-pack, 3-way, three, boom, orange, blue, red, yellow]
 release_date: 2019
 release_price: $140 
-scale: 3AGO
+scale: 3ago
 size: 4.5 inches tall
 comes_with: 
 edition_qty: 

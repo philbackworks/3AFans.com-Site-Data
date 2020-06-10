@@ -11,9 +11,9 @@ categories:
 tags: [robot, red]
 release_date: 9/18/2014
 release_price: $230 
-scale: 3AGO
+scale: 3ago
 size: 24 inches
-comes_with: 
+comes_with: Fires a spring-loaded missile
 edition_qty: 
 chase: 
 exclusive: 
@@ -24,12 +24,20 @@ packaging_type:
 product_code_/_link: 0000000000MARS
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: 36
 variants: 
+  -  REMUS 
+  -  ROMULUS
+  -  Sky Blast Blue GID
+  -  Universe Swirl MARS and EDO Commander
+  -  MARS Ghost of Guangzhou GID
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+  -  Saturn MK2 Titan WW7174 Set Two
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, szutsung]
 toy_pics: 
+  -  wbr-mars-red_01-6_by_szutsung_via_instagram.jpg
   -  wbr-mars_01_6_by_abrader_john-mcdaniel.jpg
+  -  wbr-mars-red_02-6_by_szutsung_via_instagram.jpg
   -  wbr-mars_02_6_by_abrader_john-mcdaniel.jpg
   -  wbr-mars_03_6_by_abrader_john-mcdaniel.jpg
 backstory: This figure was released as an experiment, <a href="https://www.worldofthreea.com/threea-production-blog/qa38" target="_blank">according to Ashley Wood</a>, and offered at a break-even price.

@@ -25,11 +25,14 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Ultron Classic Edition
+  -  Ultron Shadow Edition
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
 toy_pics: 
   -  ultron-diy-01-6-by-foreignparticle.jpg
   -  ultron-ghost-edition-01-6-by-FRUTIGER_.jpg
+  -  ultron-ghost-edition_05-6_by_frutiger_-via-instagram.jpg
   -  marvel-ultron-classic-ghost-shadow_01_6_by_FRUTIGER_.jpg
   -  marvel-ultron-ghost-edition-ashley-wood_01_6_by_FRUTIGER_.jpg
 backstory: Bambaland Exclusive. Available in red LEDs on request

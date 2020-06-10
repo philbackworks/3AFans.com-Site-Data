@@ -32,7 +32,7 @@ you_might_also_like:
   -  EVOL 4SQUARE JDF
   -  JDF DROPCLOTH Plus SQUARE MK1
   -  JDF HARA PATROL GRUNT and SQUARE MK2
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
 toy_pics: 
   -  jdf-dropcloth-plus-square-mk2-01-6-by-pcww88-patrick-wong.jpg
   -  jdf-dropcloth-plus-square-mk2-02-6-by-pcww88-patrick-wong.jpg

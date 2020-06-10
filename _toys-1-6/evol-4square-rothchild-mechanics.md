@@ -6,8 +6,8 @@ permalink: /toys-1-6/evol-4square-rothchild-mechanics.html
 world: World War Robot
 world_abr: WWR
 character_base: Square
-layout: layout-toy-detail
 categories: 
+tags: [mlta, yellow, inys, 42, hexagon, spider]
 release_date: 10/9/2014
 release_price: $80 
 scale: one sixth
@@ -39,3 +39,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+From the promotional ad - "Putting the fun back into war"

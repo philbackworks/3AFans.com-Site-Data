@@ -7,6 +7,7 @@ world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
 categories: [WWR, onesixth]
+tags: [red, yellow, yellow sleeve]
 release_date: 6/27/2010
 release_price: $130 USD
 scale: one sixth
@@ -28,9 +29,11 @@ you_might_also_like:
   -  Von De Plume
   -  BLANC DE PLUME 
   -  Darwin Rothchild New Dawn Fades Edition
-article_contributors: [Phil Back, sjcui]
+article_contributors: [Phil Back, sjcui, kisscat15]
 toy_pics:
   -  kuan-ti-plume-01-6.jpg
+  -  kuan-ti-plume_01-6_3a-toys_by-kisscat15-via_instagram.jpg
+  -  kuan-ti-plume_02-6_3a-toys_by-kisscat15-via_instagram.jpg
 backstory: For the collector - Saw this figure priced at $2500 USD (7/25/18); <a href="/world-war-robot-story/">Read more about the WWR story</a>
 ---
 THE FIRST FALLEN

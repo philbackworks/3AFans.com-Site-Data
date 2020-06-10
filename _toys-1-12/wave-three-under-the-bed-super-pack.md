@@ -8,12 +8,12 @@ world_abr: WWRp
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, red, yellow, RUTBS, cccp, kruschev] 
 release_date: 2/19/2010
 release_price: $170 
 scale: one twelve
 size: 6 inches
-comes_with: 
+comes_with: 5 bots
 edition_qty: 
 chase: 
 exclusive: 

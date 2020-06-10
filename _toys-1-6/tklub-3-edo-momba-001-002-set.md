@@ -34,3 +34,5 @@ event_details:
 source_doc: [3A2013a.xls, MW Wutasi - 3A spreadsheet - 01-15-2019]
 ---
 3AA exclusive
+
+"They act like guards, not much talk but always watching and considering the situation, they dont chat, but can issue commands or statements that aid in the safety of its wards. They are machines, smart, but still machines that are programmed to protect at all costs! Like any machine, a situation far enough out of its sphere will be trouble! The period of no TK's is the EDO period in my Popbot universe, its a dark time, almost medieval in tone, it doesn't last long, but it's a shit time and the EDO are like the knights of the universal realm, something to look to for protection!" - Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">Q and A #18</a> 

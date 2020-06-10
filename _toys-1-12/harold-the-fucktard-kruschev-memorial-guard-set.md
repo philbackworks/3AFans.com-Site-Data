@@ -5,7 +5,7 @@ toy_name: Harold the Fucktard KRUSCHEV MEMORIAL GUARD Set
 permalink: /toys-1-12/harold-the-fucktard-kruschev-memorial-guard-set.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Harold
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, red, tank, white, sickel, 2-pack, two-pack, 2-way, two-way, set]

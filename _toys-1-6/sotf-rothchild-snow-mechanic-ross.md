@@ -30,7 +30,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
   -  sotf-snow-mechanic-ross_01-6_by_SZUTSUNG_via_instagram.jpg
-backstory: Snow colorway
+backstory: Snow colorway, white jacket, black hair, black pouches.
 sale_type: 
 event_exclusive: 
 event_details: 

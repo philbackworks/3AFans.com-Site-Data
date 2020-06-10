@@ -8,9 +8,10 @@ world_abr: EVF
 character_base: TOTEM Thug Pugillo
 layout: layout-toy-detail
 categories: 
+tags: [gid, glow in the dark, glow-in-the-dark, thug suit, totem]
 release_date: 9/8/2016
 release_price: $160 
-scale: 3AGO
+scale: 3ago
 size: 10 inches
 comes_with: 
 edition_qty: 50
@@ -33,8 +34,9 @@ variants:
   -  EVENFALL TOTEM Thug Pugillo Arctic Albino 
   -  Evenfall Totem Thug Pugillo Wanpi Star Chaser
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
+  -  evenfall-totem-thug-pugillo-psychic-defence_01-3ago_by_szutsung_via_instagram.jpg
 backstory: LTD Surprise Drop, 1/9th scale
 sale_type: 
 event_exclusive: 

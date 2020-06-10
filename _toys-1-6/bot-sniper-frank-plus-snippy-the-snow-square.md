@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: bot-sniper-frank-plus-snippy-the-snow-square
-toy_name: Bot Sniper Frank + Snippy The Snow Square
+toy_name: Bot Sniper Frank Plus Snippy The Snow Square
 permalink: /toys-1-6/bot-sniper-frank-plus-snippy-the-snow-square.html
 world: World War Robot
 world_abr: WWR

@@ -3,7 +3,7 @@ layout: layout-toy-detail
 toy_id: tk-kiba
 toy_name: TK Kiba
 permalink: /toys-1-6/tk-kiba.html
-description: Learn about TK Kiba, Tomorrow King (by ThreeA toys and Ashley Wood) and more from the world of Popbot, plus get the most detailed info including release date, price, variants, colorways and more.
+description: ThreeA TK Kiba, Tomorrow King (by Ashley Wood) and more from the world of Popbot, plus get the most detailed info including release date, price, variants, colorways and more.
 world: Tomorrow Kings
 world_abr: TK
 character_base: TK
@@ -22,7 +22,12 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code: KIBA
+product_code: #KIBA 
+  - label: TK Aki and Kiba Lan Club Set
+    code: LAN
+    notes: TK Kiba was also available as part of a 2-figure release. $180 USD for the set.
+    date: 2/24/2009
+    URL:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -44,7 +49,7 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Data Liberator 
+Data Liberator
 
 Available as a 2-pack with <a href="/toys-1-6/data-liberator-aki.html">Data Liberator Aki</a>, from 2009, the second year of ThreeA's existence.
 

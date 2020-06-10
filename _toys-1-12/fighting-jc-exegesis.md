@@ -26,6 +26,12 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Fighting JC
+  -  Fighting JC Mauro
+  -  Fighting JC Exegesis
+  -  Fighting JC Palm in the Face Sunday
+  -  Open Psalm Fighting JC AP
+  -  PAF Fighting JC
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, barton_ltm]
 toy_pics: 

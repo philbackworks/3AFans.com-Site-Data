@@ -25,7 +25,7 @@ you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
   -  Red Night JC  
-  -  Little Shadow
+  -  Little Shadow v1
   -  Merde Mission
   -  Flakey Frost
 article_contributors: [Phil Back, 3a_boltman]
@@ -33,6 +33,7 @@ toy_pics:
   -  cold-dick-01-6.jpg
 backstory:
 ---
+Merde Mission is the father of Bleak Mission and grandfather of Tommy Mission.
 
 Cold Dick was part of a set that included <a href="/toys-1-6/flakey-frost.html">Flakey Frost</a> and Snow Paw that was offered via BBICN in Guangzhou, China (2012). It was also sold through 3A Stockists (retailers).
 

@@ -22,12 +22,21 @@ sold_where: bungiestore.com
 bamba_points: 
 packaging_type: 
 product_code:
-designer: Ashley Wood
-makers: 
+designer: Bungie
+makers: Ashley Wood, box packaging design by Brent Ashe 
 points_of_articulation: 27
 variants: 
+  -  Destiny Hunter Autumn Splendor Shader
+  -  Destiny Hunter Chatterwhite Shader
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  Destiny Titan Retail Edition
+  -  Destiny Titan Hanged Man Shader
+  -  Destiny 2 Titan Golden Trace Shader
+  -  Destiny 2 Titan Calus Selected Shader
+  -  Destiny Warlock Lunar Elegy Shader
+  -  Destiny Warlock Chatterwhite Shader
+  -  Destiny Warlock Old Guard Shader
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Brent Ashe]
 toy_pics: 
 backstory: Bungie Store Exclusive
 sale_type: 
@@ -35,7 +44,7 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Three colorways were released: Retail edition (Autumn Splendor Shader - blue and orange with red cloak), BungieStore.com edition (Goldspiral Shader - gray and teal), and Bambaland.com edition (Chatterwhite shader, white and gray).
+Three colorways were released: Retail edition (Autumn Splendor Shader - blue and orange with red cloak), BungieStore.com edition (Goldspiral Shader - gray and teal, gold mask), and Bambaland.com edition (Chatterwhite shader, white and gray).
 <ul>
 <li>Ghost - Quest Shell</li>
 <li>Primary Weapon - Fatebringer Hand Cannon</li>

@@ -23,12 +23,14 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, foreignparticle]
+article_contributors: [Phil Back, Don Slater, foreignparticle, frutiger_]
 toy_pics: 
   -  popbot-ascended-the-white-01-6.jpg
+  -  popbot-ascended-the-white_01-6_by_frutiger_-via-instagram.jpg
 backstory: 
 sale_type: BAMBALAND - LIMITED, SURPRISE
 event_exclusive: no
 event_details: 
 source_doc: 3A2013a.xls
 ---
+ 

@@ -3,12 +3,11 @@ layout: layout-toy-detail
 toy_id: lasstranaut
 toy_name: Lasstranaut
 permalink: /toys-1-12/lasstranaut.html
-world: AP Popbot
+world: Popbot AP
 world_abr: 
 character_base: 
-layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, space, girl, spacesuit] 
 release_date: 6/16/2016
 release_price: $80 
 scale: one twelve
@@ -27,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
+  -  lasstranaut_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: Bambaland Exclusive
 sale_type: 
 event_exclusive: 

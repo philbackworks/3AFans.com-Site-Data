@@ -7,6 +7,7 @@ world_abr: POP
 character_base: Male
 layout: layout-toy-detail
 categories: [onesixth, superset]
+tags: [cowboy]
 release_date: 04/30/2013
 release_price: $270 USD
 scale: one sixth
@@ -17,6 +18,12 @@ exclusive:
 secret_drop:
 sold_where: bambaland.com
 packaging_type: box
+product_code:  #0000DCB
+  - label:
+    code: 0WS1
+    notes: Remaining stock available later during the Warehouse Clearance Sale.
+    date: 4/25/2015
+    URL:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 30

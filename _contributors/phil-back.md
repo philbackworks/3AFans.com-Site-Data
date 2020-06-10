@@ -36,9 +36,9 @@ wantlist:
   -  name: REIMI KAWAII TOMORROW QUEEN
      link: /toys-1-6/reimi-kawaii-tq.html
      pic: reimi-kawaii-tomorrow-queen_01_6_by_KEGUANG-KHO.jpg
-  -  name: SEARCH AND DESTROY UK TQ
-     link: /toys-1-6/search-and-destroy-uk-tq.html
-     pic: search-and-destroy-uk-tq-01-6.jpg
+#   -  name: SEARCH AND DESTROY UK TQ
+#      link: /toys-1-6/search-and-destroy-uk-tq.html
+#      pic: search-and-destroy-uk-tq-01-6.jpg
   -  name:   TOMORROW QUEEN MUNICH NTQ
      link: /toys-1-6/tq-munich-ntq.html
      pic: tq-munich-ntq-01-6.jpg

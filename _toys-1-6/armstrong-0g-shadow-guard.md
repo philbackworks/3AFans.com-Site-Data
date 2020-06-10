@@ -27,7 +27,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, frutiger_]
 toy_pics: 
   -  armstrong-shadow-guard-0g-01-6-by-pcww88-patrick-wong.jpg
   -  Shadow-Guard-Armstrong-01-6-by_frutiger_.jpg

@@ -13,7 +13,7 @@ release_date: 7/18/13
 release_price: $120 USD
 scale: one sixth
 size: 
-comes_with: space helmet
+comes_with:
 edition_qty: 
 exclusive: yes
 secret_drop: 

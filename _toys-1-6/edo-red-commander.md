@@ -28,7 +28,7 @@ variants:
   -  EDO Bronze Commander
   -  EDO Blue Commander
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Patrick Wong]
 toy_pics: 
   -  edo-red-commander-3aa-exclusive-01-6-by-FRUTIGER_.jpg
   -  edo-red-commander-3aa-exclusive-02-6-by-FRUTIGER_.jpg
@@ -45,3 +45,5 @@ source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 
 "RED EDO are a special branch that is called in when a community has a problem or situation that is beyond the regular <a href="/toys-1-6/tklub-3-edo-momba-001-002-set.html">Black and White versions</a>, <a href="/toys-1-6/edo-blue-commander.html">The Blue</a> is similar to RED."
 <cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#17)</a></cite>
+
+"They act like guards, not much talk but always watching and considering the situation, they dont chat, but can issue commands or statements that aid in the safety of its wards. They are machines, smart, but still machines that are programmed to protect at all costs! Like any machine, a situation far enough out of its sphere will be trouble! The period of no TK's is the EDO period in my Popbot universe, its a dark time, almost medieval in tone, it doesn't last long, but it's a shit time and the EDO are like the knights of the universal realm, something to look to for protection!" - Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">Q and A #18</a> 

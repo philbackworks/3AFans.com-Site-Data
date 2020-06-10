@@ -26,7 +26,7 @@ makers: Tomorrow King logo design by Brent Ashe
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  -  TKLUB 5 TQ Irimi Natsu
+  -  TKLUB 5 TQ Irimi Natsu
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, Brent Ashe]
 toy_pics: 
   -  tklub-five-tq-irimi-fuyu-01-6.jpg
@@ -36,4 +36,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Long brown skirt
+Long brown skirt 

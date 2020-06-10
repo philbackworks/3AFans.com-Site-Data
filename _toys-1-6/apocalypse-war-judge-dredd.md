@@ -22,8 +22,8 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: DREDDAPWAR
-designer: Ashley Wood
-makers: 
+designer: Judge Dredd created by John Wagner (writer), Carlos Ezquerra (artist), Pat Mills (editor) - 2000AD
+makers: Ashley Wood, Gregory Prout
 points_of_articulation: 
 variants: 
 you_might_also_like: 

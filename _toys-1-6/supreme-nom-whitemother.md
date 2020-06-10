@@ -26,9 +26,11 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Supreme NOM
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, fdk_ksu]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, fdk_ksu, szutsung]
 toy_pics: 
+  -  supreme-nom-whitemother_01-6_by_szutsung_via_instagram.jpg
   -  whitemother_nom-mother_01-6_by_fdk_ksu_via_instagram.jpg
 backstory: 
 sale_type: 

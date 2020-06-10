@@ -11,6 +11,7 @@ categories:
 release_date: 11/15/2017
 release_price: $399 
 scale: non-scale
+series: Premium
 size: 16 inches tall
 comes_with: 
 edition_qty: 500

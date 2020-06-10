@@ -10,7 +10,7 @@ character_base: Large Martin
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, white, black, white skull, 86, nw] 
-release_date: 
+release_date: 2010
 release_price:  
 scale: one twelve
 size: 6 inches

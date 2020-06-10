@@ -7,7 +7,6 @@ world: World War Robot Portable
 world_abr: WWRp
 colorway: kruschev memorial
 character_base: Large Martin
-layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, cccp, big red] 
 release_date: 
@@ -41,8 +40,9 @@ you_might_also_like:
   -  Large Martin Wave Three 3 Pack A
   -  Large Martin Wave Three 3 Pack B
   -  Large Martin Wave Three 3 Pack C
-article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao, Dexter Lacuanan]
 toy_pics: 
+  -  large-martin-kruschev-memorial-cccp-wwrp_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
   -  large-martin-cccp-krushev_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
 backstory: 
 sale_type: 

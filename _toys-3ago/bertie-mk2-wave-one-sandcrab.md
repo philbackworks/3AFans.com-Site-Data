@@ -11,7 +11,7 @@ categories:
 tags: [mode a, mk2, brown, white]
 release_date: 3/14/2016
 release_price: $75 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

@@ -21,7 +21,17 @@ secret_drop:
 sold_where: 
 bamba_points: 
 packaging_type: 
-product_code: BZ
+product_code: 
+  - label: Boiler Zomb 3-Pack
+    code: SOLDOUT
+    notes: Also released as part of the 3-Pack for $240, included Red, Black and Yellow hair color variants
+    date: 6/25/2009
+    URL: 
+  # - label: 
+  #   code: BZ
+  #   notes: 
+  #   date: 
+  #   URL:
 designer: Ashley Wood
 makers: 
 points_of_articulation: 30
@@ -33,11 +43,14 @@ you_might_also_like:
   -  Fighting JC
   -  Tommy Mission EMO 
   -  Zomb MD Dr Shitvago
-  -  Little Shadow
+  -  Little Shadow v1
   -  Cherry Bomb
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, sammlerman]
+  -  Acolyte Zomb Yellow Boiler Suit
+  -  Acolyte Zomb Black Boiler Suit
+  -  Acolyte Zomb Orange Boiler Suit
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, sammlerman, alexzhangxixi]
 toy_pics:
-  -  boiler-zomb-01-6.jpg
+  -  boiler-zomb-orange_01-6_by_alexzhangxixi_via_instagram.jpg
   -  boiler-zomb-02-6.jpg
   -  boiler-zomb-red_01_6_by_sammlerman_via_ebay.jpg
   -  boiler-zomb-red_02_6_by_sammlerman_via_ebay.jpg
@@ -52,3 +65,5 @@ June 27, 2009 - From toysrevil.blogspot.com - "FYI - The <a href="/toys-1-6/zomb
 A total of 5 Zomb Bots will be offered via lottery, while the rest (unspecified quantity) will be randomly inserted into boxes of standard Zombs.
 
 Info via the hardwork of Gimbat on the 3A Forum"
+
+Research indicates that the Boiler Zomb hairstyle is typically a shorter cut that slides over to the right.

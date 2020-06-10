@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, pcww88, dai88cc]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong, dai88cc]
 toy_pics: 
   -  cornelius-the-tk-01-6-by-dk_kuro.jpg
   -  cornelius-the-tk-02-6-by-dk_kuro.jpg

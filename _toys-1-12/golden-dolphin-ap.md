@@ -30,7 +30,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
   -  golden-dolphin-carded_01_12_action-portable-by_lumpyheadstudios.jpg
-backstory: There are 14 figures in the Action Portable Series 1 set - Red Right Hand Tommy, Little Shadow (Shadow MK2 version), Cherry Bomb, Shit Got Real JC (Open Pale Style SGR JC version), Shit Got Real JC (Pale as Fuck SGR JC version), Bleak Mission, Merde Mission (Original version - dark jacket, black 3A logo shirt, fur lined hood), Merde Mission (Cold version - light jacket, blue pullover, fur lined hood), Golden Dolphin, Soy Dolphin (black), Removalist Zomb 01 (white), Removalist Zomb 02 (black), Johnson Ankou (orange boilersuit), Junglevet Ankou (camo).
+backstory: There are 14 figures in the Action Portable Series 1 set - Red Right Hand Tommy, Little Shadow (Shadow MK2 version), Cherry Bomb, Shit Got Real JC (Open Pale Style SGR JC version), Shit Got Real JC (Pale as Fuck SGR JC version), Bleak Mission, Merde Mission (Original version - dark jacket, black 3A logo shirt, fur lined hood), Merde Mission (Cold version - light jacket, blue pullover, fur lined hood), Golden Dolphin, Soy Dolphin (black), Removalist Zomb 01 (white), Removalist Zomb 02 (black), Johnson Ankou (orange boilersuit), Junglevet Ankou (camo). *Market value update - 5/1/2020 sold on ebay for $110.50 + $13.65sh
 sale_type: 
 event_exclusive: 
 event_details: 

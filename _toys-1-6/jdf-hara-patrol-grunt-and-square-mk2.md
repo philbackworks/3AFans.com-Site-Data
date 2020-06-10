@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 tags: [2-pack, two way, square, JDF, red, white, stripe, circle, japanese, defence, force]
 release_date: 2/10/2013
-release_price: JPY 14,286
+release_price: JPY 14,286; $180 USD
 scale: one sixth
 size: 12 inches
 comes_with: 
@@ -36,3 +36,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

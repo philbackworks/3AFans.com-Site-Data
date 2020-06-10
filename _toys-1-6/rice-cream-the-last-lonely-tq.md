@@ -28,9 +28,10 @@ points_of_articulation:
 variants: 
 you_might_also_like: 
   -  Lonely Dark Lady TQ
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Chris Budd]
 toy_pics: 
   -  rice-cream-the-last-lonely-tq-01-6-by-dk_kuro.jpg
+  -  rice-cream-the-last-lonely-tq_05-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

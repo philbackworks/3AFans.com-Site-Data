@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Patrick Wong]
 toy_pics: 
   -  zaku-02-non-scale-by-frutiger_.jpg
   -  zaku-01-non-scale-by-frutiger_.jpg

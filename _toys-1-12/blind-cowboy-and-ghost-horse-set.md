@@ -3,12 +3,11 @@ layout: layout-toy-detail
 toy_id: blind-cowboy-and-ghost-horse-set
 toy_name: Blind Cowboy and Ghost Horse Set
 permalink: /toys-1-12/blind-cowboy-and-ghost-horse-set.html
-world: AP Popbot
+world: Popbot AP
 world_abr: POP
 character_base: 
-layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, pony, red, western, bandaged, cowboy] 
 release_date: 6/16/2016
 release_price: $145 
 scale: one twelve
@@ -27,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
+  -  blind-cowboy-and-ghost-horse-set_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: Bambaland Exclusive
 sale_type: 
 event_exclusive: 

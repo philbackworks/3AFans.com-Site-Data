@@ -5,7 +5,7 @@ toy_name: Bramble MK2 IDW Security
 permalink: /toys-1-12/bramble-mk2-idw-security.html
 world: WWRp
 world_abr: WWRp
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

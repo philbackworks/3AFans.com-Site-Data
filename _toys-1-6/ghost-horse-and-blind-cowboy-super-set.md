@@ -8,7 +8,7 @@ world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [poncho, resin]
+tags: [poncho, resin, cowboy]
 release_date: 8/15/2011
 release_price: $270 
 scale: one sixth
@@ -26,13 +26,13 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  DARK GHOST HORSE
-  -  DEAD EQUINE IN THE SERVICE OF HIM
-  -  DEAD EQUINE SUPER SET
-  -  GHOST HORSE
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Chris Budd]
 toy_pics: 
+  -  ghost-horse-and-blind-cowboy-super-set_04-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
+  -  ghost-horse-and-blind-cowboy-super-set_01-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
+  -  ghost-horse-and-blind-cowboy-super-set_02-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg
+  -  ghost-horse-and-blind-cowboy-super-set_03-6_3a-toys_by-its_all_in_the_imagination-via_instagram.jpg  
 backstory: 
 sale_type: 
 event_exclusive: 

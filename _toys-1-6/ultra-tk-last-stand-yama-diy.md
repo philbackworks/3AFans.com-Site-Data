@@ -1,11 +1,11 @@
 ---
+layout: layout-toy-detail
 toy_id: ultra-tk-last-stand-yama-diy
 toy_name: Ultra TK Last Stand Yama DIY
-permalink: /toys-1-6/ultra-tk-last-stand-yama.html-diy
+permalink: /toys-1-6/ultra-tk-last-stand-yama-diy.html
 world: Ultra Tomorrow Kings
 world_abr: UTK
 character_base: UTK
-layout: layout-toy-detail
 categories: [onesixth]
 tags: [ultra, tomorrow king, machine gun, gatling gun, white, long jacket, photo contest prize, diy]
 release_date: 4/12/2019
@@ -29,9 +29,10 @@ you_might_also_like:
   -  RONIN TK MOON
   -  TK Kenshiro Negro
   -  TK Hideo  
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, kisscat15]
 toy_pics:
   -  yama-the-last-stand-diy_01_6_by_foreignparticle.jpg
+  -  ultra-tk-last-stand-yama-diy_01-6_3a-toys_by-kisscat15-via_instagram.jpg
 backstory: This figure was not for sale.
 ---
 DIY version was awarded to the winners of the 3A Photo Contest, 2019.

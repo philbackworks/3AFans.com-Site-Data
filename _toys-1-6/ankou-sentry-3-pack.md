@@ -28,10 +28,10 @@ variants:
   - Ankou Asclepius
   - Ankou Unknown
   - Ankou NLCS Commander
-  - Ankou Junglevet
+  - Ankou Jungle Vet
   - Johnson Ankou
 you_might_also_like:
-  - Ankou Johan
+  -  Ankou Johan LSBBG
   - Ankou Asclepius
   - Ankou EX Fat Drown 
 article_contributors: [Phil Back, threealegionnaire]

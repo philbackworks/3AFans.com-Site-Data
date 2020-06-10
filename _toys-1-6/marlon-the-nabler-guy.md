@@ -25,7 +25,7 @@ variants:
   -  Francis the Nabler Guy
 you_might_also_like:
   - Nabler Guys
-  - Ankou Junglevet
+  - Ankou Jungle Vet
 article_contributors: [Phil Back, foreignparticle]
 toy_pics:
   -  marlon-the-nabler-guy-01-6.jpg

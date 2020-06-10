@@ -9,11 +9,11 @@ character_base:
 layout: layout-toy-detail
 categories: 
 release_date: 9/19/2015
-release_price: JPY 43,200 
+release_price: JPY 43,200, ~$360 USD
 scale: one third
 size: 24 inches
 comes_with: 
-edition_qty: 
+edition_qty: 5
 chase: 
 exclusive: JPV
 secret_drop: 
@@ -26,11 +26,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, gar]
 toy_pics: 
-backstory: $360 USD. Japan Venture 2015 Exclusive
+backstory: $360 USD. Japan Venture 2015 Exclusive. Unique head sculpt exclusive to 1/3 scale.
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+Black hair, nabler handbag, form-fitting light blue jeans, white tanktop, red heels

@@ -8,7 +8,7 @@ world_abr: MICRO
 character_base: String Diver
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, orange, clear] 
 release_date: 1/30/2015
 release_price: ~$40
 scale: one twelve
@@ -27,10 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, John McDaniel]
 toy_pics: 
   -  string-diver-sd08-patrick_01_12_by_lumpyheadstudios.jpg
   -  string-diver-sd08-patrick_02_12_by_lumpyheadstudios.jpg
+  -  microman-string-diver-sd08-patrick-orange-clear_01-12_3a-toys_by-abrader-john-mcdaniel.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

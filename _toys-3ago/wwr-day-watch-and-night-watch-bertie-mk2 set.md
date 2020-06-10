@@ -4,13 +4,13 @@ toy_id: wwr-day-watch-and-night-watch-bertie-mk2-set
 toy_name: WWR Day Watch & Night Watch Bertie MK2 Set
 permalink: /toys-3ago/wwr-day-watch-and-night-watch-bertie-mk2-set.html
 world: 3AGO
-world_abr: 
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 9/4/2015
 release_price: $140 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

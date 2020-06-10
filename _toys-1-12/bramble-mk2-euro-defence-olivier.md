@@ -5,7 +5,7 @@ toy_name: Bramble MK2 Euro Defence Olivier
 permalink: /toys-1-12/bramble-mk2-euro-defence-olivier.html
 world: World War Robot portable
 world_abr: WWRp
-character_base: Robot
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

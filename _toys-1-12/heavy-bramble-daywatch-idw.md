@@ -4,7 +4,7 @@ toy_name: Heavy Bramble Daywatch IDW
 permalink: /toys-1-12/heavy-bramble-daywatch-idw.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: Bramble
+character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: [WWR, onetwelve]
 release_date: 7/2011

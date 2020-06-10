@@ -3,10 +3,9 @@ layout: layout-toy-detail
 toy_id: shit-got-real-jc-ap
 toy_name: Shit Got Real JC AP
 permalink: /toys-1-12/shit-got-real-jc-ap.html
-world: Adventure Kartel
+world: Adventure Kartel AP
 world_abr: AK
 character_base: 
-layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, jesus, retail, series one, wave 1]
 release_date: 2/16/2014
@@ -27,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
+  -  shit-got-real-jc-ap_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: NY Toy Fair 2014 Free Promotional Figure; There are 14 figures in the Action Portable Series 1 set - Red Right Hand Tommy, Little Shadow (Shadow MK2 version), Cherry Bomb, Shit Got Real JC (Open Pale Style SGR JC version), Shit Got Real JC (Pale as Fuck SGR JC version), Bleak Mission, Merde Mission (Original version - dark jacket, black 3A logo shirt, fur lined hood), Merde Mission (Cold version - light jacket, blue pullover, fur lined hood), Golden Dolphin, Soy Dolphin (black), Removalist Zomb 01 (white), Removalist Zomb 02 (black), Johnson Ankou (orange boilersuit), Junglevet Ankou (camo).
 sale_type: 
 event_exclusive: 

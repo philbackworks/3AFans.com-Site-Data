@@ -33,8 +33,9 @@ you_might_also_like:
   -  Ashtro Lad 16 inch TRO GLOW
   -  Ashtro Lad 16 inch King Coal
   -  Ashtro Lad 16 inch Anniversary Edition 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, badass_wayne]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, badass_wayne, gar]
 toy_pics: 
+  -  sleepy-j-77-ashtro-lad_01-3a-non-scale_by_gar_v1_via_instagram.jpg
   -  ashtro-lad-sleepy77_non-scale_3a-toys_by_badass_wayne_via_instagram.jpg
 backstory: 
 sale_type: 

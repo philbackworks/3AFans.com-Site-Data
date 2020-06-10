@@ -9,7 +9,7 @@ colorway: dam buster
 character_base: Damn Large Martin
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, 617 noachis, db] 
 release_date: 2/19/2010
 release_price: $65 
 scale: one twelve
@@ -48,6 +48,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao]
 toy_pics: 
   -  damn-large-martin-dam-buster_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  martian-dam-buster-damn-large-martin_01-12_3a-toys_by-yumaomao555_via_instagram.jpg
 backstory: Available in the 3-pack wave three pack A - Large Martin Marine JEA, Damn Large Martin Dam Buster, Bramble Phobos Defense RPG
 sale_type: 
 event_exclusive: 

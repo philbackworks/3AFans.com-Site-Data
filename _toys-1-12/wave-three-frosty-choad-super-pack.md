@@ -13,11 +13,11 @@ release_date: 2/19/2010
 release_price: $170 
 scale: one twelve
 size: 6 inches
-comes_with: 
+comes_with: 5 bots
 edition_qty: 
 chase: 
 exclusive: 
-secret_drop: 
+secret_drop: yes
 sold_where: 
 bamba_points: 
 packaging_type: 

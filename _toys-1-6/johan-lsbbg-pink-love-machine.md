@@ -33,12 +33,12 @@ variants:
   -  Ankou Asclepius
   -  Ankou UNKNOWN
   -  Ankou NLCS Commander
-  -  Ankou Junglevet
+  -  Ankou Jungle Vet
   -  Johnson Ankou
 you_might_also_like:
   -  Nabler Guys
   -  Tommy Mission EMO
-  -  Little Shadow    
+  -  Little Shadow v1
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
   -  johan-ankou-pink-rainbow-lsbbg-01-6-by-foreignparticle.jpg

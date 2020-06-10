@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 release_date: 7/9/2015
 release_price: $40 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

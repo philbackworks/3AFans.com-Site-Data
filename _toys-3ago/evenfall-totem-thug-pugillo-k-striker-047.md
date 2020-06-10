@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 release_date: 7/24/2016
 release_price: JPY 13,889 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 50

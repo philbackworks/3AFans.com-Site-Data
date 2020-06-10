@@ -26,6 +26,13 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  The Invincible Iron Man Ghost Edition
+  -  The Invincible Iron Man Prototype
+  -  The Invincible Iron Man Silver Centurion
+  -  The Invincible Iron Man Classic
+  -  The Invincible Ironman EG
+  -  The Invincible Ironman Milk Magazine Version
+  -  The Invincible Iron Man Stark Hanger Set
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, saaaa_muel]
 toy_pics: 

@@ -22,8 +22,8 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: 2000ROJ
-designer: Ashley Wood
-makers: 
+designer: Ro-Jaws created by writer Pat Mills and was drawn by Carlos Pino and Ian Kennedy - 2000AD
+makers: Ashley Wood, Gregory Prout
 points_of_articulation: 
 variants: 
   -  Ro Jaws Blackhole Edition

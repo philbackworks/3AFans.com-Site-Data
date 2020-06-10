@@ -8,6 +8,7 @@ world_abr: ART
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: []
 release_date: 2/14/2018
 release_price: $299 
 scale: one sixth
@@ -31,7 +32,7 @@ toy_pics:
   -  thb-and-hr-watson-superset-01-6-by-philback.jpg
   -  thb-and-hr-watson-superset-02-6-by-philback.jpg
   -  thb-and-hr-watson-superset-03-6-by-philback.jpg
-backstory: Cancelled in Nov 2018. Comes with "Point-Flatter-Cut" remastered softcover comic & chance at an original Paul Pope THB/HR sketch (10 pcs)
+backstory: Cancelled in Nov 2018. Was going to come with "Point-Flatter-Cut" remastered softcover comic & chance at an original Paul Pope THB/HR sketch (10 pcs). "THB" = Tri-Hydro Bi-Oxygenate.
 sale_type: 
 event_exclusive: 
 event_details: 

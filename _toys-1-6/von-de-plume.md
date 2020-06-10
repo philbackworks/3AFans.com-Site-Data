@@ -7,6 +7,7 @@ world_abr: WWR
 character_base: NOM
 layout: layout-toy-detail
 categories: [WWR, onesixth]
+tags: [black, dark, 4 hoses, white patch]
 release_date: 1/15/2016
 release_price: $180 USD
 scale: one sixth
@@ -28,10 +29,12 @@ you_might_also_like:
   -  Nom de Plume Final fight
   -  Von De Plume
   -  EVOL Darwin Rothchild
-article_contributors: [Phil Back, foreignparticle, Brent Ashe]
+article_contributors: [Phil Back, foreignparticle, Brent Ashe, Toni Garcia Wright]
 toy_pics:
   -  von-de-plume-01-6.jpg
   -  von-de-plume-02-6.jpg
+  -  von-nom-de-plume_01-6_3a-toys_by-toni-garcia-wright.jpg
+  -  von-nom-de-plume_02-6_3a-toys_by-toni-garcia-wright.jpg
   -  von-de-plume-03-6_branding-designed_by_brent_ashe_for_threea_toys.jpg
   -  von-de-plume-04-6_branding-designed_by_brent_ashe_for_threea_toys.jpg
 backstory: <a href="/world-war-robot-story/">Read more about the WWR story</a>

@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
 toy_pics: 
   -  evol-only-the-smartest-will-survive-superset-rothchild-and-caesar-01-6-by-pcww88-patrick-wong.jpg
 backstory: Battlechild + Caesar 1.5. Comes with mini GID Caesar

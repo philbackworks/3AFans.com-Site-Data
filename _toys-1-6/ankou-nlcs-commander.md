@@ -22,7 +22,7 @@ makers: unknown
 points_of_articulation: 30
 variants: no
 you_might_also_like:
-  -  Ankou Johan
+  -  Ankou Johan LSBBG
   -  Ankou Asclepius
   -  Ankou NLCS
   -  Ankou Newandria Police

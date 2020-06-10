@@ -9,7 +9,7 @@ colorway: sand devil
 character_base: Damn Large Martin
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, Albert] 
 release_date: 2/19/2010
 release_price: $65 
 scale: one twelve

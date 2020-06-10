@@ -5,7 +5,7 @@ toy_name: Bambaboss Devil Bamba
 permalink: /toys-1-6/bambaboss-devil-bamba.html
 world: Bambaboss
 world_abr: 
-character_base: 
+character_base: Bambaboss
 layout: layout-toy-detail
 categories: 
 tags: [bambaboss]

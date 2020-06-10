@@ -22,8 +22,8 @@ makers: unknown
 points_of_articulation: 30
 variants: 
 you_might_also_like:
-  -  Little Shadow
-  -  Tommy Mission
+  -  Little Shadow v1
+  -  Tommy Mission EMO
   -  Cherry Bomb
   -  Exegesis JC
   -  Zomb MD Dr Shitvago

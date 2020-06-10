@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 release_date: 2/16/2014
 release_price: 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 85

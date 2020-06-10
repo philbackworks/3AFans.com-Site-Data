@@ -22,13 +22,23 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code:
-designer: Ashley Wood
-makers: 
+designer: Bungie
+makers: Ashley Wood, box packaging design by Brent Ashe
 points_of_articulation: 27
 variants: 
+  -  Destiny Hunter Chatterwhite Shader
+  -  Destiny Hunter Goldspiral Shader 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  Destiny Titan Retail Edition
+  -  Destiny Titan Hanged Man Shader
+  -  Destiny 2 Titan Golden Trace Shader
+  -  Destiny 2 Titan Calus Selected Shader
+  -  Destiny Warlock Lunar Elegy Shader
+  -  Destiny Warlock Chatterwhite Shader
+  -  Destiny Warlock Old Guard Shader
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Brent Ashe, szutsung]
 toy_pics: 
+  -  destiny-hunter-autumn-splendor-shader_01-06_threea_toys_by_szutsung_via_instagram.jpg
 backstory: Retailer Exclusive
 sale_type: 
 event_exclusive: 

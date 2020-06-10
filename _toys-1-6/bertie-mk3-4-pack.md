@@ -12,7 +12,7 @@ release_date: 11/26/2010
 release_price: $940 
 scale: one sixth
 size: 12 inches
-comes_with: 
+comes_with: 4 Berties
 multipack: yes
 edition_qty: 
 chase: 
@@ -29,7 +29,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: Sand Devil and Deep Powder mode B, Merc and JEA mode A
+backstory: Sand Devil, Deep Powder mode B, Merc, and JEA mode A
 sale_type: 
 event_exclusive: 
 event_details: 

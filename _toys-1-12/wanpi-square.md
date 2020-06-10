@@ -5,7 +5,7 @@ toy_name: Wanpi Square
 permalink: /toys-1-12/wanpi-square.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Square
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, siuyin, blue, red roses, yellow, gold star, 1218, i can see the elephant, wanpi, wampi] 

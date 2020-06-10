@@ -28,9 +28,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, Mark Wei]
 toy_pics: 
   -  quiet-night-in-01-6-by-3a_boltman.jpg
+  -  a-quiet-night-in-01-6_by-mark-wei.jpg
 backstory: Surprise LTD Drop. Comes with 1/6 strap-ons and video recorder
 sale_type: 
 event_exclusive: 

@@ -24,7 +24,7 @@ variants:
 you_might_also_like:
   -  Bareback Rider Beer Girl Prudence Pascha
   -  Cherry Bomb
-  -  Shadow Mode Little Shadow
+  -  Shadow Mode Little Shadow v1
   -  Flakey Frost
 article_contributors: [Phil Back, frutiger_]
 toy_pics:

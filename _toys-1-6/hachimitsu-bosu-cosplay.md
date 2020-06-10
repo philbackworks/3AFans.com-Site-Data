@@ -8,7 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [pink, black, garter, fishnet]
+tags: [pink, black, garter, fishnet, miyu]
 release_date: 10/6/2014
 release_price: ~$120
 scale: one sixth
@@ -27,8 +27,10 @@ makers: Ashley Wood
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Mark Wei]
 toy_pics: 
+  -  hachimitsu-bosu-cosplay-01-6_by-mark-wei.jpg
+  -  hachimitsu-bosu-cosplay-02-6_by-mark-wei.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

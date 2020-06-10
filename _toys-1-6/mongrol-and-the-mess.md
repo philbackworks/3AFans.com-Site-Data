@@ -12,7 +12,7 @@ release_price: $?? USD
 scale: one sixth
 size: 12"
 comes_with: n/a
-edition_qty: unknown
+edition_qty: unknown, but "...there were not many takers..." - Ashley Wood, Q & A - 18
 exclusive: no
 secret_drop:
 sold_where: bambaland.com
@@ -23,11 +23,18 @@ points_of_articulation: 25+
 variants: 
   -  Mongrol and the Mess Blackhole Edition
 you_might_also_like:
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, mw wutasi]
+toy_pics: 
 backstory:
+sale_type: 
+event_exclusive: 
+event_details: 
+source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
+pagination: 
 ---
 Rusty red figure with oversized yellow arms with massive articulated hands. Thick chain hanging from the center of his lower "lip". Created in collaboration with 2000AD.
 
 A.B.C. Warriors (Atomic - Bacterial - Chemical)
 "First in the series of 1/6 A.B.C. Warriors figures. Standing 30cm high, with a shoulder width of 35cm. Fully atriculated and ready to SMUSH!
-One of Seven" - From the promotional poster on worldofthreea.com
+One of Seven" - From the promotional poster on worldofthreea.com 
+

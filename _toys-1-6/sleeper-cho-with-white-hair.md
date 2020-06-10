@@ -31,8 +31,9 @@ you_might_also_like:
   -  Nise Black Edition
   -  Sleeper Cho plus Hisa Ghost Set
   -  Sleeper Hisa with Blue Hair
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Michael Crawford]
 toy_pics: 
+  -  sleeper-cho-with-white-hair_01-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
 backstory: LTD Ball Joint Figure
 sale_type: 
 event_exclusive: 

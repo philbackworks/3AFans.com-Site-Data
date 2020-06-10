@@ -5,7 +5,7 @@ toy_name: Heavy Bramble MK3 African Defence Freiheit
 permalink: /toys-1-6/heavy-bramble-mk3-african-defence-freiheit.html
 world: World War Robot
 world_abr: WWR
-character_base: Bramble
+character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: 
 tags: [africa, red, yellow, tiger stripes]

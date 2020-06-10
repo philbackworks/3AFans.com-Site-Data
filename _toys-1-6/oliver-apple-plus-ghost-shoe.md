@@ -34,3 +34,8 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"My Love is On Parade"
+
+"THEN YOU TURN AWAY 30 TIMES - Oliver Apple Hair tossed the dead bird through the front door, the front door of a house where Ursula Lilith Le Fey had made herself a home. A Simple trick, if the dead bird begins to sing it means she is home and it would be unwise to enter!
+
+It didn't sing. Oliver skipped through the door to find her prize, a transparent Heel that held a ghost. A ghost of Oliver Apple Hair!" - TP Louise and Ashley Wood, 3A Adventure 001, April 2014 (page 19)

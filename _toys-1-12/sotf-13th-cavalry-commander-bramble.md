@@ -5,7 +5,7 @@ toy_name: SOTF 13th Cavalry Commander Bramble
 permalink: /toys-1-12/sotf-13th-cavalry-commander-bramble.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, black, orange, skull, stripes, diesel, calvary, calvalry, crossbones]

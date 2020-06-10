@@ -1,6 +1,6 @@
 ---
 toy_id: ankou-jungle-vet
-toy_name: Ankou Jungle-Vet
+toy_name: Ankou Jungle Vet
 permalink: /toys-1-6/ankou-jungle-vet.html
 world: Adventure Kartel
 world_abr: AK

@@ -5,7 +5,7 @@ toy_name: Heavy Bramble National Guard Defence
 permalink: /toys-1-12/heavy-bramble-national-guard-defence.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, wwrp, defense] 

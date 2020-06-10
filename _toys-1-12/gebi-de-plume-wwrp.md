@@ -43,3 +43,6 @@ pagination:
   collection: toys-1-12
   sort_field: 'toy_name'
 ---
+"His dead black eyes staring off into the distance like a shark tracking down its prey."
+
+The desert themed Gebi de Plume soon followed as the first 3AA membership exclusive sale. In the prose piece "Intercepted Held N.O.M." Lieutenant Frank Pillitar describes in a letter running into the masked figure after a bloodbath of a battle in the desolate Gobi basin. "They got in my way" is all the lone figure said as he leapt off a wrecked bot and disappeared. Pillitar's superiors covered up any details of the masked merc. It's implied his letter was intercepted and the life of the Lieutenant was soon cut short." - TP Louise and Ashley Wood, 3A Adventure 001, April 2014 (page 36-37)

@@ -5,7 +5,7 @@ toy_name: Heavy Bramble MK3 Gravedigger
 permalink: /toys-1-6/heavy-bramble-mk3-gravedigger.html
 world: World War Robot
 world_abr: WWR
-character_base: Bramble
+character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: 
 release_date: 8/12/2010

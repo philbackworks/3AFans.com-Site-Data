@@ -26,8 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 
+  -  les-mort-13_01-6_3a-toys_by_szutsung-via-instagram.jpg
+  -  les-mort-13_02-6_3a-toys_by_szutsung-via-instagram.jpg
 backstory: 3A How2work; The D'Airain Adventure
 sale_type: 
 event_exclusive: 

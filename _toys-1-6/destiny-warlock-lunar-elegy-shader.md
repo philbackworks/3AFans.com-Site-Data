@@ -8,6 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [orange, blue, video games, scifi, sci-fi, licensed]
 release_date: 7/7/2016
 release_price: ~$190
 scale: one sixth
@@ -21,8 +22,8 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code:
-designer: Ashley Wood
-makers: 
+designer: Bungie
+makers: Ashley Wood, box packaging design by Brent Ashe
 points_of_articulation: 
 variants: 
   -  Destiny Warlock Old Guard Shader
@@ -30,8 +31,16 @@ variants:
 you_might_also_like: 
   -  Destiny Titan Retail Edition
   -  Destiny Titan Hanged Man Shader
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  Destiny 2 Titan Golden Trace Shader
+  -  Destiny 2 Titan Calus Selected Shader
+  -  Destiny Hunter Autumn Splendor Shader
+  -  Destiny Hunter Chatterwhite Shader
+  -  Destiny Hunter Goldspiral Shader
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Brent Ashe, szutsung]
 toy_pics: 
+  -  destiny-warlock-lunar-elegy-shader_01-6_by_szutsung_via_instagram.jpg
+  -  destiny-warlock-lunar-elegy-shader_02-6_by_szutsung_via_instagram.jpg
+  -  destiny-warlock-lunar-elegy-shader_03-6_by_szutsung_via_instagram.jpg
 backstory: Retailer Exclusive; Market update - sold on ebay for $143.50, March 2019.
 sale_type: 
 event_exclusive: 

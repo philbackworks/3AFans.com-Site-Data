@@ -27,10 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
   -  Little Shadow v1
-  -  Shadow Mode Little Shadow
+  -  Shadow Mode Little Shadow v1
   -  Cherry Shadow
   -  Ghost Shadow
-  -  Little Shadow MK2 Latex
+  -  Little Shadow Mk2
   -  Shadow2
   -  Penumbra
   -  Cherry Bomb

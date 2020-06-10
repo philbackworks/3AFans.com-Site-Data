@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [black, white, skull, bat, 86]
 release_date: 1/29/2010
 release_price: $240 
 scale: one sixth
@@ -26,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, kisscat15]
 toy_pics: 
+  -  nightwatch-dropcloth_01-6_3a-toys_by-kisscat15-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

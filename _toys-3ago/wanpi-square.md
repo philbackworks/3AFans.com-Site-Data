@@ -4,7 +4,7 @@ toy_id: wanpi-square
 toy_name: Wanpi Square
 permalink: /toys-3ago/wanpi-square.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: WWR
 character_base: Square
 layout: layout-toy-detail
 categories: 

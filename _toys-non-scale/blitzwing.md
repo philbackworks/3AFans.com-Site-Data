@@ -12,6 +12,7 @@ tags: [DLX]
 release_date: 1/11/2019
 release_price: $199 
 scale: non-scale
+series: DLX
 size: 10.6 inches
 comes_with: 
 edition_qty: 

@@ -6,7 +6,6 @@ permalink: /toys-1-12/armstrong-floyd-0g.html
 world: WWRp
 world_abr: WWRp
 character_base: 
-layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, grey, white, orange]
 release_date: 4/8/2011
@@ -27,12 +26,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, barton_ltm]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, barton_ltm, Dexter Lacuanan]
 toy_pics: 
   -  1g-floyd-armstrong-wwrp-3a-toys-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  1g-floyd-armstrong-wwrp-3a-toys-02-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  1g-floyd-armstrong-wwrp-3a-toys-03-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
   -  1g-floyd-armstrong-wwrp-3a-toys-04-12_3a-toys-action-portable_by_barton_ltm-via-instagram.jpg
+  -  armstrong-floyd-0g_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

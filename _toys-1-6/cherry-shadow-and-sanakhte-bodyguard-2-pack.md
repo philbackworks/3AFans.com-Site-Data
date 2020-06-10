@@ -2,7 +2,7 @@
 toy_id: cherry-shadow-and-sanakhte-bodyguard-2-pack
 toy_name: Cherry Shadow and Sanakhte Bodyguard 2-pack
 permalink: /toys-1-6/cherry-shadow-and-sanakhte-bodyguard-2-pack.html
-description: Learn about Cherry Shadow and Sanakhte Bodyguard 2-pack (by ThreeA toys and Ashley Wood) and how they relate to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
+description: ThreeA Cherry Shadow and Sanakhte Bodyguard 2-pack (by Ashley Wood) and how they relate to the World of Adventure Kartel, plus get the most detailed release info including release date, price, variants, colorways and more.
 world: Adventure Kartel
 world_abr: AK
 character_base: female
@@ -26,7 +26,7 @@ variants:
   -  Little Shadow v1
   -  Shadow Mode Little Shadow v1
   -  Ghost Shadow
-  -  Little Shadow MK2 Latex
+  -  Little Shadow Mk2
   -  Shadow2
   -  Penumbra
   -  Cherry Bomb

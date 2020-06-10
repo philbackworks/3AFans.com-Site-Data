@@ -22,18 +22,21 @@ sold_where: thinkgeek.com
 bamba_points: 
 packaging_type: 
 product_code: DESTINYR1TITAN
-designer: Ashley Wood
-makers: 
+designer: Bungie
+makers: Ashley Wood, box packaging design by Brent Ashe 
 points_of_articulation: 
 variants: 
   -  Destiny Titan Retail Edition
 you_might_also_like: 
-  -  Destiny Warlock Old Guard Shader
-  -  Destiny Warlock Chatterwhite Shader
-  -  Destiny Warlock Lunar Elegy Shader
   -  Destiny 2 Titan Golden Trace Shader
   -  Destiny 2 Titan Calus Selected Shader
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+  -  Destiny Hunter Autumn Splendor Shader
+  -  Destiny Hunter Chatterwhite Shader
+  -  Destiny Hunter Goldspiral Shader
+  -  Destiny Warlock Lunar Elegy Shader
+  -  Destiny Warlock Chatterwhite Shader
+  -  Destiny Warlock Old Guard Shader
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, Brent Ashe]
 toy_pics: 
   -  destiny-titan-hanged-man-shader-thinkgeek-01-6-by-phil-back.jpg
   -  destiny-titan-hanged-man-shader-thinkgeek-02-6-by-phil-back.jpg
@@ -42,6 +45,7 @@ toy_pics:
   -  destiny-titan-hanged-man-shader-thinkgeek-05-6-by-phil-back.jpg
   -  destiny-titan-hanged-man-shader-thinkgeek-06-6-by-phil-back.jpg
   -  destiny-titan-hanged-man_01_6_by_abrader_john-mcdaniel.jpg
+  -  3a-destiny-figure-packaging_01-designed_by_brent_ashe_for_threea_toys.jpg
 backstory: Bambaland version comes with bonus Hawkmoon Exotic Hand Cannon
 sale_type: 
 event_exclusive: 

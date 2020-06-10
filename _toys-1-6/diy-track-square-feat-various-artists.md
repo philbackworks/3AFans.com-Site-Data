@@ -6,8 +6,8 @@ permalink: /toys-1-6/diy-track-square-feat-various-artists.html
 world: World War Robot
 world_abr: WWR
 character_base: Square
-layout: layout-toy-detail
 categories: 
+tags: [rainbow, yellow, green]
 release_date: 4/5/2018
 release_price: $150 
 scale: one sixth
@@ -26,9 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, Mikko Sison, kisscat15]
 toy_pics: 
   -  track-square-shimizu-eiichi-and-shimoguchi-tomohiro-01-6-by-foreignparticle.jpg
+  -  diy-track-square-rainbow_01-6-by-mikko-sison.jpg
+  -  diy-track-square_01-6_3a-toys_by-kisscat15-via_instagram.jpg
 backstory: LTD Pre-made. By Kenny Wong, Steven Choi, Kelvin Sau, Shimizu Eiichi and Shimoguchi Tomohiro,  Huang-Jia Wei, Zao Dao
 sale_type: 
 event_exclusive: 

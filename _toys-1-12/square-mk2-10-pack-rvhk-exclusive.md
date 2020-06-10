@@ -5,7 +5,7 @@ toy_name: Square MK2 10 Pack (RVHK Exclusive)
 permalink: /toys-1-12/square-mk2-10-pack-rvhk-exclusive.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Square
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

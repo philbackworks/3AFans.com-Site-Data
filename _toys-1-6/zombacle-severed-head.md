@@ -8,6 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: []
 release_date: 2/16/2014
 release_price: 
 scale: one sixth
@@ -19,7 +20,7 @@ exclusive: NYTF
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Box
 product_code:
 designer: Ashley Wood
 makers: 
@@ -28,8 +29,9 @@ variants:
 you_might_also_like: 
   -  Zomb MD Dr Shitvago
   -  Zombacle-Assortment 9 Pack
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Michael Crawford]
 toy_pics: 
+  -  zombacle-severed-head_01-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
 backstory: NY Toy Fair 2014 Free Promotional Figure
 sale_type: 
 event_exclusive: 

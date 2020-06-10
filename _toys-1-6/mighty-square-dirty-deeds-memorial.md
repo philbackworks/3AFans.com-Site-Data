@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, pcww88, Isiow SG]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, Isiow SG]
 toy_pics: 
   -  mighty-square-dirty-deeds-memorial-01-6-by-pcww88-patrick-wong.jpg
   -  mighty-square-dirty-deed-memorial-01-6-by_isiow_sg.jpg

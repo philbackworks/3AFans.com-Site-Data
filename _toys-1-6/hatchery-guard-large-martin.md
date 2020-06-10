@@ -5,7 +5,7 @@ toy_name: Hatchery Guard Large Martin
 permalink: /toys-1-6/hatchery-guard-large-martin.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Large Martin
 layout: layout-toy-detail
 categories: 
 tags: [red]

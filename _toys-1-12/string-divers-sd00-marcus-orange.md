@@ -34,8 +34,7 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---
+1st series release from 3A - Each figure wears a fabric uniform.
+2nd series release from 3A - Available at retailers outside of Asia, features color-tinted, clear bodies.
+3rd series release from 3A - Includes the Quantum Ranger

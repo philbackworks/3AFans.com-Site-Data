@@ -23,10 +23,10 @@ makers: unknown
 points_of_articulation: 30
 variants: 
   -  Little Shadow v1
-  -  Shadow Mode Little Shadow
+  -  Shadow Mode Little Shadow v1
   -  Cherry Shadow
   -  Ghost Shadow
-  -  Little Shadow MK2 Latex
+  -  Little Shadow Mk2
   -  Shadow2
   -  Penumbra
   -  Cherry Bomb
@@ -40,7 +40,6 @@ you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
   -  Red Night JC  
-  -  Little Shadow
   -  Merde Mission
   -  Hard Nipple War Set
 article_contributors: [Phil Back, 3a_boltman]

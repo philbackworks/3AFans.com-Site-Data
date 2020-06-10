@@ -16,7 +16,7 @@ comes_with: Evenfall booklet written by Chris Ryall and illustrated by Ashley Wo
 edition_qty: 
 chase: 
 exclusive: BAMB
-secret_drop: 
+secret_drop: yes
 sold_where: 
 bamba_points: 
 packaging_type: 
@@ -25,13 +25,14 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 35
 variants: 
+  -  Strigoi Totemnaut Engineer GID with Silver Suit
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck]
 toy_pics: 
   -  strigoi-totemnaut-engineer-yellow-01-6.jpg
   -  strigoi-totemnaut-engineer-yellow-02-6.jpg
   -  strigoi-totemnaut-engineer-yellow-03-6.jpg
-backstory: Nametag on yellow is "WYETH". Are there other names?
+backstory: Nametag on yellow is "WYETH". GID version wears a shiny silver suit.
 sale_type: 
 event_exclusive: 
 event_details: 

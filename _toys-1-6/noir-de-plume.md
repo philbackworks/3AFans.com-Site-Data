@@ -35,4 +35,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-"Shadow of a Madman" - ThreeA
+"The Shadow of a madman, NOIR de Plume. Clad in all black with viridian eyes, his inklike look tapped into something primal. Not just the figure was dark, but so was the packaging. A painting of NOIR drenched in shadow with an interplay of overhead lighting on his features covered an all black box. Even with an increased run size, NOIR sold out in minutes." - TP Louise and Ashley Wood, 3A Adventure 001, April 2014 (page 36-37)

@@ -4,13 +4,13 @@ toy_id: wwr-nom-de-plume
 toy_name: WWR Nom de Plume
 permalink: /toys-3ago/wwr-nom-de-plume.html
 world: 3AGO
-world_abr: 3AGO
+world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
 release_date: 8/27/2014
 release_price: $45 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

@@ -11,7 +11,7 @@ categories:
 tags: [2p, 2-pack, twofer, two-pack, black, white, diy, black, red]
 release_date: 8/27/2014
 release_price: $85 
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 2 DIY-style figures - Night (black) and White
 edition_qty: 

@@ -5,13 +5,13 @@ toy_name: EVOL 4Square JDF
 permalink: /toys-3ago/evol-4square-jdf.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Square
 layout: layout-toy-detail
 categories: 
 tags: [LED, red eyes, circle, red dot, white, spider, crab, 4-legs]
 release_date: 9/19/2015
 release_price: $80
-scale: 3AGO
+scale: 3ago
 size: 8 inches
 comes_with: 
 edition_qty: 

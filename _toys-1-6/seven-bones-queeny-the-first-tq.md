@@ -27,11 +27,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, frutiger_, pcww88, fdk_ksu, hamburgerddsdm]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, frutiger_, Patrick Wong, fdk_ksu, hamburgerddsdm, szutsung]
 toy_pics: 
   -  queenie-the-first-tq-01-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-02-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-03-6-by-keguang-kho.jpg
+  -  queeny_01-6_3a-toys_by_szutsung-via-instagram.jpg
   -  queenie-the-first-tq-04-6-by-keguang-kho.jpg
   -  queenie-the-first-tq-05-6-by-keguang-kho.jpg
   -  queeny-tq-01-6-by-frutiger_.jpg

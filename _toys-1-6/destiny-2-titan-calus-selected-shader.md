@@ -8,6 +8,7 @@ world_abr: Male
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [video game]
 release_date: 2019
 release_price: $1909
 scale: one sixth
@@ -22,11 +23,20 @@ bamba_points:
 packaging_type: 
 product_code: 
 designer: Bungie
-makers: Ashley Wood
+makers: Ashley Wood, box packaging design by Brent Ashe
 points_of_articulation: 32
 variants: 
+  -  Destiny 2 Titan Golden Trace Shader
 you_might_also_like: 
-article_contributors: [Phil Back]
+  -  Destiny Titan Retail Edition
+  -  Destiny Titan Hanged Man Shader
+  -  Destiny Hunter Autumn Splendor Shader
+  -  Destiny Hunter Chatterwhite Shader
+  -  Destiny Hunter Goldspiral Shader
+  -  Destiny Warlock Lunar Elegy Shader
+  -  Destiny Warlock Chatterwhite Shader
+  -  Destiny Warlock Old Guard Shader
+article_contributors: [Phil Back, Brent Ashe]
 toy_pics: 
 backstory: 
 sale_type: 

@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, dai88cc]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, dai88cc, gar]
 toy_pics: 
+  -  wwr-medic-caesar-surgeon-general_01-6_by_gar_v1_via_instagram.jpg
   -  caesar-surgeon-g_01-6_3a-toys_by-dai88cc_via_instagram.jpg
   -  caesar-surgeon-g_02-6_3a-toys_by-dai88cc_via_instagram.jpg
   -  caesar-surgeon-g_03-6_3a-toys_by-dai88cc_via_instagram.jpg
