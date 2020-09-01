@@ -6,12 +6,14 @@ permalink: /publications/popbot-collection-v2/
 world: Popbot
 world_abr: POP
 pages: 154
-format: SC
+format: Paperback
 language: English
 ISBN-10: 1932382526
 ISBN-13: 978-1932382525
 categories: []
+tags: [popbot]
 release_date: 2/8/2005
+release_year: 2005
 release_price: $35 USD
 size: 8.5" x 11"
 edition_qty: 

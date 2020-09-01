@@ -31,6 +31,16 @@ product_code:
     notes: $1,000 - Contained Bromwich, Deimos, Gravedigger and JEA Marine Bramble
     date: 8/12/2010
     URL:
+  - label: Also released in a Heavy Bramble MK3 2-Pack (1)
+    code: 0H2P1
+    notes: 2-Pack included Heavy Bramble MK3 Gravedigger and Deimos @ $520
+    date: 8/12/2010
+    URL:    
+  - label: Also released in a Heavy Bramble MK3 2-Pack (2)
+    code: 0H2P2
+    notes: 2-Pack included Heavy Bramble MK3 Gravedigger and Bromwich @ $520
+    date: 8/12/2010
+    URL:
 variants: 
   -  Heavy Bramble MK3 Deimos
   -  Heavy Bramble MK3 Bromwich

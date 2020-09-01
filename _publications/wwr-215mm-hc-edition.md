@@ -11,7 +11,9 @@ language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: [wwr]
 release_date: 12/23/2014
+release_year: 2014
 release_price: 
 size: 
 edition_qty:

@@ -32,6 +32,8 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, Mark Wei]
 toy_pics: 
   -  quiet-night-in-01-6-by-3a_boltman.jpg
   -  a-quiet-night-in-01-6_by-mark-wei.jpg
+threea_toy_pics:
+  -  3a-woip-a-quiet-night-in-white-2-pack-isobelle-and-lisbeth-black-3aa.jpg
 backstory: Surprise LTD Drop. Comes with 1/6 strap-ons and video recorder
 sale_type: 
 event_exclusive: 

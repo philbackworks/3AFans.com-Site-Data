@@ -13,26 +13,32 @@ release_date: 1/15/2009
 release_price: $150 
 scale: one twelve
 size: 6 inches
-comes_with: 
+comes_with: 3A logo t-shirt
 edition_qty: ~250
 chase: 
 exclusive: 
 secret_drop: 
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Box, numbered
 product_code_/_link: 3AACLUB2009
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, steeltekki]
 toy_pics: 
   -  bramble-mk2-desert-attack-foreignparticle_01-12_by_foreignparticle.jpg
-backstory: 2009 3AA membership bonus figure
+  -  bramble-mk2-desert-attack_01-12_3a-toys_by_steeltekki_via_ebay.jpg
+  -  bramble-mk2-desert-attack_02-12_3a-toys_by_steeltekki_via_ebay.jpg
+  -  bramble-mk2-desert-attack_03-12_3a-toys_by_steeltekki_via_ebay.jpg
+  -  bramble-mk2-desert-attack_04-12_3a-toys_by_steeltekki_via_ebay.jpg
+  -  bramble-mk2-desert-attack_05-12_3a-toys_by_steeltekki_via_ebay.jpg
+backstory: 
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+2009 3AA membership bonus figure and t-shirt

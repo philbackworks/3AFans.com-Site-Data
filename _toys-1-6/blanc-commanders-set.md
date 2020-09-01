@@ -29,6 +29,8 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+threea_toy_pics:
+  -  3a_blanc_commander.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -12,7 +12,7 @@ tags: [brown, desert, stripes]
 release_date: 9/14/2011
 release_price: $230 
 scale: one sixth
-size: 12 inches
+size: 17 inches
 comes_with: 
 edition_qty: 
 chase: 
@@ -27,10 +27,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, harey]
 toy_pics: 
   -  caesar-666th-clint-e_01_6_by_abrader_john-mcdaniel.jpg
   -  caesar-666th-clint-e_02_6_by_abrader_john-mcdaniel.jpg
+  -  wwr-caesar-666th-clint-e_11_6_by_harey_via-ebay.jpg
+  -  wwr-caesar-666th-clint-e_11b_6_by_harey_via-ebay.jpg
+  -  wwr-caesar-666th-clint-e_03_6_by_harey_via-ebay.jpg
+  -  wwr-caesar-666th-clint-e_03b_6_by_harey_via-ebay.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

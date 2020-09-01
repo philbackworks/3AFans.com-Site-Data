@@ -7,7 +7,7 @@ world: World War Robot
 world_abr: WWR
 character_base: Harold
 categories: 
-tags: [PRU, photo recon unit]
+tags: [PRU, photo recon unit, regi, type a, zw]
 release_date: 2/6/13
 release_price: $300 USD
 scale: one sixth
@@ -43,8 +43,13 @@ variants:
   -  HaroldFS Box Set Nightwatch
   -  HaroldFS Box Set ROTHCHILD Experimental DIV
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, Gar]
-toy_pics: 
+article_contributors: [Phil Back, Don Slater, Gar, John McDaniel]
+toy_pics:
+  -  wwr-harold-bromwich_02-6_3a-toys_by-abrader-john-mcdaniel.jpg 
+  -  wwr-harold-bromwich_01-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-harold-bromwich_03-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-harold-bromwich_04-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-harold-bromwich_05-6_3a-toys_by-abrader-john-mcdaniel.jpg
 backstory: Box set included 1/12 and 1/6 versions of Harold. Harold is described by Ashley Wood as, "...one of the best (releases), and no doubt the dearest of all the WWR bots out there!". <a href="https://www.worldofthreea.com/threea-production-blog/qa38" target="_blank">Q and A - 38</a>
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

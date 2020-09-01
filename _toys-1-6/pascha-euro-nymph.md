@@ -4,7 +4,7 @@ toy_id: pascha-euro-nymph
 toy_name: Pascha Euro Nymph
 permalink: /toys-1-6/pascha-euro-nymph.html
 world: The Adventures of Isobelle Pascha
-world_abr: 
+world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 

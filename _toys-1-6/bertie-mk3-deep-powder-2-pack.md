@@ -5,7 +5,7 @@ toy_name: Bertie MK3 Deep Powder 2 Pack
 permalink: /toys-1-6/bertie-mk3-deep-powder-2-pack.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 release_date: 11/26/2010
@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, sgt_smile]
 toy_pics: 
+  -  bertie-mk3-deep-powder-2-pack_01-6_3a-toys_by-sgt_smile-via_instagram.jpg
 backstory: Both Modes A & B
 sale_type: 
 event_exclusive: 

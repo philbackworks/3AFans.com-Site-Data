@@ -1,19 +1,21 @@
 ---
 layout: layout-publication
 pub_id: sparrow-vol-0-ashley-wood-sketches-and-ideas
-pub_title: Sparrow Vol 0 Ashley Wood Sketches and Ideas
+pub_title: "Sparrow Vol 0: Ashley Wood Sketches and Ideas"
 permalink: /publications/sparrow-vol-0-ashley-wood-sketches-and-ideas/
-world: World War Robot
-world_abr: WWR
-pages: --
-format: 
+world: The Ashley Wood Collection
+world_abr: AWC
+pages: 48
+format: Hardcover
 language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: [artbook]
 release_date: 10/21/2008
+release_year: 2008
 release_price: 
-size: 
+size: 6" x 6"
 edition_qty:
 exclusive: no
 secret_drop:
@@ -21,7 +23,7 @@ sold_where:
 packaging_type: --
 designer: 
 publisher: IDW
-authors: Chris Ryall, Ashley Wood
+authors: Ashley Wood
 variants:
 you_might_also_like: 
 article_contributors: [Phil Back]

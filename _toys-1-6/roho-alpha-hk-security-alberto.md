@@ -27,7 +27,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, quietstorm__, foreignparticle, szutsung, saaaa_muel, hamburgerddsdm, Mikko Sison, badass_wayne, s_1_3a, alexzhangxixi, Adam Peulen]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, quietstorm__, foreignparticle, szutsung, saaaa_muel, hamburgerddsdm, Mikko Sison, badass_wayne, s_1_3a, alexzhangxixi, Adam Peulen, Yumiao_miao]
 toy_pics: 
   -  roho-alpha-hk-security-alberto-01-6-by-pcww88-patrick-wong.jpg
   -  alpha-hk-security-alberto-32-and-18_01_6_by_quietstorm-dot__.jpg
@@ -40,6 +40,11 @@ toy_pics:
   -  alberto-roho-25_02-6_by_saaaa_muel_via_instagram.jpg
   -  roho-alberto-34-wwr_01-6_3a-toys_by_hamburgerddsd-via-instagram.jpg
   -  alberto-roho-47_01-6-by-mikko-sison.jpg
+  -  alberto-roho-48_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  alberto-roho-48_02-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  alberto-roho-48_03-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  alberto-roho-48_04-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  alberto-roho-48_05-6_3a-toys_by-yumaomao555_via_instagram.jpg
   -  alberto-wwr-roho_no5_01-6_3a-toys_by_badass_wayne_via_instagram.jpg
   -  roho-alberto-bertie-no33_01_6_by_S_1_3A_via_instagram.jpg
   -  threea-roho-alberto-bertie-01-6_by_alexzhangxixi_via_instagram.jpg
@@ -52,4 +57,4 @@ source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
 Limited to 50 units! Each figure has a unique number 1-50, across the chest. How many can we find and add to this site?
 
-Photos featured here: 03, 05, 09, 14, 16, 18, 25, 27, 32, 33, 34, 38, 44, 47, 50 ...  the search continues!
+Photos featured here: 03, 05, 09, 14, 16, 18, 25, 27, 32, 33, 34, 38, 44, 47, 48, 50...  the search continues!

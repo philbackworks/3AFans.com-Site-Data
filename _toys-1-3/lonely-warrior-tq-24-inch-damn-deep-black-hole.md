@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: lonely-warrior-tq-24-inch-damn-deep-black-hole
 toy_name: Lonely Warrior Tomorrow Queen 24 inch Damn Deep Black Hole
-permalink: /toys-1-6/lonely-warrior-tq-24-inch-damn-deep-black-hole.html
+permalink: /toys-1-3/lonely-warrior-tq-24-inch-damn-deep-black-hole.html
 world: GALA Milk
 world_abr: GALA
 character_base: 

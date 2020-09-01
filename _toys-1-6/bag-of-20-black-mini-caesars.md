@@ -27,8 +27,11 @@ makers:
 points_of_articulation: None
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, mrmocker]
 toy_pics: 
+  -  bag-of-mini-caesars_01_6_by_mrmocker-via-ebay.jpg
+  -  bag-of-mini-caesars_02_6_by_mrmocker-via-ebay.jpg
+  -  bag-of-mini-caesars_03_6_by_mrmocker-via-ebay.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

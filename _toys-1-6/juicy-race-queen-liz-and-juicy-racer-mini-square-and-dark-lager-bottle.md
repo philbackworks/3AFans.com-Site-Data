@@ -26,6 +26,8 @@ designer: TP Louise
 makers: Ashley Wood 
 points_of_articulation: 
 variants: 
+  -  Juicy Race Queen Miyu Chase with Juicy Racer Mini Square plus Juicy Race Lager Bottle
+  -  Juicy Race Queen Miyu with Juicy Racer Mini Square plus Juicy Race Lager Bottle
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, szutsung]
 toy_pics: 
@@ -37,4 +39,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-The set comes with a mini square, in this case a black one.
+The set comes with a mini 1:12 scale Square, with racing stripe.

@@ -11,8 +11,10 @@ language: English
 ISBN-10: 1613776969
 ISBN-13: 978-1613776964
 categories: []
+tags: [artbook]
 release_date: 6/25/2013
-release_price: 17.99 USD
+release_year: 2013
+release_price: $17.99 USD
 size: 12" x 12"
 edition_qty: 
 exclusive: 
@@ -42,3 +44,5 @@ reviews:
 <p>"...Machine Sabbath is that world we all live in, some can see it, some admit it, most hide in the open dreaming of living in it. A rejection of the world that accepts violence and death yet cries in disgust at the carnal, a world run by the memories and edicts of the dead and dreadful.</p>
 
 <p>Whispered but heard by all" - Ashley Wood, March 2013 (Machine Sabbath intro text)</p>
+
+https://www.ebay.com/itm/Ashley-Wood-Legger-Boot-Book-with-original-mixed-media-signed-art-on-cover-/173555913096

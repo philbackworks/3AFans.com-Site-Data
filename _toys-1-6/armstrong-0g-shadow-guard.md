@@ -32,7 +32,7 @@ toy_pics:
   -  armstrong-shadow-guard-0g-01-6-by-pcww88-patrick-wong.jpg
   -  Shadow-Guard-Armstrong-01-6-by_frutiger_.jpg
   -  armstrong-shadow-guard-harrison-01-6-by-frutiger_.jpg
-backstory: 
+backstory: Harrison and Eugene
 sale_type: 
 event_exclusive: 
 event_details: 

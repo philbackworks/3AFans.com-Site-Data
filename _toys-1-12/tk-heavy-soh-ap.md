@@ -5,7 +5,7 @@ toy_name: Heavy TK Soh AP
 permalink: /toys-1-12/tk-heavy-soh-ap.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TK 
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, red, bazooka, rpg, rocket launcher, tomorrow kings] 

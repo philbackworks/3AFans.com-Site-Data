@@ -11,7 +11,9 @@ language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: [wwr]
 release_date: 8/8/2008
+release_year: 2008
 release_price: 
 size: 
 edition_qty:

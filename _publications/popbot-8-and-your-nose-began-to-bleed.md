@@ -6,12 +6,14 @@ permalink: /publications/popbot-8-and-your-nose-began-to-bleed/
 world: Popbot
 world_abr: POP
 pages: 48
-format: SC
+format: Paperback
 language: English
 ISBN-10: 
 ISBN-13: 
 categories: []
+tags: [popbot]
 release_date: 2008
+release_year: 2008
 release_price: 
 size: 8.5" x 11"
 edition_qty: 

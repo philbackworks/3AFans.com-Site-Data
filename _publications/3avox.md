@@ -12,6 +12,7 @@ ISBN-10: n/a
 ISBN-13: n/a
 categories: [digital]
 release_date: August 2011 to April 2012
+release_year: 2011
 release_price: Free
 size: n/a
 edition_qty: unknown

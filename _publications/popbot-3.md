@@ -6,13 +6,15 @@ permalink: /publications/popbot-3/
 world: Popbot
 world_abr: POP
 pages: 48
-format: SC
+format: Paperback
 language: English
 ISBN-10: 0971228299
 ISBN-13: 978-0971228290
 categories: []
+tags: [popbot]
 release_date: 10/8/2002
-release_price: 9.99 USD
+release_year: 2002
+release_price: $9.99 USD
 size: 8.5" x 11"
 edition_qty: 
 exclusive: 

@@ -8,6 +8,7 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
+tags: [blue momba]
 release_date: 10/1/2013
 release_price: CNY 860
 scale: one sixth
@@ -28,8 +29,9 @@ variants:
   -  EDO Bronze Commander
   -  EDO Blue Commander
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Patrick Wong, foreignparticle]
 toy_pics: 
+  -  tk-edo-blue-commander_01_6_by_foreignparticle.jpg
   -  popbot-edo-tk-blue-01-6-by-pcww88-patrick-wong.jpg
 backstory: ACG at Guangzhou 2013 BBICN Exclusive
 sale_type: 

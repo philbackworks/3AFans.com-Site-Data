@@ -8,10 +8,13 @@ world_abr: POP
 pages: 300
 format: HC, SC
 language: English
-ISBN-10: 1600100341
+ISBN-10: 1600100341, 0971977542
 ISBN-13: 978-1600100345
 categories: []
-release_date: 10/17/2006
+tags: [popbot]
+release_date: 1/2003
+# 10/17/2006
+release_year: 2003
 release_price: $35 USD
 size: 8.5" x 11"
 edition_qty: 500
@@ -28,6 +31,7 @@ you_might_also_like:
 article_contributors: [Phil Back]
 pub_pics: 
   -  popbot-collection.jpg
+  -  popbot-collection-numbered-edition.jpg
 summary: Ashley Wood's robotic tour de force is collected here in this special volume, chock full of new extras and an all-new Wood cover. This collection offers up the sold-out first six issues of Woods' Popbot, which means appearances by Andy Warhol, Kitty and his band, a special appearance by Sam Kieth's the Maxx, and the typical array of freaks, misfits and hotties that populate Pop's world.
   - From Amazon
 buy:
@@ -41,4 +45,4 @@ reviews:
   review3:
   review4:
 ---
-<p></p>
+<p>Signed and numbered limited hardcover edition (160 pages) of 500 was released in 2003 by IDW. Features the light gray cover with the single character Popbot (Badbot?) on the cover.</p>

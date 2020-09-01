@@ -8,6 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [soldier, undead, army, military]
 release_date: 9/13/2013
 release_price: $260 
 scale: one sixth
@@ -26,8 +27,19 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, twoowltoys]
 toy_pics: 
+  -  gid-dead-easy-corp-zomb-soilders-set_06-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_01-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_02-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_03-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_04-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_05-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_07-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_08-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_09-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_10-6_by_twoowltoys_via_ebay.jpg
+  -  gid-dead-easy-corp-zomb-soilders-set_11-6_by_twoowltoys_via_ebay.jpg
 backstory: Surprise LTD drop
 sale_type: 
 event_exclusive: 

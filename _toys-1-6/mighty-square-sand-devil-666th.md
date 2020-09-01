@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Mighty Square
 layout: layout-toy-detail
 categories: 
+tags: [fallen, stripes, keep clear]
 release_date: 10/3/2014
 release_price: $155 
 scale: one sixth
@@ -26,10 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Isiow SG]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Isiow SG, foreignparticle]
 toy_pics: 
   -  mighty-square-sand-devil-666th_01_6_by_FRUTIGER_.jpg
   -  mighty-square-sand-devil-01-6-by_isiow_sg.jpg
+  -  mighty-square-sand-devil-666-fallen_01_6_by_foreignparticle.jpg
   -  mighty-square-fallen-sand-devil-01-6-by_isiow_sg.jpg
 backstory: Many colorways - DW, NW, Deep Powder, Dirty Deeds Memeorial, DIY, Dutch Merc, F-Album, Fat Cloud, Fong John, Fremantle, Grave Digger, Hard Thirty, ISO, Jea Ricky, Legion, Lunar Defence, Medic, Meow CD, MOD Polymorphic, P18 Maid, PRU ZW, CCCP, ThreeA, Wanpi, WF DBG Jungler, Sand Devil 666th
 sale_type: 

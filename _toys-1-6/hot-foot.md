@@ -29,10 +29,12 @@ you_might_also_like:
   -  Zombot
   -  Zombkin
   -  Charkin
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, foreignparticle, John McDaniel]
 toy_pics:
   -  hotfoot-01-6.jpg
   -  hot-foot-01-6-by_foreignparticle.jpg
+  -  hotfoot_01-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  hotfoot_02-6_3a-toys_by-abrader-john-mcdaniel.jpg
 backstory:
 sale_type: 
 event_exclusive: 

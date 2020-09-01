@@ -30,6 +30,9 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
   -  8th-anniversary-nom-commanders-set-thrice-naughgt-post-fire-01-6.jpg
+threea_toy_pics:
+  -  3a_8th-anniversary-nom-commanders-set-thrice-naught-plus-post-fire.jpg  
+  -  3a_8th-anniversary-nom-commanders-set-thrice-naught-plus-post-fire_02.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

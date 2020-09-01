@@ -12,7 +12,7 @@ tags: [2-pack, set, two-pack, wbr, red, mega set, EDO, ED0]
 release_date: 9/18/2014
 release_price: $260 
 scale: 3ago
-size: 8 inches
+size: 24 inches (MARS), 8 inches (EDO)
 comes_with: Megaset with MARS, gatling gun. MARS fires a spring-loaded missile.
 edition_qty: limited
 chase: 
@@ -33,8 +33,11 @@ variants:
   -  MARS Ghost of Guangzhou GID
 you_might_also_like: 
   -  Saturn MK2 Titan WW7174 Set Two
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
+  -  universe-swirl-mars-and-edo-commander_02-3ago_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  universe-swirl-mars-and-edo-commander_01-3ago_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  universe-swirl-mars-and-edo-commander_03-3ago_3a-toys_by-abrader-john-mcdaniel.jpg
 backstory: Surprise LTD Drop
 sale_type: 
 event_exclusive: 

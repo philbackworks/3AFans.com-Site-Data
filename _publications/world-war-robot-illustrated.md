@@ -11,7 +11,9 @@ language: English
 ISBN-10: 1600103243
 ISBN-13: 9781600103247
 categories: []
+tags: [wwr]
 release_date: 8/5/2008
+release_year: 2008
 release_price: 
 size: 12" x 12"
 edition_qty: unknown

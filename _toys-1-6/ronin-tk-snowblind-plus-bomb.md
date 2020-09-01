@@ -40,7 +40,7 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, Brent Ashe, fdk_ksu, sa
 toy_pics: 
   -  tk-ronin-snowblind-tomorrow-king_01-6_by_fdk_ksu_via_instagram.jpg
   -  tk-ronin-snowblind_01-6_by_saaaa_muel_via_instagram.jpg
-  -  tk-ronin-snowblind-tomorrow-king_02-6_by_fdk_ksu_via_instagram.jpg
+  -  tk-ronin-snowblind-tomorrow-king_02_6_by_fdk_ksu_via_instagram.jpg
   -  tk-ronin-snowblind-tomorrow-king_03-6_by_fdk_ksu_via_instagram.jpg
 backstory: Surprise LTD Drop during TKlub Ronin Oya Sun release
 sale_type: 

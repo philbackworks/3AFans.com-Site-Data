@@ -8,7 +8,7 @@ world_abr: WWRp
 character_base: Harold
 layout: layout-toy-detail
 categories: 
-tags: [action portable, ap] 
+tags: [action portable, ap, regi] 
 release_date: 2/6/2013
 release_price: $300 
 scale: one twelve
@@ -34,8 +34,4 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---

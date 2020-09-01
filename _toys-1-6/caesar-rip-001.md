@@ -11,7 +11,7 @@ tags: [white, black, bodyguard, rothchild, white, black, shield, zerozeroone, 3a
 release_date: 2012
 release_price: $230 USD
 scale: one sixth
-size: 16.5 inches tall
+size: 17 inches tall
 comes_with: The first 3A WWR story booklet
 edition_qty: unknown
 exclusive: yes

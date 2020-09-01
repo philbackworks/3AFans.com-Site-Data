@@ -2,12 +2,13 @@
 layout: layout-toy-detail 
 toy_id: caramel-honey-kuma-isobelle-24-inch
 toy_name: Caramel Honey Kuma Isobelle 24 inch
-permalink: /toys-1-6/caramel-honey-kuma-isobelle-24-inch.html
+permalink: /toys-1-3/caramel-honey-kuma-isobelle-24-inch.html
 world: GALA Milk
 world_abr: GALA
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [cosplay, bear, plush]
 release_date: 2/19/2016
 release_price: $340 
 scale: one third
@@ -26,8 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, William Guedes]
 toy_pics: 
+  -  caramel-honey-kuma-isobelle-24-inch_01_3_by_william_guedes_braaus_on_instagram.jpg
+  -  3-kuma-toys-24-inch_01_3_by_william_guedes_braaus_on_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -4,7 +4,7 @@ toy_id: pink-latex-miyu-easter-egger
 toy_name: Pink Latex Miyu Easter Egger
 permalink: /toys-1-6/pink-latex-miyu-easter-egger.html
 world: The World of Isobelle Pascha
-world_abr: 
+world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 

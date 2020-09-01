@@ -11,7 +11,9 @@ language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: [zvr]
 release_date: 2/24/2015
+release_year: 2015
 release_price: 
 size: 
 edition_qty:

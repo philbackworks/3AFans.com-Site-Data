@@ -4,7 +4,7 @@ toy_id: poppin-apples-miyu-tokyo-tentacle-love-affair
 toy_name: Poppin Apples Miyu Tokyo Tentacle Love Affair
 permalink: /toys-1-6/poppin-apples-miyu-tokyo-tentacle-love-affair.html
 world: GALA Milk
-world_abr: 
+world_abr: GALA
 character_base: 
 layout: layout-toy-detail
 categories: 

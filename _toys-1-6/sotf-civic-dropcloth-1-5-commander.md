@@ -31,12 +31,16 @@ you_might_also_like:
   -  SOTF Civic Defence Rothchild MK2 Bertie
   -  SOTF Civic Dropcloth 1 5 Guard Blindbox
   -  SOTF Civic Dropcloth 1 5 Six Pack
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, Brent Ashe]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, Brent Ashe, sgt_smile]
 toy_pics: 
+  -  sotf-civic-dropcloth-1-5-commander_01-6_3a-toys_by-sgt_smile-via_instagram.jpg
+  -  sotf-civic-dropcloth-1-5-commander_02-6_3a-toys_by-sgt_smile-via_instagram.jpg
   -  sotf-civic-defense-dropcloth-commander-with-pod_02_6_by_FRUTIGER_.jpg
   -  SOTF-CIVIC-DROPCLOTH-1_5-COMMANDER-01-6-by-foreignparticle.jpg
   -  sotf-civic-defense-04-6-by-foreignparticle.jpg
   -  sotf-civic-defence-mule-birdcage-05-6-branding-designed_by_brent_ashe_for_threea_toys.jpg
+  -  sotf-civic-dropcloth-1-5-commander_03-6_3a-toys_by-sgt_smile-via_instagram.jpg
+  -  sotf-civic-dropcloth-1-5-commander_04-6_3a-toys_by-sgt_smile-via_instagram.jpg
   -  sotf-civic-defence-iconography-01-6-branding-designed_by_brent_ashe_for_threea_toys.jpg
 backstory: Comes with drop-pod
 sale_type: 

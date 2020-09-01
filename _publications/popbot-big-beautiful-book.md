@@ -11,7 +11,9 @@ language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: [popbot]
 release_date: 7/2011
+release_year: 2011
 release_price: 
 size: 11" x 14"
 edition_qty: 500

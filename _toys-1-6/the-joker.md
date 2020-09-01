@@ -22,7 +22,7 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: 3AJOKER
-designer: Ashley Wood
+designer: Ashley Wood after Bill Finger, Bob Kane, and Jerry Robinson; DC Comics
 makers: 
 points_of_articulation: 
 variants: 

@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
+  -  tk-death-mask_01_12_by_dexter_lacuanan_via_instagram.jpg
 backstory: Included with 1/6 TK Hunter MK6 Death Mask Hack
 sale_type: 
 event_exclusive: 

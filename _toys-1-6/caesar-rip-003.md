@@ -12,7 +12,7 @@ tags: [white, red, bodyguard, rothchild]
 release_date: 11/24/2014
 release_price: 
 scale: one sixth
-size: 12 inches
+size: 17 inches
 comes_with: Darwin Rothchild
 edition_qty: 
 chase: 

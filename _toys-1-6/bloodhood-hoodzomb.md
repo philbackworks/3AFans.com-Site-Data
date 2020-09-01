@@ -6,8 +6,8 @@ permalink: /toys-1-6/bloodhood-hoodzomb.html
 world: Adventure Kartel
 world_abr: AK
 character_base: zomb
-layout: layout-toy-detail
 categories: 
+tags: [zombie, red, black sleeve]
 release_date: 8/1/2011
 release_price: ~$100
 scale: one sixth
@@ -32,8 +32,9 @@ you_might_also_like:
   -  Black Rose Nurse Zomb
   -  Bloodhood Hoodzomb
   -  Ka Mumb Blind Box
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, fotitoy]
 toy_pics: 
+  -  bloodhood-hoodzomb_01-6_by_fotitoy_via_instagram.jpg
   -  hood-zomb-01-6-by_foreignparticle.jpg
 backstory: 
 sale_type: 

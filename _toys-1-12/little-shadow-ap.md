@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 20
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, punker_mike]
 toy_pics: 
+  -  little-shadow-action-portable_01-12_3a-toys_by-punker_mike-via_instagram.jpg
 backstory: NY Toy Fair 2014 Free Promotional Figure; There are 14 figures in the Action Portable Series 1 set - Red Right Hand Tommy, Little Shadow (Shadow MK2 version), Cherry Bomb, Shit Got Real JC (Open Pale Style SGR JC version), Shit Got Real JC (Pale as Fuck SGR JC version), Bleak Mission, Merde Mission (Original version - dark jacket, black 3A logo shirt, fur lined hood), Merde Mission (Cold version - light jacket, blue pullover, fur lined hood), Golden Dolphin, Soy Dolphin (black), Removalist Zomb 01 (white), Removalist Zomb 02 (black), Johnson Ankou (orange boilersuit), Junglevet Ankou (camo). *Market value update - 5/1/2020 sold on ebay for $381 + $13.65sh!
 sale_type: 
 event_exclusive: 

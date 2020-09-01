@@ -11,7 +11,9 @@ language: English
 ISBN-10: 1600102301
 ISBN-13: 978-1600102301
 categories: []
+tags: [popbot]
 release_date: 8/5/2008
+release_year: 2008
 release_price: 
 size: 8.6" x 11.1"
 edition_qty: 500

@@ -35,3 +35,15 @@ backstory:
 On the 'Shadow' and 'Soy' versions of characters:
 "They are just what they are, they don't consider good or bad as a disposition, just following their natural agenda, they do seem to have a distaste for robots though!"
 <cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#16)</a></cite>
+
+"Shadow Tommy + Terrance the Intellectuals Choice Zomb
+
+So why is he hanging with Tommy?
+
+Why is Tommy all Inky Emo?
+
+And how do you steal your own soul back, when you know no on ehas called? Ever.
+
+Night of the Inky Black Things
+
+And the band played Ladri Della Notte, and somewhere a tear stained an old faded photograph of a forgotten father." - ThreeA

@@ -8,6 +8,7 @@ world_abr: 3AD
 character_base: Ashtro Lad
 layout: layout-toy-detail
 categories: 
+tags: [red, yellow]
 release_date: 9/7/2018
 release_price: CNY 580
 scale: non-scale
@@ -33,10 +34,11 @@ you_might_also_like:
   -  Ashtro Lad 16 inch TRO GLOW
   -  Ashtro Lad 16 inch King Coal
   -  Ashtro Lad 16 inch Anniversary Edition 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, badass_wayne]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, badass_wayne, sgt_smile]
 toy_pics: 
   -  dragon-bone-guard-01-3ag0-by-foreignparticle.jpg
   -  ashtrolad-dragon-bone-guard_non-scale_3a-toys_by_badass_wayne_via_instagram.jpg
+  -  ashtrolad-dragon-bone-guard_01-6_3a-toys_by-sgt_smile-via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

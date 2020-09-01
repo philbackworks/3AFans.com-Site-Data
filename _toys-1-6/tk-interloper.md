@@ -34,3 +34,5 @@ toy_pics:
 backstory:
 ---
 Highly limited and extremely rare at only 20 pieces in existence! This appears to have been a chase variant of the <a href="/toys-1-6/data-liberator-aki.html">Data Liberator Aki</a> and <a href="/toys-1-6/data-liberator-kiba">Data Liberator Kiba</a> figures.
+
+"YOUR BOX HAS BEEN INFECTED BY A INTERLOPER TK! - The Interloper Tomorrow King was created by the Mortis to infiltrate TK clans and destroy from within!"

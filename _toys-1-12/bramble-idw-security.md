@@ -8,7 +8,7 @@ character_base: Bramble
 layout: layout-toy-detail
 categories: [WWR, onetwelve]
 release_date: 
-release_price:
+release_price: $50
 scale: one twelve # lower case
 size: 7" tall
 comes_with: 6" long rotating gatling gun
@@ -22,9 +22,14 @@ makers: unknown
 points_of_articulation: 30
 variants:
 you_might_also_like:  
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, yumiao_miao]
 toy_pics:
-backstory:
+  -  bramble-idw-security_01-12_by_yumaomao555_via_instagram.jpg
+  -  bramble-idw-security_02-12_by_yumaomao555_via_instagram.jpg
+  -  bramble-idw-security_03-12_by_yumaomao555_via_instagram.jpg
+  -  bramble-idw-security_04-12_by_yumaomao555_via_instagram.jpg
+backstory: Was available via online order, but required pick-up in person at SDCC 2009. Shipping was not an option.
 faction: idw-security
 portable: yes
 ---
+Released at the San Diego Comic Con 2009 to commemorate IDW's 10-year anniversary.

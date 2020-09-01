@@ -4,7 +4,7 @@ toy_id: pascha-easter-nymphe
 toy_name: Pascha Easter Nymphe
 permalink: /toys-1-6/pascha-easter-nymphe.html
 world: The Adventures of Isobelle Pascha
-world_abr: 
+world_abr: IP
 character_base: Pascha
 layout: layout-toy-detail
 categories: 

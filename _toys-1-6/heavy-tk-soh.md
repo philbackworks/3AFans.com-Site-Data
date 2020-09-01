@@ -26,6 +26,8 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Heavy TK Nasu
+  -  Heavy TK Kato
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, saaaa_muel]
 toy_pics: 
@@ -37,3 +39,8 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"Disdained, outcast, ridiculed, mocked...
+
+Called Nancy Boys and generally not invited to parties, Heavy TK's are the outcasts of an already outcast group.
+
+Foregoing traditional weapons for big guns, they walk alone masters of the boom."  - Ashley Wood, promotional material and backstory. Ultra Tomorrow Kings TK convention booklet, 2019

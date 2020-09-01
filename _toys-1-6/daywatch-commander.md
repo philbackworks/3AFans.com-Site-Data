@@ -28,6 +28,8 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+threea_toy_pics:
+  -  3a_daywatch-nightwatch-commanders.jpg
 backstory: Bambaland Exclusive
 sale_type: 
 event_exclusive: 

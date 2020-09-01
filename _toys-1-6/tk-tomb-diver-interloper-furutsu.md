@@ -26,9 +26,14 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong, harey]
 toy_pics: 
   -  tomorrow-tomb-diver-3-pack-01-6-by-pcww88-patrick-wong.jpg
+  -  3a-tk-tomb-diver-interloper-furutsu-07_6.jpg
+  -  3a-tk-tomb-diver-interloper-furutsu-04_6.jpg
+  -  3a-tk-tomb-diver-interloper-furutsu-05_6.jpg
+  -  3a-tk-tomb-diver-interloper-furutsu-06_6.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_01-12_by-harey-via-ebay.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

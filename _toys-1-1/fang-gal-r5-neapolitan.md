@@ -30,7 +30,7 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
   -  nsfw-fang-gal-r5-neapolitan_01_6_by_lumpyheadstudios.jpg
   -  fang-gal-r5-neapolitan_01_6_by_lumpyheadstudios.jpg
-  -  nsfw-fang-gal-r5-neapolitan.jpg
+  # -  nsfw-fang-gal-r5-neapolitan.jpg
   -  neapolitan-harlequin-set-fang-gal-r5-and-bambaboss_02_6_by_lumpyheadstudios.jpg
 backstory: LTD Pre-made
 sale_type: 

@@ -13,13 +13,13 @@ release_price: $350
 scale: non-scale
 size: 
 comes_with: 
-edition_qty: 
+edition_qty: Extremely Limited
 chase: 
 exclusive: SDCC
 secret_drop: 
-sold_where: 
+sold_where: SDCC
 bamba_points: 
-packaging_type: 
+packaging_type: Box
 product_code_/_link: N/A
 designer: Ashley Wood
 makers: 

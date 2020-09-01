@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
-toy_id: juicy-race-queen-miyu-plus-juicy-racer-mini-square-plus-juicy-race-lager-bottle
-toy_name: Juicy Race Queen Miyu + Juicy Racer Mini Square + Juicy Race Lager Bottle
-permalink: /toys-1-6/juicy-race-queen-miyu-plus-juicy-racer-mini-square-plus-juicy-race-lager-bottle.html
+toy_id: juicy-race-queen-miyu-with-juicy-racer-mini-square-plus-juicy-race-lager-bottle
+toy_name: Juicy Race Queen Miyu with Juicy Racer Mini Square plus Juicy Race Lager Bottle
+permalink: /toys-1-6/juicy-race-queen-miyu-with-juicy-racer-mini-square-plus-juicy-race-lager-bottle.html
 world: The Adventures of Isobelle Pascha
 world_abr: IP
 character_base: 
@@ -26,6 +26,8 @@ designer: TP Louise
 makers: Ashley Wood
 points_of_articulation: 
 variants: 
+  -  Juicy Race Queen Liz and Juicy Racer Mini Square and Dark Lager Bottle
+  -  Juicy Race Queen Miyu Chase with Juicy Racer Mini Square plus Juicy Race Lager Bottle
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 
@@ -38,4 +40,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-The set comes with a mini square, in this case a white one.
+The set comes with a mini 1:12 scale Square, with racing stripe.

@@ -30,7 +30,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
   -  the-two-oya-tk-set_01_6_by_abrader_john-mcdaniel.jpg
-backstory: Kyoku F5 Bar sketch winning prize / Shadow and Light Oyabun / Oya Police
+backstory: Kyoku F5-Bar sketch winning prize  - or was it the 3A Video Copmetition? / Shadow and Light Oyabun / Oya Police
 sale_type: 
 event_exclusive: 
 event_details: 

@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Gar]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Gar, alexzhangxixi]
 toy_pics: 
+  -  diy-severed-bot-head_01-6_by_alexzhangxixi_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 3A Custom Show Exclusive

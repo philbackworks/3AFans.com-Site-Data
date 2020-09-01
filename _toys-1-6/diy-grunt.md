@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, alexzhangxixi]
 toy_pics: 
+  -  diy-grunt_01-6_by_alexzhangxixi_via_instagram.jpg
 backstory: Bambaland Exclusive
 sale_type: 
 event_exclusive: 

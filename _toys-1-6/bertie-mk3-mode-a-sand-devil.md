@@ -25,6 +25,8 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Bertie MK3 Mode A Dutch Merc
+  -  Bertie MK3 Mode A JEA Marine
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 

@@ -21,7 +21,7 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: 20001
-designer: Ashley Wood
+designer: Ashley Wood after Pat Mills
 makers: 
 points_of_articulation: 
 variants: 

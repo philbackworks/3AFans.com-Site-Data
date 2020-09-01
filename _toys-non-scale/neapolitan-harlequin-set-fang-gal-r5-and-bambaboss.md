@@ -15,7 +15,7 @@ size: 12 inches tall (Fang Gal R5)
 comes_with: 
 edition_qty: 50
 chase: 
-exclusive: 
+exclusive: Yes
 secret_drop: 
 sold_where: 
 bamba_points: 

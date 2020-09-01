@@ -11,7 +11,9 @@ language: English
 ISBN-10: 1631400339
 ISBN-13: 978-1631400339
 categories: []
+tags: []
 release_date: 10/28/2014
+release_year: 2014
 release_price: 
 size: 11" x 17"
 edition_qty:

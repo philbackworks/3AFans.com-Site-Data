@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: show-girl-24-inch
 toy_name: Show Girl 24 inch
-permalink: /toys-1-6/show-girl-24-inch.html
+permalink: /toys-1-3/show-girl-24-inch.html
 world: GALA Milk
 world_abr: GALA
 character_base: 
@@ -25,9 +25,13 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Show Girl 24 inch
+  -  Easter Pink Shibari Girl 24 Inch
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, gar]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, gar, lillyshia]
 toy_pics: 
+  -  show-girl-24-inch-_01-3_by_lillyshia_via_flckr.jpg
+  -  show-girl-24-inch-_02-3_by_lillyshia_via_flckr.jpg
 backstory: $360 USD. Japan Venture 2015 Exclusive. Unique head sculpt exclusive to 1/3 scale.
 sale_type: 
 event_exclusive: 
@@ -35,3 +39,5 @@ event_details:
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
 Black hair, nabler handbag, form-fitting light blue jeans, white tanktop, red heels
+
+Limited to only 5!

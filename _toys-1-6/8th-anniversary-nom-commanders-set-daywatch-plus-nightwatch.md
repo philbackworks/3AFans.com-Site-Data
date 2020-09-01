@@ -27,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-  -  8th-anniversary-nom-commanders-set-daywatch-and-nightwatch-01-6-by-foreignparticle.jpg
+threea_toy_pics:
+  -  3a-nom-commanders-8th-anniversary-nightwatch-daywatch.jpg
 backstory: Surprise LTD Drop
 sale_type: 
 event_exclusive: 

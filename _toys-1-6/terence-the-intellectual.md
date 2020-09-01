@@ -29,6 +29,14 @@ article_contributors: [Phil Back]
 toy_pics:
 backstory:
 ---
+"Shadow Tommy + Terrance the Intellectuals Choice Zomb
 
+So why is he hanging with Tommy?
 
-[need more info]
+Why is Tommy all Inky Emo?
+
+And how do you steal your own soul back, when you know no on ehas called? Ever.
+
+Night of the Inky Black Things
+
+And the band played Ladri Della Notte, and somewhere a tear stained an old faded photograph of a forgotten father." - ThreeA

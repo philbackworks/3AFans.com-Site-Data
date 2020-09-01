@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: bungie-tq-statue
-toy_name: Your Fight Statue
+toy_name: Bungie TQ Statue
 permalink: /toys-non-scale/bungie-tq-statue.html
 world: Popbot
 world_abr: 

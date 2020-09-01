@@ -4,7 +4,7 @@ toy_id: poppin-apples-agent-isobelle-tcom
 toy_name: Poppin Apples Agent Isobelle TCOM
 permalink: /toys-1-6/poppin-apples-agent-isobelle-tcom.html
 world: GALA Milk
-world_abr: 
+world_abr: GALA
 character_base: Pascha
 layout: layout-toy-detail
 categories: 

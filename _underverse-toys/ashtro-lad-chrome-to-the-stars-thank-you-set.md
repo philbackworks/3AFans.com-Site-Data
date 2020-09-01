@@ -37,9 +37,9 @@ materials: []
 points_of_articulation: 
 variants: 
 you_might_also_like:
-article_contributors: [Phil Back, alexzhangxixi]
+article_contributors: [Phil Back, alexzhangxixi, wang2nobody]
 toy_pics:
-  -  uv-ashtro-to-the-stars-thank-you-set-chrome_01-6_by_alexzhangxixi_via_instagram.jpg
+  -  uv-ashtro-to-the-stars-thank-you-set-chrome_01-6_by_alexzhangxixi_via_instagram.jpg 
 uv_toy_pics:
   -  uv-chrome-ashtro-uv3-by-ashley-wood-01.jpg
   -  uv-chrome-ashtro-uv3-by-ashley-wood-02.jpg

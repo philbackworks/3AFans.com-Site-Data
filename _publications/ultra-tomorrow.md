@@ -6,12 +6,14 @@ permalink: /publications/ultra-tomorrow/
 world: Popbot
 world_abr: POP
 pages: 
-format: SC
+format: Paperback
 language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: [tk]
 release_date: 4/12/2014
+release_year: 2014
 release_price: FREE
 size: 
 edition_qty: 500

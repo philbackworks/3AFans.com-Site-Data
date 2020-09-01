@@ -11,7 +11,9 @@ language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: []
 release_date: 2/9/2010
+release_year: 2010
 release_price: 
 size: 
 edition_qty:

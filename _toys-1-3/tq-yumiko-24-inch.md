@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: tq-yumiko-24-inch
 toy_name: Tomorrow Queen Yumiko 24 inch
-permalink: /toys-1-6/tq-yumiko-24-inch.html
+permalink: /toys-1-3/tq-yumiko-24-inch.html
 world: GALA Milk
 world_abr: GALA
 character_base: 
@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lillyshia]
 toy_pics: 
+  -  tq-yumiko-24-inch_01-3_by_lillyshia_via_flckr.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

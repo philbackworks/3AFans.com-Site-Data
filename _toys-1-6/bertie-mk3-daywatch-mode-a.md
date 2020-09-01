@@ -26,15 +26,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Jabbo]
 toy_pics: 
+threea_toy_pics:
+  -  3a-wwr-bertie-mk3-daywatch_01-6_by-threea-toys-ashley-wood.jpg
+  -  3a-wwr-bertie-mk3-daywatch_02-6_by-threea-toys-ashley-wood.jpg
 backstory: Very LTD random drop
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---

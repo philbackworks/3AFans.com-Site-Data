@@ -36,12 +36,13 @@ you_might_also_like:
   -  Cherry Bomb
   -  Tommy Mission EMO
   -  Little Shadow v1
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, fotitoy]
 toy_pics:
   -  red-night-and-zomb-head-01-6-by-phil-back.jpg
   -  red-night-jc-01-6.jpg
   -  red-night-jc-02-6.jpg 
   -  red-night-jc-03-6.jpg
+  -  red-night-jc_01-6_by_fotitoy_via_instagram.jpg
   -  red-night-jc-04-6.jpg
   -  red-night-jc-05-6.jpg 
   -  red-night-jc-06-6.jpg 

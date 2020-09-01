@@ -27,9 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, John McDaniel]
 toy_pics: 
   -  deimos-squares-01-6-by_frutiger_.jpg
+  -  wwr-square-mk2-deimos_01-12_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-square-mk2-deimos_02-6_3a-toys_by-abrader-john-mcdaniel.jpg
 backstory: $12 S/H
 sale_type: 
 event_exclusive: 

@@ -34,8 +34,12 @@ you_might_also_like:
   -  Black Rose Nurse Zomb
   -  Bloodhood Hoodzomb
   -  Ka Mumb Blind Box
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, frutiger_, fotitoy]
 toy_pics: 
+  -  zomb-md_09-6_by_fotitoy_via_instagram.jpg
+  -  zomb-md_01-6_by_fotitoy_via_instagram.jpg
+  -  zomb-md_02-6_by_fotitoy_via_instagram.jpg
+  -  zomb-md_03-6_by_fotitoy_via_instagram.jpg
   -  zomb-md-dr-shitvago-01-6.jpg
   -  zomb-md-dr-shitvago-02-6.jpg
   -  zomb-md-nurse-white_01_6_by_FRUTIGER_.jpg

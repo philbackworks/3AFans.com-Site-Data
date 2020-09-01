@@ -34,6 +34,5 @@ backstory: $15 S/H
 sale_type: 
 event_exclusive: 
 event_details: 
-source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
+source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019 
 ---

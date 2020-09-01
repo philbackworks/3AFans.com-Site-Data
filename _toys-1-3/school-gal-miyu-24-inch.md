@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: school-gal-miyu-24-inch
 toy_name: School Gal Miyu 24 inch
-permalink: /toys-1-6/school-gal-miyu-24-inch.html
+permalink: /toys-1-3/school-gal-miyu-24-inch.html
 world: The World of Isobelle Pascha
 world_abr: IP
 character_base: 

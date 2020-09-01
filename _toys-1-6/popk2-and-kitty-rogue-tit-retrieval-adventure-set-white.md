@@ -5,7 +5,7 @@ toy_name: PopK2 and Kitty Rogue Tit Retrieval Adventure Set White
 permalink: /toys-1-6/popk2-and-kitty-rogue-tit-retrieval-adventure-set-white.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: Popbot
 layout: layout-toy-detail
 categories: 
 release_date: 9/29/2017
@@ -26,8 +26,19 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, harey]
 toy_pics: 
+  -  popbot-ascended-the-white_08-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_03-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_04-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_02-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_05-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_06-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_07-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_09-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_10-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_11-6_by-harey_via-ebay.jpg
+  -  popbot-ascended-the-white_01-6_by-harey_via-ebay.jpg
 backstory: LTD Pre-made US Venture Exclusive stock
 sale_type: 
 event_exclusive: 

@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Heavy Bramble
 layout: layout-toy-detail
 categories: 
+tags: [yumiko]
 release_date: 8/12/2010
 release_price: $280 
 scale: one sixth
@@ -36,8 +37,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
+  -  wwr-heavy-bramble_jea_01-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-heavy-bramble_jea_02-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-heavy-bramble_jea_03-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-heavy-bramble_jea_04-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-heavy-bramble_jea_05-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  wwr-heavy-bramble_jea_06-6_3a-toys_by-abrader-john-mcdaniel.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

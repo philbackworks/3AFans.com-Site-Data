@@ -5,7 +5,7 @@ toy_name: TK Heavy Kato AP
 permalink: /toys-1-12/tk-heavy-kato-ap.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TK
 categories: 
 tags: [action portable, ap, red, bazooka, rpg, rocket launcher, tomorrow kings] 
 release_date: 7/27/2012

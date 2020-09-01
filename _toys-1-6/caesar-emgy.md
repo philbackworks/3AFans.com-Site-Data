@@ -12,7 +12,7 @@ tags: [yellow, black, 34, shield, TRG, stripes]
 release_date: 9/14/2011
 release_price: $230 
 scale: one sixth
-size: 12 inches
+size: 17 inches
 comes_with: 
 edition_qty: 
 chase: 

@@ -12,7 +12,7 @@ tags: [newel, 43, 9, red, white, stripe, medic, cross, candy stripe, surgeon gen
 release_date: 9/14/2011
 release_price: $230 
 scale: one sixth
-size: 12 inches
+size: 17 inches
 comes_with: 
 edition_qty: 
 chase: 

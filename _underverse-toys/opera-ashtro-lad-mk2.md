@@ -39,6 +39,11 @@ variants:
 you_might_also_like:
 article_contributors: [Phil Back]
 toy_pics:
+  -  uv-opera-ashtro_01-non-scale_by_underverse_toys-photo-by-phil-back.jpg
+  -  uv-opera-ashtro_02-non-scale_by_underverse_toys-photo-by-phil-back.jpg
+  -  uv-opera-ashtro_03-non-scale_by_underverse_toys-photo-by-phil-back.jpg
+  -  uv-opera-ashtro_04-non-scale_by_underverse_toys-photo-by-phil-back.jpg
+  -  uv-opera-ashtro_05-non-scale_by_underverse_toys-photo-by-phil-back.jpg
 uv_toy_pics:
   -  uv-opera-ashtro-lad-mk2-01-from-underverse-by-ashley-wood.jpg
   -  uv-opera-ashtro-lad-mk2-02-from-underverse-by-ashley-wood.jpg
@@ -76,4 +81,4 @@ And, so, he did. An ASHTRO LAD appeared just when all was lost, the power of the
 
 They called him <strong>Opera.</strong>" 
 
-<cite>Underverse.com, April 2020</cite>
+<cite>Underverse.com, April 2020</cite> 

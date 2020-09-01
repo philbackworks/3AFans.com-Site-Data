@@ -30,9 +30,11 @@ you_might_also_like:
   -  Lucky 8 Panda Mercs Handsome Wu
   -  Lucky 8 Panda Mercs Red Panda Merc Shadow
   -  Lucky 8 Panda Mercs Soot Panda Inky Handsome Wu
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+  -  Lucky 8 Panda Mercs Snow Panda Light Blue F-Legion 6000
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
 toy_pics: 
-backstory:
+  -  panda-merc-f-legion-6023-white_01_6_by_foreignparticle.jpg
+backstory: White F-Legion in black-n-white panda suit.
 sale_type: 
 event_exclusive: 
 event_details: 

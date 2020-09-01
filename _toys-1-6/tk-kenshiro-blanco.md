@@ -13,8 +13,8 @@ release_price: $120 USD
 scale: one sixth
 size: 12 inches tall
 comes_with: Mortis Robot head, sword and sheath
-edition_qty: Limited
-chase: 
+edition_qty: 22
+chase: yes
 exclusive: yes
 secret_drop: 
 sold_where: bambaland.com

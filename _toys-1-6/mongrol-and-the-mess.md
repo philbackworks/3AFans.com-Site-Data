@@ -23,8 +23,15 @@ points_of_articulation: 25+
 variants: 
   -  Mongrol and the Mess Blackhole Edition
 you_might_also_like:
-article_contributors: [Phil Back, mw wutasi]
+article_contributors: [Phil Back, mw wutasi, twoowltoys]
 toy_pics: 
+  -  mongrol-and-the-mess_00-6_by_twoowltoys_via_ebay.jpg
+  -  mongrol-and-the-mess_01-6_by_twoowltoys_via_ebay.jpg
+  -  mongrol-and-the-mess_02-6_by_twoowltoys_via_ebay.jpg
+  -  mongrol-and-the-mess_03-6_by_twoowltoys_via_ebay.jpg
+  -  mongrol-and-the-mess_04-6_by_twoowltoys_via_ebay.jpg
+  -  mongrol-and-the-mess_05-6_by_twoowltoys_via_ebay.jpg
+  -  mongrol-and-the-mess_06-6_by_twoowltoys_via_ebay.jpg
 backstory:
 sale_type: 
 event_exclusive: 

@@ -7,7 +7,7 @@ world_abr: AK2
 character_base: JC
 categories: []
 tags: []
-release_date: Presale announced for October 2020
+release_date: Presale announced for July 2020
 release_price: 
 scale: one sixth
 size: 

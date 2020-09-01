@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: saturday-adventure-set
-toy_name: Saturday Adventure set
+toy_name: Saturday Adventure Set
 permalink: /toys-1-6/saturday-adventure-set.html
 world: Adventure Kartel
 world_abr: AK
@@ -26,7 +26,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-  -  Sunday Morning 4 Pack
+  -  Sunday Morning Adventure Pack All
   -  Little Shadow v1
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
@@ -36,4 +36,4 @@ event_exclusive: Beijing Gathering 2010
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
- 
+ "I think you have more luck getting a standard Tommy, this set is rarer than any other set or single regardless whether you go to Beijing or not" - Ashley Wood, 2010

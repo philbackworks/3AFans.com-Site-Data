@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: uk-blighty-lamb-pascha-24-inch
 toy_name: UK Blighty Lamb Pascha 24 inch
-permalink: /toys-1-6/uk-blighty-lamb-pascha-24-inch.html
+permalink: /toys-1-3/uk-blighty-lamb-pascha-24-inch.html
 world: The World of Isobelle Pascha
 world_abr: IP
 character_base: 
@@ -27,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, lillyshia]
 toy_pics: 
   -  uk-pascha-24-inch_01-3_3a-toys_by_szutsung-via-instagram.jpg
+  -  uk-blighty-lamb_01-3_by_lillyshia_via_flckr.jpg
 backstory: $260 USD. Japan Venture 2015 Exclusive
 sale_type: 
 event_exclusive: 

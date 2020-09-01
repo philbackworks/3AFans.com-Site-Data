@@ -4,7 +4,7 @@ toy_id: tq-vanilla-pod-ap
 toy_name: TQ Vanilla Pod AP
 permalink: /toys-1-12/tq-vanilla-pod-ap.html
 world: Popbot AP
-world_abr: POP-AP
+world_abr: 
 character_base: TQ
 categories: 
 tags: [action portable, ap] 

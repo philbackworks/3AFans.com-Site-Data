@@ -6,12 +6,14 @@ permalink: /publications/popbot-6/
 world: Popbot
 world_abr: POP
 pages: 48
-format: SC
+format: Paperback
 language: English
 ISBN-10: 0971228299
 ISBN-13: 
 categories: []
+tags: [popbot]
 release_date: 3/8/2004
+release_year: 2004
 release_price: 7.99 USD
 size: 8.5" x 11"
 edition_qty: 

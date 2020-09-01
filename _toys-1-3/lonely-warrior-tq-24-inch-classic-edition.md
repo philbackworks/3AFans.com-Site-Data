@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: lonely-warrior-tq-24-inch-classic-edition
 toy_name: Lonely Warrior Tomorrow Queen 24 inch Classic Edition
-permalink: /toys-1-6/lonely-warrior-tq-24-inch-classic-edition.html
+permalink: /toys-1-3/lonely-warrior-tq-24-inch-classic-edition.html
 world: GALA Milk
 world_abr: GALA
 character_base: 

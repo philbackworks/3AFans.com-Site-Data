@@ -11,7 +11,7 @@ categories:
 release_date: 9/14/2011
 release_price: $270 
 scale: one sixth
-size: 12 inches
+size: 17 inches
 comes_with: 
 edition_qty: 
 chase: 
@@ -26,15 +26,24 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, harey]
 toy_pics: 
+  -  wwr-caesar-diy-ltd_09-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_06-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_03-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_02-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_01-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_07-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_08-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_04-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_05-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_10-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_11-6_by_harey_via_ebay.jpg
+  -  wwr-caesar-diy-ltd_12-6_by_harey_via_ebay.jpg
 backstory: Comes with both dome and flat heads, two shields
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-6
-__sort_field: toy_name'
 ---
+Note the flat-style head and the dome-shaped one are both included.

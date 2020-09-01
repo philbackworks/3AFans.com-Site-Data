@@ -22,7 +22,7 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code: 00000CIM
-designer: Ashley Wood
+designer: Ashley Wood after Stan Lee (original plots), Larry Lieber (script), Don Heck (artist), Jack Kirby (artist); Marvel Comics
 makers: 
 points_of_articulation: 
 variants: 

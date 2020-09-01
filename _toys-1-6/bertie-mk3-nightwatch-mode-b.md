@@ -12,7 +12,7 @@ tags: [black, white, skull, 86, langsam und schwer, slow and heavy]
 release_date: 11/26/2010
 release_price: $250 
 scale: one sixth
-size: 12 inches
+size: 20 inches
 comes_with: 
 edition_qty: Limited, VERY rare
 chase: 

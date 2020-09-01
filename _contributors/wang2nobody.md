@@ -17,6 +17,8 @@ misc_contributions:
     link: /10-Most-Rare-Releases-from-3A-Toys/
   - name: Article - 3A Toys That Never Were
     link: /3a-toys-that-never-were/
+  - name: UV Sale Information - Ashtro Lad Chrome to the Stars Thank You Set
+    link: /underverse-toys/ashtro-lad-chrome-to-the-stars-thank-you-set.html
 ---
 Toy collector. ThreeA aficionado.
 

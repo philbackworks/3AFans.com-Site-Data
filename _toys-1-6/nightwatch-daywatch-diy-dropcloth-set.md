@@ -27,9 +27,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, kisscat15]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, kisscat15, John McDaniel]
 toy_pics: 
+  -  nightwatch-daywatch-dropcloth_02-6_3a-toys_by-abrader-john-mcdaniel.jpg
   -  nightwatch-dropcloth_01-6_3a-toys_by-kisscat15-via_instagram.jpg
+  -  nightwatch-daywatch-dropcloth_01-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  nightwatch-daywatch-dropcloth_03-6_3a-toys_by-abrader-john-mcdaniel.jpg
+  -  nightwatch-daywatch-dropcloth_04-6_3a-toys_by-abrader-john-mcdaniel.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

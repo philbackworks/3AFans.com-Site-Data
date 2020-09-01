@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, fdk_ksu]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, fdk_ksu, Dexter Lacuanan]
 toy_pics: 
+  -  tk-hatchery-guard_01_12_by_dexter_lacuanan_via_instagram.jpg
   -  ap-hatchery-guard_01_12_by_lumpyheadstudios.jpg
   -  ap-action-portable-tk-hatchery-guard_01-12_by_fdk_ksu_via_instagram.jpg
 backstory: $12 S/H

@@ -12,16 +12,16 @@ tags: [action portable, ap]
 release_date: 4/7/2013
 release_price: TWD 150
 scale: one twelve
-size: 6 inches
+size: 
 comes_with: 
 edition_qty: 
 chase: 
 exclusive: BSTKD
 secret_drop: 
-sold_where: 
+sold_where: Taipei toy Show 2013
 bamba_points: 
 packaging_type: 
-product_code_/_link: N/A
+product_code: N/A
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
@@ -30,12 +30,9 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
 backstory: 3A in Taipei Beast Kingdom Exclusive, sold blind through capsule machine. Total 16 color ways
-sale_type: 
+sale_type: EVENT EXCLUSIVE
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
-pagination: 
-__enabled: TRUE
-__collection: toys-1-12
-__sort_field: toy_name'
 ---
+ 

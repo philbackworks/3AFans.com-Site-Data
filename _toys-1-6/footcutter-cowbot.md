@@ -44,6 +44,8 @@ From the the official ThreeA promotional sketch:
 
 "I WANTS SOME PRUDENCE FOOT"
 
+"Where do you think all those severed feet came from?"
+
 Surprise Limited Drop!
 
 "...a classic Ash Wood robot rustler, and cutter offerer of feet!" - Ashley Wood, <a href="https://www.worldofthreea.com/threea-production-blog/qa39" target="_blank">Q and A #39</a>

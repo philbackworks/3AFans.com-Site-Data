@@ -6,12 +6,14 @@ permalink: /publications/popbot-8-assault-on-the-underverse/
 world: Popbot
 world_abr: POP
 pages: 48
-format: SC
+format: Paperback
 language: English
 ISBN-10: 1600100961
 ISBN-13: 978-1600100963
 categories: []
+tags: [popbot]
 release_date: 3/10/2009
+release_year: 2009
 release_price: 
 size: 8.5" x 11"
 edition_qty: 

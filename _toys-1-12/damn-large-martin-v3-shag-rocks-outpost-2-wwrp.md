@@ -35,10 +35,17 @@ variants:
   -  Damn Large Martin JDF WWRp
   -  Damn Large Martin Sand Devil WWRp
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, yumiao_miao]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, yumiao_miao, harey]
 toy_pics: 
   -  Shag-Rock-Damn-Large-Martin-01-6-frutiger_.jpg
   -  damn-large-martin-shag-rocks_02-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_02-12_by-harey-via-ebay.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_08-12_by-harey-via-ebay.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_03-12_by-harey-via-ebay.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_04-12_by-harey-via-ebay.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_05-12_by-harey-via-ebay.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_06-12_by-harey-via-ebay.jpg
+  -  damn-large-martin-v3-shag-rocks-outpost-2-wwrp_07-12_by-harey-via-ebay.jpg
 backstory: 2nd of 3 ROBOT CLUB releases towards free Desert Stroll Bot
 sale_type: 
 event_exclusive: 

@@ -27,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, Dexter Lacuanan]
 toy_pics: 
   -  bramble-bromwich_01_6_by_foreignparticle.jpg
+  -  heavy-bramble-bromwich_01_12_by_dexter_lacuanan_via_instagram.jpg
 backstory: 15 S-and-H. Resident Sale
 sale_type: 
 event_exclusive: 

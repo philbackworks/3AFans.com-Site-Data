@@ -31,7 +31,7 @@ variants:
   -  Tommy Mission Emo
 you_might_also_like:
   -  Saturday Adventure Set
-  -  Sunday Morning 4 Pack
+  -  Sunday Morning Adventure Pack All
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Mikeyuenism]
 toy_pics: 
   -  on-the-run-little-shadow-and-tommy-2-pack-02-6-by-frutiger_.jpg
@@ -45,3 +45,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+ 

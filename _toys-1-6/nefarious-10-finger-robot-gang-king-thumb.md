@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: nefarious-10-finger-robot-gang-king-thumb
-toy_name: Nefarious 10 Finger Robot Gang - King Thumb
+toy_name: Nefarious 10 Finger Robot Gang King Thumb
 permalink: /toys-1-6/nefarious-10-finger-robot-gang-king-thumb.html
 world: Adventure Kartel
 world_abr: AK
@@ -25,8 +25,18 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Nefarious 10 Finger Robot Gang 1
+  -  Nefarious 10 Finger Robot Gang 2
+  -  Nefarious 10 Finger Robot Gang 3
+  -  Nefarious 10 Finger Robot Gang 4
+  -  Nefarious 10 Finger Robot Gang 5
+  -  Nefarious 10 Finger Robot Gang 6
+  -  Nefarious 10 Finger Robot Gang 7
+  -  Nefarious 10 Finger Robot Gang 8
+  -  Nefarious 10 Finger Robot Gang 9
+  -  Nefarious 10 Finger Robot Gang 10  
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, hwang_21]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, hwang_21, foreignparticle]
 toy_pics:
   -  neafrious-king-thumb-01-6.jpg
   -  10-finger-gang-king-thumb-by-hwang_21-01-6.jpg

@@ -29,6 +29,7 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, saaaa_muel, Dexter Lacuanan]
 toy_pics: 
+  -  tk-unleashed-yellow-hornets_01_12_by_dexter_lacuanan_via_instagram.jpg
   -  yellow-hornets_01-12_by_saaaa_muel_via_instagram.jpg
   -  the-yellow-hornets-ap_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
   -  the-yellow-hornets-ap_02-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg

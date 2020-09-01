@@ -31,6 +31,7 @@ toy_pics:
   -  heavy-bramble-nom-nightwatch-01-6-by-pcww88-patrick-wong.jpg
   -  heavy-bramble-nom-nightwatch-02-6-by-pcww88-patrick-wong.jpg
   -  nightwatch-bramble_01_6_by_foreignparticle.jpg
+threea_toy_pics:     
 backstory: Bambaland Exclusive
 sale_type: 
 event_exclusive: 

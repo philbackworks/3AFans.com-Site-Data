@@ -5,7 +5,7 @@ toy_name: TK Heavy Interheavy AP
 permalink: /toys-1-12/tk-heavy-interheavy-ap.html
 world: AP Popbot
 world_abr: 
-character_base: 
+character_base: TK
 categories: 
 tags: [action portable, ap, interloper, gray, bazooka, rpg, rocket launcher, tomorrow kings] 
 release_date: 10/13/2012

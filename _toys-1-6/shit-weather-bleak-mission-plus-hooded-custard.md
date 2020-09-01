@@ -6,8 +6,8 @@ permalink: /toys-1-6/shit-weather-bleak-mission-with-hooded-custard.html
 world: Adventure Kartel
 world_abr: AK
 character_base: 
-layout: layout-toy-detail
 categories: 
+tags: [mask, black, cigarette]
 release_date: 8/17/2012
 release_price: $120 
 scale: one sixth
@@ -26,9 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, fotitoy]
 toy_pics: 
   -  fucking-tracky-bleak_01-6_by_dk_kuro_via_instagram.jpg
+  -  bleak-mission_01-6_by_fotitoy_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

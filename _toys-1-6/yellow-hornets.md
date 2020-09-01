@@ -40,3 +40,10 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"With the news their support band 3menspiss had cancelled on them. TK Unleashed donned their classic yellow trackies and supported themselves as The Yellow Hornets.
+
+Unfortunately, The Yellow Hornets didn't last long.
+
+TK Unleashed successfully sued themselves for quoff copyright infringements and were never seen again!" - Ultra Tomorrow Kings TK convention booklet, 2019
+
+"Fake Tomorrow Kings"

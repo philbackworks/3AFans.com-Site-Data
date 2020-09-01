@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, fotitoy]
 toy_pics: 
+  -  charkin_01-6_by_fotitoy_via_instagram.jpg
   -  charkin_01_6_by_abrader_john-mcdaniel.jpg
   -  charkin_02_6_by_abrader_john-mcdaniel.jpg
 backstory: LTD Pre-made

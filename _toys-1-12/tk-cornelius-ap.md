@@ -29,6 +29,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, Dexter Lacuanan]
 toy_pics: 
   -  tk-cornelius_02-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
+  -  tk-cornelius_01_12_by_dexter_lacuanan_via_instagram.jpg
   -  tk-cornelius-action-portable_box-01_12_by_lumpyheadstudios.jpg
   -  tk-cornelius_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory: 

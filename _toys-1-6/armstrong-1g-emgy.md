@@ -27,9 +27,19 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, hamburgerddsdm]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, hamburgerddsdm, twoowltoys]
 toy_pics: 
   -  wwr-armstrong-1g-emgy-01-6_by-hamburgerddsdm_via_instagram.jpg
+  -  armstrong-1g-emgy_01-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_02-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_03-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_04-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_05-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_06-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_07-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_08-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_09-6_by_twoowltoys_via_ebay.jpg
+  -  armstrong-1g-emgy_10-6_by_twoowltoys_via_ebay.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

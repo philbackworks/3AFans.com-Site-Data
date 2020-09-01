@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: vampire-hunter-liz-24-inch
 toy_name: Vampire Hunter Liz 24 inch
-permalink: /toys-1-6/vampire-hunter-liz-24-inch.html
+permalink: /toys-1-3/vampire-hunter-liz-24-inch.html
 world: The World of Isobelle Pascha
 world_abr: IP
 character_base: 
@@ -27,8 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Vampire Hunter Miyu 24 inch
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+  -  vampire-hunter-liz-24-inch-01-3-by-philback.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

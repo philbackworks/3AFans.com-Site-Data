@@ -7,12 +7,12 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: [onesixth]
-release_date: 
+release_date: 12/3/2008
 release_price: 
 scale: one sixth
 size: 12 inches tall
 comes_with: 
-edition_qty: 
+edition_qty: 300
 exclusive: 
 secret_drop:
 sold_where: bambaland.com

@@ -26,8 +26,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, harey]
 toy_pics: 
+  -  totem-alpha-contact_01-6_by_harey_via_ebay.jpg
+  -  totem-alpha-contact_04-6_by_harey_via_ebay.jpg
+  -  totem-alpha-contact_02-6_by_harey_via_ebay.jpg
+  -  totem-alpha-contact_06-6_by_harey_via_ebay.jpg
+  -  totem-alpha-contact_05-6_by_harey_via_ebay.jpg
+  -  totem-alpha-contact_03-6_by_harey_via_ebay.jpg
 backstory: Retailer Exclusive
 sale_type: 
 event_exclusive: 

@@ -6,12 +6,14 @@ permalink: /publications/tk-mook/
 world: Popbot
 world_abr: POP
 pages: 
-format: SC
+format: Paperback
 language: English
 ISBN-10: n/a
 ISBN-13: n/a
 categories: []
+tags: [tk]
 release_date: 4/16/2014
+release_year: 2014
 release_price: FREE + $30 s/h
 size: 12" x 12"
 edition_qty:

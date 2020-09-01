@@ -5,7 +5,7 @@ toy_name: Badbot Manchester War and Kitty
 permalink: /toys-1-6/badbot-manchester-war-and-kitty.html
 world: Popbot
 world_abr: POP
-character_base: 
+character_base: Popbot
 layout: layout-toy-detail
 categories: 
 tags: [white star]

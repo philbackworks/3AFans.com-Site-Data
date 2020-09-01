@@ -27,8 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
-toy_pics: 
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 718comicsnbeats]
+toy_pics:
+  -  4-zomb-monty-superset_02-6_by-bronxkartel718_via_instagram.jpg
+  -  4-zomb-monty-superset_01-6_by-bronxkartel718_via_instagram.jpg 
 backstory: 3 Acolyte Zomb variants + Exclusive Albino Zomb
 sale_type: 
 event_exclusive: 
