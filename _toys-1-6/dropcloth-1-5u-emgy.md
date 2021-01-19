@@ -5,7 +5,7 @@ toy_name: Dropcloth 1.5U EMGY
 permalink: /toys-1-6/dropcloth-1-5u-emgy.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 release_date: 11/14/2012
@@ -26,12 +26,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, Larry Berman]
 toy_pics: 
   -  dropcloth-1_5U-emgy_03_6_by_KEGUANG-KHO.jpg
   -  dropcloth-1_5U-emgy_04_6_by_KEGUANG-KHO.jpg
   -  dropcloth-1_5U-emgy_05_6_by_KEGUANG-KHO.jpg
   -  dropcloth-1_5U-emgy_06_6_by_KEGUANG-KHO.jpg
+  -  wwr-emgy-dropcloth-01-6_by_larry-berman.jpg
+  -  box-wwr-dropcloth-15u-nyc-emgy-trg-01-6_by_larry-berman.jpg
   -  dropcloth-1_5U-emgy_07_6_by_KEGUANG-KHO.jpg
   -  dropcloth-1_5U-emgy_08_6_by_KEGUANG-KHO.jpg
   -  dropcloth-1_5U-emgy_09_6_by_KEGUANG-KHO.jpg

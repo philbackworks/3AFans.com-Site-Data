@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, frutiger_]
+article_contributors: [Phil Back, frutiger_, zgr0821]
 toy_pics: 
+  -  okult-v-psyenze-hyper-seance-pilot-leg_01_1_by_zgr0821_via_instagram.jpg
   -  okult-v-psyenze-hyper-seance-pilot-leg-01-1_by_frutiger_.jpg
 backstory: 
 sale_type: 
@@ -36,3 +37,4 @@ event_exclusive:
 event_details: 
 source_doc: 
 ---
+"Embrace Change..."

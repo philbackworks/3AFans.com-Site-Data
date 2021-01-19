@@ -4,7 +4,7 @@ toy_id: oliver-apple-and-giant-mongolian-mountain-heel
 toy_name: Oliver Apple and Giant Mongolian Mountain Heel
 permalink: /toys-1-6/oliver-apple-plus-giant-mongolian-mountain-heel.html
 world: PARADE
-world_abr: 
+world_abr: PAR
 character_base: 
 layout: layout-toy-detail
 categories: 

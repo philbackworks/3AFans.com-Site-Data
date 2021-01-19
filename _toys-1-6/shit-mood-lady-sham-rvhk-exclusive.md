@@ -26,7 +26,7 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  Pure Lady Sham
+  -  Lady Sham Pure Edition
   -  Red Devil Lady Sham
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, luciferbeck, 3a_boltman, frutiger_, fdk_ksu]

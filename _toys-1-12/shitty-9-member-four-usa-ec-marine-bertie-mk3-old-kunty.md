@@ -1,11 +1,11 @@
 ---
 layout: layout-toy-detail 
 toy_id: shitty-9-member-four-usa-ec-marine-bertie-mk3-old-kunty
-toy_name: SHITTY 9 Member Four - USA EC Marine Bertie MK3 Old Kunty
+toy_name: SHITTY 9 Member Four USA EC Marine Bertie MK3 Old Kunty
 permalink: /toys-1-12/shitty-9-member-four-usa-ec-marine-bertie-mk3-old-kunty.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bertie MK3
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

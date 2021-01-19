@@ -33,8 +33,9 @@ variants:
   -  MARS Ghost of Guangzhou GID
 you_might_also_like: 
   -  Saturn MK2 Titan WW7174 Set Two
-article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel, Dexter Lacuanan]
 toy_pics: 
+  -  sky-blast-blue-01-3ago_by_dexter_lacuanan-via-instagram.jpg
   -  sky-blast-blue-gid-glow_01_6_by_abrader_john-mcdaniel.jpg
 backstory: Surprise LTD Drop
 sale_type: 

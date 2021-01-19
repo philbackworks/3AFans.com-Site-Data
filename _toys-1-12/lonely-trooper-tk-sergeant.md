@@ -4,7 +4,7 @@ toy_id: lonely-trooper-tk-sergeant
 toy_name: Lonely Trooper TK Sergeant
 permalink: /toys-1-12/lonely-trooper-tk-sergeant.html
 world: AP Star Wars Alternate
-world_abr: 
+world_abr: POP
 character_base: TK
 categories: 
 tags: [action portable, ap, star wars, stormtrooper, yellow] 

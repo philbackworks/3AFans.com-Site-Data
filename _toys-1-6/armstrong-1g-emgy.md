@@ -8,7 +8,7 @@ world_abr: WWR
 character_base: Armstrong
 layout: layout-toy-detail
 categories: 
-tags: [yellow, black, nyc]
+tags: [yellow, black, nyc, eder]
 release_date: 7/19/2011
 release_price: $240 
 scale: one sixth

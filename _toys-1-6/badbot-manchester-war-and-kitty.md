@@ -27,12 +27,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lord korvo]
 toy_pics: 
-backstory: 2010 Exclusive. Kitty (pink... others?)
+  -  beijing-exclusive-badbot-manchester-war-and-kitty-01-6_by_lord-korvo-via-flickr.jpg
+backstory: 2010 Exclusive - sold at the HK Venture 3A show in Bejing, China. Kitty (pink... others?)
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-ThreeA Bejing Venture Show Exclusive - Two Eye Badbot 
+ThreeA Bejing Venture Show Exclusive - Two Eye Badbot with Kitty

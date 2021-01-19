@@ -29,9 +29,11 @@ variants:
   -  Heavy TK Soh
   -  Heavy TK Nasu
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21, xxbarachielxx]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21, xxbarachielxx, lord korvo]
 toy_pics: 
   -  heavy-tk-kato-01-6-by-hwang_21.jpg
+  -  tk-heavy-kato4-01-6_by_lord-korvo-via-flickr.jpg
+  -  heavy-tk-kato_01-6_by_lord-korvo-via-flickr.jpg
   -  heavy-tk-kato-02-6-by-hwang_21.jpg
   -  heavy-tk-kato-02-6-by-xxbarachielxx.jpg
   -  heavy-tk-kato-01-6-by-xxbarachielxx.jpg

@@ -5,7 +5,7 @@ toy_name: Prelude EVOL Caliginosity NOM Field Commanders Plus Bertie MK2 Set
 permalink: /toys-1-12/prelude-evol-caliginosity-nom-field-commanders-plus-bertie-mk2-set.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bertie, NOM, Commander
 categories: 
 tags: [action portable, ap]
 release_date: 8/16/2013

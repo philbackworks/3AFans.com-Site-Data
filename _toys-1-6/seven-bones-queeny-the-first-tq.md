@@ -27,6 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  Deadstar Girl RC Toyotama Blindbox
+  -  Deadstar Girl RC Toyotama Blindbox
+  -  Deadstar Girl RC Uzume Blindbox Chase
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, frutiger_, Patrick Wong, fdk_ksu, hamburgerddsdm, szutsung]
 toy_pics: 
   -  queenie-the-first-tq-01-6-by-keguang-kho.jpg
@@ -49,3 +52,6 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+<p class="blockquote">
+"...Queeny is what would be considered an older TQ, not many TQ's make the age of Queeny..."
+<cite>- Ashley Wood (2014), <a href="https://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#21)</a></cite></p>

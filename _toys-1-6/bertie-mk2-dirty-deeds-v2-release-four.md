@@ -5,7 +5,7 @@ toy_name: Bertie MK2 Dirty Deeds V2 Release Four
 permalink: /toys-1-6/bertie-mk2-dirty-deeds-v2-release-four.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 tags: [SOTF, DDV2]

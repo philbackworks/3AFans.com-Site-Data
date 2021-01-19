@@ -27,9 +27,13 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono, zekerone]
 toy_pics: 
   -  lost-star-warrior-tk-noir-sergeant-dirty-01-6-by-absolutemono.jpg
+  -  lonely-star-warrior-tk-noir-sergeant-dirty-version-01-6_by_zekerone-via-ebay.jpg
+  -  lonely-star-warrior-tk-noir-sergeant-dirty-version-02-6_by_zekerone-via-ebay.jpg
+  -  lonely-star-warrior-tk-noir-sergeant-dirty-version-03-6_by_zekerone-via-ebay.jpg
+  -  lonely-star-warrior-tk-noir-sergeant-dirty-version-04-6_by_zekerone-via-ebay.jpg  
 backstory: 
 sale_type: 
 event_exclusive: 

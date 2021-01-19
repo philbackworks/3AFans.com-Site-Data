@@ -5,7 +5,7 @@ toy_name: Dirty Deed in My Pants 12 pack Mini Berties
 permalink: /toys-1-6/dirty-deed-in-my-pants-12-pack-mini-berties.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 tags: [mini, black, dirty deeds]

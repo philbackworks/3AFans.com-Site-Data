@@ -16,10 +16,10 @@ comes_with:
 edition_qty: 100
 chase: 
 exclusive: yes
-secret_drop: 
+secret_drop: yes
 sold_where: 
 bamba_points: 
-packaging_type: 
+packaging_type: Box with printed shipper
 product_code: 2XA
 designer: Ashley Wood
 makers: 
@@ -29,7 +29,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
   -  darklands-tommy-01-6.jpg
-backstory: Tommy Mission Skullpep shirt and Korma Rogue Zomb
+backstory: Tommy Mission is wearing an exclusive 'Skullpep' t-shirt and the set includes the Korma-toned Rogue Zomb
 sale_type: 
 event_exclusive: 
 event_details: 

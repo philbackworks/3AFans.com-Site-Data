@@ -28,9 +28,11 @@ points_of_articulation:
 variants: 
   # -  SPOOK VON NOM
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan, Larry Berman]
 toy_pics: 
   -  shitty-nine-commander-von-nom_01_12_by_dexter_lacuanan_via_instagram.jpg
+  -  wwrp-shitty-nine-commander-von-nom-01-12_by_larry-berman.jpg
+  -  box-wwrp-shitty-nine-commander-von-nom-01-12_by_larry-berman.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

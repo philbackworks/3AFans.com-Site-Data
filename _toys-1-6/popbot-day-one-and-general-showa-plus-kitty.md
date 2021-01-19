@@ -13,7 +13,7 @@ release_date: 5/27/2010
 release_price: $220 
 scale: one sixth
 size: 16 inches (Popbot)
-comes_with: A random colorway Kitty
+comes_with: A random colorway Kitty, and 2 six-shooter pistols
 edition_qty: 
 chase: 
 exclusive: 3AA

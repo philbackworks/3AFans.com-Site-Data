@@ -35,8 +35,13 @@ you_might_also_like:
   -  HALO Spartan Mark V EVA Bambaland Exclusive
   -  HALO Spartan Mark V EVA
   -  HALO Spartan Mark V Commando
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, pevansrn]
 toy_pics: 
+  -  3a-halo-spartan-recruit_01-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-recruit_02-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-recruit_03-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-recruit_04-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-recruit_05-6_by_pevansrn_via_ebay.jpg
 backstory: Bambaland Exclusive. Gray armor with gold accents. Features illuminated helmet and combat armor featuring 24 LED lights. Two CR2032H batteries are required for the back, and six AG4/LR626 batteries are required for the arms.
 sale_type: 
 event_exclusive: 

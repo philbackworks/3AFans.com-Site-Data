@@ -12,7 +12,7 @@ tags: [action portable, ap]
 release_date: 7/17/2015
 release_price: $75 
 scale: one twelve
-size: 6 inches
+size: 
 comes_with: 
 edition_qty: 
 chase: 
@@ -36,8 +36,9 @@ you_might_also_like:
   -  Judge Mortis
   -  Judge Death
   -  Judge Death Classic Comic Book Edition
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, gar]
 toy_pics: 
+  -  judge-gronk-01-6_by_gar_v1-via-instagram-01-6_by_gar_v1-via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [birdie, digicamo, digi-camo, square]
 release_date: 9/6/2015
 release_price: $160 
 scale: one sixth

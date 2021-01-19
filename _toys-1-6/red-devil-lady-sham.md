@@ -23,7 +23,7 @@ makers:
 points_of_articulation: 30
 variants: 
   -  Shit Mood Lady Sham
-  -  Pure Lady Sham
+  -  Lady Sham Pure Edition
 you_might_also_like:
   -  Blind Cowboy
   -  Ghost Horse

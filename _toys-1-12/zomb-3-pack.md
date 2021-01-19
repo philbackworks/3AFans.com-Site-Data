@@ -4,7 +4,7 @@ toy_id: zomb-3-pack
 toy_name: Zomb 3 Pack
 permalink: /toys-1-12/zomb-3-pack.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

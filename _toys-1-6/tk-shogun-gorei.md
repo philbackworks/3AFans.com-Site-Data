@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
-toy_id: tomorrow-king-shogun-gorei
-toy_name: Tomorrow King Shogun Gorei
-permalink: /toys-1-6/tomorrow-king-shogun-gorei.html
+toy_id: tk-shogun-gorei
+toy_name: TK Shogun Gorei
+permalink: /toys-1-6/tk-shogun-gorei.html
 world: Popbot
 world_abr: POP
 character_base: TK
@@ -26,7 +26,17 @@ designer: Ashley Wood
 makers: Logo design by Brent Ashe
 points_of_articulation: 
 variants: 
+  -  TK Shogun DIY
+  -  TK Shogun Deathmask
+  -  TK Shogun HOLDOUT AT DUMPER Two Figure Set
+  -  TK Shogun Shadow and Light Set LTD
+  -  TK Shogun Tsuki
+  -  TK Tomb Diver Shogun Hana
+  -  Liberator King No Tomorrow Shogun
+  -  Seven Bones Tomorrow King Shogun Shiho
 you_might_also_like: 
+  -  change_scale: [TK Shogun Tsuki AP, 12]
+  -  change_scale: [TK Shogun Gorei AP, 12]
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Brent Ashe, Wade Taylor]
 toy_pics: 
   -  tk-shogun-gorei-01-6.jpg

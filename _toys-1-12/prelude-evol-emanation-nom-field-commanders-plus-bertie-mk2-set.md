@@ -5,7 +5,7 @@ toy_name: Prelude EVOL Emanation NOM Field Commanders Plus Bertie MK2 Set
 permalink: /toys-1-12/prelude-evol-emanation-nom-field-commanders-plus-bertie-mk2-set.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bertie, NOM, Commander 
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, white, cloak]

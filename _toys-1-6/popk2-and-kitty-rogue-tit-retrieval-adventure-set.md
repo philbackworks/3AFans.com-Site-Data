@@ -30,6 +30,17 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, wang2nobody, harey]
 toy_pics: 
   -  pop2k-and-kitty-rogue-tit-retrieval_adventure-set-01_6_by_wang2nobody.jpg
   -  popbot-ascended-the-white_11-6_by-harey_via-ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_04-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_01-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_02-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_03-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_05-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_06-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_07-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_08-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_09-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_10-6_by_harey_via_ebay.jpg
+  -  popk2-and-kitty-rogue-tit-retrieval-adventure-set_11-6_by_harey_via_ebay.jpg
 backstory: LTD Pre-made US Venture Exclusive stock
 sale_type: 
 event_exclusive: yes

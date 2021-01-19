@@ -4,7 +4,7 @@ toy_id: zomb-warzomb-zombot
 toy_name: Zomb, WarZomb, Zombot
 permalink: /toys-1-12/zomb-warzomb-zombot.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

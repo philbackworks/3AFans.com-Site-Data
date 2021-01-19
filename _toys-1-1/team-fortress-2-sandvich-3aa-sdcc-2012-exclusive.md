@@ -8,7 +8,7 @@ world_abr:
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [video games]
+tags: [video games, food, sandwich]
 release_date: 6/27/2012
 release_price: $50 
 scale: one-to-one
@@ -27,8 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, jm_yang]
 toy_pics: 
+  -  team-fortress-2-sandvich-3aa-sdcc-2012-exclusive_01_1_by_jm_yang.jpg
+  -  team-fortress-2-sandvich-3aa-sdcc-2012-exclusive_02_1_by_jm_yang.jpg
+  -  team-fortress-2-sandvich-3aa-sdcc-2012-exclusive_03_1_by_jm_yang.jpg
 backstory: Blue packaging
 sale_type: 
 event_exclusive: 

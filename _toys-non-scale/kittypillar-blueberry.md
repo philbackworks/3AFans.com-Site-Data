@@ -2,7 +2,7 @@
 layout: layout-toy-detail 
 toy_id: kittypillar-blueberry
 toy_name: Kittypillar Blueberry
-permalink: /toys-non-scale/kittypillar-bubblegum.html
+permalink: /toys-non-scale/kittypillar-blueberry.html
 world: Casey Weldon x 3A
 world_abr: 
 character_base: 
@@ -11,9 +11,9 @@ categories:
 release_date: 3/2019
 release_price: $89 
 scale: non-scale
-size: 6 inches
+size: 8 inches
 comes_with: 
-edition_qty: 
+edition_qty: 100
 chase: 
 exclusive: 
 secret_drop: 
@@ -21,17 +21,25 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code_/_link: KPB
-designer: Ashley Wood
-makers: Brodie Perkins (Sculptor)
-points_of_articulation: 
+designer: Casey Weldon
+makers: Ashley Wood, Brodie Perkins (Sculptor)
+points_of_articulation: 4
 variants: 
+  -  Kittypillar Bombay
+  -  Kittypillar Bubblegum
+  -  Kittypillar Calico
+  -  Kittypillar Chartreux
+  -  Kittypillar Siamese
+  -  Kittypillar Tuxedo
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
-backstory: 
+threea_toy_pics:
+  -  kittypillar-blueberry-by-casey-weldon_non-scale_01_by_3a_toys.jpg
+backstory: premade and limited edition of 100
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-(glittery blueberry blue)
+(glittery blueberry blue) 

@@ -5,7 +5,7 @@ toy_name: Sand Devil Bertie MK3 Mode A
 permalink: /toys-1-12/sand-devil-bertie-mk3-mode-a.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: Bertie
+character_base: Bertie MK3
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, 666, beige, oc, chad, fallen] 

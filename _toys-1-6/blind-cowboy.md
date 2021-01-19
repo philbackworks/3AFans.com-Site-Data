@@ -24,6 +24,9 @@ points_of_articulation: 30
 variants: 
   -  Dark Blind Cowboy
 you_might_also_like:
+  -  Shade Caster Prudence Pascha
+  -  Bareback Rider Beer Girl Prudence Pascha
+  -  Foot Cutter Cowbot
   -  Tracky Boss JC
   -  Tommy Mission EMO
   -  Ankou NLCS

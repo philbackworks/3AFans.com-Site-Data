@@ -12,7 +12,7 @@ release_date: 6/26/2010
 release_price: $320 
 scale: one sixth
 size: 12 inches
-comes_with: 
+comes_with: 4-Figure set
 edition_qty: 75
 chase: 
 exclusive: BEIJN
@@ -37,3 +37,5 @@ event_details:
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
  "I think you have more luck getting a standard Tommy, this set is rarer than any other set or single regardless whether you go to Beijing or not" - Ashley Wood, 2010
+
+ "Ghost Shadow, Missionary Zomb, Shadow Tommy, Shadow Zombot - The last day in her bed, she just stared and dreamed about Saturdays with her family, not tears but doors." - From the box

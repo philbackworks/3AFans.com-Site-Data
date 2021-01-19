@@ -23,11 +23,12 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, Dexter Lacuanan]
+article_contributors: [Phil Back, Don Slater, Dexter Lacuanan, Larry Berman]
 toy_pics: 
   -  medic-grunt-and-betsy-mk2-square-set_02-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
   -  medic-grunt-and-betsy-mk2-square-set_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
   -  medic-grunt-and-betsy-mk2-square-set_03-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
+  -  wwrp-medical-officer-doc-grunt-with-square-01-12_by_larry-berman.jpg
 backstory: 
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

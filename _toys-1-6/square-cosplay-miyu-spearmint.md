@@ -25,7 +25,11 @@ product_code: 00000000SDCCSPEAR
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
-variants: 
+variants:  
+  -  Square Cosplay Miyu Orange
+  -  Square Cosplay Miyu Dark Choco
+  -  Square Cosplay Miyu Milk Choco
+  -  Square Cosplay Miyu Vanilla
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, szutsung]
 toy_pics: 

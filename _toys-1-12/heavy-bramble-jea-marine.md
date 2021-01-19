@@ -27,8 +27,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, Dexter Lacuanan]
 toy_pics: 
+  -  heavy-bramble-jea-marine-01-12_by_dexter_lacuanan-via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

@@ -4,7 +4,7 @@ toy_id: popbot-ascended
 toy_name: Popbot Ascended
 permalink: /toys-1-12/popbot-ascended.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

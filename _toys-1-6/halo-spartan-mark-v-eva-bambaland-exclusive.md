@@ -32,10 +32,15 @@ you_might_also_like:
   -  HALO Spartan Gabriel Thorne
   -  HALO Spartan Mark V Commando
   -  HALO Spartan Recruit
-article_contributors: [Phil Back, Don Slater, Chong Wey Ming, sammlerman]
+article_contributors: [Phil Back, Don Slater, Chong Wey Ming, sammlerman, pevansrn]
 toy_pics: 
   -  halo-spartan-mark-v-eva-bambaland-exclusive_01-6_by_chong-wey-ming_via_fb.jpg
   -  HALO-Spartan-Mark-V-EVA-Bambaland-Exclusive_01-6_3a-toys_by_sammerlerman_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-eva-bambaland_01-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-eva-bambaland_02-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-eva-bambaland_03-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-eva-bambaland_04-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-eva-bambaland_05-6_by_pevansrn_via_ebay.jpg
 backstory: Light and dark gray color scheme. Two CR2032H batteries are required for the back, and six AG4/LR626 batteries are required for the arms.
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

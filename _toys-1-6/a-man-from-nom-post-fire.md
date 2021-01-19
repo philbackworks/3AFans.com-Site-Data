@@ -26,11 +26,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Hung Yu Wen]
+  -  A Man From NOM Thrice Naut
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Hung Yu Wen, lord korvo]
 toy_pics: 
   -  a-man-from-nom-post-fire-01-6_by_hung-yu-wen.jpg
   -  a-man-from-nom-post-fire-02-6_by_hung-yu-wen.jpg
-backstory: Shadow Commander HK Venture Exclusive
+  -  shadow-nom-01-6_by_lord-korvo-via-flickr.jpg
+  -  unmasked-postfire-01-6_by_lord-korvo-via-flickr.jpg
+backstory: Shadow Commander HK Venture Exclusive. HKS10 (from the box)
 sale_type: 
 event_exclusive: 
 event_details: 

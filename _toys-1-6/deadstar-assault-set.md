@@ -39,4 +39,6 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
- 
+ <p class="blockquote">Q: Since you mentioned that the R/C Girl TKYO is going to use the Queeny sculpt, will she be getting a staff-like weapon; like a mic with stand or some such?
+A: Not the same sculpt, same stock, as in genetic, Queeny is what would be considered an older TQ, not many TQ's make the age of Queeny, GIRL R/C is much younger, had her age! All new sculpt etc, she brandishes a Mic and quick witted verses as her weapon of choice. Or a snub nose blaster if that don't work!
+<cite>- Ashley Wood (2014), <a href="https://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#21)</a></cite></p>

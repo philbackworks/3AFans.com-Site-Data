@@ -35,8 +35,13 @@ you_might_also_like:
   -  HALO Spartan Mark V EVA Bambaland Exclusive
   -  HALO Spartan Mark V EVA
   -  HALO Spartan Recruit
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, pevansrn]
 toy_pics: 
+  -  3a-halo-spartan-mark-v-commando_01-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-commando_02-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-commando_03-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-commando_04-6_by_pevansrn_via_ebay.jpg
+  -  3a-halo-spartan-mark-v-commando_05-6_by_pevansrn_via_ebay.jpg
 backstory: Bambaland Exclusive. Two CR2032H batteries are required for the back, and six AG4/LR626 batteries are required for the arms. Two CR2032H batteries are required for the back, and six AG4/LR626 batteries are required for the arms.
 sale_type: 
 event_exclusive: 

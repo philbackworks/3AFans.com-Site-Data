@@ -36,3 +36,8 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"Snow fell on the Moon, the robots of the F3ACTORY slept in their cozy metal beds, dreaming of roboty things. The only sound to be heard was that of the F3ACTORY NOM, the slap of the boot and the sleezy hiss of the respirator expelling spent spirit.
+
+He guards what does not need guarding... F3ACTORY NOM - It's Snowing on the Moon"
+
+<cite>3A promotional material</cite>

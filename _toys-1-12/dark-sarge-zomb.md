@@ -4,7 +4,7 @@ toy_id: dark-sarge-zomb
 toy_name: Dark Sarge Zomb
 permalink: /toys-1-12/dark-sarge-zomb.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

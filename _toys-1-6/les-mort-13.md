@@ -25,14 +25,19 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Future Mort 13
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, jm_yang]
 toy_pics: 
   -  les-mort-13_01-6_3a-toys_by_szutsung-via-instagram.jpg
   -  les-mort-13_02-6_3a-toys_by_szutsung-via-instagram.jpg
+  -  les-mort-13-in-box_01_6_by_jm_yang.jpg
+  -  les-mort-13-in-box_02_6_by_jm_yang.jpg
+  -  les-mort-13-in-box_03_6_by_jm_yang.jpg
 backstory: 3A How2work; The D'Airain Adventure
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"Saint of Vengeance" - Ashley Wood

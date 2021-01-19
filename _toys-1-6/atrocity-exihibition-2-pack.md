@@ -8,7 +8,7 @@ world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 
-tags: [AK2P2, tommy, boiler, GID, glow in the dark, Hand of Fate]
+tags: [AK2P2, tommy mission, boiler, GID, glow in the dark, Hand of Fate]
 release_date: 1/1/2010
 release_price: $150 
 scale: one sixth
@@ -28,10 +28,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, sammlerman]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, sammlerman, lord korvo]
 toy_pics: 
   -  atrocity-exhibition-2-pack_01_6_by_sammlerman_via_ebay.jpg
   -  atrocity-exhibition-2-pack_02_6_by_sammlerman_via_ebay.jpg
+  -  atrocity-tommy-01-6_by_lord-korvo-via-flickr.jpg
   -  atrocity-exhibition-2-pack_03_6_by_sammlerman_via_ebay.jpg
   -  atrocity-exhibition-2-pack_04_6_by_sammlerman_via_ebay.jpg
   -  atrocity-exhibition-2-pack_05_6_by_sammlerman_via_ebay.jpg

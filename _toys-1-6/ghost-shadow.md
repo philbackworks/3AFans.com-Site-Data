@@ -13,7 +13,7 @@ release_date: 6/26/2010
 release_price: $320 (4 figure set price)
 scale: one sixth
 size: 12 inches tall
-comes_with: 
+comes_with: Skullboom
 edition_qty: 75
 exclusive: yes
 secret_drop:
@@ -42,7 +42,6 @@ you_might_also_like:
   -  Saturday Adventure Set
   -  Shadow Tommy
   -  Shadow Zombot
-  -  Flakey Frost
   -  Sunday Morning 4 Pack
   -  Cherry Shadow and Sanakhte Bodyguard 2-pack
 article_contributors: [Phil Back, frutiger_]

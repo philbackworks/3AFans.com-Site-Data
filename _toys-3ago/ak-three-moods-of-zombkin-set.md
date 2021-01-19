@@ -28,6 +28,8 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+threea_toy_pics:
+  -  3a-three-moods-of-zombkin-set_01-3ago_by_ashley_wood.jpg
 backstory: Comes with Zombkin, Charkin and Exclusive Milky
 sale_type: 
 event_exclusive: 

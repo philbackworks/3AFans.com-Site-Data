@@ -6,8 +6,9 @@ world: World War Robot Portable
 world_abr: WWRp
 character_base: Bramble
 layout: layout-toy-detail
-categories: [WWR, onetwelve]
-release_date: 
+categories: []
+tags: [7,23, yellow, red]
+release_date: 2009
 release_price:
 scale: one twelve # lower case
 size:
@@ -22,7 +23,7 @@ makers: unknown
 points_of_articulation:
 variants:
 you_might_also_like:  
-article_contributors: [Gar, Phil Back, Dester Lacuanan]
+article_contributors: [Gar, Phil Back, Dexter Lacuanan]
 toy_pics:
   -  bramble-mk2-euro-wwrp_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
 backstory:

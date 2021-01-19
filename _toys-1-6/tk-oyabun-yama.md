@@ -28,9 +28,12 @@ variants:
 you_might_also_like: 
   -  TK Oyabun Naga
   -  TK Oyabun 2 Pack
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, lord korvo]
 toy_pics: 
   -  tk-oyabun-yama-01-6-by-foreignparticle.jpg
+  -  tk-oyabun-01-6_by_lord-korvo-via-flickr.jpg
+  -  tk-oyabun-02-6_by_lord-korvo-via-flickr.jpg
+  -  yama2-01-6_by_lord-korvo-via-flickr.jpg
 backstory: 
 sale_type: 
 event_exclusive: 
@@ -40,7 +43,6 @@ source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 "They fight in 4D {x}=(p,q,r,s) Extract from Bernard Sumner's book 'The Up Brain'
 
 The whine and scream of Mortis Devil bots in the distance rouse Yama and Naga from their sleep, with machine like precision they prepare for battle, not a word or look is exchanged between." - Ultra Tomorrow TK convention booklet - 2019
-
 
 "With a slight acknowledgement of my presence, they leave our temporary dwelling for battle. I never saw them again, my time with them remarkably serene and enlightening considering my guests' disposition of being bred for war, their minds able to calcite such complex equation in per-time giving them access to special abilities outside the norm. With autism once considered a debilitating state of mind it could now look to be a high evolutionary path?
 

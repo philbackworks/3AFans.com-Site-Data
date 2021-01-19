@@ -4,7 +4,7 @@ toy_id: oliver-apple-plus-glossy-green-apple
 toy_name: Oliver Apple plus Glossy Green Apple
 permalink: /toys-1-6/oliver-apple-plus-glossy-green-apple.html
 world: PARADE
-world_abr: 
+world_abr: PAR
 character_base: 
 layout: layout-toy-detail
 categories: 

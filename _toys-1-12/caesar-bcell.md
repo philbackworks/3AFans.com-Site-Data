@@ -5,7 +5,7 @@ toy_name: Caesar BcELL
 permalink: /toys-1-12/caesar-bcell.html
 world: WWRp
 world_abr: WWRp
-character_base: 
+character_base: Caesar
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, red, white, los angeles, depot 4, bcell logistics]

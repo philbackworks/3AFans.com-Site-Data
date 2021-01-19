@@ -4,7 +4,7 @@ toy_id: ghg-gertrude-sitrom
 toy_name: GHG Gertrude Sitrom
 permalink: /toys-1-12/ghg-gertrude-sitrom.html
 world: Kenny Wong
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

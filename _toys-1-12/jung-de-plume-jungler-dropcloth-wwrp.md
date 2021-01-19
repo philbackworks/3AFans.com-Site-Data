@@ -5,7 +5,7 @@ toy_name: Jung de Plume and Jungler Dropcloth WWRp
 permalink: /toys-1-12/jung-de-plume-and-jungler-dropcloth-wwrp.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Dropcloth
 categories: 
 tags: [action portable, ap] 
 release_date: 4/27/2011

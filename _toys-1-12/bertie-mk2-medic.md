@@ -27,11 +27,12 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Keguang Kho, lord korvo]
 toy_pics: 
   -  wwrp-medic-bertie-and-square-01-6-by-keguang-kho.jpg
   -  wwrp-medic-bertie-and-square-02-6-by-keguang-kho.jpg
   -  wwrp-medic-bertie-and-square-03-6-by-keguang-kho.jpg
+  -  wwrp-medic-square-01-12_by_lord-korvo-via-flickr.jpg
 backstory: Many variations, including Retailer Exclusives
 sale_type: 
 event_exclusive: 

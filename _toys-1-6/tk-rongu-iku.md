@@ -36,8 +36,17 @@ variants:
   -  TK Awai Kuki Hanma
   -  TK Yoru No Hitto
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Chong Wey Ming]
 toy_pics: 
+  -  tk-rongu-iku_04-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_03-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_05-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_06-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_07-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_08-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_09-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_01-6_chong-wey-ming_via_instagram.jpg
+  -  tk-rongu-iku_02-6_chong-wey-ming_via_instagram.jpg
 threea_toy_pics:
   -  3a-tk-rongu-iku-by-threea.jpg
   -  3a-tk-hammer-time-by-threea.jpg

@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: zvr-zomb
 toy_name: ZvR Zomb
 permalink: /toys-1-12/zvr-zomb.html
-world: AP Adventure Kartel
-world_abr: 
+world: AP ZVR
+world_abr: ZVR
 character_base: 
 layout: layout-toy-detail
 categories: 

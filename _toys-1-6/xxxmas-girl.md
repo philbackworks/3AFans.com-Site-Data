@@ -27,10 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, szutsung]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, szutsung, gar]
 toy_pics: 
   -  isobelle-pascha-xxxmas-girl-red-skirt_01_6_by_FRUTIGER_.jpg
   -  xxxmas-girl_01-6_by_SZUTSUNG_via_instagram.jpg
+  -  christmas-xxxmas-liz-01-6_by_gar_v1-via-instagram.jpg
 backstory: Limited pre-made blind box. Purple (Liz), Turquoise (Iso) and Teal (Miyu) hair variants, each comes with sack containing unknown gift
 sale_type: 
 event_exclusive: 

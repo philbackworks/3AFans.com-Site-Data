@@ -13,13 +13,13 @@ links:
 role: Photo contributor
 pic: bio-wang2nobody.jpg
 misc_contributions:
-  - name: Article - 10 Most Rare Releases from 3A Toys
-    link: /10-Most-Rare-Releases-from-3A-Toys/
-  - name: Article - 3A Toys That Never Were
-    link: /3a-toys-that-never-were/
+  # - name: Article - 10 Most Rare Releases from 3A Toys
+  #   link: /10-Most-Rare-Releases-from-3A-Toys/
+  # - name: Article - 3A Toys That Never Were
+  #   link: /3a-toys-that-never-were/
   - name: UV Sale Information - Ashtro Lad Chrome to the Stars Thank You Set
     link: /underverse-toys/ashtro-lad-chrome-to-the-stars-thank-you-set.html
 ---
 Toy collector. ThreeA aficionado.
 
-Wang2Nobody shares great photos of his 3A toys on Instagram. He'll feature his figures with deep shadows (N.O.M, TK) or against brighter, clear backgrounds. His shot of the N.O.M Commanders outside in the snow is cool and he's shared some awesome photos from the ThreeA Beijing BTS Afterparty. Looking forward to what he shares next.
+Wang2Nobody shares great photos of his 3A toys on Instagram. He'll feature his figures with deep shadows (N.O.M, TK) or against brighter, clear backgrounds. His shot of the N.O.M Commanders outside in the snow is cool and he's shared some awesome photos from the ThreeA Beijing BTS Afterparty. Looking forward to what he shares next. 

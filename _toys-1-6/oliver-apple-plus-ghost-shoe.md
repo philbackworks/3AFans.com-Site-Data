@@ -4,7 +4,7 @@ toy_id: oliver-apple-plus-ghost-shoe
 toy_name: Oliver Apple plus Ghost Shoe
 permalink: /toys-1-6/oliver-apple-plus-ghost-shoe.html
 world: PARADE
-world_abr: 
+world_abr: PAR
 character_base: 
 layout: layout-toy-detail
 categories: 

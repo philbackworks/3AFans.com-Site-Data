@@ -25,10 +25,11 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Les Mort 13
 you_might_also_like: 
   -  Dead Astronaut Gangsta White
-  -  Dead Astronaut Gangsta Set
-  -  Dark Dead Astronaut Gangsta
+  -  DEAD ASTRONAUT GANGSTA GOLOVOREZ COSMONAUT
+  -  DEAD ASTRONAUT GANGSTA DARK
 article_contributors: [Phil Back, Don Slater, MW Wutasi, luciferbeck, frutiger_, Patrick Wong]
 toy_pics: 
   -  future-mort-13-01-6-by-luciferbeck.jpg

@@ -4,7 +4,7 @@ toy_id: adventure-kartel-14-piece-set
 toy_name: Adventure Kartel 14 Piece Set
 permalink: /toys-1-12/adventure-kartel-14-piece-set.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

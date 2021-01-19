@@ -36,8 +36,11 @@ you_might_also_like:
   -  Judge Death Classic Comic Book Edition
   -  Judge Fish and Gronk Set
   -  Judge Fish and Gronk Set Comic Version
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, gar]
 toy_pics: 
+  -  judge-dredd-lawmaster-comic-version-01-6_by_gar_v1-via-instagram.jpg
+  -  judge-dredd-lawmaster-comic-version-02-6_by_gar_v1-via-instagram.jpg
+  -  judge-dredd-lawmaster-comic-version-03-6_by_gar_v1-via-instagram.jpg
 backstory: Bambaland Exclusive
 sale_type: 
 event_exclusive: 

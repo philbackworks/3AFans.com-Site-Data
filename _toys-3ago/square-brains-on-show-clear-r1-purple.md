@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Square
 layout: layout-toy-detail
 categories: 
+tags: [clear, transparent, 3-pack, 3 pack, threeway, 3pack]
 release_date: 
 release_price: $99
 scale: 3ago
@@ -25,6 +26,8 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Square Brains On Show Clear R1 Blue
+  -  Square Brains On Show Clear R1 Red
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 

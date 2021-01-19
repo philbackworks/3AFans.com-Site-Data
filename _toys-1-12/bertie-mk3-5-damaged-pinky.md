@@ -5,7 +5,7 @@ toy_name: Bertie MK3.5 Damaged PINKY
 permalink: /toys-1-12/bertie-mk3-5-damaged-pinky.html
 world: WWRp
 world_abr: WWRp
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, pinky, bromwich, pru, zw, cloak, red, dmg, oww, hurting, 4748]

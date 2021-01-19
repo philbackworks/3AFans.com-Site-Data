@@ -4,7 +4,7 @@ toy_id: tk-aki-ap
 toy_name: TK Aki AP
 permalink: /toys-1-12/tk-aki-ap.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 

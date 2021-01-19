@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
-toy_id: bramble-plus-kitty-and-amanda-visell
+toy_id: bramble-and-kitty-by-amanda-visell
 toy_name: Bramble and Kitty by Amanda Visell
-permalink: /toys-non-scale/bramble-plus-kitty-by-amanda-visell.html
+permalink: /toys-non-scale/bramble-and-kitty-by-amanda-visell.html
 world: Amanda Visell
 world_abr: 
 character_base: 

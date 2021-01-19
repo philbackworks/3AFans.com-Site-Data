@@ -4,7 +4,7 @@ toy_id: death-mask-tk
 toy_name: Death Mask TK
 permalink: /toys-1-12/death-mask-tk.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

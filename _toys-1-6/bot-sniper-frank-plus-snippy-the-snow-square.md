@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [white]
 release_date: 4/5/2013
 release_price: $155 
 scale: one sixth
@@ -27,9 +28,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, zekerone]
 toy_pics: 
   -  bot-sniper-frank-plus-snippy-the-snow-square-01-6-by-foreignparticle.jpg
+  -  snippy-01-6_by_zekerone-via-ebay.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

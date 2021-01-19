@@ -5,7 +5,7 @@ toy_name: JDF Dropcloth plus Square MK1
 permalink: /toys-1-6/jdf-dropcloth-plus-square-mk1.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 tags: [JDF, red, white, stripe, circle, japanese, defence, force]

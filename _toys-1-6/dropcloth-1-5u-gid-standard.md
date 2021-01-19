@@ -5,7 +5,7 @@ toy_name: Dropcloth 1.5U GID Standard
 permalink: /toys-1-6/dropcloth-1-5u-gid-standard.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 tags: [glow-in-the-dark, firefly]

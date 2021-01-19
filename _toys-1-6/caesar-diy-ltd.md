@@ -5,7 +5,7 @@ toy_name: Caesar DIY LTD
 permalink: /toys-1-6/caesar-diy-ltd.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Caesar
 layout: layout-toy-detail
 categories: 
 release_date: 9/14/2011
@@ -25,6 +25,20 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Caesar 666th CLINT E
+  -  Caesar Ap-pel Steve J
+  -  Caesar DEEP COMM
+  -  Caesar DUTCH MERC
+  -  Caesar EMGY
+  -  Caesar Gravedigger
+  -  Caesar JEA GSC
+  -  Caesar JUNGLER DBG
+  -  Caesar PRU Support
+  -  Caesar RIP 001
+  -  Caesar RIP 002
+  -  Caesar RIP 003
+  -  Caesar Rothchild Apostle
+  -  Caesar SURGEON G
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, harey]
 toy_pics: 

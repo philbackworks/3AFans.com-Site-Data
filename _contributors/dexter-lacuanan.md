@@ -18,4 +18,4 @@ Dexter is the star of 1:12 figure collecting and photography. Not into 1:12 scal
 
 "I'm an illustrator, writer, photographer, scale modeler, toy collector, nature lover, miniature painter & hoarder. Oh and I'm also a litigation lawyer."
 
-I can't say enough about how cool his toy photos are. His signature look could be described by the use of detailed diarama backgrounds, or the endless black shadows surrounding his figures. He likes to mix in other toys of similar color and style with his 3A shots. He has a great collection of 1/12 scale toys and I appreciate his creativity! Thank you Dexter for bringing the 1:12 section of this site to life! 
+I can't say enough about how cool his toy photos are. His signature look could be described by the use of detailed diarama backgrounds, or the endless black shadows surrounding his figures. He likes to mix in other toys of similar color and style with his 3A shots. He has a great collection of 1/12 scale toys and I appreciate his creativity! Thank you Dexter for bringing the 1:12 section of this site to life!

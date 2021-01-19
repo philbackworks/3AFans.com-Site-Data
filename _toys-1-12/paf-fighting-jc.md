@@ -4,7 +4,7 @@ toy_id: paf-fighting-jc
 toy_name: PAF Fighting JC
 permalink: /toys-1-12/paf-fighting-jc.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

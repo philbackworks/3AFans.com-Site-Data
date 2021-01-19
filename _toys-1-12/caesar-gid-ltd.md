@@ -5,7 +5,7 @@ toy_name: Caesar G.I.D LTD
 permalink: /toys-1-12/caesar-gid-ltd.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Caesar
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

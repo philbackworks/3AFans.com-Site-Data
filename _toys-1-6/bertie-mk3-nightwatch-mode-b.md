@@ -27,7 +27,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 
   -  nightwatch-bertie-mk3-mode-b_01_6_by_abrader_john-mcdaniel.jpg
   -  nightwatch-bertie-mk3-mode-b_02_6_by_abrader_john-mcdaniel.jpg

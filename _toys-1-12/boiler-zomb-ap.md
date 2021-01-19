@@ -4,7 +4,7 @@ toy_id: boiler-zomb-ap
 toy_name: Boiler Zomb AP
 permalink: /toys-1-12/boiler-zomb-ap.html
 world: Action Portable
-world_abr: Ap
+world_abr: AK
 character_base: Zomb
 categories: 
 tags: [action portable, ap, black]

@@ -8,6 +8,7 @@ world_abr: IP
 character_base: 
 layout: layout-toy-detail
 categories: 
+tags: [plush, egg, easter, snoogle]
 release_date: 4/3/2015
 release_price: $140 
 scale: one sixth
@@ -30,6 +31,8 @@ variants:
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+  -  pink-latex-miyu-easter-egger_01_6_by_alice_adrenochrome_via_fb.jpg
+  -  pink-latex-miyu-easter-egger_02_6_by_alice_adrenochrome_via_fb.jpg
   -  miyu-digital-pop-angel-cosplay-02-6-by-apple_tamer-batedbunnytoys.jpg
 backstory: LTD Surprise Drop
 sale_type: 
@@ -37,4 +40,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
- Pink outfit!
+Plush Egg!

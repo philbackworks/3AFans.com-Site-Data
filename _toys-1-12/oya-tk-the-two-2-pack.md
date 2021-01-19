@@ -4,7 +4,7 @@ toy_id: oya-tk-the-two-2-pack
 toy_name: Oya TK the Two 2 Pack
 permalink: /toys-1-12/oya-tk-the-two-2-pack.html
 world: Popbot AP
-world_abr: 
+world_abr: POP
 character_base: TK
 categories: 
 tags: [action portable, ap, black, white, tomorrow king] 
@@ -26,9 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan, Larry Berman]
 toy_pics: 
   -  oya-tk-the-two-2-pack_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
+  -  popbot-action-portable-oya-tk-the-two-box-01-12_by_larry-berman.jpg
+  -  popbot-action-portable-oya-tk-the-two-01-12_by_larry-berman.jpg
 backstory: LTD surprise drop. Includes AP Shadow and Light Oyabun
 sale_type: 
 event_exclusive: 

@@ -5,7 +5,7 @@ toy_name: Bertie MK3 Mode B Merc
 permalink: /toys-1-6/bertie-mk3-mode-b-merc.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 release_date: 11/26/2010

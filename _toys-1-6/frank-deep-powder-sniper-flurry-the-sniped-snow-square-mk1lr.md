@@ -8,6 +8,7 @@ world_abr: WWR
 character_base: Robot
 layout: layout-toy-detail
 categories: 
+tags: [snippy]
 release_date: 4/5/13
 release_price: $155 USD
 scale: one sixth

@@ -5,7 +5,7 @@ toy_name: Bertie MK3 Mode A Deep Powder Corp
 permalink: /toys-1-12/bertie-mk3-mode-a-deep-powder-corp.html
 world: WWRp
 world_abr: WWRp
-character_base: WWRp
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

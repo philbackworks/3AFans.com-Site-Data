@@ -27,10 +27,12 @@ variants:
 you_might_also_like:
   -  Ankou Asclepius
   -  Ankou Police
-article_contributors: [Phil Back, sjcui]
+article_contributors: [Phil Back, sjcui, lord korvo]
 toy_pics:
   -  fat-drown-01-6-by-sjcui.jpg
+  -  ankou-ex-fat-drown-01-6_by_lord-korvo-via-flickr.jpg
   -  fat-drown-02-6-by-sjcui.jpg
+  -  fat-drown-01-6_by_lord-korvo-via-flickr.jpg
 backstory:
 ---
 Originally offered as a preorder for September 2011.

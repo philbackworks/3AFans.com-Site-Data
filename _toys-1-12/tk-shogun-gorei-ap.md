@@ -26,7 +26,17 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  TK Shogun Tsuki AP
 you_might_also_like: 
+  -  change_scale: [TK Shogun DIY, 6]
+  -  change_scale: [TK Shogun Deathmask, 6]
+  -  change_scale: [TK Shogun Gorei, 6]
+  -  change_scale: [TK Shogun HOLDOUT AT DUMPER Two Figure Set, 6]
+  -  change_scale: [TK Shogun Shadow and Light Set LTD, 6]
+  -  change_scale: [TK Shogun Tsuki, 6]
+  -  change_scale: [TK Tomb Diver Shogun Hana, 6]
+  -  change_scale: [Liberator King No Tomorrow Shogun, 6]
+  -  change_scale: [Seven Bones Tomorrow King Shogun Shiho, 6]
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
   -  tk-shogun-gorei-ap_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg

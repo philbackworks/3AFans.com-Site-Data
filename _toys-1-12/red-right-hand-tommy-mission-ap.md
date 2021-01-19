@@ -4,7 +4,7 @@ toy_id: red-right-hand-tommy-mission-ap
 toy_name: Red Right Hand Tommy Mission AP
 permalink: /toys-1-12/red-right-hand-tommy-mission-ap.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -46,9 +46,10 @@ you_might_also_like:
   -  Large Martin Wave Three 3 Pack A
   -  Large Martin Wave Three 3 Pack B
   -  Large Martin Wave Three 3 Pack C
-article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, yumiao_miao, Dexter Lacuanan]
 toy_pics: 
   -  large-martin-jea_01-6_3a-toys_by-yumaomao555_via_instagram.jpg
+  -  large-martin-jea-01-6_by_dexter_lacuanan-via-instagram.jpg
 backstory: Available in the 3-pack wave three pack A - Large Martin Marine JEA, Damn Large Martin Dam Buster, Bramble Phobos Defense RPG
 sale_type: 
 event_exclusive: 

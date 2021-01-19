@@ -4,7 +4,7 @@ toy_id: fighting-jc-exegesis
 toy_name: Fighting JC Exegesis 
 permalink: /toys-1-12/fighting-jc-exegesis.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: JC
 layout: layout-toy-detail
 categories: 

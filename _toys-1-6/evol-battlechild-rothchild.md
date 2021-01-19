@@ -4,7 +4,7 @@ toy_name: EVOL Battlechild Rothchild
 permalink: /toys-1-6/evol-battlefield-rothchild.html
 world: World War Robot
 world_abr: WWR
-character_base: Rothchild
+character_base: [Rothchild, Caesar]
 layout: layout-toy-detail
 categories: [WWR, onesixth]
 tags: [set, multipack, 2-way, two-pack, boxed set, caesar, android, cyborg, prosthetic, arm, camo, eye patch]

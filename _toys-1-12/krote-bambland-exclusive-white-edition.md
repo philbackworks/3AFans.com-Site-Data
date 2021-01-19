@@ -4,7 +4,7 @@ toy_id: krote-bambland-exclusive-white-edition
 toy_name: Krote Bambland Exclusive White Edition
 permalink: /toys-1-12/krote-bambland-exclusive-white-edition.html
 world: Ma.K.
-world_abr: 
+world_abr: MAK
 character_base: 
 layout: layout-toy-detail
 categories: 

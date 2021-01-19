@@ -25,6 +25,7 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 46
 variants: 
+  -  Bloody Dirty Deeds Bertie MK1
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, sjcui, badass_wayne]
 toy_pics: 

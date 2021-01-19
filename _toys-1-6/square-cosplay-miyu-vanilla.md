@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: square-cosplay-miyu-vanilla
-toy_name: Square Cosplay Miyu - Vanilla
+toy_name: Square Cosplay Miyu Vanilla
 permalink: /toys-1-6/square-cosplay-miyu-vanilla.html
 world: The Adventures of Isobelle Pascha
 world_abr: 
@@ -24,7 +24,11 @@ product_code: 00000000SDCCVANILLA
 designer: Ashley Wood
 makers: 
 points_of_articulation: 
-variants: 
+variants:  
+  -  Square Cosplay Miyu Orange
+  -  Square Cosplay Miyu Dark Choco
+  -  Square Cosplay Miyu Milk Choco
+  -  Square Cosplay Miyu Spearmint
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, hwang_21]
 toy_pics: 

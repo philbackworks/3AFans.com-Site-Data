@@ -7,7 +7,7 @@ world_abr: AK
 character_base: Male
 layout: layout-toy-detail
 categories: [onesixth]
-release_date: 
+release_date: 2012
 release_price: 
 scale: one sixth
 size: 12 inches tall
@@ -30,7 +30,7 @@ you_might_also_like:
   -  Flakey Frost
 article_contributors: [Phil Back, 3a_boltman]
 toy_pics: 
-  -  cold-dick-01-6.jpg
+  # -  cold-dick-01-6.jpg
 backstory:
 ---
 Merde Mission is the father of Bleak Mission and grandfather of Tommy Mission.

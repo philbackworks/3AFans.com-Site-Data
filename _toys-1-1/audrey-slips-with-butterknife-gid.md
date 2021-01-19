@@ -35,3 +35,6 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+(GID vinyl foot wearing white heel)
+
+"After the butter knife incident, a ghostly foot would be seen haunting the kitchen for years to come!" - From the box

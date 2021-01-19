@@ -4,7 +4,7 @@ toy_id: slicer-tomorrow-king-baka-ap
 toy_name: Slicer Tomorrow King Baka AP
 permalink: /toys-1-12/slicer-tomorrow-king-baka-ap.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: TK
 categories: 
 tags: [action portable, ap, mask, tomorrow king, twin swords] 

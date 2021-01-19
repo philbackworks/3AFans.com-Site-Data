@@ -4,7 +4,7 @@ toy_id: eleven-figure-super-duper-set
 toy_name: Action Portable Eleven Figure Super Duper Set
 permalink: /toys-1-12/eleven-figure-super-duper-set.html
 world: Adventure Kartel Action Portable
-world_abr: AKAP
+world_abr: AK
 character_base: All
 layout: layout-toy-detail
 categories: 

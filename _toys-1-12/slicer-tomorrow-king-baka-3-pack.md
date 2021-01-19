@@ -4,7 +4,7 @@ toy_id: slicer-tomorrow-king-baka-3-pack
 toy_name: Slicer Tomorrow King Baka 3 Pack
 permalink: /toys-1-12/slicer-tomorrow-king-baka-3-pack.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 

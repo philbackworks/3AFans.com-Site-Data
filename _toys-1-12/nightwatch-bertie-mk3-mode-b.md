@@ -5,7 +5,7 @@ toy_name: Nightwatch Bertie MK3 Mode B
 permalink: /toys-1-12/nightwatch-bertie-mk3-mode-b.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Bertie MK3
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

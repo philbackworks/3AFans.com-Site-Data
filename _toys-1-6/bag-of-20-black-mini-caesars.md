@@ -5,7 +5,7 @@ toy_name: Bag of 20 Black Mini Caesars
 permalink: /toys-1-6/bag-of-20-black-mini-caesars.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Caesar
 layout: layout-toy-detail
 categories: 
 tags: [bag, tiny, robot, rothchild]

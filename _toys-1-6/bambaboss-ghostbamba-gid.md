@@ -13,7 +13,7 @@ release_date: 9/1/2009
 release_price: $80 
 scale: one sixth
 size: 12 inches
-comes_with: 
+comes_with: Smoke plumes on the back and 3 faceplates
 edition_qty: 50
 chase: 
 exclusive: yes
@@ -24,7 +24,7 @@ packaging_type:
 product_code: GIDB
 designer: Ashley Wood
 makers: 
-points_of_articulation: 
+points_of_articulation: "Severely unarticulated"
 variants: 
 you_might_also_like: 
   -  Bambaboss 01 Panda Boss
@@ -40,3 +40,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+3A Mascot! - Hoodie with plume of smoke coming out the back.

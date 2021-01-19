@@ -4,7 +4,7 @@ toy_id: dark-matter-lasstranaut
 toy_name: Dark Matter Lasstranaut
 permalink: /toys-1-12/dark-matter-lasstranaut.html
 world: Popbot AP
-world_abr: 
+world_abr: POP
 character_base: 
 categories: 
 tags: [action portable, ap, space girl, spacesuit] 

@@ -8,8 +8,8 @@ world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 
-tags: [punk, mohawk, union jack, bandaid, fox tail]
-release_date: 2014.04.12
+tags: [punk, mohawk, union jack, bandaid, fox tail, UKTK]
+release_date: 04/12/2014
 release_price: $150 
 scale: one sixth
 size: 12 inches
@@ -34,9 +34,15 @@ toy_pics:
   -  search-and-destroy-tk-02-6-by-foreignparticle.jpg
   -  search-and-destroy-uk-tk-01-6-by-xxbarachielxx.jpg
   -  uk-tk-search-and-destroy-_01-6_by_SZUTSUNG_via_instagram.jpg
-backstory: Surprise Drop
+backstory: Surprise Drop. "50 [quantity] for Toy Con, and there are some bamba version, all different..." - Ashley Wood, Q & A 21.
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"...at last you get a chance at a mohawk TK!" - Ash
+
+Blue mohawk and red mohawk versions.
+
+"UKTK was deployed due the Manchester war bleeding out into the general UK, TK not only fight the MORTIS but are general peace keepers, especially DEVIL SOCKS!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#21)</a></cite> 

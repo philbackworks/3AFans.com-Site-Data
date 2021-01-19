@@ -25,7 +25,17 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 30
 variants: 
+  -  TK Shogun DIY
+  -  TK Shogun Deathmask
+  -  TK Shogun Gorei
+  -  TK Shogun HOLDOUT AT DUMPER Two Figure Set
+  -  TK Shogun Shadow and Light Set LTD
+  -  TK Shogun Tsuki
+  -  Liberator King No Tomorrow Shogun
+  -  Seven Bones Tomorrow King Shogun Shiho
 you_might_also_like: 
+  -  change_scale: [TK Shogun Tsuki AP, 12]
+  -  change_scale: [TK Shogun Gorei AP, 12]
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya, Patrick Wong]
 toy_pics: 
   -  tk-shogun-interloper-shogun-hana-01-6.jpg

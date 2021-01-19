@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, gar]
 toy_pics: 
+  -  bramble-mk2-nightwatch-black-guard-01-6_by_gar_v1-via-instagram.jpg
 backstory: Euro Defense chase figure ~ 1/4 ratio
 sale_type: 
 event_exclusive: 

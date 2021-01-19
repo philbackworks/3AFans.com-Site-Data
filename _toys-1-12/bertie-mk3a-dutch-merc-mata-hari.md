@@ -5,7 +5,7 @@ toy_name: Bertie MK3A Dutch Merc Mata Hari
 permalink: /toys-1-12/bertie-mk3a-dutch-merc-mata-hari.html
 world: World War Robot portable
 world_abr: WWRp
-character_base: Bertie
+character_base: Bertie MK3
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, mode A, dutch merc, mercenary, Netherlands]

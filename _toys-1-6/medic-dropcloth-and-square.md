@@ -3,9 +3,9 @@ layout: layout-toy-detail
 toy_id: medic-dropcloth-and-square
 toy_name: Medic Dropcloth and Square
 permalink: /toys-1-6/medic-dropcloth-and-square.html
-world: WWR
-world_abr: Dropcloth
-character_base: 
+world: World War Robot
+world_abr: WWR
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 release_date: 1/29/2010

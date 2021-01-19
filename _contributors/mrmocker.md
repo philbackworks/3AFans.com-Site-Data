@@ -1,7 +1,7 @@
 ---
-contributor_id: mrmocker
+contributor_id: pevansrn
 layout: layout-contributor
-name: mrmocker
+name: pevansrn
 country: ebay
 links:
   instagram: 
@@ -9,11 +9,11 @@ links:
   twitter: 
   youtube:
   pinterest: 
-  web: https://www.ebay.com/itm/254652858665?ul_noapp=true
+  web: https://www.ebay.com/usr/pevansrn
 role: Photo Contributor
-pic: bio-mrmocker.jpg
+pic: bio-pevansrn.jpg
 misc_contributions:
   # - name:  
   #   link: 
 ---
-In the quest to find fan-photos of every 3A release, sometimes the going gets tough! Thanks to an active eBay marketplace for 3A toys, sometimes we get lucky and find pics of toys we need. Thanks to eBay seller Mr.Mocker, for his contributions. <a href="https://www.ebay.com/itm/254652858665?ul_noapp=true" target="_blank">Visit his ebay listing for the Bag of Mini Black Caesars!</a>
+pevansrn - an ebay seller who happened to pop up with a bunch of the rare Halo figures for sale! Glad to get these pics added to the site - thank you pevansrn!

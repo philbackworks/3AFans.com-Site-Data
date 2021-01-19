@@ -24,8 +24,9 @@ makers:
 points_of_articulation: 30
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater]
-toy_pics: 
+article_contributors: [Phil Back, Don Slater, lord korvo]
+toy_pics:
+  -  wwrp-bramble-olivier-01-6_by_lord-korvo-via-flickr.jpg
 backstory: 
 sale_type: BAMBALAND - NORMAL
 event_exclusive: no

@@ -5,7 +5,7 @@ toy_name: Dropcloth Shocktrooper Iron Panda
 permalink: /toys-1-6/dropcloth-shocktrooper-iron-panda.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Dropcloth 
 layout: layout-toy-detail
 categories: 
 release_date: 3/18/2010

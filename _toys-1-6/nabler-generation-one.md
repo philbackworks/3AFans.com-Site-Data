@@ -27,9 +27,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Michael Crawford]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, Michael Crawford, lord korvo]
 toy_pics: 
   -  nabler-v2_01-6_3a-toys_by-michael-crawford_mwctoys_dot_com.jpg
+  -  nabler-gen-one-01-6_by_lord-korvo-via-flickr.jpg
   -  nabler-generation-1-01-6-by-frutiger_.jpg
 backstory: LTD Blind Box; Three Possible Expressions - Smile, Frown, Neutral. - 5 Possible Colorways - Red, Orange, White, Gray, Black
 sale_type: 

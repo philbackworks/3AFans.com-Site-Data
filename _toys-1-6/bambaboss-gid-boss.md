@@ -32,8 +32,9 @@ you_might_also_like:
   -  Bambaboss 6th Year
   -  Bambaboss Ghostbamba GID
   -  Bambaboss Jeaboss
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, zgr0821]
 toy_pics: 
+  -  bambaboss-one-gid-boss-by-3a_01_6_by_zgr0821.jpg
 backstory: Sold on Gallery 3A
 sale_type: 
 event_exclusive: 

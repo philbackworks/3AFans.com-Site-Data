@@ -4,7 +4,7 @@ toy_id: finger-gang-eleven-figure-super-duper-set
 toy_name: Finger Gang Eleven Figure Super Duper Set
 permalink: /toys-1-12/finger-gang-eleven-figure-super-duper-set.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

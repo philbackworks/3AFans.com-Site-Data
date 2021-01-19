@@ -4,7 +4,7 @@ toy_id: ghg-kaitlin-sitrom
 toy_name: GHG Kaitlin Sitrom
 permalink: /toys-1-12/ghg-kaitlin-sitrom.html
 world: Kenny Wong
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

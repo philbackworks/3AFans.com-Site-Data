@@ -3,8 +3,8 @@ layout: layout-toy-detail
 toy_id: the-civil-offensive-ankou-ex-3-pack
 toy_name: Action Portable The Civil Offensive Ankou-EX 3 pack
 permalink: /toys-1-12/the-civil-offensive-ankou-ex-3-pack.html
-world: Adventure Kartel Action Portable
-world_abr: AKAP
+world: AP Adventure Kartel
+world_abr: AK
 character_base: Ankou
 layout: layout-toy-detail
 categories: 

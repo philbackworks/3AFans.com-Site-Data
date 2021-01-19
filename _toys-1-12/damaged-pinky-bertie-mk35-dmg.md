@@ -5,7 +5,7 @@ toy_name: Damaged Pinky Bertie MK35 DMG
 permalink: /toys-1-12/damaged-pinky-bertie-mk35-dmg.html
 world: World War Robot portable
 world_abr: WWRp
-character_base: Robot
+character_base: Bertie MK35
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, WWRp, pink, red, cloak]

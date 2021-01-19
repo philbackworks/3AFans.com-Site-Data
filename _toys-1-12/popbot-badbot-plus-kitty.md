@@ -4,7 +4,7 @@ toy_id: popbot-badbot-plus-kitty
 toy_name: Popbot Badbot + Kitty
 permalink: /toys-1-12/popbot-badbot-plus-kitty.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

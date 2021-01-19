@@ -5,7 +5,7 @@ toy_name: EMGY Dropcloth + Peaceday Square-2 Set
 permalink: /toys-1-6/emgy-dropcloth-plus-peaceday-square-2-set.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 release_date: 1/29/2010

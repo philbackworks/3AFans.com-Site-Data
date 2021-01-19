@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: battlefied-bedroom-clear-leg-seduction-kit
-toy_name: Battlefied Bedroom - Clear Leg Seduction Kit
+toy_name: Battlefied Bedroom Clear Leg Seduction Kit
 permalink: /toys-1-1/battlefied-bedroom-clear-leg-seduction-kit.html
 world: AW Collection
 world_abr: 

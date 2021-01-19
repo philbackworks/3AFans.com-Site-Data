@@ -42,3 +42,6 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+EG v .08 Edition - yellow box with red character artwork.
+
+Figure features red armor, yellow face, upper sleeves, legs and tops of feet. All weathered. Bottom shoulder armor plate is black as is the lower abdominal plate. Large block lettering on each shoulder, "EG", and outside top of each boot, "SI". In small type, upper right chest, "Stark International, EG V.08". Also features a white, quartered circle icon with alternating fills, on the back of the head, lower center chest, left gauntlet. Eyes, chest, and palms light up via battery-powered LED.

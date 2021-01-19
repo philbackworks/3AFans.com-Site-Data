@@ -26,8 +26,9 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, manlyart]
 toy_pics: 
+  -  mighty-square-diy_01-6_3a-toys_by-manlyart-jason-chalker-via_instagram.jpg
 backstory: 26 colorways - DW, NW, Deep Powder, Dirty Deeds Memeorial, DIY, Dutch Merc, F-Album, Fat Cloud, Fong John, Fremantle, Grave Digger, Hard Thirty, ISO, Jea Ricky, Legion, Lunar Defence, Medic, Meow CD, MOD Polymorphic, P18 Maid, PRU ZW, CCCP, ThreeA, Wanpi, WF DBG Jungler, Sand Devil 666th
 sale_type: 
 event_exclusive: 

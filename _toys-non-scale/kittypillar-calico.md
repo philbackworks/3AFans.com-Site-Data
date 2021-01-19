@@ -11,7 +11,7 @@ categories:
 release_date: 12/17/2018
 release_price: $90 
 scale: non-scale
-size: 
+size: 8 inches
 comes_with: 
 edition_qty: 100
 chase: 
@@ -21,13 +21,21 @@ sold_where:
 bamba_points: 
 packaging_type: 
 product_code_/_link: <Spoke Art link>
-designer: Ashley Wood
-makers: Brodie Perkins (Sculptor)
-points_of_articulation: 
+designer: Casey Weldon
+makers: Ashley Wood, Brodie Perkins (Sculptor)
+points_of_articulation: 4
 variants: 
+  -  Kittypillar Blueberry
+  -  Kittypillar Bombay
+  -  Kittypillar Bubblegum
+  -  Kittypillar Chartreux
+  -  Kittypillar Siamese
+  -  Kittypillar Tuxedo
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi]
 toy_pics: 
+threea_toy_pics:
+  -  kittypillar-calico-by-casey-weldon_non-scale_01_by_3a_toys.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

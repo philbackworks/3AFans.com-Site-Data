@@ -29,13 +29,22 @@ variants:
   -  KUMA ATTACK PASCHA BLIND SINGLE
   -  KUMA ATTACK PASCHA 3 PACK
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, baddass_wayne]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung, baddass_wayne, zekerone]
 toy_pics: 
   -  shadow-krieger-kuma_01-6_3a-toys_by_badass_wayne_via_instagram.jpg
   -  shadow-krieger-kuma_02-6_3a-toys_by_badass_wayne_via_instagram.jpg
   -  shadow-krieger-kuma_03-6_3a-toys_by_badass_wayne_via_instagram.jpg
   -  shadow-krieger-kuma_01-6_by_SZUTSUNG_via_instagram.jpg
   -  shadow-krieger-kuma_02-6_by_SZUTSUNG_via_instagram.jpg
+  -  shadow-krieger-kuma_01-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_02-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_03-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_04-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_05-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_06-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_07-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_08-6_by_zekerone-via-ebay.jpg
+  -  shadow-krieger-kuma_09-6_by_zekerone-via-ebay.jpg
 backstory: Surprise LTD Drop
 sale_type: 
 event_exclusive: 

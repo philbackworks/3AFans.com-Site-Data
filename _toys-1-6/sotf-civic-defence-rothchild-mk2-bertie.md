@@ -5,7 +5,7 @@ toy_name: SOTF Civic Defence Rothchild MK2 Bertie
 permalink: /toys-1-6/sotf-civic-defence-rothchild-mk2-bertie.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 tags: [cdr, white, orange, pod, container]

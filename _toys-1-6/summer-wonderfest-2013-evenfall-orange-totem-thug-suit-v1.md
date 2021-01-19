@@ -10,7 +10,7 @@ layout: layout-toy-detail
 categories: 
 release_date: 7/28/13
 release_price: $10 USD
-scale: one sixth
+scale: non-scale
 size: 
 comes_with: 
 edition_qty: 
@@ -31,3 +31,4 @@ event_exclusive: yes
 event_details: TOKYO
 source_doc: 3A2013a.xls
 ---
+ Orange OSM (one sheet model) - snap-model kit, in 1/35th scale.

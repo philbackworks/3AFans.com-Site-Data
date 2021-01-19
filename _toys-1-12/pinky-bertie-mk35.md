@@ -1,11 +1,11 @@
 ---
 layout: layout-toy-detail 
 toy_id: pinky-bertie-mk35
-toy_name: WWRp Pinky Bertie MK35
+toy_name: Pinky Bertie MK35
 permalink: /toys-1-12/pinky-bertie-mk35.html
 world: World War Robot portable
 world_abr: WWRP
-character_base: Robot
+character_base: Bertie
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

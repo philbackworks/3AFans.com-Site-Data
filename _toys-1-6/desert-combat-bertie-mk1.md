@@ -5,7 +5,7 @@ toy_name: Desert Combat Bertie MK1
 permalink: /toys-1-6/desert-combat-bertie-mk1.html
 world: World War Robot
 world_abr: WWR
-character_base:  Bertie MK1
+character_base: Bertie MK1
 layout: layout-toy-detail
 categories: 
 tags: [orange, 11th]

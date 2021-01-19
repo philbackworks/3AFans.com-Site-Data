@@ -27,13 +27,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, szutsung]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, szutsung, threealegionnaire]
 toy_pics: 
+  -  hampstead-latex-with-french-two-way_04-6_by_SZUTSUNG_via_instagram.jpg
+  -  hampstead-latex-and-french_01-6_by_threealegionnaire_via_instagram.jpg
   -  HAMPSTEAD-LATEX-02-6-by-foreignparticle.jpg
   -  hampstead-latex-with-french-two-way_01-6_by_SZUTSUNG_via_instagram.jpg
   -  hampstead-latex-with-french-two-way_02-6_by_SZUTSUNG_via_instagram.jpg
   -  hampstead-latex-with-french-two-way_03-6_by_SZUTSUNG_via_instagram.jpg
-  -  hampstead-latex-with-french-two-way_04-6_by_SZUTSUNG_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

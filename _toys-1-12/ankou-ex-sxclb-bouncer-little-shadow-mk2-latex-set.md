@@ -4,7 +4,7 @@ toy_id: ankou-ex-sxclb-bouncer-little-shadow-mk2-latex-set
 toy_name: Ankou EX SXCLB Bouncer Little Shadow MK2 Latex Set
 permalink: /toys-1-12/ankou-ex-sxclb-bouncer-little-shadow-mk2-latex-set.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

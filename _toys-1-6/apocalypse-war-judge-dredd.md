@@ -27,11 +27,22 @@ makers: Ashley Wood, Gregory Prout
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono, frutiger_]
+  -  change_scale: [JUDGE DEATH CLASSIC COMIC BOOK EDITION, 12]
+  -  change_scale: [JUDGE DEATH, 12]
+  -  change_scale: [JUDGE DREDD, 12]
+  -  change_scale: [JUDGE FEAR, 12]
+  -  change_scale: [JUDGE FISH AND GRONK SET, 12]
+  -  change_scale: [JUDGE MORTIS, 12]
+  -  change_scale: [LAWMASTER MK1, 12]
+  -  change_scale: [MONGROL AND THE MESS AP, 12]
+  -  change_scale: [ROBO-HUNTER SAM SLADE, 12]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, absolutemono, frutiger_, gar]
 toy_pics: 
   -  apokalypse-war-judge-dredd-01-6-by-absolutemono.jpg
   -  apokalypse-war-judge-dredd-02-6-by-absolutemono.jpg
   -  apokalypse-war-judge-dredd-01-6-by-frutiger_.jpg
+  -  apocalypse-war-judge-dredd-01-6_by_gar_v1-via-instagram.jpg
+  -  apocalypse-war-judge-dredd-02-6_by_gar_v1-via-instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

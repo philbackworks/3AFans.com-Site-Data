@@ -5,7 +5,7 @@ toy_name: Emanation NOM Field Commanders set
 permalink: /toys-1-12/emanation-nom-field-commanders-set.html
 world: World War Robot portable
 world_abr: WWRp
-character_base: Robot
+character_base: Bertie, NOM, Commanders
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, set, white, snow, blue goggles, 3-pack, tree-way set]

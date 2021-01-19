@@ -26,6 +26,10 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Square Cosplay Miyu Orange
+  -  Square Cosplay Miyu Dark Choco
+  -  Square Cosplay Miyu Spearmint
+  -  Square Cosplay Miyu Vanilla 
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, szutsung]
 toy_pics: 

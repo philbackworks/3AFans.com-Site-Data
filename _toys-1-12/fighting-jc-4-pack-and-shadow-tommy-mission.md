@@ -4,7 +4,7 @@ toy_id: fighting-jc-4-pack-and-shadow-tommy-mission
 toy_name: Fighting JC 4 Pack and Shadow Tommy Mission
 permalink: /toys-1-12/fighting-jc-4-pack-and-shadow-tommy-mission.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

@@ -26,9 +26,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan, Larry Berman]
 toy_pics: 
   -  emgy-trg-trooper_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
+  -  wwrp-emgy-trg-trooper-grunt-01-12_by_larry-berman.jpg
+  -  box-wwrp-grunt-01-12_by_larry-berman.jpg
   #-  emgy-grunt_01-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
   #-  emgy-grunt_02-12_3a-toys_by_wade_taylor_brickxbronson-via-flickr.jpg
 backstory: $15 S/H

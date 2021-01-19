@@ -27,6 +27,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
+  -  A Man From NOM Post Fire
 article_contributors: [Phil Back, Don Slater, MW Wutasi, ironcrosshunter]
 toy_pics: 
   -  a-man-from-nom-thrice-naut-01-6-by-ironcrosshunter_on_ebay.jpg
@@ -37,7 +38,7 @@ toy_pics:
   -  a-man-from-nom-thrice-naut-06-6-by-ironcrosshunter_on_ebay.jpg
   -  a-man-from-nom-thrice-naut-07-6-by-ironcrosshunter_on_ebay.jpg
   -  a-man-from-nom-thrice-naut-08-6-by-ironcrosshunter_on_ebay.jpg
-backstory: Shadow Commander HK Venture Exclusive
+backstory: Shadow Commander HK Venture Exclusive. HKS09 (from the box)
 sale_type: 
 event_exclusive: 
 event_details: 

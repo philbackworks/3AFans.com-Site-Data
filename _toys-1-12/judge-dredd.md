@@ -31,6 +31,7 @@ you_might_also_like:
   -  Judge Death Classic Comic Book Edition
   -  Judge Fish and Gronk Set
   -  Judge Fish and Gronk Set Comic Version
+  -  change_scale: [Apocalypse War Judge Dredd, 6]
 article_contributors: [Phil Back]
 backstory:
 ---

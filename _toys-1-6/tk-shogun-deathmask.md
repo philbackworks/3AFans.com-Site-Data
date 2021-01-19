@@ -1,8 +1,8 @@
 ---
 layout: layout-toy-detail 
-toy_id: tomorrow-king-shogun-deathmask
-toy_name: Tomorrow King Shogun Deathmask
-permalink: /toys-1-6/tomorrow-king-shogun-deathmask.html
+toy_id: tk-shogun-deathmask
+toy_name: TK Shogun Deathmask
+permalink: /toys-1-6/tk-shogun-deathmask.html
 world: Popbot
 world_abr: POP
 character_base: TK
@@ -25,13 +25,23 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  TK Shogun DIY
+  -  TK Shogun Gorei
+  -  TK Shogun HOLDOUT AT DUMPER Two Figure Set
+  -  TK Shogun Shadow and Light Set LTD
+  -  TK Shogun Tsuki
+  -  TK Tomb Diver Shogun Hana
+  -  Liberator King No Tomorrow Shogun
+  -  Seven Bones Tomorrow King Shogun Shiho
 you_might_also_like: 
+  -  change_scale: [TK Shogun Tsuki AP, 12]
+  -  change_scale: [TK Shogun Gorei AP, 12]
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
   -  tk-shogun-deathmask-01-6.jpg
   -  deathmask-shogun-03-6-by-dk_kuro.jpg
   -  deathmask-shogun-05-6-by-dk_kuro.jpg
-backstory: $160 USD. Japan Venture 2015�Exclusive
+backstory: $160 USD. Japan Venture 2015 Exclusive
 sale_type: 
 event_exclusive: 
 event_details: 

@@ -33,8 +33,9 @@ you_might_also_like:
   -  Zombot
   -  Cherry Bomb
   -  Little Shadow v1
-article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, Andhika Rahmaditya]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 3a_boltman, Andhika Rahmaditya, lord korvo]
 toy_pics: 
+  -  tracky-tommy-01-6_by_lord-korvo-via-flickr.jpg
   -  dirty-tracky-tommy-mission_05-6_by_dk_kuro_via_instagram.jpg
   -  dirty-tracky-tommy-mission-01-12-by-3a_boltman.jpg
 backstory: 

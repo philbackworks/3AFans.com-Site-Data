@@ -4,7 +4,7 @@ toy_id: shadow-merde
 toy_name: Shadow Merde
 permalink: /toys-1-12/shadow-merde.html
 world: AP Adventure Kartel
-world_abr: 
+world_abr: AK
 character_base: 
 layout: layout-toy-detail
 categories: 

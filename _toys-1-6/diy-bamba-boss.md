@@ -26,9 +26,10 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, 718comicsnbeats]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, 718comicsnbeats, lord korvo]
 toy_pics: 
   -  diy-bambaboss_01-6_by-bronxkartel718_via_instagram.jpg
+  -  diy-bambalad-01-6_by_lord-korvo-via-flickr.jpg
 backstory: Released for 3A's One Year Anniversary
 sale_type: 
 event_exclusive: 

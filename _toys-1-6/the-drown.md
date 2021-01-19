@@ -14,7 +14,7 @@ release_price: $80
 scale: one sixth
 size: 12 inches
 comes_with: 
-edition_qty: Extremly limited
+edition_qty: Extremly limited ~40
 chase: 
 exclusive: 
 secret_drop: yes
@@ -37,7 +37,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Andhika Rahmaditya]
 toy_pics: 
   -  the-drown-ankou_01-6_by_dk_kuro_via_instagram.jpg
-backstory: Extremely LTD surprise drop
+backstory: Extremely LTD surprise drop. Gregory mentioned on the FB group he suspected only 40 were made!
 sale_type: 
 event_exclusive: 
 event_details: 

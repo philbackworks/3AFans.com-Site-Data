@@ -56,3 +56,6 @@ backstory:  LTD time sale. Comes with a new zomb head sculpt with neck adapter
 "Red Atonement JC" or "Red Night JC" features the "New Pissed Off Head Sculpt", has fabric bandages, fake leather boots and comes with a "newly sculpted zombie head". This figure was available via a 'timed sale premade edition'.
 
 "One thousand heads I shall deliver on this night, the RED NIGHT!"
+
+"Red JC is really SUPER PISSED OFF JC, when he goes beyond his sedate, knee-the-evil-state-of-mind, he basically turns red and beats the living crap outta anything that moves!"
+<cite>- Ashley Wood, <a href="http://worldof3alegion.forumotion.com/t287-qa-sessions-with-ashley-wood" target="_blank">ThreeA blog Q and A (#22)</a></cite> 

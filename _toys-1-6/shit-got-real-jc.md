@@ -14,7 +14,7 @@ scale: one sixth
 size: 12 inches tall
 comes_with: 
 edition_qty: unknown
-exclusive: no
+exclusive: yes
 secret_drop:
 sold_where: bambaland.com
 packaging_type: box
@@ -35,9 +35,11 @@ you_might_also_like:
   -  Ankou Newandria Police
   -  Blood Nails Tommy Mission
   -  Little Shadow v1
-article_contributors: [Phil Back, foreignparticle]
+article_contributors: [Phil Back, foreignparticle, gar]
 toy_pics:
   -  jc-shit-got-real-bt-threea-01_6_by_foreignparticle_via_instagram.jpg
+  -  shit-got-real-jc-01-6_by_gar_v1-via-instagram.jpg
+  -  shit-got-real-jc-02-6_by_gar_v1-via-instagram.jpg
 backstory: Features a "New Pissed Off Head Sculpt". Was an ACG Comics & Games Expo 2013 Exclusive and a Bambaland release. Has green camo pants.
 ---
 

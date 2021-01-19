@@ -35,4 +35,5 @@ sale_type:
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
+# https://www.facebook.com/media/set/?set=a.431067140346969.1073741892.171245289662490&type=1&l=fc35079531
 ---

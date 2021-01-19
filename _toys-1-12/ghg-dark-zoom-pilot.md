@@ -4,7 +4,7 @@ toy_id: ghg-dark-zoom-pilot
 toy_name: GHG Dark Zoom Pilot
 permalink: /toys-1-12/ghg-dark-zoom-pilot.html
 world: Kenny Wong
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

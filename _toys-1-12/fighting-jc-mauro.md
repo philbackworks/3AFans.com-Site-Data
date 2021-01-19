@@ -4,7 +4,7 @@ toy_id: fighting-jc-mauro
 toy_name: Fighting JC Mauro
 permalink: /toys-1-12/fighting-jc-mauro.html
 world: Adventure Kartel AP
-world_abr: 
+world_abr: AK
 character_base: 
 categories: 
 tags: [action portable, ap, hood, dark] 

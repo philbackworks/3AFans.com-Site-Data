@@ -4,7 +4,7 @@ toy_id: lonely-trooper-tk-noir-sergeant-ap
 toy_name: Lonely Trooper TK Noir Sergeant AP
 permalink: /toys-1-12/lonely-trooper-tk-noir-sergeant-ap.html
 world: AP Star Wars Alternate
-world_abr: 
+world_abr: POP
 character_base: TK
 layout: layout-toy-detail
 categories: 

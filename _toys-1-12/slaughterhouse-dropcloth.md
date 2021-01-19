@@ -5,7 +5,7 @@ toy_name: Slaughterhouse Dropcloth
 permalink: /toys-1-12/slaughterhouse-dropcloth.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

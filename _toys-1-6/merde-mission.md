@@ -34,6 +34,10 @@ toy_pics:
   -  merde-mission-02-6.jpg
 backstory: The Father of Bleak Mission. There were 2 releases of this awesome 4-pack - the first at the Japan Venture 3A event, along with a Bambaland.com version.
 ---
+
+"Fuck you, you sniveling guttersnipe, I'm Merde Mission" - From the 3A Premade Sale promo piece
+
+
 Merde Mission is the father of Bleak Mission and grandfather of Tommy Mission.
 
 From the official promotional material from ThreeA:

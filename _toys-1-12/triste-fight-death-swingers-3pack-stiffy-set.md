@@ -5,7 +5,7 @@ toy_name: Triste Fight Death Swingers 3Pack Stiffy Set
 permalink: /toys-1-12/triste-fight-death-swingers-3pack-stiffy-set.html
 world: World War Robot Portable
 world_abr: WWRp
-character_base: 
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap, commando dropcloth, fallen de plume, kuan de plume, one sandy fuck, gebi de plume, 3-way, 3-pack, threeway, three pack, 3P, red, yellow, green, 5] 

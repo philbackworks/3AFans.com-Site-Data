@@ -28,9 +28,19 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, zekerone]
 toy_pics: 
-  -  aklub-one-golden-dolphin-no-shit-on-these-flippers-set_01_6_by_lumpyheadstudios.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-01-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-02-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-03-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-04-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-05-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-06-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-07-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-08-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-09-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-10-6_by_zekerone-via-ebay.jpg
+  -  golden-dolphin-set_no-shit-on-these-flippers-11-6_by_zekerone-via-ebay.jpg
 backstory: Golden Dolphin + Soy Dolphin
 sale_type: 
 event_exclusive: 

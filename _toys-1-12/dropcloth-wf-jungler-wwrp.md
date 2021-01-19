@@ -4,7 +4,7 @@ toy_id: dropcloth-wf-jungler-wwrp
 toy_name: Dropcloth WF Jungler WWRp
 permalink: /toys-1-12/dropcloth-wf-jungler-wwrp.html
 world: World War Robot Portable
-world_abr: WWR
+world_abr: WWRp
 character_base: Dropcloth
 categories: 
 tags: [action portable, ap, wwrp, camo] 
@@ -36,3 +36,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+{% include inc-toy-wwrp-dropcloth-details.html %}

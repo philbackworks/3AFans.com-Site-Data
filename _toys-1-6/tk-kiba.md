@@ -32,16 +32,20 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
-  -  Data Liberator Aki
+  -  TK Data Liberator Aki
 you_might_also_like: 
   -  TK Yoji
-  -  TKLUB FOUR RONIN TK SUN
+  -  TK Oyabun Naga
   -  Interloper Heavy IH001
   -  TK Kenshiro Negro
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, xxbarachielxx]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, xxbarachielxx, lord korvo]
 toy_pics: 
   -  tk-kiba-01-1-by_foreignparticle.jpg
+  -  tk-kiba-02-6_by_lord-korvo-via-flickr.jpg
+  -  tk-kiba-01-6_by_lord-korvo-via-flickr.jpg
   -  data-liberator-kiba-01-6.jpg
+  -  tk-kiba-03-6_by_lord-korvo-via-flickr.jpg
+  -  tk-kiba-04-6_by_lord-korvo-via-flickr.jpg
   -  tomorrow-king-kiba-black-shirt-black-hair-01-6-by-xxbarachielxx.jpg
 backstory: 
 sale_type: 

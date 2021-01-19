@@ -27,8 +27,11 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lord korvo]
 toy_pics: 
+  -  diy-bramble-wwrp-01-6_by_lord-korvo-via-flickr.jpg
+  -  euro-bramble-01-12_by_lord-korvo-via-flickr.jpg
+  -  euro-bramble-02-12_by_lord-korvo-via-flickr.jpg
 backstory: Euro, Winter Defense, MERC, Marine, Medic, DIY gatling gun Exclusive
 sale_type: 
 event_exclusive: 

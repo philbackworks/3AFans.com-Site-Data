@@ -7,7 +7,7 @@ world: World War Robot Portable
 world_abr: WWRp
 character_base: [Dropcloth, Square]
 categories: 
-tags: [action portable, ap, cccp, kruschev memorial, red, yellow] 
+tags: [action portable, ap, cccp, kruschev memorial, red, yellow, superset] 
 release_date: 6/15/2013
 release_price: $230 
 scale: one twelve
@@ -29,28 +29,10 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, Dexter Lacuanan]
 toy_pics: 
   -  dropcloth-cccp-slim-red_01-12_3a-toys_by-dexter-lacuanan-via_instagram.jpg
-backstory: Includes Desert, Slim Red, JEA, Iron Panda, Deimos, Peaceday, EMGY, Snowballer & Medic. Comes with 3 bonus WWRp Squares including Fat Cloud, Fremantle Dock, iSO, & Legion Pride (chase)
+backstory:
 sale_type: 
 event_exclusive: 
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
-Includes Desert
-
-Slim Red (pictured)
-
-JEA
-
-Iron Panda
-
-Deimos
-
-Peaceday
-
-EMGY
-
-Snowballer
-
-Medic
-
-Comes with 3 bonus WWRp Squares including Fat Cloud, Fremantle Dock, iSO, & Legion Pride (chase)
+{% include inc-toy-wwrp-dropcloth-details.html %}

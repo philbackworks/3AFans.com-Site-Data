@@ -4,7 +4,7 @@ toy_id: tk-cornelius-ap
 toy_name: TK Cornelius AP
 permalink: /toys-1-12/tk-cornelius-ap.html
 world: Popbot AP
-world_abr: 
+world_abr: POP
 character_base: TK
 categories: 
 tags: [action portable, ap, box, white, black, orange, vest]

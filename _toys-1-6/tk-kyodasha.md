@@ -40,6 +40,8 @@ article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, Patric
 toy_pics: 
   -  tk-kyodasha-01-6-by-foreignparticle.jpg
   -  tk-kyodasha-01-6-by-pcww88-patrick-wong.jpg
+  -  tk-thiddy-hammer_01_6_by_foreignparticle.jpg
+  -  tk-thiddy-hammer_02_6_by_foreignparticle.jpg
 threea_toy_pics:
   -  3a-tk-kyodasha--yellow-hammer-time-by-threea.jpg
   -  3a-tk-hammer-time-by-threea.jpg

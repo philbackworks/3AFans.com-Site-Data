@@ -5,7 +5,7 @@ toy_name: Caesar PRU Support
 permalink: /toys-1-6/caesar-pru-support.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Caesar
 layout: layout-toy-detail
 categories: 
 tags: [Bromwhich, Bromwich]
@@ -26,6 +26,20 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Caesar 666th CLINT E
+  -  Caesar Ap-pel Steve J
+  -  Caesar DEEP COMM
+  -  Caesar DIY LTD
+  -  Caesar DUTCH MERC
+  -  Caesar EMGY
+  -  Caesar Gravedigger
+  -  Caesar JEA GSC
+  -  Caesar JUNGLER DBG
+  -  Caesar RIP 001
+  -  Caesar RIP 002
+  -  Caesar RIP 003
+  -  Caesar Rothchild Apostle
+  -  Caesar SURGEON G
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, John McDaniel]
 toy_pics: 

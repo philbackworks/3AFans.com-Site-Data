@@ -5,7 +5,7 @@ toy_name: Dropcloth 1.5U DIY Ghost
 permalink: /toys-1-6/dropcloth-1-5u-diy-ghost.html
 world: World War Robot
 world_abr: WWR
-character_base: 
+character_base: Dropcloth
 layout: layout-toy-detail
 categories: 
 release_date: 11/14/2012

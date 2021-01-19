@@ -33,10 +33,18 @@ you_might_also_like:
   -  Boiler Zomb Black
   -  Black Rose Nurse Zomb
   -  Bloodhood Hoodzomb
-article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_, foreignparticle, zekerone]
 toy_pics: 
   -  zomb-md-dr-shitvago-and-zomb-albino-nurse_01_6_by_foreignparticle.jpg
   -  aklub-4-zomb-md-and-dr-shitvago-and-albino-nurse_01_6_by_FRUTIGER_.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_01-6_by_zekerone-via-ebay.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_02-6_by_zekerone-via-ebay.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_03-6_by_zekerone-via-ebay.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_04-6_by_zekerone-via-ebay.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_05-6_by_zekerone-via-ebay.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_06-6_by_zekerone-via-ebay.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_07-6_by_zekerone-via-ebay.jpg
+  -  zomb-md-dr-shitvago-plus-albino-nurse-zomb-set_08-6_by_zekerone-via-ebay.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

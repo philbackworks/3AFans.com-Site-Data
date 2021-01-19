@@ -27,9 +27,14 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, zekerone]
 toy_pics: 
   -  ms-shadow-slickerice-01-6-by-foreignparticle.jpg
+  -  ms-shadow-slickerice-01-6_by_zekerone-via-ebay.jpg
+  -  ms-shadow-slickerice-02-6_by_zekerone-via-ebay.jpg
+  -  ms-shadow-slickerice-03-6_by_zekerone-via-ebay.jpg
+  -  ms-shadow-slickerice-04-6_by_zekerone-via-ebay.jpg
+  -  ms-shadow-slickerice-05-6_by_zekerone-via-ebay.jpg
 backstory: $20~$30 S/H. Free reward for purchase of AKLUB# 1, 2, 3, 4; Market updated - sold on ebay 3/31/2019 for $95.
 sale_type: 
 event_exclusive: 

@@ -4,7 +4,7 @@ toy_id: popbot-4way-set-plus-kitties
 toy_name: Popbot 4Way Set + Kitties
 permalink: /toys-1-12/popbot-4way-set-plus-kitties.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 

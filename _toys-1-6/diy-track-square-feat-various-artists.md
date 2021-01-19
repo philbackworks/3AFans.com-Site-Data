@@ -13,7 +13,7 @@ release_price: $150
 scale: one sixth
 size: 
 comes_with: 
-edition_qty: 30
+edition_qty: 30 or 50(?)
 chase: 
 exclusive: STS
 secret_drop: 
@@ -31,7 +31,7 @@ toy_pics:
   -  track-square-shimizu-eiichi-and-shimoguchi-tomohiro-01-6-by-foreignparticle.jpg
   -  diy-track-square-rainbow_01-6-by-mikko-sison.jpg
   -  diy-track-square_01-6_3a-toys_by-kisscat15-via_instagram.jpg
-backstory: LTD Pre-made. By Kenny Wong, Steven Choi, Kelvin Sau, Shimizu Eiichi and Shimoguchi Tomohiro,  Huang-Jia Wei, Zao Dao
+backstory: LTD Pre-made. By Kenny Wong, Steven Choi, Kelvin Sau, Shimizu Eiichi and Shimoguchi Tomohiro,  Huang-Jia Wei (Shiba Inu colorway, authentic STS 2018 Exclusive, Limited to 50), Zao Dao.
 sale_type: 
 event_exclusive: 
 event_details: 

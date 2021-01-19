@@ -6,7 +6,7 @@ world: Adventure Kartel
 world_abr: AK
 character_base: Ankou
 layout: layout-toy-detail
-categories: [AK, onesixth, ankou]
+categories: [AK, onesixth, ankou, CV1]
 release_date: 5/18/2011
 release_price: $160 USD
 scale: one sixth

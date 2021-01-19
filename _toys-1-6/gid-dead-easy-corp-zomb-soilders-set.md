@@ -46,3 +46,4 @@ event_exclusive:
 event_details: 
 source_doc: MW Wutasi - 3A spreadsheet - 01-15-2019
 ---
+"3x 1/6th scale, fully articulated figures which are the three soldier GID zombs, who knows what they look like, but they will be glowy bits! Also included GID Easy Corp Poster!" - Bambaland.com store description

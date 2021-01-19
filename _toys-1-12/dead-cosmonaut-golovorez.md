@@ -27,7 +27,7 @@ makers:
 points_of_articulation: 
 variants: 
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, barton_ltm]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios, barton_ltm, gar]
 toy_pics: 
   -  dead-cosmonaut-golorvorez_01-12-by_barton_ltm.jpg
   -  dead-cosmonaut-golovorez_01_12_by_lumpyheadstudios.jpg
@@ -35,6 +35,7 @@ toy_pics:
   -  dead-cosmonaut-golovorez_02_12_by_lumpyheadstudios.jpg
   -  dead-cosmonaut-golorvorez_03-12-by_barton_ltm.jpg
   -  dead-cosmonaut-golorvorez_04-12-by_barton_ltm.jpg
+  -  dead-cosmonaut-golovorez_01-6_by_gar_v1_via_instagram.jpg
 backstory: 
 sale_type: 
 event_exclusive: 

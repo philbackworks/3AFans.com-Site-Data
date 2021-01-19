@@ -5,7 +5,7 @@ toy_name: Bertie MK3B Deep Powder Corp
 permalink: /toys-1-12/bertie-mk3b-deep-powder-corp.html
 world: World War Robot portable
 world_abr: WWRp
-character_base: Robot
+character_base: Bertie MK3
 layout: layout-toy-detail
 categories: 
 tags: [action portable, ap] 

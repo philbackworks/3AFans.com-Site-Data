@@ -35,7 +35,7 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, lumpyheadstudios]
 toy_pics: 
   -  bambaboss-3rd-birthday-boss-3oss-01-6-by-lumpyheadstudios.jpg
-backstory: 
+backstory: This figure was allegedly available for 1 hour on bambaland.com!
 sale_type: 
 event_exclusive: 
 event_details: 

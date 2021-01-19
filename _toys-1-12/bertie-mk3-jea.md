@@ -22,8 +22,10 @@ makers: unknown
 points_of_articulation:
 variants:
 you_might_also_like:  
-article_contributors: [Phil Back]
+article_contributors: [Phil Back, Dexter Lacuanan]
 toy_pics:
+#   -  wwrp-jea-bertie-01-6_by_dexter_lacuanan-via-instagram.jpg
+  -  jea-bertie-mk3-wwrp-01-12_by_dexter_lacuanan-via-instagram.jpg
 backstory:
 faction: jea-marine
 portable: yes

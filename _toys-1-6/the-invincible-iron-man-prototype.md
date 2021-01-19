@@ -34,8 +34,13 @@ variants:
   -  The Invincible Ironman Milk Magazine Version
   -  The Invincible Iron Man Stark Hanger Set
 you_might_also_like: 
-article_contributors: [Phil Back, Don Slater, MW Wutasi]
+article_contributors: [Phil Back, Don Slater, MW Wutasi, zekerone]
 toy_pics: 
+  -  prototype-iron-man-3aa_01-6_by_zekerone-via-ebay.jpg
+  -  prototype-iron-man-3aa_02-6_by_zekerone-via-ebay.jpg
+  -  prototype-iron-man-3aa_03-6_by_zekerone-via-ebay.jpg
+  -  prototype-iron-man-3aa_04-6_by_zekerone-via-ebay.jpg
+  -  prototype-iron-man-3aa_05-6_by_zekerone-via-ebay.jpg
 backstory: 3AA, Bambaland Exclusive
 sale_type: 
 event_exclusive: 

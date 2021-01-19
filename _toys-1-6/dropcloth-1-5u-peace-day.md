@@ -1,7 +1,7 @@
 ---
 layout: layout-toy-detail 
 toy_id: dropcloth-1-5u-peace-day
-toy_name: Dropcloth 1.5U Peace Day
+toy_name: Dropcloth 1 5U Peace Day
 permalink: /toys-1-6/dropcloth-1-5u-peace-day.html
 world: World War Robot
 world_abr: WWR

@@ -4,7 +4,7 @@ toy_id: lasstranaut
 toy_name: Lasstranaut
 permalink: /toys-1-12/lasstranaut.html
 world: Popbot AP
-world_abr: 
+world_abr: POP
 character_base: 
 categories: 
 tags: [action portable, ap, space, girl, spacesuit] 

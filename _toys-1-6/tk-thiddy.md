@@ -34,8 +34,6 @@ you_might_also_like:
 article_contributors: [Phil Back, Don Slater, MW Wutasi, foreignparticle, szutsung]
 toy_pics: 
   -  tk-thiddy-red-hair-and-hammer-01-6-by-foreignparticle.jpg
-  -  tk-thiddy-hammer_01_6_by_foreignparticle.jpg
-  -  tk-thiddy-hammer_02_6_by_foreignparticle.jpg
   -  tk-thiddy-red-hair-hammer-01-6-by-foreignparticle.jpg
   -  thiddy_01-6_by_SZUTSUNG_via_instagram.jpg
 threea_toy_pics:

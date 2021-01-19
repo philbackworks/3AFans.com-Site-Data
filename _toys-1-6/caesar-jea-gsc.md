@@ -25,6 +25,20 @@ designer: Ashley Wood
 makers: 
 points_of_articulation: 
 variants: 
+  -  Caesar 666th CLINT E
+  -  Caesar Ap-pel Steve J
+  -  Caesar DEEP COMM
+  -  Caesar DIY LTD
+  -  Caesar DUTCH MERC
+  -  Caesar EMGY
+  -  Caesar Gravedigger
+  -  Caesar JUNGLER DBG
+  -  Caesar PRU Support
+  -  Caesar RIP 001
+  -  Caesar RIP 002
+  -  Caesar RIP 003
+  -  Caesar Rothchild Apostle
+  -  Caesar SURGEON G
 you_might_also_like: 
 article_contributors: [Phil Back, Don Slater, MW Wutasi, frutiger_]
 toy_pics: 

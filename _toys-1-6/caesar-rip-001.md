@@ -22,16 +22,20 @@ designer: Ashley Wood
 makers: unknown
 points_of_articulation:
 variants: 
-  -  Caesar RIP 002
-  -  Caesar Surgeon G
-  -  Caesar EMGY
-  -  Caesar PRU Support
-  -  Caesar Gravedigger
-  -  Caesar Jungler DBG
-  -  Caesar JEA GSC
   -  Caesar 666th CLINT E
-  -  Caesar Dutch Merc
-  -  Caesar Deep Com
+  -  Caesar Ap-pel Steve J
+  -  Caesar DEEP COMM
+  -  Caesar DIY LTD
+  -  Caesar DUTCH MERC
+  -  Caesar EMGY
+  -  Caesar Gravedigger
+  -  Caesar JEA GSC
+  -  Caesar JUNGLER DBG
+  -  Caesar PRU Support
+  -  Caesar RIP 002
+  -  Caesar RIP 003
+  -  Caesar Rothchild Apostle
+  -  Caesar SURGEON G
 you_might_also_like:
   -  Caesar RIP 002
   -  Caesar RIP 003

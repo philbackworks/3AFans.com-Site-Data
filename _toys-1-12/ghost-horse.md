@@ -4,7 +4,7 @@ toy_id: ghost-horse
 toy_name: Ghost Horse
 permalink: /toys-1-12/ghost-horse.html
 world: AP Popbot
-world_abr: 
+world_abr: POP
 character_base: 
 layout: layout-toy-detail
 categories: 
